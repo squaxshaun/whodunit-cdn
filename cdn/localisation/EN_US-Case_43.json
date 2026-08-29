@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_43_case_title",
+            "value": "UNEXPLAINED INCIDENTS"
+        },
+        {
+            "key": "Case_43_case_subtitle",
+            "value": "AN APPARENT SUICIDE ON A SECLUDED ISLAND LEAVES MORE QUESTIONS THAN ANSWERS"
+        },
+        {
+            "key": "Case_43_case_cover_bg",
+            "value": "UNEXPLAINED_INCIDENTS"
+        },
+        {
+            "key": "Case_43_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_43_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_43_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_43_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_43_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_43_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_43_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_43_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_43_daily_news_headline",
+            "value": "THE MYSTERY OF MAWLEY<br>ISLAND"
+        },
+        {
+            "key": "Case_43_daily_news_headline_image",
+            "value": "UNEXPLAINED_INCIDENTS"
+        },
+        {
+            "key": "Case_43_daily_news_page_1",
+            "value": "The small coastal town of Rillstow has seen its fair share of misfortune lately, starting a little over two months ago when a local resident of only 10 years old was tragically killed in a hit-and-run incident. Eight weeks on, a second local resident, Liam McGill (aged 58), has been found dead at his home on the secluded island of Mawley, located just offshore from Rillstow.\n\nAn initial statement made by the police was that the death appeared to be suicide, but that all lines of inquiry are being kept open while they investigate some suspicious circumstances. Such comments are like adding fuel to a flame in such a small community where gossip and rumors spread like wildfire. It is well known that Liam lived alone on Mawley Island, where the only means of getting there is via a small passenger ferry that runs on demand. His isolated and reclusive lifestyle was regarded by many as strange, which has led to a variety of extravagant theories behind his death, none of which I will give any weight to here. However, rumblings coming from within the investigation do suggest that there is more than meets the eye in this lonely death, but for now the mystery of what happened on Mawley Island is firmly in the hands of the police to solve.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_43_victim_name",
+            "value": "Liam McGill"
+        },
+        {
+            "key": "Case_43_victim_icon",
+            "value": "LiamMcGill"
+        },
+        {
+            "key": "Case_43_victim_age",
+            "value": "58"
+        },
+        {
+            "key": "Case_43_victim_cod",
+            "value": "Ballistic trauma"
+        },
+        {
+            "key": "Case_43_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim lived alone on Mawley Island in a secluded farmhouse. The only way to get to the island is via a small passenger ferry that runs on demand. The victim was last seen by the ferry's captain when he was dropped off on the island six weeks ago.\n\nOn 7th October, the victim's son travelled to Mawley Island to visit his father on his birthday. On entering the house, he found his father's lifeless body slumped against the desk in his study, with his own pistol in his right hand, appearing to have committed suicide.\n\nThe post-mortem has confirmed the cause of death was a bullet to the head from that weapon. However, the crime scene evidence suggests it was a murder made to look like suicide. Records confirm the victim was left-handed, making it unnatural for him to have shot himself with his right hand. Forensic experts have determined that he died in the kitchen and his body was subsequently moved into the position in which it was found at a later date, long after the time of death. Further results are still awaited from the lab regarding the precise time of death.\n\nThe ferry's captain confirms taking only three people to and from Mawley Island over the last six weeks, other than the victim himself and his son. These three individuals were brought in for questioning the day the body was found. All three claim not to have interacted with the victim during their visits to the island, despite reporting signs that he was at home, such as lights on in the house, curtains moving, and written notes left on the front door.\n\n<b>Discovery:</b>\nFound in his study by his son on 7 October. \n\n<b>Time of Death:</b>\n\nResults from the lab are expected imminently.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Three people visited Mawley Island between the victim last being seen six weeks ago and the son discovering his body.</indent>\n- <indent=8%>All three visitors claim to have seen evidence that the victim was at home during their visits but did not see him in person.</indent>\n\n<b>Further Details:</b>\n\nThe three visitors to the island are being treated as suspects and were brought in for questioning on the day the victim's body was discovered."
+        },
+        {
+            "key": "Case_43_suspect_1_name",
+            "value": "Poppy Woods"
+        },
+        {
+            "key": "Case_43_suspect_1_icon",
+            "value": "PoppyWoods"
+        },
+        {
+            "key": "Case_43_suspect_1_age",
+            "value": "52"
+        },
+        {
+            "key": "Case_43_suspect_1_occupation",
+            "value": "Victim's sister"
+        },
+        {
+            "key": "Case_43_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Liam McGill?</b>\n<b>A:</b> I’m his sister. He was known for being a bit of a recluse; he lived on his own out on the island and mostly kept to himself. People usually only saw him on his occasional trips into town to visit the pub. But when he did, it was always fun as he liked a drink. I saw him more frequently than that, though; I work at the post office, and I make the ferry trip to his house once a week to deliver his post. Usually I'd invite myself in for a cup of tea whilst I was there, but that had stopped recently. \n\n<b>Q: When did you last see Liam?</b>\n<b>A:</b> I last saw him in person at my granddaughter's funeral six weeks ago. She was only 10, and she was heartbreakingly killed in a hit-and-run; they never caught the driver. Despite his distance, Liam loved his family and was really affected by her death. The funeral was the last time anyone saw him. After that, he locked himself away at home. Like everyone, he was trying to process the grief. I continued to deliver his post weekly, but sadly he stopped answering the door to let me in. There were signs he was there, but he obviously didn't want to see anyone.\n\n<b>Q: What signs were there that he was there?</b>\n<b>A:</b> There would usually be a light on somewhere in the house, or the curtains would have moved between visits. I'm not the only person; others saw things too, like my cousin Kath, who delivered a food shop to his front door, which he subsequently took inside when no one was looking.\n\n<b>Q: How long did this go on for?</b>\n<b>A:</b> Right up until he was found on his birthday. Terrible news; he must be in an awful place mentally to shoot himself… I’m not sure this town can take much more bad news."
+        },
+        {
+            "key": "Case_43_suspect_2_name",
+            "value": "Kath Stone"
+        },
+        {
+            "key": "Case_43_suspect_2_icon",
+            "value": "KathStone"
+        },
+        {
+            "key": "Case_43_suspect_2_age",
+            "value": "40"
+        },
+        {
+            "key": "Case_43_suspect_2_occupation",
+            "value": "Victim's cousin"
+        },
+        {
+            "key": "Case_43_suspect_2_statement_page_1",
+            "value": "<b>Q: How well did you know Liam McGill?</b>\n<b>A:</b> I’m his cousin, so I knew him pretty well. I’d see him at least once a month to deliver his food out to the island. I work at the grocery store and would take his food across to him the same day every month. The arrangement had been in place for so long that we didn't even wait for his order anymore. Sometimes if he was in the mood, he’d invite me in for a sip of whiskey, which was great as he liked the good stuff.\n\n<b>Q: When did you last see him?</b>\n<b>A:</b> Well, I went to his house for the latest food delivery about four weeks ago. But I don't think he was in on that day. So the last time I actually saw him would have been at the funeral six weeks ago. Horrible situation; someone deserves to be punished for that.\n\n<b>Q: Why don't you think he was in when you made the food delivery?</b>\n<b>A:</b> For starters, when I arrived, the house looked empty. Then I found Liam's handwritten note addressed to me on the front door. It said, “Please leave your deliveries on the front step, Liam”. Why would he leave that if he was in the house? I left the food and didn't plan to return until the next delivery slot.\n\n<b>Q: Did you find the situation in any way suspicious?</b>\n<b>A:</b> A little yes, Liam knew our arrangement and would usually be there to receive the delivery. But the note was clear, and I had no reason to think any more of it. I'd already been warned by Poppy that Liam wasn’t being himself of late. She thought maybe he was having a tough time processing the recent death and didn't want to speak to anyone."
+        },
+        {
+            "key": "Case_43_suspect_3_name",
+            "value": "Tom Steele"
+        },
+        {
+            "key": "Case_43_suspect_3_icon",
+            "value": "TomSteele"
+        },
+        {
+            "key": "Case_43_suspect_3_age",
+            "value": "57"
+        },
+        {
+            "key": "Case_43_suspect_3_occupation",
+            "value": "Victim's friend"
+        },
+        {
+            "key": "Case_43_suspect_3_statement_page_1",
+            "value": "<b>Q: How well did you know Liam McGill?</b>\n<b>A:</b> We were at school together a long time ago and have been friends for years. These days, I only catch up with him once in a while when he makes the trip over to the pub. Always fun when we did see each other, though; we enjoyed wetting our whistles and putting the world to rights. He's become less sociable lately, choosing to spend most of his time out in that cold, isolated farmhouse of his.\n\n<b>Q: When did you last see Liam?</b>\n<b>A:</b> The last time I saw him was at that poor girl's funeral. He was distraught. I'd never seen him like that before. I went to his house about three weeks ago, but I didn't see him.\n\n<b>Q: Why did you go to Liam's house?</b>\n<b>A:</b> I've been doing his plumbing for the last 30 years, and it was time for his annual boiler service. I hadn't heard from him, but since it was in the calendar as a reminder, I thought it was a good excuse to check on him, especially after seeing him at the funeral. When I got there, he'd left me a note on the front door telling me he wasn't in and that I should come back next month, which was strange, but there was nothing I could do about it.\n\n<b>Q: Did you see anything suspicious while you were there?</b>\n<b>A:</b> I didn't want it to be a wasted trip, so I called for Liam and peered into some of the windows to double-check he wasn't there. As I did, I could see a food delivery still in its bags piled up on the inside of the front door, which made me wonder if Liam was in there hiding from me. But he never responded, so eventually I gave up and left."
+        },
+        {
+            "key": "Case_43_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_43_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>We know the victim has been dead for at least four weeks. Tom Steele visited the island for the first and only time 3 weeks ago. He could not have been the murderer. This leaves Kath and Poppy as the suspects. Both of whom went to the victim's house on the island during the estimated time of death.</indent>\n\n- <indent=8%>The police report tells us that the victim was killed, and then the body was moved at a later date to make it look like a suicide. Of the two remaining suspects, Poppy was the only one to visit the island more than once because of her weekly post deliveries. Meaning Poppy is the only person who had the opportunity to both carry out the murder and then return at a later date to move the body.</indent>\n\n- <indent=8%>Poppy being the killer is supported by the fact that she references the victim shooting himself in the head. Considering she claims to have not been into the house or seen the victim, this is classified information she would not be aware of unless she had been onto the crime scene.</indent>\n\n- <indent=8%>We know the victim had been dead for between 4 and 5 weeks; despite this, Poppy refers to signs of the victim being alive in the house, such as lights being on, curtains moving and a food delivery being moved inside. She is the only suspect to do this; the others only reference a note being left on the front door. A logical explanation for Poppy making this all up and fuelling rumours of the victim being alive is to hide the fact that she had killed him and didn't want him being discovered yet.</indent>"
+        },
+        {
+            "key": "Case_43_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nAfter the funeral, we were all upset, but I continued to visit Liam’s house once a week to deliver his post. I could see that he was badly affected by the death and was a mess mentally. I even found a gun out on his desk, and it looked like he had been considering suicide. I was shocked! I was concerned and pressured him into opening up to me about how he was feeling. Eventually he broke down in tears and admitted to being the driver who hit my granddaughter. Apparently, after a heavy session in the pub, he had borrowed a friend's car and gone for a joyride. I couldn't believe what he was saying at first, but then when it sank in I became filled with rage. All the family's pain and suffering was because of his stupid actions. I grabbed the gun and shot him there and then.\n\nAfter I had done it and the adrenaline had worn off, I started to panic. I didn't want to go to prison. I knew he was isolated out there and didn't see many people, so I decided to buy myself some time. I used his calendar to see when he was expecting visitors and put notes on the front door to deter them. I also spread rumours in town that he was acting strangely and didn’t want to see people. The first note was one I found in his kitchen, which he’d already written. I made use of that for Kath's food delivery, which she duly left on the front step and I took inside the next week I visited. For his friend Tom’s visit, I had to write a new note that was more relevant in order to send him away.  To support these notes, I also started telling people in town that Liam wasn’t answering his door to me and was acting strangely, but that I could see lights on and curtains moving in his house. After several more visits and deliberating what to do with his body, an obvious solution came to mind. I’d already told people over several weeks that he was upset and acting strangely, so his committing suicide was believable. In my defence, he was going to do it anyway; I just sped up the process."
+        }
+    ]
+}

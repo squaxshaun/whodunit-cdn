@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_48_case_title",
+            "value": "THE TREE OF DEATH"
+        },
+        {
+            "key": "Case_48_case_subtitle",
+            "value": "An activist is found murdered during a high-profile deforestation protest."
+        },
+        {
+            "key": "Case_48_case_cover_bg",
+            "value": "THE_TREE_OF_DEATH"
+        },
+        {
+            "key": "Case_48_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_48_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_48_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_48_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_48_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_48_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_48_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_48_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_48_daily_news_headline",
+            "value": "ACTIVIST FALLS TO HER<br>DEATH IN MYSTERIOUS<br>CIRCUMSTANCES"
+        },
+        {
+            "key": "Case_48_daily_news_headline_image",
+            "value": "THE_TREE_OF_DEATH"
+        },
+        {
+            "key": "Case_48_daily_news_page_1",
+            "value": "Sometime on Friday night, social media influencer and activist Daisy Green (aged 23) was found dead at Kalybell Forest, where she had been protesting against the deforestation and corporate development taking place there.\n\nIn a bid to disrupt what she referred to as “the pointless destruction of a thriving ecosystem”, several activists led by Daisy isolated themselves in the forest trees, bringing all the live development plans to a grinding halt. The delays have reportedly cost the development company, which, to be clear, was legitimately granted permission by the relevant commissions to carry out the work - millions of dollars already.\n\nAccording to Daisy, who had been posting content daily on her social media account ‘The Tree of Life’, she and her fellow activists knew the development plans and got ahead of them by building themselves platforms up in the tops of the tallest trees, from which to live for as long as the protest lasted. With months' worth of supplies and a stubborn mindset, they were set to be there for the long haul. Or so they thought. On Saturday morning, Daisy’s body was discovered at the base of her tree, having fallen from the platform above she had called home for the last three weeks.\n\nConsidering the context, Daisy's death is highly controversial and a complete mystery. My sources on the ground suggest that at these initial stages of the investigation, the police are unable to see the forest for the trees as they struggle to piece together the evidence. Did Daisy accidentally fall? Was she forced out of the tree? Or did she make the ultimate sacrifice for her cause?!\n\nWhatever happened, it seems to have worked out nicely for Team Development, as without Daisy courageously leading them, all the other activists gave up the protest within hours of her death.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_48_victim_name",
+            "value": "Daisy Green"
+        },
+        {
+            "key": "Case_48_victim_icon",
+            "value": "DaisyGreen"
+        },
+        {
+            "key": "Case_48_victim_age",
+            "value": "23"
+        },
+        {
+            "key": "Case_48_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_48_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nEarly on Wednesday morning, the victim's body was found at the base of the tree she had been inhabiting, directly beneath her platform, which sat 40ft above. \n\nThe postmortem findings confirm the victim died instantly from the injuries sustained by the fall. Nothing else was picked up in the pathologist's initial report, which suggests there was nothing wrong with the victim prior to her fall, currently leaving the cause of her fall unknown. \n\nTo ensure they knew when all the activists had safely come down from their positions, the authorities had placed sensors around the base of all the inhabited trees. It’s been confirmed that none of these sensors had been triggered in the several weeks the activist had been in position, confirming that the victim was alone in her treetop when she fell to her death. \n\nNone of the victim’s fellow activists in nearby treetops heard anything that night to draw their attention to her fall.\n\nThe workforce brought in to deforest the area and start the development project were on hold due to the protest, and were living in temporary accommodation less than 50 meters from the scene of death.   \n\n<b>Discovery:</b>\n\nThe victim's body was noticed at 7 a.m on Wednesday by another activist positioned in a tree nearby. They realized the victim wasn't on her platform as usual and, on scanning the ground below, they saw the victim and screamed to alert people.\n\n<b>Time of Death:</b>\n\nThe victim was wearing a fitness tracker on her wrist to monitor her health during the protest. The data from this shows her heart stopping at 11:17 p.m.  \n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The camera that the victim was known to be using from her tree platform to film content is missing. It was not found on her person, nor up in the tree.</indent>\n\n<b>Further Details:</b>\n\nDue to the victim's camera being missing, it is suspected that another person was involved with the death, or at least tampering with the scene. Three people have been brought in for questioning, all of whom were within close proximity to the scene when the body was discovered. "
+        },
+        {
+            "key": "Case_48_suspect_1_name",
+            "value": "Tony Hayes"
+        },
+        {
+            "key": "Case_48_suspect_1_icon",
+            "value": "TonyHayes"
+        },
+        {
+            "key": "Case_48_suspect_1_age",
+            "value": "42"
+        },
+        {
+            "key": "Case_48_suspect_1_occupation",
+            "value": "Tree logger"
+        },
+        {
+            "key": "Case_48_suspect_1_statement_page_1",
+            "value": "<b>Q: What do you know about Daisy Green?</b>\n<b>A:</b> That she was a treehugger. She and her friends lived in trees and stopped us from getting on with our jobs. Disgusting really; I don't understand how they were washing themselves up there, let alone going to the toilet! \n\n<b>Q: How was the protest impacting you personally?</b>\n<b>A:</b> It was awful; I’ve spent the last three weeks sitting around waiting. I know it doesn't sound that bad, but I like to keep busy; I like working. Lounging around, bored out of my mind, while only being paid half wages, was driving me mad! Especially when I could be at home with the kids. If Daisy didn't come down when she did. I'd probably be on my way home by now.\n\n<b>Q: Are you aware of what happened to Daisy?</b>\n<b>A:</b> Yeah, I saw it for myself! The body, I mean.\n\n<b>Q: You went to the scene of her death?</b>\n<b>A:</b> Yeah. Our accommodation is right next to where they were protesting, and we heard her friend screaming from a tree early Saturday morning when they found Daisy’s body. A group of us went out to take a look; it wasn't pretty. Woody, the project manager, was with us. He made us stay back from the body and the tree until the authorities arrived. He said it would look bad on the company if we had our prints all over the scene of her death, which made sense, I guess.\n\n<b>Q: Did you see any sign of the victim’s video camera at the scene?</b>\n<b>A:</b> No, nothing like that. It was just her lying there in the dirt.\n\n<b>Q: What were you doing on Friday night?</b>\n<b>A:</b> We had a bit of a last-minute party. Woody came over to the accommodation and brought some food and drink in for the guys. He was basically giving us a green light to have some fun. It was a good way to release some of the tension built up from the last few weeks of the protest.\n\n<b>Q: What did the party involve?</b>\n<b>A:</b> Nothing crazy; we all sat together at a large table having a laugh and playing games most of the evening. But by midnight, people split up; some played more games, some danced to music, while others just talked by the fire.\n\n<b>Q: What time did the party finish? </b>\n<b>A:</b> Different times for everyone. For example, Woody, being the classic corporate type, couldn't hold his beer and was the first to call it a night. After trying to leave in his car, he realized he was well over the limit and came back, only to fall asleep at the table in front of everyone by 11:30 p.m. Embarrassing really, considering he was in charge. I finished quite late, which made the 6:30 a.m. text to be on standby to work the next day a bit of a shock. But mostly I was just relieved that something was happening. In reality, we didn't start work until that afternoon when all the other activists came down from their trees, but believe me, we were ready to go when they did."
+        },
+        {
+            "key": "Case_48_suspect_2_name",
+            "value": "Woody Hammond"
+        },
+        {
+            "key": "Case_48_suspect_2_icon",
+            "value": "WoodyHammond"
+        },
+        {
+            "key": "Case_48_suspect_2_age",
+            "value": "44"
+        },
+        {
+            "key": "Case_48_suspect_2_occupation",
+            "value": "Commercial developer"
+        },
+        {
+            "key": "Case_48_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Daisy Green?</b>\n<b>A:</b> We never actually met face-to-face; all I knew about her was that she liked filming herself being the martyr and was costing us a lot of money. Her ridiculous ‘Tree of Life’ account on social media was the bane of my life; the more she posted, the more things got worse for me.\n\n<b>Q: How did you feel about her protest?</b>\n<b>A:</b> I understand how her actions could be conceived as noble, but personally I was extremely frustrated. I was under a lot of pressure from all angles. I had investors and stakeholders in the project wanting to know why they were losing so much money and threatening to pull out, and then I had the workforce on the ground who were fed up with waiting around and losing morale quickly. To be completely honest with you, her dropping out of that tree was the best news I’d received in months.  \n\n<b>Q: A lot of people supported what she was doing to save the local ecosystem.</b>\n<b>A:</b> Oh, don’t talk to me about the ecosystem. My wife is a wildlife manager. Do you really think we would still be married if I were going around destroying the environment? The headlines are twisting things and making our project out to be far worse than it is. To be granted permission to carry out this development, we had to have all sorts of studies and reports carried out to show our impact on the ecosystem would be minimal and that we would counter any negative impact with positive contributions. For example, for every tree we remove, we are planting 100 new ones elsewhere, and that's just the start.  \n\n<b>Q: What were you doing on Friday night?</b>\n<b>A:</b> I spent the evening at the temporary accommodation we put up for the workforce. Apparently they were getting fed up with things and were considering pulling out of the contract, which would have been a disaster. I didn't blame them, but it's not like we could send them home; we needed them there to start work in case the protest ended suddenly. I went over that night to try and boost morale. I gave a motivational talk and then arranged for takeout and drinks for everyone… which seemed to work. We sat at a big table together and had a lot of fun. In fact, it turned into a heavy night for some of us.\n\n<b>Q: When did you leave the accommodation?</b>\n<b>A:</b> I ended up staying the night. I did try to leave, but when I got into the car to go, I realized I’d had too much to drink. So I went back in and found somewhere to sleep for the night, which turned out to be a chair. The others gave me a lot of grief for that.  Apparently they carried on partying until the early hours around me! \n\n<b>Q: When did you find out about Daisy’s death?</b>\n<b>A:</b> The next morning. I woke up to the sound of one of the activists screaming from their tree. A few of us from the accommodation went over to see what was going on and found her body.\n\n<b>Q: How did you react?</b>\n<b>A:</b> To be brutally honest, my first reaction was to text the workforce to be on standby to start work that day. When I realized it was their leader, Daisy, I knew the others wouldn't last long without her."
+        },
+        {
+            "key": "Case_48_suspect_3_name",
+            "value": "Heather Carse"
+        },
+        {
+            "key": "Case_48_suspect_3_icon",
+            "value": "HeatherCarse"
+        },
+        {
+            "key": "Case_48_suspect_3_age",
+            "value": "24"
+        },
+        {
+            "key": "Case_48_suspect_3_occupation",
+            "value": "Fellow activist"
+        },
+        {
+            "key": "Case_48_suspect_3_statement_page_1",
+            "value": "<b>Q: Tell me about your relationship with Daisy Green?</b>\n<b>A:</b> We met at veterinary college two years ago, and had a lot in common in terms of our passion for animals and natural habitats, and our ambitions to improve the world we live in. After college, I went on to qualify, but she went straight into campaigning for change, which then turned into all-out protests. I was inspired by her and have joined her protests on several occasions, whenever I can. I wouldn't say Daisy and I were friends; more like colleagues who worked together to achieve a common goal. We only ever hung out whilst protesting. \n\n<b>Q: How was the protest going for you personally?</b>\n<b>A:</b> It’s been tough but rewarding. We were causing a lot of disruption, getting a lot of attention from the public and generally creating awareness. But I'd be lying if I didn't say I was relieved when I came down from that tree. Three weeks is a long time to live like that; eating dried rations and washing with wet wipes got old real quick. When Daisy died, the last of my motivation went, and I was ready to go home.\n\n<b>Q: Can you talk us through how you discovered Daisy had fallen?</b>\n<b>A:</b> Sure. I was positioned in a tree not far from Daisy’s, about 30ft, so obviously not close enough to cross platforms, but we were able to see each other and communicate. I woke up around 7 a.m. as usual, and when I glanced over to see if Daisy was up yet, I noticed she wasn't on her platform. Every day for the last three weeks I'd look over, and she’d be there; then suddenly she was gone. It just felt wrong; that’s when I scanned the ground below and saw what I was sure was her body lying there. \n\n<b>Q: What did you do then?</b>\n<b>A:</b> I screamed for help. I could see the workers' accommodation from my tree, so I screamed to get their attention. Eventually some of them came out and called the police. I could tell they were surprised, but not upset, by the scene. At least they had the sense to stay away from her until the authorities arrived.\n\n<b>Q: Did you consider going down yourself?</b>\n<b>A:</b> No, I was scared to. I didn't know how Daisy had fallen, and suddenly I was feeling vulnerable high up in this tree. I asked myself if I was willing to die for this cause? And the answer was no. When the police arrived to deal with the scene, I asked them for help to get me down; it wasn't worth it! They then said they needed to search all my stuff in case there was anything that might link me to her death, which was unexpected as I’d assumed that she had just fallen until then.\n\n<b>Q: That’s just standard procedure. They would have been looking for something like her video camera. Do you know where Daisy kept that?</b>\n<b>A:</b> It was almost always on her; she had one of those small action cameras strapped around her neck. \n\n<b>Q: What were you doing on Friday night?</b>\n<b>A:</b> I was in my tree, same as every night, although it was a little different because I could hear a party going on in the workers' accommodation. Must admit it did make me think about all the things I was missing out on. That night was actually my birthday, and it was the first time ever that I hadn't celebrated it with my twin sister."
+        },
+        {
+            "key": "Case_48_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_48_case_newevidence",
+            "value": "Boss, \n\nI have a significant update regarding the cause of death. Due to the lack of information gathered from the initial autopsy, further toxicology testing was carried out. The results of which have revealed Xylazine in the victim’s system. This is a substance that is approved for veterinary use only, and is an animal tranquiliser used to sedate or provide pain relief. If used on humans, there are severe health risks involved. This discovery led to another thorough look at the victim's body. This time around, a pin prick the size of a dart point was found in between two of the victim's fingers. Had it been in a more obvious location, it would have been picked up sooner. The toxicologist's report establishes that the victim was hit in the hand by a tranquiliser dart only a few minutes before they fell, and that the side effects would have included almost immediate onset of blurred vision and dizziness. Looks like we know what caused the victim to fall.\n\nThe day the body was discovered, a thorough search was conducted of the workers' accommodation and the inhabited tree platforms. The search team was specifically instructed to look for the victim’s camera and anything else suspicious. There were no signs of tranquiliser darts or a gun anywhere. \n\nDetective Wood"
+        },
+        {
+            "key": "Case_48_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>We learn that the victim was hit with an animal tranquiliser a few minutes before she fell from the tree, and died at 11:17 p.m. Whoever fired the dart required access to the chemical agents, which can only be prescribed and used by licensed veterinarians or other similar professionals who work with animals. They also required the opportunity to shoot the dart into the tree, and access to the victim's body after their fall to remove the dart, as no such evidence was found at the scene of the crime.</indent>\n\n- <indent=8%>We learn that <b>Heather<b> is a qualified vet and would have access to animal tranquilisers. She was also up in her tree all night with a clear line of sight to the victim. However, we also know that her tree had a sensor at its base for detecting activity going up or down the tree. Considering the police report tells us this had never been triggered, she would not have been able to climb down and retrieve the dart from the victim's body after their fall. The fact that the police were the ones to help Heather get down from her platform before searching her things for anything suspicious supports the fact that she didn't have a tranquilliser gun up in the tree with her.</indent>\n\n- <indent=8%>There is nothing to suggest that <b>Tony<b> could have sourced animal tranquiliser, especially as we know his accommodation was searched by the police the next day for anything suspicious. Even if he were able to source it, he had an alibi for the time period when the tranquiliser was shot and for when the victim fell minutes later - he was sat at a table playing party games with his colleagues until midnight.</indent>\n\n- <indent=8%><b>Woody<b>, on the other hand, does not have a clear alibi for this time period. We learn that shortly before he fell asleep in front of everyone, at around 11:30 p.m., he went out to his car and attempted to leave before changing his mind. He had the opportunity at this moment to have shot a tranquiliser and retrieve the dart without being seen, and the timings align with the time of death.</indent>\n\n- <indent=8%><b>Woody<b> being the shooter is supported by his ability to source animal tranquiliser. We learn in the interviews that Woody’s wife is a wildlife manager, a profession that can easily access and regularly uses such chemical agents.</indent>\n\n- <indent=8%><b>Woody<b> incriminates himself when he sends a text to his workforce at 6:30 a.m. telling them to be on standby to start work that day. He tells us he did this after finding out about the victim's death. However, according to the police report and all the interviews, the victim's body wasn't discovered until 7 a.m., meaning Woody knew about the victim's death before the body was even found.</indent>"
+        },
+        {
+            "key": "Case_48_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI'd been with the workers all evening, eating food and having a few drinks. Unsurprisingly, the drink got everyone talking openly, and a lot of the chat was about the activists in the trees and the negative impact they were having on everyone's lives. On leaving the accommodation, my initial plan was to drive home, but when I got to the car I realized that was over the limit. While I was there, I also noticed one of my wife's tranquiliser guns in the trunk. I could see the trees nearby where the activists were and noticed some movement at the top of one. I was a little drunk and angry at them for making my life so stressful, so I decided to take some pot shots.   \n\nI didn't think I'd actually hit anything. I fired a few shots into the darkness, then gave up, but a few seconds after that I heard a dull thump. I could see immediately that someone had fallen. I immediately ran over and saw Daisy on the floor. She was clearly dead, and there was a dart sticking out of her hand, and her camera was beside her. I grabbed the dart because I knew it could be traced back to me, and then I took her camera too, as I wasn't sure what she had been filming and whether it might be incriminating for me. I hid them in the trunk of my car with the spare tyre where nobody looks, and that's where they still are. I panicked after that and went back into the party to try and build an alibi by being seen, and ended up staying the night, which I didn't mind because it had occurred to me that, with Daisy out of the way, there was a real chance work would be commencing the next day. That's why I sent out the standby text to the guys. Looks like I was a little premature with that. "
+        }
+    ]
+}

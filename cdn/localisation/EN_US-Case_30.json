@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_30_case_title",
+            "value": "SLEEPING WITH THE PENGUINS"
+        },
+        {
+            "key": "Case_30_case_subtitle",
+            "value": "There is pandemonium in the penguin enclosure when a zookeeper’s lifeless body is discovered."
+        },
+        {
+            "key": "Case_30_case_cover_bg",
+            "value": "SLEEPING_WITH_THE_PENGUINS"
+        },
+        {
+            "key": "Case_30_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_30_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_30_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_30_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_30_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_30_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_30_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_30_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_30_daily_news_headline",
+            "value": "PANDEMONIUM<br>AT THE PENGUIN<br>ENCLOSURE"
+        },
+        {
+            "key": "Case_30_daily_news_headline_image",
+            "value": "SLEEPING_WITH_THE_PENGUINS"
+        },
+        {
+            "key": "Case_30_daily_news_page_1",
+            "value": "Early bird ticket holders entering the zoo on Thursday morning were left in shock when they came across a murder scene in the penguin enclosure. Expecting to see the zoo's most popular residents rise for their breakfast, the visitors instead found the lifeless body of zookeeper Zoe Zimmer (28) floating in the penguin pool.\n\nThe death comes at a time when the zoo has come under scrutiny from several activist groups, with multiple break-ins reported in the last few months. The zoo's public relations team is not willing to make any comments regarding the death at this time.\n\nWhile the Police continue with their investigations, it remains unclear whether the penguins themselves are being looked at. There are examples of penguins in zoos flipping out and going on killing rampages against each other. Still, the murder of a human would be a world first. \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_30_victim_name",
+            "value": "Zoe Zimmer"
+        },
+        {
+            "key": "Case_30_victim_icon",
+            "value": "ZoeZimmer"
+        },
+        {
+            "key": "Case_30_victim_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_30_victim_cod",
+            "value": "Respiratory failure"
+        },
+        {
+            "key": "Case_30_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was shot with a fatal dose of elephant tranquilizer. The dart was found in the victim's back. In large doses, the tranquilizer can severely depress the central nervous system, leading to reduced breathing and ultimately causing death.\n\n<b>Discovery:</b>\n\nThe victim was discovered at approximately 9:03 a.m. by members of the public.\n\n<b>Time of Death:</b>\n\nEstimated between 8:00 p.m. and 9:00 p.m. on Wednesday.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Dart containing elephant tranquilizer found in the victim's back.</indent>\n- <indent=8%>Tranquilizer and dart identified as standard issue used by the zoo's veterinarians.</indent>\n- <indent=8%>Scene suggests the victim was unaware of the killer's presence.</indent>\n\n<b>Further Details:</b>\n\nThree suspects who were near the penguin enclosure that evening are currently being investigated."
+        },
+        {
+            "key": "Case_30_suspect_1_name",
+            "value": "Andy Aldridge"
+        },
+        {
+            "key": "Case_30_suspect_1_icon",
+            "value": "AndyAldridge"
+        },
+        {
+            "key": "Case_30_suspect_1_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_30_suspect_1_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_30_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Zoe Zimmer?</b>\n<b>A:</b> We had never met, so I didn't know her personally; however, I knew of her. I researched everyone who works at the zoo, hoping it would aid my mission to shut it down. Animals shouldn't be in captivity.\n\n<b>Q: You were caught sneaking around the zoo after closing hours on the night of the victim's death. Why?</b>\n<b>A:</b> I was investigating the zoo, trying to gather any evidence I could that would allow me to report the zoo to the authorities. I had heard from a fellow activist that some of the animals were showing signs of mistreatment, and Zoe Zimmer was one of our key suspects. Evidence of that would have been perfect, so I snuck in to watch her for a while. Frustratingly, I was caught before I could gather any useful evidence. I was then held at the zoo's security office for a couple of hours before the police eventually came and arrested me at 10:00 p.m.\n\n<b>Q: Why were elephant tranquilizer darts found in your bag when you were caught?</b>\n<b>A:</b> As I was sneaking around, I happened to see the door to the veterinarian's office open. So I went in looking for incriminating evidence and came across them in a medical bag. Stealing them was not why I had broken into the zoo. Still, tranquilizers are not natural, and I don't believe in their use on animals, so it was an opportunity too good to miss.\n\n<b>Q: Did you see anything out of the ordinary while in the zoo that evening?</b>\n<b>A:</b> Yes, shortly before 8:00 p.m., I saw the zoo's PR Manager, Paula Pringle, entering the penguin enclosure and exchanging what looked like very serious and heated words with Zoe. I didn't see it all because that's when I got caught."
+        },
+        {
+            "key": "Case_30_suspect_2_name",
+            "value": "Vicky Vance"
+        },
+        {
+            "key": "Case_30_suspect_2_icon",
+            "value": "VickyVance"
+        },
+        {
+            "key": "Case_30_suspect_2_age",
+            "value": "40"
+        },
+        {
+            "key": "Case_30_suspect_2_occupation",
+            "value": "Victim's colleague"
+        },
+        {
+            "key": "Case_30_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Zoe Zimmer?</b>\n<b>A:</b> We've worked together for several years. She wasn't the most diligent zookeeper I've ever met, but she worked hard and always came across as a kind, caring person. I am honestly surprised that she was involved in something like this.\n\n<b>Q: Where were you between 8:00 and 9:00 p.m. on Wednesday?</b>\n<b>A:</b> I was at the alpaca enclosure until late, dealing with an unwell animal. I finished up around 8:30 p.m., then headed back to my office before going home for the night. I passed the penguin enclosure on my way and remember seeing Zoe busy in there. But I didn't stop; I'd had a long day by then, and I hadn't even had time to return to the office and drop off my gear after assisting with an elephant birth that morning.\n\n<b>Q: Were you aware of any mistreatment of animals at the zoo?</b>\n<b>A:</b> Yes, I suspected it for a while. I had noticed a change in some of the animals' behavior and picked up on some unusual injuries. I informed a couple of people of my concerns. I quietly investigated the issue to avoid alerting the culprit that I was onto them.\n\n<b>Q: Who at the zoo has access to the animal tranquilizers?</b>\n<b>A:</b> Only the zoo's vets have the authority to use tranquilizers, but we don't carry them often, only for security when we deal with large mammals. Anyone who works at the zoo would know that we keep them in our office, and it's rarely locked."
+        },
+        {
+            "key": "Case_30_suspect_3_name",
+            "value": "Paula Pringle"
+        },
+        {
+            "key": "Case_30_suspect_3_icon",
+            "value": "PaulaPringle"
+        },
+        {
+            "key": "Case_30_suspect_3_age",
+            "value": "38"
+        },
+        {
+            "key": "Case_30_suspect_3_occupation",
+            "value": "Victim's colleague"
+        },
+        {
+            "key": "Case_30_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Zoe Zimmer?</b>\n<b>A:</b> We both worked at the zoo, but I manage the Public Relations office, so we didn't cross paths very often.\n\n<b>Q: You were seen that evening having a heated exchange with the victim at the scene of the crime. What was that about?</b>\n<b>A:</b> It had come to light that one of our staff was mistreating the animals. I had no hard proof, but I had it from a trusted source that it was Zoe. Obviously, it's a highly sensitive matter and had to be dealt with delicately to ensure animal welfare didn't get involved. The press or those activists would have a field day if they did! Shortly before 8:00, I went down to tell Zoe in person that I knew what she was up to. But that was as far as we got; our discussion was cut short by a message from security saying they had caught someone who'd broken into the zoo.\n\n<b>Q: How did Zoe react to you accusing her?</b>\n<b>A:</b> She denied it, but her face gave her away, like she was surprised that someone had found out. I knew then that the issue was serious and needed to be dealt with urgently.\n\n<b>Q: Where were you between 8:00 and 9:00 p.m. that evening?</b>\n<b>A:</b> I was dealing with the break-in I just mentioned. An activist had broken onto the premises and was sneaking around with a video camera. Knowing what I did, I could not let them leave with any evidence. So I assisted the security team in dealing with them properly. My efforts were pointless. Now someone has died, and the press will be all over this place like a swarm of bees. At least the death of an employee sounds less damaging to our reputation than the mistreatment of helpless animals."
+        },
+        {
+            "key": "Case_30_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_30_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The estimated time of death is between 8 p.m. and 9 p.m. Both Andy and Paula last saw the victim shortly before 8 p.m. After this, Andy was caught and detained in the security office until the police arrived at 10 p.m., and Paula was assisting in his detainment to ensure it was handled properly. Therefore, Vicky's claim that she saw the victim alive at 8:30 p.m. when she passed the penguin enclosure provides both Andy and Paula with alibis.</indent>\n\n- <indent=8%>The police report states that the murder weapon was an elephant tranquilizer gun. Vicky had been in the elephant enclosure that morning, where she would have been in possession of one. She also tells us that she was so busy that day she hadn't had time to return to her office and drop off her gear, meaning she would still have been carrying the tranquilizer gun later that evening when she admits to passing the penguin enclosure and seeing the victim alive at 8:30 p.m.</indent>"
+        },
+        {
+            "key": "Case_30_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI was on my way back to my office after a ridiculously long day. I was still carrying the tranquilizer gun from the elephant birth that morning when I passed the penguin enclosure and saw Zoe in there working. She had no idea I was watching. Moments later, I saw her snap and lose her temper with the penguins; she became instantly nasty and aggressive towards them, a side of her I'd never seen before.\n\nThat's when I realized she must have been the culprit behind all the other mistreatment going on around the zoo. It made me angry to think about how the animals must have felt. That's when my instincts kicked in. Before I knew it, my gun was pointing at her, and I fired. She stumbled around for a moment, then collapsed into the pond.\n\nI know what I did was wrong, but my conscience is clear. What she was doing to the animals was disgusting."
+        }
+    ]
+}

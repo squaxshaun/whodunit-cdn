@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_47_case_title",
+            "value": "THE MILE HIGH MURDER"
+        },
+        {
+            "key": "Case_47_case_subtitle",
+            "value": "A business class passenger is murdered in their seat during an overnight flight."
+        },
+        {
+            "key": "Case_47_case_cover_bg",
+            "value": "THE_MILE_HIGH_MURDER"
+        },
+        {
+            "key": "Case_47_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_47_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_47_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_47_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_47_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_47_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_47_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_47_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_47_daily_news_headline",
+            "value": "DEATH ON FLIGHT<br>MK91J"
+        },
+        {
+            "key": "Case_47_daily_news_headline_image",
+            "value": "THE_MILE_HIGH_MURDER"
+        },
+        {
+            "key": "Case_47_daily_news_page_1",
+            "value": "Cabin crew on the red-eye flight out of Klatemoor issued a Code 3000 (discreet phrase used to acknowledge the death of a passenger) just minutes out from landing. The victim, Hayden Clarke (aged 57), travelling in business class, was believed by flight attendants to have been sleeping. It was only when he proved unresponsive to requests to prepare for landing that it was discovered he had died.  \n\nUpon landing, passengers were forced to wait on board while Mr Clarke’s body was dealt with. Standard procedure then saw the plane sidelined for a forensics team to conduct analysis of the scene. The results of the initial investigation have led to the police making a statement that they are dealing with foul play. \n\nWe’ve all wondered whether inflight entertainment is different in business class; it turns out on flight MK91J it’s murder! \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_47_victim_name",
+            "value": "Hayden Clarke"
+        },
+        {
+            "key": "Case_47_victim_icon",
+            "value": "HaydenClarke"
+        },
+        {
+            "key": "Case_47_victim_age",
+            "value": "57"
+        },
+        {
+            "key": "Case_47_victim_cod",
+            "value": "Drug overdose"
+        },
+        {
+            "key": "Case_47_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe overnight flight took off at midnight and landed at Werphia City Airport at 6 a.m. The victim's family confirmed he had been working on an important business bid and was travelling to the city for a related meeting first thing that morning.  \n\nThe victim was travelling in Business Class with one other passenger, and was catered to by a designated flight attendant. After being served some alcohol at the start of the flight, the victim was seen by the attendant to take medication before going to sleep for the duration. Cameras in the cockpit show the pilots never left this section of the plane, meaning the only other person to enter the business cabin during the flight was an economy passenger who was caught using the business class restroom.   \n\nThe pathologist's initial report has determined the cause of death as drug overdose. Found in the victim's system was a dose of the victim's prescribed sleeping pills (extra strength), and large quantities of a different ‘over-the-counter’ sleeping pill, which, when combined, had a lethal effect.   \n\n<b>Discovery:</b>\n\nHaving asked the victim to prepare for landing several times and getting no response, the flight attendant realised the victim had died and reported a code 3000 to her colleagues.\n\n<b>Time of Death:</b>\n\nLast seen alive when the flight attendant served them a drink after take-off at approximately 12:15 a.m. The victim's smartwatch shows their heart rate dropping to zero at  06:21 a.m., which has been determined as the time of death. \n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Discovered in the victim's stomach were the remains of the flight's business class breakfast.</indent>\n- <indent=8%>A pack of the victim's prescription sleeping pills was found on his person, from which only a couple have been removed.</indent>\n- <indent=8%>An empty container of a different sleeping medication was found in the waste bin of the business class restroom. These match the other ones discovered within the victim's system.</indent>\n\n<b>Further Details:</b>\n\nThe three people other than the victim who entered the business class cabin during the flight have been brought in for questioning."
+        },
+        {
+            "key": "Case_47_suspect_1_name",
+            "value": "Jason Pringle"
+        },
+        {
+            "key": "Case_47_suspect_1_icon",
+            "value": "JasonPringle"
+        },
+        {
+            "key": "Case_47_suspect_1_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_47_suspect_1_occupation",
+            "value": "Economy passenger"
+        },
+        {
+            "key": "Case_47_suspect_1_statement_page_1",
+            "value": "<b>Q: Why were you travelling on flight MK91J?</b>\n<b>A:</b> My boss and I were headed to Werphia for a business meeting that morning. We were going head-to-head with Delrice Consulting for a massively lucrative contract, so there was a lot on the line. \n\n<b>Q: Are you aware that the passenger who died in Business class worked for Delrice Consulting?</b>\n<b>A:</b> I wasn't at the time; I only found out after landing when the representative for Delrice was a no-show at the meeting. I didn't know them personally, but I can’t say I was disappointed by the news.  Despite the unfortunate circumstances, his absence gave us an advantage and probably helped us in securing the deal! What's the expression? - Snooze, you lose! \n\n<b>Q: We understand that you went into the business cabin during the flight, why?</b>\n<b>A:</b> That’s where my boss was sitting, one of the many perks of being a partner at our firm! I went to check a few things with her before the upcoming meeting. The trip was a big opportunity for me to prove myself, and I wanted to ensure everything went smoothly.\n\n<b>Q: The flight attendant says you went into business to use the restroom?</b>\n<b>A:</b> Well, that wasn't the main reason, but I did use it while I was there. The lines back in economy were crazy since people were woken for breakfast. When the attendant saw me, she wasn't happy and made me return to economy. I didn't see what the big deal was; I had only been in business for max two minutes before she escorted me out like a naughty kid.\n\n<b>Q: Did you see Mr Clarke while you were in the business cabin?</b>\n<b>A:</b> As mentioned, I didn't know him by name or what he looked like, but considering there were only two passengers in there, he must have been the bloke that was passed out with his headphones on. I don't blame him, I’d have slept like a baby if I had a comfy reclining seat like his! Who knows, with this new deal signed maybe that'll be me next time I fly.  \n"
+        },
+        {
+            "key": "Case_47_suspect_2_name",
+            "value": "Rosemary Patchett"
+        },
+        {
+            "key": "Case_47_suspect_2_icon",
+            "value": "RosemaryPatchett"
+        },
+        {
+            "key": "Case_47_suspect_2_age",
+            "value": "46"
+        },
+        {
+            "key": "Case_47_suspect_2_occupation",
+            "value": "Business class passenger"
+        },
+        {
+            "key": "Case_47_suspect_2_statement_page_1",
+            "value": "<b>Q: Why were you travelling on flight MK91J?</b>\n<b>A:</b> For an in-person meeting with a potential new client based in Werphia City. I assume this is about the death of Hayden Clarke?\n\n<b>Q: Yes. Did you know him?</b>\n<b>A:</b> You could say that. I’ve known him in a professional capacity for several years. We have competed against each other for bids in the past. As soon as I saw him, I figured he was heading to the same meeting as me, presumably representing the other bidder involved.  \n\n<b>Q: At what point did you realise he was on the same flight as you?</b>\n<b>A:</b> Shortly after boarding, I overheard the flight attendant having a chat with him. He was quick to mention he worked for Delrice Consulting and how important he was. Coincidentally, the attendant's father used to work for the same company but wasn't there long. Doesn't surprise me; they are famous for treating staff poorly.  \n\n<b>Q: Can you talk us through what you did during the flight?</b>\n<b>A:</b> I spent most of the flight working; I had a lot of prep to do for the pending meeting. I must have got a power nap in here and there, but not much else; I don't even recall leaving my seat!  I was surprised at how relaxed Hayden was; whenever I looked back down the cabin, he was fast asleep. No one sleeps that well on planes. I remember thinking the relaxing music he was listening to must have had magic powers, but now I know he had died; it makes more sense. What happened to him?\n\n<b>Q: That’s what we are trying to establish. We understand your colleague Jason came to visit you in Business class?</b>\n<b>A:</b> Yes, briefly, he wanted to rehash something for the meeting which we had already agreed on. He was clearly nervous, and rightly so; it was a make-or-break deal for him, but I have to admit his neediness was irritating. I was secretly relieved when the attendant found him using the restroom and asked him to leave. \n\n<b>Q: Did you see Mr Clarke awake or doing anything of note during the flight?</b>\n<b>A:</b> No, sorry, just his initial chat with the attendant and then being asleep. He wasn't even served any breakfast from what I could see. But then I didn't pay him much attention; I really was focused on my work."
+        },
+        {
+            "key": "Case_47_suspect_3_name",
+            "value": "Abby Carmichael"
+        },
+        {
+            "key": "Case_47_suspect_3_icon",
+            "value": "AbbyCarmichael"
+        },
+        {
+            "key": "Case_47_suspect_3_age",
+            "value": "27"
+        },
+        {
+            "key": "Case_47_suspect_3_occupation",
+            "value": "Flight Attendant"
+        },
+        {
+            "key": "Case_47_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your role on Flight MK91J?</b>\n<b>A:</b> I was the hostess assigned to business. We only had two passengers travelling in that class, Mr Clarke and Ms Patchett, so I was working on my own that flight. All the other attendants were needed in economy, which was at full capacity. \n\n<b>Q: Had you met either of your passengers before?</b>\n<b>A:</b> No. Neither were regulars on that flight. I can't believe someone died and I was just walking past them potentially for hours!\n\n<b>Q: What can you tell us about Mr Clarke?</b>\n<b>A:</b> Just what I gathered from the usual pleasantries we have with customers when they first board. He mentioned he worked for Delrice Consulting and was travelling for business. Like most business travellers, he was full of self-importance. Said that he had a big meeting in the morning and needed to sleep. He demanded a stiff drink to wash down his tablets and spent the rest of the flight asleep listening to the ‘relaxing playlist’ of inflight music on his headphones. I noted that, as most people listen to their own music these days.\n\n<b>Q: Can you talk us through your recollection of the flight?</b>\n<b>A:</b> Mr Clarke had said not to disturb him, so I pretty much left him to it, and Ms Patchett just stared at her laptop the whole flight, barely acknowledging when I provided her with service. As flights go, it was fairly dull; only one other person entered the cabin throughout the duration, and that was towards the end after breakfast.\n\n<b>Q: What time did you serve breakfast?</b>\n<b>A:</b> At 6 a.m., I served the two pilots breakfast first and then Ms Patchett at approximately 6:04 a.m. Due to Mr Clarke still being asleep, I didn't prepare him anything. If he woke, I would’ve sorted him out, but that wasn't necessary. As soon as I served Ms Patchett, I was called back to economy to assist a passenger who was being sick.\n\n<b>Q: Are you able to account for the food you prepared?</b>\n<b>A:</b> Yes, in business they are all self-contained meals that I heat and serve on a nice plate. There’s an itinerary I have to complete to show how many meals I use on a flight; the number of meals left should match up. If it's wrong, we can get in a lot of trouble as it means future flights might be left short. \n\n<b>Q: The crew’s flight log shows you dealt with an incident in the business cabin at 6:17 a.m. What happened?</b>\n<b>A:</b> As I was in economy, I noticed another passenger get up and walk through to the business cabin, which isn’t allowed. I finished helping the sick person, then followed him through, no more than a minute later. When I got there, I caught him coming out of the business WC. I politely reminded him of our policy and asked him to return to Economy immediately. He seemed quite flustered by my arrival and asked if he could stay and talk to Ms Patchett; apparently they knew each other. But I insisted he return to his seat and escorted him back myself. It seems petty, but protocol must be followed; if we let one economy passenger come in, they all try. He was annoyed with me and said he was going to complain, so I noted the time of our discussion and put it in the flight log.  \n\n<b>Q: What was Mr Clarke doing during this incident?</b>\n<b>A:</b> As far as I'm aware, still sleeping. But I wasn't paying him much attention. Preparing for landing was the first time I tried to interact with him since the beginning of the flight."
+        },
+        {
+            "key": "Case_47_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_47_case_newevidence",
+            "value": "Boss,\n\nThe lab has come back with a report on the victim's overdose. They’ve established the victim's prescription tablets were taken shortly after boarding the plane; they were powerful and had the effect of dramatically reducing the victim's heart rate to improve sleep. The subsequent large dose of ‘over-the-counter’ tablets was ingested later in the flight, minutes before their death. The effect of the second dose compounded the original tablets, causing the victim's heart to stop completely. Based on the victim’s stature and overall health, they have determined it would have taken 8 -12 minutes for the victim to die after ingesting the second dose.\n\nDetective English"
+        },
+        {
+            "key": "Case_47_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The police report confirms the time of death was 6:21 a.m. We later learn from the lab report that the fatal dose was ingested 10-15 minutes before death - between 6:06 a.m. and 6:11 a.m. Using these times, we are able to remove both Jason and Abby as suspects:</indent>\n\n- <indent=8%><b>Abbey<b> left the business cabin after serving Ms Patchett breakfast at 6:04 a.m. and did not return until after she saw Jason entering the cabin and logged the incident at 6:17 a.m. She was not there when the victim ingested the fatal pills, and she could not have drugged his food in advance, as we know she didn't prepare or serve him any food.</indent>\n\n- <indent=8%><b>Jason<b> enters the business cabin for the first and only time two minutes before his incident is logged by the flight attendant at 6:17 a.m. Considering this is after the time frame in which the victim ingests the lethal dose of tablets, he is not the killer.</indent>\n\n- <indent=8%><b>Rosemary<b> is the only suspect who had the opportunity. She was alone in the business cabin with the victim during the time frame in which he ingested the pills, and she had been served the same breakfast which was found in the victim's stomach only minutes before this. </indent>\n\n- <indent=8%>In her interview, <b>Rosemary<b> refers to the victim as listening to the inflight ‘relaxing playlist’, considering the location of her seat in relation to the victim's, and the fact that she claims to have not left her seat during the flight, she would not know that the victim was listening to music, let alone what the specific playlist was - she lied.</indent>\n\n- <indent=8%>How <b>Rosemary<b> persuaded or tricked the victim into taking the large quantity of sleeping pills is something only she can tell us, but the breakfast seems like the logical answer. </indent>"
+        },
+        {
+            "key": "Case_47_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI fly all the time and struggle to sleep, so I always carry a stash of sleeping pills with me. Hayden’s death was unintentional. I just meant to make him sleep through or at least be really drowsy for the client meeting we were both due to attend. It was a big contract and any advantage was worth its weight in gold. \n\nAfter I was served breakfast and the attendant left the cabin, I saw my opportunity. I knew he hadn't been served any breakfast, so I crumbled a number of my sleeping pills into the food, took it over to his seat, and woke him with a plate of warm breakfast. I told him that I thought it would be an unfair advantage to go into that meeting against him on an empty stomach. He wasn't happy about being woken, but he scoffed the food so he couldn't have been that put out. The pills took effect much faster than I expected. Within a few minutes, he was passed out again. I went over and took my empty plate back just before Jason unexpectedly came through to the business cabin. \n\nI hadn't considered that Hayden might have taken some of his own pills already, especially not the prescribed, extra-strength ones. If I'd known that, I would have thought twice before doing what I did.  "
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_46_case_title",
+            "value": "A LOOSE CANNON"
+        },
+        {
+            "key": "Case_46_case_subtitle",
+            "value": "Circus tour postponed after death defying stunt fails abysmally"
+        },
+        {
+            "key": "Case_46_case_cover_bg",
+            "value": "A_LOOSE_CANNON"
+        },
+        {
+            "key": "Case_46_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_46_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_46_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_46_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_46_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_46_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_46_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_46_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_46_daily_news_headline",
+            "value": "TURNS OUT,<br>CANNONS ARE DANGEROUS"
+        },
+        {
+            "key": "Case_46_daily_news_headline_image",
+            "value": "A_LOOSE_CANNON"
+        },
+        {
+            "key": "Case_46_daily_news_page_1",
+            "value": "The Patchwork Circus has officially put their world tour on hold while they are investigated for the death of one of their star performers - daredevil Jimmy Feardon (aged 28) aka the ‘human missile’.\n\nOn Saturday night, Jimmy performed his usual act of being shot from his cannon towards a safety net approx 150ft away. Having successfully completed similar stunts many times for audiences around the world, it is considered relatively safe compared to many of the other shows' stunts. However, on this occasion disaster struck. Despite hitting his target, the safety net, designed to catch him, proved faulty and instead allowed him to plummet to the ground.   \n\nAlthough the incident was initially portrayed by the circus as a tragic accident, the police have made a statement today, releasing information that Mr Feardon had recently been receiving threats to his life. As a result, they are investigating the possibility of murder. \n\nThe circus’ profile combined with the graphic nature of the death appears to have caught the imagination of many, and unsurprisingly a media circus has followed. As a result, the pressure is on the investigators to perform. I, for one, am relieved to say that this case is not my circus, and the suspects involved are not my monkeys.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_46_victim_name",
+            "value": "Jimmy Feardon"
+        },
+        {
+            "key": "Case_46_victim_icon",
+            "value": "JimmyFeardon"
+        },
+        {
+            "key": "Case_46_victim_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_46_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_46_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was fired from his cannon and hit the safety net as intended. The net was designed to be secured at 4 points, giving it the strength and flexibility to safely catch the victim. Although it appeared to have been set up properly, on impact two of the secure points gave way and the victim went straight through the net to their death. \n\nPathologists' report confirms the victim died from the injuries sustained by their impact with the ground. They were deemed otherwise fit and healthy.  \n​\nCrime scene forensics conducted a close inspection of the safety net and determined that two of its four secure attachment points had been purposefully weakened to ensure they failed under any form of pressure. The subtle and complex manner in which they had been tampered with would require knowledge and experience of using the safety net.\n\nOn searching the victim's trailer located at the performers' trailer park, a 30-minute drive away, a handmade death threat was found amongst his personal possessions that said ‘What goes around, comes around - watch your landing!’ It has been sent to the lab for analysis. The phrasing of the note aligns with the cause of death, leading to the belief it was the same person.  \n\n<b>Discovery:</b>\n\nThe failed stunt was performed in front of a live audience of witnesses.\n\n<b>Time of Death:</b>\n\nThe on-site paramedics saw the victim and noted his death at 6:48 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The safety net had been sabotaged.</indent>\n- <indent=8%>A death threat was found amongst the victim's personal possessions.</indent>\n\n<b>Further Details:</b>\n\nThree circus employees knew how the specific safety net worked and were there on the night of his death. They have been brought in for questioning."
+        },
+        {
+            "key": "Case_46_suspect_1_name",
+            "value": "Julia Mendez"
+        },
+        {
+            "key": "Case_46_suspect_1_icon",
+            "value": "JuliaMendez"
+        },
+        {
+            "key": "Case_46_suspect_1_age",
+            "value": "43"
+        },
+        {
+            "key": "Case_46_suspect_1_occupation",
+            "value": "Circus Ringmaster"
+        },
+        {
+            "key": "Case_46_suspect_1_statement_page_1",
+            "value": "<b>Q: How was your relationship with Jimmy Feardon?</b>\n<b>A:</b> I can't pretend it was good; I found him arrogant and selfish. Sadly, that's what comes from knowing how important you are to the business. As well as being the Ringmaster, I'm also a co-owner of the circus, and the truth is we needed Jimmy. \n\n<b>Q: Why was he so important?</b>\n<b>A:</b> Jimmy’s human missile act was risky and has proven to be a big draw to the punters. He did a lot of other daredevil stunts for social media and had a big following of his own. People had been captivated by him ever since he posted a video last year of a stunt going wrong and a member of his team dying. That’s why we brought him on board, to raise our profile and get more bums on seats! \n\n<b>Q: Would you say Jimmy's death and the surrounding media circus is good for business?</b>\n<b>A:</b> It seems immoral, but yes.  It's human nature for people to have a morbid fascination with death. This tragedy will ultimately do wonders for getting us noticed. All publicity is good publicity!\n\n<b>Q: We understand that you helped assemble the safety net for Jimmy's stunt.</b>\n<b>A:</b> Yes, I assembled it on Thursday night with Tony, our rigger. We would normally have done it on Friday before the dress rehearsal, but I took Friday off for my sister's wedding.\n\n<b>Q: Is assembling safety nets a normal task for the Ringmaster?</b>\n<b>A:</b> No, I suppose not. But I like to get stuck in and help with as much as I can; it’s a good way of ensuring everything runs smoothly. Especially when it comes to setting up the safety apparatus; ultimately it's my neck on the line if things go wrong. Thankfully, we have insurance in place for accidents like Jimmy’s. \n\n<b>Q: Talk us through what you were doing on Saturday prior to the event?</b>\n<b>A:</b> Most of the day was spent travelling back from my sister's wedding. My flight was delayed, so I cut it fine and had to get the taxi to take me straight to the main tent. I didn't even have time to go back to the performer’s trailer park to put my makeup on as people were already queuing up outside. So I was straight into work mode, ensuring everything in the center rings was ready for the main event. I had to work fast as once the doors opened at 5:30 p.m., no one was allowed into the center rings until showtime.\n\n<b>Q: Are you able to confirm what time it was your taxi dropped you off?</b>\n<b>A:</b> It was just as Jimmy performed a final rehearsal of his stunt. I remember because he doesn't normally do that, but apparently he had some concerns and insisted on doing it only half an hour before we opened to the public. It all went smoothly, and he was happy. \n\n<b>Q: Were you aware that Jimmy had received a death threat?</b>\n<b>A:</b> Of course not. I would have taken action and offered him some support if I’d known. \n\n<b>Q: Do you know of anyone who would have wanted to harm Jimmy?</b>\n<b>A:</b> I’m not sure he would have harmed him, but the person that comes to mind is our rigger Tony Window. It’s fair to say he wasn't Jimmy’s biggest fan."
+        },
+        {
+            "key": "Case_46_suspect_2_name",
+            "value": "Tony Window"
+        },
+        {
+            "key": "Case_46_suspect_2_icon",
+            "value": "TonyWindow"
+        },
+        {
+            "key": "Case_46_suspect_2_age",
+            "value": "32"
+        },
+        {
+            "key": "Case_46_suspect_2_occupation",
+            "value": "Circus Rigger"
+        },
+        {
+            "key": "Case_46_suspect_2_statement_page_1",
+            "value": "<b>Q: Did you assemble the safety net for Jimmy’s stunt on Saturday night?</b>\n<b>A:</b> Yes, it’s my job. I’m a specialist rigger, which means I’m responsible for setting up and testing all safety cables, harnesses and apparatus. As a result, I work with all the circus performers.\n\n<b>Q: What was your relationship like with Jimmy Feardon?</b>\n<b>A:</b> Just colleagues. He hadn't been with us long, and to be honest I tried to avoid him if I could; too much of an ego for me.  \n\n<b>Q: We understand you weren't happy when Jimmy joined the team?</b>\n<b>A:</b> That’s not true. I had nothing against him joining our team; what I didn't like was his attitude and interference. As soon as he arrived, he acted like he was part of management and started dictating how things should be changed. Not least my job!  \n\n<b>Q: What about your job?</b>\n<b>A:</b> He had complained to management about the standard of my work, and suggested I be replaced with someone ‘more professional’, if you can believe that. I’ve been in this role for four years and had no issues until he arrived! I could see right through him, though; apparently, when he first joined, he’d requested a rigger friend of his be hired at the same time, but management couldn’t justify another rigger's salary. It was clear his complaints were an attempt to get rid of me and make space. The issue is he was likely to succeed as he seemed to have Julia under his thumb.\n\n<b>Q: So Jimmy’s death is convenient for you keeping your job?</b>\n<b>A:</b> Possibly, but that didn't bother me as I would have gotten another job easily enough. It was more the principle! What made his opinion so important?! I personally wouldn't have trusted him; his way of doing things led to someone dying last year, and the proof has been viewed by millions of people online! There are many who believe he was responsible for that and should be behind bars. \n\n<b>Q: Can you run us through what you did on Saturday?</b>\n<b>A:</b> I was at the circus all day. It was fairly relaxed as most of my tasks had been completed on the Friday, so I had some spare time. Having said that, a complicated issue did arise with the flying trapeze apparatus later on, which meant spending the final hour before the doors opened 40 ft in the air making last-minute fixes, literally. You have to be good under pressure in those situations, as small errors can cost lives.\n\n<b>Q: Are you aware of the victim receiving a death threat?</b>\n<b>A:</b> Only what I saw in the press. It didn’t surprise me."
+        },
+        {
+            "key": "Case_46_suspect_3_name",
+            "value": "Lance Jones"
+        },
+        {
+            "key": "Case_46_suspect_3_icon",
+            "value": "LanceJones"
+        },
+        {
+            "key": "Case_46_suspect_3_age",
+            "value": "61"
+        },
+        {
+            "key": "Case_46_suspect_3_occupation",
+            "value": "Safety Officer"
+        },
+        {
+            "key": "Case_46_suspect_3_statement_page_1",
+            "value": "<b>Q: What is your role at the circus?</b>\n<b>A:</b> I am the team's designated Safety Officer. Simply put, my job is to ensure all the performers' safety. I used to be a performer myself, but I moved into a less physically strenuous role as I got older. I’ve done it for years now; the circus runs in the blood for my family. My parents did it before me, then my siblings, and now my children are all in the business in one way or another. \n\n<b>Q: How well did you know Jimmy Feardon?</b>\n<b>A:</b> Well enough. I’d talk to him regularly about how he could manage the risks of his aerial stunts, not that he was ever listening to me. He was reckless like that; all he wanted to do was go higher and further. You just need to look at all his crazy stunts on the internet to know that. \n\n<b>Q: Were you aware that Jimmy was receiving death threats?</b>\n<b>A:</b> No. But considering his attitude towards his own safety, he might as well have been sending them to himself! His last-minute rehearsal on Saturday before the show was the first time he had ever shown any interest in being diligent. Perhaps the death threat he received earlier that day had spooked him.\n\n<b>Q: So you were working on Saturday?</b>\n<b>A:</b> Of course. The day of a show is when I’m busiest. The equipment and apparatus for the whole show needed to be signed off by me. The only issues I discovered were with the flying trapeze apparatus; thankfully, I caught them with enough time for them to be resolved before the show. \n\n<b>Q: Did you sign off on Jimmy’s safety net?</b>\n<b>A:</b> I thought you’d ask me this. Yes, I did. I conducted a thorough search of all his stunts’ apparatus earlier that afternoon. Despite what you think, there wasn't anything wrong with the net attachments; if someone had messed with them, we would have found out in his final rehearsal flight at 5 p.m. before the show itself. \n\n<b>Q: Do you have any idea who would have wanted to harm Jimmy?</b>\n<b>A:</b> I consider Julia a good friend, but I can't stop thinking about how she remained uncharacteristically calm on the night when the accident happened. The fact is, the circus has been struggling to make ends meet, and she has been talking a lot recently about the show needing more jeopardy in order to attract audiences."
+        },
+        {
+            "key": "Case_46_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_46_case_newevidence",
+            "value": "Boss,\n\nThe threatening note found in the victim's trailer has been analysed. The lab found no traces of DNA; however, they have determined the letter cuttings used to make the note were all taken from the local Newspaper printed that day. Looks like our killer acted fast!\n\nDetective Barnes"
+        },
+        {
+            "key": "Case_46_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The evidence confirms the safety net had been tampered with. Learning that the victim conducted a successful rehearsal of his act at 5 p.m., and that the circus doors opened at 5:30 p.m. - after which no one was allowed onto the center rings where all the performers' apparatus was set up. This creates a 30-minute window in which the tampering must have occurred.</indent>\n\n- <indent=8%>All three of our suspects had the knowledge to carry out the sabotage and were in the circus tent during this time frame. However, we learn that Tony was 40ft high, fixing a flying trapeze apparatus for the hour before the doors opened. He could not have been the saboteur.</indent>\n\n- <indent=8%>This leaves Julia and Lance, who both had the opportunity. However, the threatening note found in the victim's trailer allows us to eliminate Julia. The evidence confirms the note had been handmade that day with a local newspaper. Considering Julia only returned to the circus from out of state half an hour before the doors opened and didn't have time to return to the performers' trailer park a 30min drive away, she could not have been its maker.</indent>\n\n- <indent=8%>Lance is the only viable suspect remaining. He was an experienced safety officer who knew how the safety net worked. He had the opportunity during the established time frame to carry out the tampering, and he was around that day to have made and delivered the death threat.</indent>\n\n- <indent=8%>Lance being the killer is supported by the following highly suspicious behaviour: He says in his interview, ‘there wasn't anything wrong with the net attachments; if someone had messed with them, we would have found out’. In trying to cover for himself, he has referenced how the murder was done, despite no one other than the police knowing the specifics. A similar slip-up occurs when Lance refers to the victim receiving the death threat earlier that day - there is no reason he would know when it was sent.</indent>"
+        },
+        {
+            "key": "Case_46_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nWhat goes around comes around. Not many people know this, but the person who died working with Jimmy to perform the stunt that went wrong last year was my younger brother Kyle. I was devastated. I don't know if you've seen it, but Jimmy performed the stunt while Kyle was still working on securing the safety net. The video made my brother look at fault, but after speaking to people there that day about what happened, I knew Jimmy was responsible. Apparently he had insisted on performing the stunt in an exposed location, and when people expressed concerns that it was too windy, he ignored them. My brother, his rigger that day, said he could make some slight adjustments to the net to make it safer if they delayed the stunt…despite agreeing, apparently Jimmy got bored with waiting. He hit Kyle as he landed. \n\nWhen I heard Jimmy was joining our circus and that I would be his safety officer, I knew fate was giving me an opportunity to seek revenge. I wanted it to be during a live show to ensure his death was made public, like he had done to my brother when he posted the footage on social media.\n\nThe threatening note I left in his trailer that morning nearly backfired, as it made him cautious about jumping that night. Thankfully, I was able to put him at ease by persuading him to do a last rehearsal jump before the main show, knowing that I would then have the small window to tamper with the net, on the pretence of last-minute checks. The rest went as planned, other than you guys catching me. I was secretly hoping I could slip through the net. Much like Jimmy did. "
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "WorldCup_2026_case_title",
+            "value": "THE WORLD CUP FINAL"
+        },
+        {
+            "key": "WorldCup_2026_case_subtitle",
+            "value": "A dead superstar. Billions watched. Nobody saw a thing."
+        },
+        {
+            "key": "WorldCup_2026_case_cover_bg",
+            "value": "WORLD_CUP_SPECIAL"
+        },
+        {
+            "key": "WorldCup_2026_investigate_cost",
+            "value": "100"
+        },
+        {
+            "key": "WorldCup_2026_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "WorldCup_2026_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "WorldCup_2026_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "WorldCup_2026_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "WorldCup_2026_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "WorldCup_2026_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "WorldCup_2026_xp_award_gold",
+            "value": "140"
+        },
+        {
+            "key": "WorldCup_2026_daily_news_headline",
+            "value": "THE WORLD CUP FINAL"
+        },
+        {
+            "key": "WorldCup_2026_daily_news_headline_image",
+            "value": "WORLD_CUP_SPECIAL"
+        },
+        {
+            "key": "WorldCup_2026_daily_news_page_1",
+            "value": "The England soccer team's long-awaited World Cup glory turns to infamy when their star player dies only seconds after scoring the winner during Saturday night's final. An estimated global audience of over 1.7 billion viewers watched on in horror as superstar soccer player Paddy Bruceham (aged 22) collapsed to the turf while celebrating his late winner.\n\nAnimosity between the US soccer team (USMNT) and the Three Lions was already off the charts leading into the final, largely due to Paddy Bruceham, a US-born star, famously deciding to switch allegiances to represent England in the tournament. The controversial decision left the USMNT without their best player and, according to pundits, no hopes of progressing far in the tournament. Despite this, they proved to be galvanized by his betrayal, going from strength to strength in a true underdog story to reach the final and come up against the deserter himself on the biggest stage of all. You just can't write this stuff.\n\nAt first, the death was believed to be a tragic incident of natural causes. However, in their widely anticipated public statement, the authorities announced they have enough evidence to treat the case as a murder investigation. No further details were provided. With over one hundred thousand people in attendance at the game that night, the detectives will have to be on the ball to catch this silky-skilled slayer.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "WorldCup_2026_victim_name",
+            "value": "Paddy Bruceham"
+        },
+        {
+            "key": "WorldCup_2026_victim_icon",
+            "value": "PaddyBruceham"
+        },
+        {
+            "key": "WorldCup_2026_victim_age",
+            "value": "22"
+        },
+        {
+            "key": "WorldCup_2026_victim_cod",
+            "value": "Anaphylactic shock"
+        },
+        {
+            "key": "WorldCup_2026_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nWith the scores tied, the US team gave away a penalty in the 93rd and final minute of the game. The victim stepped forward and duly slotted the winning goal for England. Moments later, during celebrations with his teammates, the victim collapsed to the ground. Team medics tended to the victim and seconds later declared him dead at the scene.\n\nThe pathologist's report established anaphylactic shock as the cause of death, initiated by an extreme reaction to penicillin, a substance the victim was known to be allergic to. A high dosage was found in his system, having been ingested through drinking it mixed with water.\n\nThe England team's water bottles have been analyzed. The results show the victim's personally labeled bottle contained traces of the lethal substance.\n\n<b>Discovery:</b>\n\nPronounced dead by the paramedics first on scene.\n\n<b>Time of Death:</b>\n\n9:48 p.m. on Saturday.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Expert opinion states the quantity of penicillin in the victim's system, combined with his allergy, led to an instant and extreme reaction that ultimately proved fatal.</indent>\n- <indent=8%>Video footage of the game has been reviewed. The victim can be seen drinking from his personal water bottle at the 71st, 85th, and 93rd minutes.</indent>\n- <indent=8%>Three sets of fingerprints, other than the victim's, were taken from the contaminated water bottle. They are all a match for members of the opposition team's squad.</indent>\n\n<b>Further Details:</b>\n\nThe three fingerprint matches have been brought in for questioning."
+        },
+        {
+            "key": "WorldCup_2026_suspect_1_name",
+            "value": "Ted Bassett"
+        },
+        {
+            "key": "WorldCup_2026_suspect_1_icon",
+            "value": "TedBassett"
+        },
+        {
+            "key": "WorldCup_2026_suspect_1_age",
+            "value": "63"
+        },
+        {
+            "key": "WorldCup_2026_suspect_1_occupation",
+            "value": "USMNT Head Coach"
+        },
+        {
+            "key": "WorldCup_2026_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Paddy Bruceham?</b>\n<b>A:</b> He was nothing to me anymore. He was dead to me even before he died. I know that sounds harsh, but it's how I felt.\n\n<b>Q: I take it from that you didn't get along?</b>\n<b>A:</b> We used to get along just fine. He even dated my daughter for a while. From a manager's perspective, he was a fantastic player and a great personality to have in the squad. We all thought he was going to be crucial to our World Cup run. But in the end, we didn't need him to do well, although I must admit watching him score the winner against us hurt badly.\n\n<b>Q: Can you explain what your second-half incident with the officials was all about?</b>\n<b>A:</b> I assume you are referring to me being sent to the stands in the 75th minute? My emotions were high, and the officials were making poor decision after poor decision against us. Eventually, I snapped and threw a couple of water bottles toward the referee. I'd already had a warning for leaving the team's technical area to confront the England team's bench, and this was the last straw. They sent me to sit in a designated area of the stands for the remainder of the game. I couldn't argue with it as I had obviously overstepped the mark. But sitting and watching the game unfold from the stands was difficult. I'd never felt so helpless.\n\n<b>Q: Video footage of the incident shows you were in the England team's technical area when you threw the bottles?</b>\n<b>A:</b> That's right. The technical areas were right next to each other, and there was nothing but a painted white line to stop you crossing over. As you can imagine, things were understandably hostile between the benches. It was a World Cup final, for crying out loud.\n\n<b>Q: Were the bottles you threw at the referee the only ones you touched?</b>\n<b>A:</b> Yes, I think so. Why do you ask that? Do you think Paddy's death had something to do with a bottle?\n\n<b>Q: We believe so, and unfortunately for you, we found your fingerprints on Paddy's water bottle.</b>\n<b>A:</b> Well, I'll be damned. That doesn't look good for me."
+        },
+        {
+            "key": "WorldCup_2026_suspect_2_name",
+            "value": "David Nameas"
+        },
+        {
+            "key": "WorldCup_2026_suspect_2_icon",
+            "value": "DavidNameas"
+        },
+        {
+            "key": "WorldCup_2026_suspect_2_age",
+            "value": "19"
+        },
+        {
+            "key": "WorldCup_2026_suspect_2_occupation",
+            "value": "USMNT Goalkeeper"
+        },
+        {
+            "key": "WorldCup_2026_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Paddy Bruceham?</b>\n<b>A:</b> I'm fairly new to the US squad, so I didn't know Paddy that well. We'd been to a couple of training camps together, that's about it. But even that was a surreal experience. Despite him only being a couple of years older than me, I had idolized him ever since he started dominating the domestic leagues at 17. It's strange that the USMNT hadn't capped him more before this tournament. That would have blocked him from ever being able to switch. Playing in the same team as him at the World Cup would have been an amazing experience, but it wasn't meant to be. Instead, my lasting memory will forever be of him putting a winning penalty past me in the dying seconds of the final. There are worse problems to have, I suppose. I could be dead like him.\n\n<b>Q: Can you explain why your fingerprints were found on Paddy's water bottle?</b>\n<b>A:</b> That's a strangely specific question. Erm, no, I can't. Maybe it was right before I got subbed into the game in the 82nd minute. It looked like the game was going into extra time and a possible penalty shootout, so they brought me on. You wouldn't believe it from how the game ended, but I was in the squad as a penalty specialist.\n\n<b>Q: Why might you have touched his bottle then?</b>\n<b>A:</b> Well, I warmed up by the side of the pitch for a few minutes before going on. There were bottles everywhere due to the heat, and I grabbed one for a drink before entering the game. It must have been Paddy's.\n\n<b>Q: That is quite a coincidence, don't you think? Especially as his bottle was clearly labeled.</b>\n<b>A:</b> I'm not sure I like what you're implying. Listen, I was about to play in a World Cup final in front of millions of people around the world. My focus was on many things, but names on water bottles was not one of them."
+        },
+        {
+            "key": "WorldCup_2026_suspect_3_name",
+            "value": "Steven Lampard"
+        },
+        {
+            "key": "WorldCup_2026_suspect_3_icon",
+            "value": "StevenLampard"
+        },
+        {
+            "key": "WorldCup_2026_suspect_3_age",
+            "value": "22"
+        },
+        {
+            "key": "WorldCup_2026_suspect_3_occupation",
+            "value": "USMNT Midfielder"
+        },
+        {
+            "key": "WorldCup_2026_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Paddy Bruceham?</b>\n<b>A:</b> He was one of my best friends. We grew up in the same place and went on to become professional players together. Playing alongside each other for the US was a dream come true, so as you can imagine I was devastated when he chose to represent England at the World Cup. I understood his logic. He had always been eligible to play for them through an English parent, and on paper, they were a better team and more likely to win the tournament. But whatever happened to loyalty?\n\n<b>Q: Were you still in touch with him?</b>\n<b>A:</b> Not during the World Cup. I had been totally focused on our team and trying to get as deep into the tournament as possible. In fact, I hadn't even thought about him until we got matched with England in the final. Funny how things work out. Now he's gone, I regret not being more supportive of his decision. We were enemies on the pitch, but whatever the result, I was planning to have a drink with him after the game. I wasn't going to let a game get between our friendship.\n\n<b>Q: Are you able to explain why your fingerprints were on Paddy's water bottle?</b>\n<b>A:</b> Yeah, I grabbed it accidentally in the first half. It was a hot evening, and players were hydrating like mad at every opportunity. All I saw was a crate of bottles on the pitch during a break in play, and I grabbed one without thinking. Their water boy went mad at me, shouting that I needed to give it back. Apparently, it was Paddy's bottle, and he didn't like other people touching it. I put it back in his basket and told the guy to calm down. I mean, it was just water. If you're suggesting I might have put something in his drink, that's crazy. I heard there were over 100 cameras filming the pitch during the game. I'm sure you can find footage of that specific incident if you look for it.\n\n<b>Q: Where were you when Paddy died at the end of the game?</b>\n<b>A:</b> I got subbed off in the 69th minute, so I watched from the bench in the technical area. It was the team medic's decision. He was monitoring my vitals and decided that if the game went into extra time, I was unlikely to last. Usually, I would have been mad at being taken off that early, but going into the game, I was already on antibiotics for a bad ear infection, so I was lucky to get the game time I did. I can't help but think that if I were still on the pitch, England wouldn't have been awarded that last-second penalty. I guess we'll never know."
+        },
+        {
+            "key": "WorldCup_2026_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "WorldCup_2026_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The victim's clearly labeled water bottle was poisoned with penicillin. Suspicion was narrowed down to three individuals whose fingerprints, other than the victim's own, were found on the bottle.</indent>\n\n- <indent=8%>The police report confirms that the victim's fatal reaction to penicillin would have been extreme and, critically, instant. This allows us to establish a precise window in which the bottle must have been sabotaged. The victim was last seen drinking from the bottle without any adverse reaction at the 85th minute. The next time he drinks from it is in the 93rd minute, as he steps up to take the winning penalty, only seconds before the fatal reaction occurs.</indent>\n\n- <indent=8%>With this timeframe established, two suspects can be eliminated. Ted Bassett was sent to the stands by officials in the 75th minute and was required to remain there for the rest of the game, with no access to the pitchside area where the bottle was kept. David Nameas was substituted onto the pitch in the 82nd minute and remained there until the final whistle.</indent> \n\n- <indent=8%>That leaves Steven Lampard, who sat pitchside in the US team's technical area from the 69th minute until the end of the game. Ted Bassett confirmed that the two teams' technical areas were directly adjacent, with nothing but a painted white line between them, making it straightforward to cross over. David Nameas also noted that bottles were freely available in the technical area as he waited to enter the pitch, meaning Steven Lampard is the only suspect with both his fingerprints on the murder weapon and the opportunity to sabotage it within the established timeframe.</indent>\n\n- <indent=8%>Further suspicion falls on Steven Lampard when, during questioning, he refers to something being put in the victim's drink. At that point in the investigation, the method and cause of death had not been made public. Only the police were aware of it.</indent>\n\n- <indent=8%>Finally, Steven Lampard's admission that he was taking antibiotics for an ear infection at the time of the final is significant. Penicillin is one of the most commonly prescribed antibiotics for ear infections, meaning he would have had straightforward access to the substance used to kill Paddy Bruceham.</indent>"
+        },
+        {
+            "key": "WorldCup_2026_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nMy friendship with Paddy, and any respect I had for him, died when he swapped allegiances. I couldn't believe he would betray the friendships he had built with teammates over the years just for a better chance at winning a tournament. When both teams reached the final, the idea of knocking him out and being the team to do it was irresistible. But I knew he would have to be stopped first, and I was prepared to do what it took.\n\nThat's when I started considering ways to remove him from the game. A plan formed in my mind when I got an ear infection the week of the final and was prescribed penicillin. Having known Paddy since childhood, I was aware of his allergy and knew that if I got him to take some before the match, he wouldn't be well enough to play. On the day itself, I couldn't go through with it. You could say I bottled it. That was until towards the end of the match, when he was playing so well, and I was sitting helplessly on the bench, unable to have any impact on the game. Or so I thought.\n\nThe technical areas were right next to each other, and I could see the England team's water bottles from where I was sitting, including Paddy's labeled bottle. It was the 87th minute, and the US were putting enormous pressure on the England defense, when an opportunity arose.\n\nEveryone in the stadium was on their feet, captivated by the game. Every camera was fixed on the pitch. That was my moment. While the world was looking the other way, I moved to the bottle and dropped a handful of the pills into his water. There was no guarantee he would drink again, but it was a hot evening, and it looked like the game was heading into extra time. If there was even a small chance it would take him out of the game, it was worth it. You have to believe me when I say I had no idea it would have had the reaction it did. I never meant to kill my friend."
+        }
+    ]
+}

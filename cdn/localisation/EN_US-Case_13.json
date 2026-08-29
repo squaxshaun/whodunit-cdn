@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_13_case_title",
+            "value": "FINAL CURTAIN CALL"
+        },
+        {
+            "key": "Case_13_case_subtitle",
+            "value": "A Broadway actor is murdered during a live performance. With stage fright ruled out, you need to establish who delivered their final curtain call."
+        },
+        {
+            "key": "Case_13_case_cover_bg",
+            "value": "FINAL_CURTAIN_CALL"
+        },
+        {
+            "key": "Case_13_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_13_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_13_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_13_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_13_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_13_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_13_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_13_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_13_daily_news_headline",
+            "value": "MURDER ON<br>BROADWAY"
+        },
+        {
+            "key": "Case_13_daily_news_headline_image",
+            "value": "FINAL_CURTAIN_CALL"
+        },
+        {
+            "key": "Case_13_daily_news_page_1",
+            "value": "I've seen a lot of people die on Broadway. Still, usually, they get up again at the end of the performance to rapturous applause. Sadly, on Saturday night, a sold-out audience at the Starlight Theatre witnessed Patrick Hogan (32) collapse on stage for real and die moments later.\n\nPatrick was an established personality on Broadway, having been cast in various leading roles over the last decade. On the night itself, he was portraying a character who enters self-destruct mode and attempts to commit suicide by drinking a vial of poison. In the play, his character is subsequently saved; however, on Saturday night, reality provided its own traumatic ending.\n\nThe tragic incident was met, at first, with admiration from the spectators as they thought it was all part of the show. Confusion followed when fellow cast members realized something was wrong, and subsequently, chaos ensued the moment medics pronounced him dead.\n\nThe investigation remains ongoing; however, the police have confirmed that they are treating Patrick's final curtain call as murder.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_13_victim_name",
+            "value": "Patrick Hogan"
+        },
+        {
+            "key": "Case_13_victim_icon",
+            "value": "PatrickHogan"
+        },
+        {
+            "key": "Case_13_victim_age",
+            "value": "32"
+        },
+        {
+            "key": "Case_13_victim_cod",
+            "value": "Chemical toxicity / organ failure"
+        },
+        {
+            "key": "Case_13_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim, known for taking his intense suicide scene very seriously, ingested what he believed to be water but was a lethal dose of hydrochloric acid during a live performance. The victim had a habit of drinking liquid from the vial used in the scene for authenticity. Witnesses confirm that the vial was filled with water by a stagehand during the performance's interval. However, sometime between the interval and the incident in question, the water was replaced with hydrochloric acid, a substance commonly used in laboratories to adjust pH levels. The quantity and concentration of the acid ingested by the victim were sufficient to cause rapid organ failure.\n\n<b>Discovery:</b>\n\nThe incident occurred during the live performance, with the victim collapsing on stage shortly after ingesting the liquid. The nature of the scene delayed immediate recognition of the emergency.\n\n<b>Time of Death:</b>\n\n6:00 p.m., during the penultimate act of the play.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The vial used in the scene, which was confirmed as having contained hydrochloric acid.</indent>\n- <indent=8%>Statements from witnesses confirming that the vial was originally filled with water.</indent>\n\n<b>Further Details:</b>\n\nThree suspects who were close to the victim and present at the theater on the night of the incident are currently being interviewed."
+        },
+        {
+            "key": "Case_13_suspect_1_name",
+            "value": "Susan Wolfe"
+        },
+        {
+            "key": "Case_13_suspect_1_icon",
+            "value": "SusanWolfe"
+        },
+        {
+            "key": "Case_13_suspect_1_age",
+            "value": "51"
+        },
+        {
+            "key": "Case_13_suspect_1_occupation",
+            "value": "Victim's director"
+        },
+        {
+            "key": "Case_13_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Patrick Hogan?</b>\n<b>A:</b> He was the lead in my Broadway show. Considering it's my first production as a writer and director, I was extremely grateful to him for being in it. It was only this time last year that I retired as a chemistry professor to pursue my dream of presenting on Broadway, so having an actor of Patrick's status agree to be in it was just amazing.\n\n<b>Q: It was reported in the press that he thought the show was lowbrow for an actor of his status?</b>\n<b>A:</b> It's true, that is how he felt. He had only agreed to be in the show for 12 months as a favor to his friend, who was helping me out, but to be fair, he was being paid quite well, too. I didn't mind him feeling that way, but it was insulting when he announced it publicly. I admired his talent; he had fantastic stage presence, but it came with an ego.\n\n<b>Q: Where were you the night he died?</b>\n<b>A:</b> I was at the theater all evening, as you would expect from the director. That night, I watched from the audience, wanting to immerse myself with the spectators to get a feel for what they were experiencing.\n\n<b>Q: Who do you think would have wanted to swap the water for acid?</b>\n<b>A:</b> His ex-girlfriend Tina is the only person I can think of. She was Patrick's latest in a long line of short-term relationships. They had been together for a few months when he recently broke up with her, which was the right decision. She had no interest in Broadway, focusing instead on his fame and status. I saw her at the theater that night, which I heard was a pathetic attempt at trying to win him back."
+        },
+        {
+            "key": "Case_13_suspect_2_name",
+            "value": "Tina Kale"
+        },
+        {
+            "key": "Case_13_suspect_2_icon",
+            "value": "TinaKale"
+        },
+        {
+            "key": "Case_13_suspect_2_age",
+            "value": "26"
+        },
+        {
+            "key": "Case_13_suspect_2_occupation",
+            "value": "Victim's ex-girlfriend"
+        },
+        {
+            "key": "Case_13_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Patrick Hogan?</b>\n<b>A:</b> We had been dating for four months. I couldn't believe it when we first met. I never thought I would end up with someone famous! I'm devastated that our relationship ended like that, before it could blossom.\n\n<b>Q: We understand that your relationship with Patrick had ended?</b>\n<b>A:</b> Only temporarily. Patrick told me he needed a break to focus on his career. People told me that's what he always said to his partners when breaking up with them, but I knew it wasn't the same with me. We were going to end up together; we were falling in love.\n\n<b>Q: Where were you the night Patrick died?</b>\n<b>A:</b> I was at the theater watching the show. I know he wanted a break, but I don't think he meant it. Besides, I hadn't seen Patrick perform before, so I bought a ticket. I even managed to talk my way backstage during the interval to show Patrick some personal support.\n\n<b>Q: Witnesses say that Patrick wasn't pleased to see you backstage during the interval and asked you to leave?</b>\n<b>A:</b> Yes, but it wasn't as simple as that; there was a misunderstanding. Patrick was an immersive actor, and I'd forgotten that when I saw him, he would be fully in character. So when I showed up to surprise him, I disrupted his routine and took him out of character. He wasn't too happy, and I should have known better, but I knew he would forgive me after the show. I was mortified when he later collapsed on stage in front of us.\n\n<b>Q: Do you know of anyone who would have wanted to harm him?</b>\n<b>A:</b> No, he was perfect. Maybe his understudy, Gabriel. Patrick would often tell me about how weird that guy was. Patrick found it insulting that people thought Gabriel could replace him. Maybe Gabriel got jealous of my perfect Patrick."
+        },
+        {
+            "key": "Case_13_suspect_3_name",
+            "value": "Gabriel Welles"
+        },
+        {
+            "key": "Case_13_suspect_3_icon",
+            "value": "GabrielWelles"
+        },
+        {
+            "key": "Case_13_suspect_3_age",
+            "value": "25"
+        },
+        {
+            "key": "Case_13_suspect_3_occupation",
+            "value": "Victim's understudy"
+        },
+        {
+            "key": "Case_13_suspect_3_statement_page_1",
+            "value": "<b>Q: How did you know Patrick Hogan?</b>\n<b>A:</b> I was his understudy on the show. It's been six months now, and I'm yet to have a performance, which is frustrating, but it's my first major role on Broadway, so I can't complain. Everyone in my family is also in stage acting, so they were proud when they found out I would be working with Patrick Hogan. It's a lot of pressure having their support, but ultimately a blessing.\n\n<b>Q: Did you have a good working relationship with Patrick?</b>\n<b>A:</b> Yes, we got on well enough, and I was learning a lot from him. We did fall out once when he made a rude comment to my partner about how she was \"only a lowly high school science teacher.\" When I called him out on it, he laughed and told me that my job was also pointless because he'd never missed a show in his life and that technically he should get the understudy's salary too. He eventually apologized; I think he'd had too much to drink that night and regretted saying it.\n\n<b>Q: Where were you the night he died?</b>\n<b>A:</b> Backstage as usual. My parents told me that I should be there every night, ready to go, just in case my opportunity comes.\n\n<b>Q: What will happen to you now that Patrick has died?</b>\n<b>A:</b> I suppose I will be the new lead, temporarily, at least, until they find a replacement for Patrick. That's assuming they don't cancel the production now. I hope not; it took me so long to get this role, and there are a lot of actors out there looking for work.\n\n<b>Q: Do you know of anyone who would have wanted to harm him?</b>\n<b>A:</b> The director, Susan Wolfe, regularly fell out with Patrick; they had contrasting personalities. But considering Patrick's name was one of the main reasons for her show's success, I can't see her doing anything to jeopardize that."
+        },
+        {
+            "key": "Case_13_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_13_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>To commit this crime, the killer needed three things: 1) knowledge of the production to understand when and where the vial of water would be kept, 2) access to the vial of water backstage, and 3) access to high-concentrated acid to replace the water.</indent>\n\n- <indent=8%>Susan Wolfe, as the writer and director of the show, had in-depth knowledge and could have planned the murder using the storyline. As a retired science professor, she might have access to high-concentration acid. However, she was watching the performance from the audience that night, so she didn't have access to the backstage area.</indent>\n\n- <indent=8%>Tina Kale, the ex-girlfriend, had no interest in Broadway and was seeing the show for the first time that night. Without prior knowledge of the production, it's unlikely she could have planned such a precise murder.</indent>\n\n- <indent=8%>Gabriel Welles, the victim's understudy, knew the production well and was backstage during the performance, giving him easy access to the vial. Additionally, his partner is a high school science teacher, likely with access to high-concentration acid used in labs. These factors make Gabriel the prime suspect.</indent>"
+        },
+        {
+            "key": "Case_13_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nMy family has always put me under tremendous pressure to succeed on stage. When I got the role as understudy to Patrick Hogan, it provided some relief. Still, after six months and no actual performances, the pressure started again. They told me to demand that Patrick let me perform occasionally or threaten to quit and find a new production.\n\nPatrick was never going to take my demands well, and I didn't want to have to find a new job, especially as I had worked so hard on this one. But I needed to remove the pressure from my family, and as I saw it, Patrick was the only thing blocking my path.\n\nThe idea of switching the poison crossed my mind early on and seemed like an easy option. But initially, I didn't want to kill him, just make him unable to perform. However, when he belittled me and my partner, it was humiliating. That's when I decided that his life being collateral damage was acceptable.\n\nThe hardest part was sneaking the acid from my partner's school lab, but after that, it was simple. I knew the idiot would become so immersed in his role that he would drink whatever was put into the vial. On the night itself, I made the switch when no one was looking, and everything went exactly to plan apart from being caught."
+        }
+    ]
+}

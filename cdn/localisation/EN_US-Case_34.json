@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_34_case_title",
+            "value": "TOO HOT TO HANDLE"
+        },
+        {
+            "key": "Case_34_case_subtitle",
+            "value": "Controversy surrounds a high-profile politician who is found dead in the hotel sauna."
+        },
+        {
+            "key": "Case_34_case_cover_bg",
+            "value": "TOO_HOT_TO_HANDLE"
+        },
+        {
+            "key": "Case_34_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_34_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_34_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_34_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_34_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_34_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_34_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_34_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_34_daily_news_headline",
+            "value": "HEAT RISES<br>ON THE PRESIDENT"
+        },
+        {
+            "key": "Case_34_daily_news_headline_image",
+            "value": "TOO_HOT_TO_HANDLE"
+        },
+        {
+            "key": "Case_34_daily_news_page_1",
+            "value": "President Flintoff (45) died in the early hours of Thursday morning while on her campaign tour, where she had hoped to be elected for a second term. Local reports suggest that she was staying at the Bartbridge Spa Hotel, where she was discovered by a member of her security team in the hotel's sauna, seemingly having died of natural causes.\n\nHaving recently been involved in some highly controversial discussions about whether or not to pull our country out of the Earth Protection League (EPL), it would be remiss of me as a reporter to overlook the symbolic nature of her death. The President was exposed to conditions where the temperatures had risen to dangerously high levels, which ultimately affected her health and led to her demise. The obvious analogy would be the planet and the effects of global warming, something the EPL was formed to combat.\n\nWith the President gone, Vice President Stokes steps in to fill the role until a new party leader has been elected. Having served under the late President for many years, he will be hoping to grab this opportunity with both hands. Let's hope it doesn't prove too hot to handle!\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_34_victim_name",
+            "value": "Heather Flintoff"
+        },
+        {
+            "key": "Case_34_victim_icon",
+            "value": "HeatherFlintoff"
+        },
+        {
+            "key": "Case_34_victim_age",
+            "value": "45"
+        },
+        {
+            "key": "Case_34_victim_cod",
+            "value": "Organ failure / hyperthermia"
+        },
+        {
+            "key": "Case_34_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was found by her bodyguard, who immediately reported the incident. While it initially appeared to be a case of death by natural causes, forensic evidence and the autopsy examination revealed that the victim had become trapped in the sauna and had struggled to escape. The sauna was designed for easy access to prevent such accidents, indicating that someone must have deliberately blocked the exit.\n\n<b>Discovery:</b>\n\nThe victim was discovered by her bodyguard at 12:15 a.m.\n\n<b>Time of Death:</b>\n\nMidnight, after being exposed to temperatures exceeding 80°C for approximately 30 minutes.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Forensic evidence indicating the victim struggled to escape the sauna.</indent>\n\n<b>Further Details:</b>\n\nInvestigators are interviewing the three individuals known to have spoken with the President on the evening of her death."
+        },
+        {
+            "key": "Case_34_suspect_1_name",
+            "value": "Jake Butler"
+        },
+        {
+            "key": "Case_34_suspect_1_icon",
+            "value": "JakeButler"
+        },
+        {
+            "key": "Case_34_suspect_1_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_34_suspect_1_occupation",
+            "value": "Victim's bodyguard"
+        },
+        {
+            "key": "Case_34_suspect_1_statement_page_1",
+            "value": "<b>Q: What did you do for the President?</b>\n<b>A:</b> I've been part of her personal security detail for a few years now. It was my job to stay with her at all times and ensure her safety. I'm ashamed to say that I was on duty the night she was killed. It happened under my watch, and it's something I'll never be able to get over.\n\n<b>Q: How was your relationship with the President?</b>\n<b>A:</b> We got to know each other over time. I enjoyed working for her; she treated me well and was always considerate of my personal needs, which I appreciated. A lot of the people I've worked for in the past didn't show the same respect for their security staff.\n\n<b>Q: Talk us through how you found the President's body?</b>\n<b>A:</b> She'd had a stressful day, and it was late, so she decided to use the hotel's spa facilities to unwind. This was normal for her; going late at night meant she had the pool and sauna to herself. For privacy, she requested that I wait in the spa's reception area. Her usual swim and sauna routine took around 60 minutes, so after 75 minutes, I went in to check on her, and that's when I found her. Not accompanying her into the spa that night was the first and only mistake of my career.\n\n<b>Q: What happened earlier that evening before the President went to the spa?</b>\n<b>A:</b> Earlier in the evening, she canceled an organized state dinner to eat privately with her partner in their hotel suite. This was unusual behavior, but how she chose to spend her time wasn't my business. She was later called into an urgent meeting with the Vice President (VP), and things got pretty tense; they were dealing with some sensitive issues. It ended with raised voices and the VP storming out in anger. By then, it was past 11 p.m., and that's when the President decided to go to the spa."
+        },
+        {
+            "key": "Case_34_suspect_2_name",
+            "value": "Daniel Stokes"
+        },
+        {
+            "key": "Case_34_suspect_2_icon",
+            "value": "DanielStokes"
+        },
+        {
+            "key": "Case_34_suspect_2_age",
+            "value": "53"
+        },
+        {
+            "key": "Case_34_suspect_2_occupation",
+            "value": "Victim's Vice President"
+        },
+        {
+            "key": "Case_34_suspect_2_statement_page_1",
+            "value": "<b>Q: How was your relationship with the President?</b>\n<b>A:</b> Strained. Running the country and trying to win an election at the same time is hectic, to say the least. The President and I have been disagreeing a lot recently on which direction to take the party. So much so that I've been tempted to go for her job and stand for leadership myself. \n\n<b>Q: What was your meeting with the President about that evening?</b>\n<b>A:</b> Some urgent matters had come up that needed to be addressed. I can't go into further detail as it's all confidential. Needless to say, we disagreed on most of the decisions that needed to be made, but unfortunately, I'm not the one in charge, so I didn't get the final say. Thankfully, the one thing we were finally able to agree on was the decision to pull out of the Earth Protection League, which we were planning to announce the next day. Her security guy, Jake, wasn't going to be happy about that; he was always taking time off to attend planet welfare rallies. I'm sure he wouldn't have been the only one; there are always plenty of principled people who disagree with whatever decision we make. \n\n<b>Q: Witnesses heard raised voices from your meeting before you stormed out in anger?</b>\n<b>A:</b> As I said, some urgent issues had arisen, and some of them were going to make our personal lives complicated. It had already been a long day, and this time I reached my limit. I expressed my frustration and left. I went straight to a bar I know down the road and met a friend for a drink in an attempt to relax. I might have been a little reckless, as we ended up staying there into the early hours of the morning. The news of the President's death, though, was quite sobering.\n\n<b>Q: What does the President's death mean for you now?</b>\n<b>A:</b> I'll be stepping in as acting President until a new party leader is elected. It sounds heartless to say, but I think it's worked out well. I've been ready for this for years, and I'm the right person to lead our party to victory."
+        },
+        {
+            "key": "Case_34_suspect_3_name",
+            "value": "Tammy Flintoff"
+        },
+        {
+            "key": "Case_34_suspect_3_icon",
+            "value": "TammyFlintoff"
+        },
+        {
+            "key": "Case_34_suspect_3_age",
+            "value": "38"
+        },
+        {
+            "key": "Case_34_suspect_3_occupation",
+            "value": "Victim's spouse"
+        },
+        {
+            "key": "Case_34_suspect_3_statement_page_1",
+            "value": "<b>Q: How was your relationship with the President?</b>\n<b>A:</b> Do you mean my wife, Heather? Not great, to be honest. If I'd known what it would be like being married to a politician, I'd have thought twice. I barely saw her, and when I did, she was distant. The stress and demands of her job were taking their toll on her mental and physical health, which strained our relationship. It wasn't helped by the fact that her Vice President was not-so-secretly trying to take her job.\n\n<b>Q: Heather cancelled a state dinner to eat with you that evening, why?</b>\n<b>A:</b> Because I asked her to. I had very little control over our lives, and sometimes I needed to be a little selfish to get her attention. On this occasion, I'd say it was a reasonable request. I had discovered earlier that day that she was having an affair, and I wanted answers. So, I arranged for us to have dinner alone in our room to get everything out in the open and have a meaningful conversation.\n\n<b>Q: How did she react when you confronted her about the affair?</b>\n<b>A:</b> She admitted it. I wasn't surprised. Over the years, the job had changed her, and neither of us was happy anymore. I decided it was time for a change and told her I wanted a divorce, which she agreed to without any fuss. She offered me a generous financial settlement if I agreed to stay with her as her 'loving partner' until after her next election. Her main concern was avoiding a messy divorce that would ruin her campaign.\n\n<b>Q: How did you feel about that?</b>\n<b>A:</b> It was upsetting to realize that I meant so little to her after all these years, but ultimately, we didn't love each other anymore. Unfortunately, I'd signed a prenup before we got married, which meant I wasn't owed anything in a divorce. So I needed to cooperate to take advantage of her generous settlement.\n\n<b>Q: What happened after your dinner?</b>\n<b>A:</b> Inevitably, Heather got called into an urgent meeting. She was always swept away like that, with no warning. I have no idea where she went – I gave up trying to keep track of her movements months ago. I spent the rest of the evening in our room, looking up properties I might be able to afford with the divorce settlement. The idea of a new house and a fresh start was quite exciting!"
+        },
+        {
+            "key": "Case_34_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_34_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>We know the time of death was midnight. Despite the Vice President (VP) falling out with the victim that night, he could not have been her killer, as he was in the bar with a friend until the early hours of the morning.</indent>\n\n- <indent=8%>The First Lady knows the President was called into an urgent meeting at the end of their dinner, but after that, she wouldn't have known her whereabouts, as Jake tells us the President's decision to go to the spa was made at the last minute. With a prenup in place, she would not benefit from the President's death. Considering she is excited about the prospect of a new house and a fresh start, her motivation would be to keep the President alive until the next election to take advantage of the financial settlement being offered.</indent>\n\n- <indent=8%>Based on the headlines, the only public information available about the President's death was that she died of natural causes in the sauna. Given this, it's highly suspicious that Jake Butler referred to her as having been killed.</indent>\n\n- <indent=8%>Despite being asked to wait in the spa reception, Jake was still the person closest to the victim at the time of her death. Due to the late hour and the lack of people around, he had the opportunity to commit the murder.</indent>\n\n- <indent=8%>We learn from the VP that Jake regularly takes time off work to attend planet welfare rallies. The VP also reveals that he and the President had agreed that night to pull out of the Earth Protection League the next day. Jake's knowledge of this might have given him a motive to stop her, and since he admits to knowing that sensitive subjects were discussed in that meeting, it's clear he was aware of what had been talked about.</indent>"
+        },
+        {
+            "key": "Case_34_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nDuring the President's urgent meeting with the Vice President, I overheard them arguing and panicking about being blackmailed for corruption and other illegal activity. They were being told that, to avoid their careers being destroyed or even worse, being put behind bars, they needed to pull our nation out of the Earth Protection League. To my astonishment, they agreed to do it! I thought the President had more dignity than that, but clearly, I had misjudged her.\n\nHer selfish disregard for global warming was disgusting, and I had to put a stop to her actions quickly. While waiting in the spa reception, I noticed a doorstop holding a door open, which gave me an idea. When she went into the sauna, I used it to block the door shut. Simple but effective. Once she was dead, I returned to the reception room and put the doorstop back where I found it. It didn't feel good, but it was a necessary evil. I knew the job was only half done, and I was already making plans to deal with the Vice President before you caught me."
+        }
+    ]
+}

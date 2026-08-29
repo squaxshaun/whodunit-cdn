@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_9_case_title",
+            "value": "GEARS OF DECEPTION"
+        },
+        {
+            "key": "Case_9_case_subtitle",
+            "value": "The untimely death of a superstar racer is witnessed by thousands when her vehicle is sabotaged."
+        },
+        {
+            "key": "Case_9_case_cover_bg",
+            "value": "GEARS_OF_DECEPTION"
+        },
+        {
+            "key": "Case_9_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_9_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_9_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_9_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_9_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_9_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_9_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_9_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_9_daily_news_headline",
+            "value": "SABOTAGE<br>AT STORMHAVEN"
+        },
+        {
+            "key": "Case_9_daily_news_headline_image",
+            "value": "GEARS_OF_DECEPTION"
+        },
+        {
+            "key": "Case_9_daily_news_page_1",
+            "value": "Yesterday, distinguished motorcycle racer and fan favorite, Tammy Throttle (28), had a fatal crash during the annual Stormhaven Circuit GP. It's reported that Tammy was going at a speed in excess of 180 mph when she lost control of her motorcycle and collided with the track barriers.\n\nAlthough the incident was initially considered an unfortunate human error, the investigating police released a statement today confirming they had discovered evidence of foul play.\n\nTammy's tragic and untimely death occurred amid controversy over the star's racing future. Only days before her death, Tammy had made clear her desire to end her current driver's contract, freeing her up to race for a rival manufacturer next season. It's widely reported that Tammy fell out with her current teammate and lifelong friend, Josie Spark, after she was rumored to have had relations with Tammy's husband. Whatever was occurring behind the scenes, we can be pretty sure that it was more than Tammy Throttle's need for speed that drove her to an early finish line.                                                        \n \n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_9_victim_name",
+            "value": "Tammy Throttle"
+        },
+        {
+            "key": "Case_9_victim_icon",
+            "value": "TammyThrottle"
+        },
+        {
+            "key": "Case_9_victim_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_9_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_9_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nA team of experts investigated the remains of the motorcycle wreckage and found evidence that the vehicle had been tampered with. The motorcycle had undergone thorough testing the evening before the race, indicating that the tampering occurred the morning of the race, before the start. Specifically, the brake lines feeding the calipers had been cut, which would have caused the motorcycle's brakes to fail after a period of riding. Video footage of the incident was analyzed and appears to confirm these findings.\n\n<b>Discovery:</b>\n\nThe crash was witnessed by thousands of spectators.\n\n<b>Time of Death:</b>\n\nApproximately 12:15 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Evidence of tampering with the brake lines was identified on the motorcycle.</indent>\n- <indent=8%>Video footage from the race was reviewed and supports the findings of tampering.</indent>\n- <indent=8%>A pre-race health check was conducted in accordance with race regulations, confirming the victim was fit and healthy.</indent>\n\n<b>Further Details</b>\n\nThree suspects have been linked to the suspicious death and have been taken in for questioning. Further investigation is ongoing."
+        },
+        {
+            "key": "Case_9_suspect_1_name",
+            "value": "Josie Spark"
+        },
+        {
+            "key": "Case_9_suspect_1_icon",
+            "value": "JosieSpark"
+        },
+        {
+            "key": "Case_9_suspect_1_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_9_suspect_1_occupation",
+            "value": "Victim's teammate"
+        },
+        {
+            "key": "Case_9_suspect_1_statement_page_1",
+            "value": "<b>Q: How was your relationship with Tammy?</b>\n<b>A:</b> We had been best friends since childhood, until the last couple of months when we fell out. I'm sure you've read in the press that we haven't been the best of friends since I slept with her husband.\n\n<b>Q: Why did you do that to your friend?</b>\n<b>A:</b> To be honest, I did it out of spite. Deep down, I was so sick of seeing Tammy live the dream life while I sat quietly in her shadow. I wanted to prove that I could take something from her if I wanted. I know it was a horrible thing to do, but I don't regret it. Mainly because it made Tammy realize what a bad person her husband was. I've always told her that he was only interested in her money, but she was too innocent to see it. He's cashing in on her substantial life insurance policy as we speak.\n\n<b>Q: What were your thoughts about Tammy's desire to transfer to a rival team?</b>\n<b>A:</b> I saw it as an opportunity. With Tammy gone, I could finally get the support and focus from the team that I need to start winning trophies myself.\n\n<b>Q: Where were you before the start of the race?</b>\n<b>A:</b> I was doing press conferences in the morning before I joined Tammy to go through all the normal pre-race routines. Although we had fallen out, when it came to race day, everything was amicable. As professional racers, we couldn't let our differences get in the way of the team's success.\n\n<b>Q: Can you think of anyone who would have wanted Tammy dead?</b>\n<b>A:</b> No. But I find it suspicious that Clive Clutch had money riding on the race. We knew he had a gambling addiction and was struggling financially, but betting on your team is weird, not to mention illegal. Thankfully, he seemed to take the loss well."
+        },
+        {
+            "key": "Case_9_suspect_2_name",
+            "value": "Penny Horn"
+        },
+        {
+            "key": "Case_9_suspect_2_icon",
+            "value": "PennyHorn"
+        },
+        {
+            "key": "Case_9_suspect_2_age",
+            "value": "45"
+        },
+        {
+            "key": "Case_9_suspect_2_occupation",
+            "value": "Victim's boss"
+        },
+        {
+            "key": "Case_9_suspect_2_statement_page_1",
+            "value": "<b>Q: How was your relationship with Tammy?</b>\n<b>A:</b> It was good. We've been friends for years, going right back to when she was a rookie. I was the one who discovered her. I don't know much about the bikes. Still, I could see Tammy had serious talent riding them and a lovable personality. It was a winning formula.\n\n<b>Q: It's been reported that you were so unhappy about Tammy wanting to end her contract that you were making the transfer negotiations difficult?</b>\n<b>A:</b> Of course! She won us the championship two seasons in a row, and she's a superstar with the fans. A driver of her status leaving under those circumstances would have been severely detrimental to my career. So yes, I'm happy to admit that I've been doing everything I can to stop her from leaving us to join a rival team.\n\n<b>Q: Where were you before the start of the race?</b>\n<b>A:</b> I spent most of the morning entertaining corporate sponsors. But thankfully, I did find time to go down to the garage and wish the riders luck before the race. Given how things have been recently, it's a small relief to know the last interaction I had with Tammy was positive.\n\n<b>Q: Can you think of anyone who would have wanted Tammy dead?</b>\n<b>A:</b> Tammy was a lovely person. The only one I can think of who didn't want the best for her was Josie Clutch. They used to be close friends, but years of being second best have led to a lot of jealousy and resentment on her part. I'd be looking at her."
+        },
+        {
+            "key": "Case_9_suspect_3_name",
+            "value": "Clive Clutch"
+        },
+        {
+            "key": "Case_9_suspect_3_icon",
+            "value": "CliveClutch"
+        },
+        {
+            "key": "Case_9_suspect_3_age",
+            "value": "35"
+        },
+        {
+            "key": "Case_9_suspect_3_occupation",
+            "value": "Victim's pit crew"
+        },
+        {
+            "key": "Case_9_suspect_3_statement_page_1",
+            "value": "<b>Q: How well did you know Tammy?</b>\n<b>A:</b> Quite well. I've been on her pit crew for the last two championship-winning seasons. I'm also good friends with her husband, who I often go out for beers with. The fact that they were getting a divorce put me in a difficult situation. On the one hand, I wanted to support her husband, who was upset by the situation and didn't want their relationship to end. Still, on the other hand, I didn't blame Tammy for leaving him after what he did.\n\n<b>Q: We have evidence that you had bet money on the outcome of the race?</b>\n<b>A:</b> I did place a bet, and in hindsight, I regret it. I was so certain of a victory that I put all my life savings on Tammy to win this race, as she had done throughout the season. Obviously, the outcome was not ideal, but I'll bounce back. I can't really make it about me when someone has died.\n\n<b>Q: How easy would it have been for someone to access Tammy's motorcycle and tamper with it before the race?</b>\n<b>A:</b> Easy enough. Anyone on the team can come into the garage at any time. But to render the brakes faulty in a way that meant it wasn't traced during Tammy's practice laps that morning was a clever move. It couldn't have been done after that, as there would have been too many people around right before the race.\n\n<b>Q: Can you think of anyone who would have wanted Tammy dead?</b>\n<b>A:</b> I sat in a team meeting recently where they were discussing Tammy's transfer request. Penny Horn, the team director, lost her temper and, in no uncertain terms, said in front of several people, \"If we can't have her, no one can.\" This stuck in my mind."
+        },
+        {
+            "key": "Case_9_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_9_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>To commit this murder, the killer needed 1) the technical ability to tamper with the motorcycle's brake system and 2) the opportunity to do it the morning of the race without being noticed.</indent>\n\n- <indent=8%>Penny admits she doesn't know much about bikes, so she likely lacked the technical knowledge. She also spent the morning with corporate sponsors, which left her without an opportunity.</indent>\n\n- <indent=8%>Josie, an experienced racer, had the knowledge to sabotage the bike. However, she spent the morning with the press before joining the victim for their pre-race routine, leaving her no opportunity.</indent>\n\n- <indent=8%>Clive, the team's mechanic, had both the technical ability and the opportunity. He also provided details about the vehicle tampering during his interview, details that were confidential and not released to the press, making him a prime suspect.</indent>"
+        },
+        {
+            "key": "Case_9_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI have been getting into deeper and deeper financial trouble lately due to my gambling addiction, and have been getting depressed as a result. I approached Tammy's husband and asked for help. He told me that he had been served with divorce papers and would also soon be in financial trouble. So together we came up with the idea of tampering with her vehicle and making it look like an accident; that way, he could claim her life insurance policy while he was still named on it. I had the technical knowledge to carry it out, and he had access to our financial security if it worked.\n\nI told people that I had placed my life savings on Tammy to win the race, knowing she wouldn't finish. I did this to divert any suspicion away from me, who in their right mind would kill someone and lose their life savings in doing so?! The truth is, I lost what little money I had left on the race, but I knew I had 100 times that amount coming my way when we split the insurance payout."
+        }
+    ]
+}

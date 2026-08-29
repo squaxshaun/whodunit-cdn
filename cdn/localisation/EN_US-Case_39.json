@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_39_case_title",
+            "value": "VEGAN VENGEANCE"
+        },
+        {
+            "key": "Case_39_case_subtitle",
+            "value": "A statement killing sees a slaughterhouse manager subjected to the same treatment the animals in their facility endure every day."
+        },
+        {
+            "key": "Case_39_case_cover_bg",
+            "value": "VEGAN_VENGEANCE"
+        },
+        {
+            "key": "Case_39_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_39_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_39_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_39_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_39_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_39_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_39_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_39_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_39_daily_news_headline",
+            "value": "CHAOS AT:<br>THE SLAUGHTERHOUSE"
+        },
+        {
+            "key": "Case_39_daily_news_headline_image",
+            "value": "VEGAN_VENGEANCE"
+        },
+        {
+            "key": "Case_39_daily_news_page_1",
+            "value": "On Friday morning, Jenny Porterhouse (48), the owner and manager of the county's largest slaughterhouse, was found murdered on the premises of her factory.\n\nA statement from the police confirmed the killer had subjected Ms. Porterhouse to the same treatment as the thousands of animals that enter her slaughterhouse facility every week. In most instances, such treatment refers to being stunned and subsequently bled to death before being processed for meat. Whoever said the meat industry wasn't cutthroat?!\n\nThe manner of her death means the possibility of a hate crime cannot be ignored. The nature of Jenny's work made her a controversial figure within the county's vegan and vegetarian community, who believe the methods employed by her facility to deal with animals are inhumane. Reports that business at her slaughterhouse had been halted by a protest in the days leading up to her death only support this theory.\n\nHowever, her reputation as a bloodthirsty businesswoman with an abrasive management style precedes her. Hence, having enemies within the meat-eating industry is also likely, especially when there is bad blood and the feelings are still raw.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_39_victim_name",
+            "value": "Jenny Porterhouse"
+        },
+        {
+            "key": "Case_39_victim_icon",
+            "value": "JennyPorterhouse"
+        },
+        {
+            "key": "Case_39_victim_age",
+            "value": "48"
+        },
+        {
+            "key": "Case_39_victim_cod",
+            "value": "Sharp force trauma"
+        },
+        {
+            "key": "Case_39_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim's work schedule shows their last meeting on Thursday was with an ex-employee, Billy Beef, at 7:00 p.m. in the victim's factory office. This was the last time anyone reported seeing the victim alive. The body was discovered in the same office early the next day.\n\nThe autopsy reveals that the victim had been shot in the head with a captive bolt (a pressurized air gun used to stun animals by driving a metal bolt into their head) and then subsequently had their throat cut, causing death by loss of blood.\n\nThe captive bolt used on the victim was left at the scene. Fingerprints of multiple factory employees were discovered on it.\n\n<b>Discovery:</b>\n\nThe victim was found in their office on Friday morning by a factory worker arriving for work.\n\n<b>Time of Death:</b>\n\nThe autopsy established the time of death as between 7:00 p.m. and 8:00 p.m. on Thursday.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The victim's work schedule showing a meeting with an ex-employee at 7:00 p.m.</indent>\n- <indent=8%>A bank transfer from the victim to the same ex-employee at 7:35 p.m.</indent>\n- <indent=8%>A one-minute call from the victim to their assistant at 7:45 p.m.</indent>\n- <indent=8%>An email sent from the personal assistant's work computer to the victim at 8:20 p.m. saying, \"I'm sorry it came to this, goodbye.\"</indent>\n\n<b>Further Details:</b>\n\nThree suspects have been brought in for questioning, all of whom were near the scene of the crime that evening and whose fingerprints were on the murder weapon."
+        },
+        {
+            "key": "Case_39_suspect_1_name",
+            "value": "Billy Beef"
+        },
+        {
+            "key": "Case_39_suspect_1_icon",
+            "value": "BillyBeef"
+        },
+        {
+            "key": "Case_39_suspect_1_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_39_suspect_1_occupation",
+            "value": "Victim's ex-employee"
+        },
+        {
+            "key": "Case_39_suspect_1_statement_page_1",
+            "value": "<b>Q: How well did you know Jenny Porterhouse?</b>\n<b>A:</b> She recently hired me to work at her slaughterhouse. I was desperate for the money, but I only managed to last a week before quitting. It was long enough to see that Jenny wasn't a nice person. Aside from bullying her employees, she got an unhealthy satisfaction out of her work, which is disturbing when you consider that it consisted of killing animals.\n\n<b>Q: We understand that you started a protest after you quit?</b>\n<b>A:</b> Correct. I was pretty ignorant when I took the job. I knew what it involved, but upon arrival, I was shocked by the treatment of the animals. I'm not an eco-warrior, and I've always eaten meat, but what I saw impacted me so much that I felt the need to do something. I went straight outside and chained myself to the facility's entrance gate.\n\n<b>Q: Was your protest having any impact?</b>\n<b>A:</b> I blocked access for vehicles in and out of the facility, essentially halting production entirely so that I would say yes. I was there for three days before Jenny's death. I even attracted interest from a journalist who came to do a story on me.\n\n<b>Q: Jenny's schedule shows you had a meeting with her at 7:00 p.m. the night she died?</b>\n<b>A:</b> Yes. She invited me in to negotiate. The meeting didn't last long; my protest was having an impact, and she was desperate for it to stop. She offered me a lot of money to go away. I was conflicted. On one hand, it felt like I was doing something worthwhile, but on the other, I needed the money. She was offering me more than I could hope to make in six months, so in the end, I took it! I told her to transfer the money that night, or I would come back. She was true to her word and made the transfer less than half an hour later, which was great timing since I had just met a friend in town for food, and I hadn't eaten properly in days!\n\n<b>Q: Was there anyone else at the factory that evening?</b>\n<b>A:</b> Not that I noticed. The only other person I saw was a journalist named Tandy, who was waiting for me by the entrance gate as I came out. She was doing a story on my protest and wanted to know how the meeting had gone. She seemed disappointed by my decision to take the money, but she didn't understand how much I needed it."
+        },
+        {
+            "key": "Case_39_suspect_2_name",
+            "value": "Tandy Tofu"
+        },
+        {
+            "key": "Case_39_suspect_2_icon",
+            "value": "TandyTofu"
+        },
+        {
+            "key": "Case_39_suspect_2_age",
+            "value": "32"
+        },
+        {
+            "key": "Case_39_suspect_2_occupation",
+            "value": "Journalist"
+        },
+        {
+            "key": "Case_39_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Jenny Porterhouse?</b>\n<b>A:</b> I barely knew her. We met for the first time earlier that week when she gave me a tour of her factory.\n\n<b>Q: Why were you touring her slaughterhouse?</b>\n<b>A:</b> I'm a journalist for The Vegan Times. I'd heard some disturbing rumors about how her factory was being run, which prompted me to write an article about the place. I went undercover. As far as Jenny was concerned, I was conducting industry research on the most efficient and humane way to slaughter animals. It was concerning how eager she was to give me the tour, and even more so, how much she enjoyed demonstrating all the different methods they had for killing the animals. It was a relief that I didn't have to do any of it myself; I just stood back and closed my eyes.\n\n<b>Q: Were the rumors true?</b>\n<b>A:</b> Sadly, yes. Research has proven that the nature of slaughterhouses is inhumane anyway, but the practices in this one were truly awful. The levels of intense stress they subjected the animals to were completely unnecessary. In some cases, I could see that the animals remained completely conscious throughout the bleeding process. It was shocking to witness.\n\n<b>Q: Why were you on the slaughterhouse premises on the evening Jenny died?</b>\n<b>A:</b> To clarify, I was waiting outside the premises, and I was there to see Billy after his meeting. On the day of my tour, Billy confronted Jenny about the treatment of animals and quit working for her. I found out later that day that he had chained himself to the facility's front gate in protest. I knew that the things I had seen would make a good article, but ultimately, its effect would be like a drop in the ocean, and nothing would change. However, combining my research with the story of Billy's protest would make the article more impactful. I spent a lot of time with Billy during his protest to document the story.\n\n<b>Q: Did you see Billy after he met with Jenny?</b>\n<b>A:</b> Yes, it wasn't a long wait; he was only in there for 10 minutes. As he came out, he told me he was finished with the protest. When I asked why, he just smiled at me and said, \"My job is done here.\" It was frustrating to consider the impact his decision would have on my article, especially after investing a lot of time in it. But it was also sad to see a passionate person who was making such a positive impact give up like that. I packed my things and made the long drive home after he gave me the news."
+        },
+        {
+            "key": "Case_39_suspect_3_name",
+            "value": "Christie Bacon"
+        },
+        {
+            "key": "Case_39_suspect_3_icon",
+            "value": "ChristieBacon"
+        },
+        {
+            "key": "Case_39_suspect_3_age",
+            "value": "22"
+        },
+        {
+            "key": "Case_39_suspect_3_occupation",
+            "value": "Victim's personal assistant"
+        },
+        {
+            "key": "Case_39_suspect_3_statement_page_1",
+            "value": "<b>Q: How well did you know Jenny Porterhouse?</b>\n<b>A:</b> Pretty well. I have been her administrative assistant for nearly a year. She and my parents are good friends, which is how I got the job.\n\n<b>Q: Did you like working for her?</b>\n<b>A:</b> Not really. She made fun of me a lot, mostly for being a vegetarian and working at a slaughterhouse, but I ignored it. I don't like the idea of harming animals. Still, when I first arrived, Jenny forced me to have a go, saying I needed to toughen up and understand what the business was all about. I fainted at the first sign of blood, so thankfully, I was allowed to stay in the office after that and avoid the factory floor.\n\n<b>Q: If you don't like the idea of harming animals, why did you stay working there?</b>\n<b>A:</b> My parents told me I needed a job and said it would be good to learn about running a successful business from Jenny. I guess I persuaded myself that I wasn't doing the harm and just turned the other way. It wasn't until Billy came along and opened my eyes to what was right and wrong. He was the first person to be kind to me. It was a shame when he quit after only a week, but I thought his protest was brilliant, and it meant I still got to see him.\n\n<b>Q: What were you doing between 7:00 p.m. and 8:00 p.m. the evening Jenny was killed?</b>\n<b>A:</b> I was at home with my parents, a 20-minute drive away. Billy's protest meant there wasn't much going on at work, so Jenny reluctantly sent everyone home early that day. That evening, I received a voice message from Jenny asking me to inform all the workers to arrive at work extra early the next day, as the factory would be open as usual. She had gotten rid of Billy. Her voicemail made me anxious, and I realized it was because I didn't want to return to work as usual, especially since Billy wouldn't be there anymore.\n\n<b>Q: What did you do?</b>\n<b>A:</b> I decided to quit my job; it wasn't making me feel good, and seeing Billy do it earlier in the week was inspirational. However, I'm not good at confrontations and thought it was best if I left quietly, so I jumped in the car a few minutes later and drove to the slaughterhouse to pack up all my belongings. Thankfully, Jenny's office light wasn't on, so I didn't have to deal with her face-to-face. The last thing I did before I left the office was send Jenny an email apologizing."
+        },
+        {
+            "key": "Case_39_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_39_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%> Billy's meeting with the victim occurred at 7:00 p.m., within the time of death window, but we learn from Tandy that it lasted only 10 minutes. Billy then received an online money transfer from the victim at 7:40 p.m., just as he was meeting a friend in town for dinner. This indicates the victim was still alive almost half an hour after their meeting, giving Billy an alibi for the remainder of the time of death window.</indent>\n\n- <indent=8%>Christie faints at the sight of blood, making her an unlikely killer in a case where the victim bled to death. Additionally, she was at home with her parents, 20 minutes away, when she received a voicemail from the victim at 7:45 p.m., further proving her innocence. She only decided to drive to the slaughterhouse after receiving the voicemail, meaning the victim was already dead by the time she arrived.</indent>\n\n- <indent=8%>Tandy, however, was at the slaughterhouse premises during the time of death window, as she was waiting for Billy to finish his meeting with the victim. Her actions after speaking with Billy are unverifiable, as she claims she \"made the long drive home.\"</indent> \n\n- <indent=8%>The police report states that all three suspects' fingerprints were found on the captive bolt used to kill the victim. Billy's and Christie's prints are explainable, as they worked at the factory and had used the weapon before. However, Tandy's prints on the weapon have no plausible explanation. She only visited the slaughterhouse for a guided tour. Specifically, she mentioned being relieved that she wasn't required to use any of the equipment herself.</indent>  "
+        },
+        {
+            "key": "Case_39_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI was gutted when Billy came out of his meeting with Jenny and said he was giving up on his protest. I had spent the last five days with him documenting the story and was fully invested in following it through to the end. I'd already had to convince my editor to let me work on the story, and I was under a lot of pressure to make it impactful, which it was going to be, until then.\n\nI knew I couldn't go back without something juicy and meaningful. So I decided that I'd have to finish the story myself, and for it to make a difference, something drastic needed to happen. That's when I decided that Jenny needed to die. I could see it already: 'Slaughterhouse Owner Murdered by Ex-Employee in Protest of Animal Mistreatment.' It's good. Killing her in the same manner as she killed the animals was meant to draw the ignorant readers' attention to how inhumane the whole process is. I can only hope that in her last minutes, Jenny experienced a portion of the stress that so many of her animals do, as she, half-stunned, watched the blood flow from her neck."
+        }
+    ]
+}

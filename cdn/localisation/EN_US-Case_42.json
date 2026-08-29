@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_42_case_title",
+            "value": "DEATH BY TRADITION"
+        },
+        {
+            "key": "Case_42_case_subtitle",
+            "value": "A pro golfer is found murdered during the final stages of a prestigious tournament"
+        },
+        {
+            "key": "Case_42_case_cover_bg",
+            "value": "DEATH_BY_TRADITION"
+        },
+        {
+            "key": "Case_42_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_42_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_42_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_42_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_42_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_42_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_42_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_42_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_42_daily_news_headline",
+            "value": "GOLFING ICON MURDERED<br>AT THE VIRTUOSOS"
+        },
+        {
+            "key": "Case_42_daily_news_headline_image",
+            "value": "DEATH_BY_TRADITION"
+        },
+        {
+            "key": "Case_42_daily_news_page_1",
+            "value": "On Sunday morning, the golfing world was shocked to its core when world No. 1 Adrian Bruce-Kerr (aged 43) was found murdered shortly before he was due to take the course for the final round of the prestigious ‘Virtuosos tournament’. Drenched in history and tradition, the tournament offers by far the biggest prize money of the season and is considered by many players to be the pinnacle event of the year.\n\nOn this occasion, everything looked set for a tense and engrossing showdown between Mr Bruce-Kerr and two of the tour's other main attractions - long-time rival Cam Boucher, and rookie sensation Jaydon Mount. Records were set to be broken whoever lifted the ultimate prize, but the talk on everyone's lips was that of Mr Bruce-Kerr becoming the first player in the history of the sport to win the oldest running event twice in a row…it appears that while Mr Bruce-Kerr’s focus was on back-to-back wins, perhaps he should have been more concerned about his own back!\n\nThe police are giving little away about the crime itself, which is about par for the course in such investigations, especially with so much media interest. All golfing fans can do at this point in time is hope the detectives play the evidence as it lies, and avoid the yips when it comes to catching the murderer.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_42_victim_name",
+            "value": "Adrian Bruce-Kerr"
+        },
+        {
+            "key": "Case_42_victim_icon",
+            "value": "AdrianBruceKerr"
+        },
+        {
+            "key": "Case_42_victim_age",
+            "value": "43"
+        },
+        {
+            "key": "Case_42_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_42_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was due to tee off at 11 a.m. alongside Cam Boucher. Upon not showing up, his caddy went to look for him and moments later found his body in the 'Champions’ changing room, a several-minute walk away. An exclusive facility reserved only for past winners of the tournament.  \n\nThe pathologist's report establishes the cause of death as blunt force trauma to the head. A bloodied golf club, specifically a 7 iron belonging to the victim, was found at the scene. It’s been confirmed as the weapon used to deal the instantly fatal blow. No evidence was found on the object to help identify the perpetrator.  \n\n<b>Discovery:</b>\nThe victim's caddy found the body in the Champions changing room at 11:04 a.m. and immediately called for help. The authorities were there within minutes to declare the victim deceased and to cancel the remainder of the tournament.\n\n<b>Time of Death:</b>\n\nAutopsy established the victim had been dead for no more than 30 minutes before they were discovered.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Forensics collected numerous DNA samples from the Champions changing room, and matched them to a handful of past winners that were in attendance at the club that day.</indent>\n- <indent=8%>A further match was made with rookie player Jaydon Mount, whose previous day's scorecard was found at the scene.</indent>\n- <indent=8%>The victim's phone shows an attempted call to the clubhouse security at 10:55 a.m. The call ended before it could be answered.</indent>\n\n<b>Further Details:</b>\n\nJaydon Mount and two previous winners in attendance that day, whose DNA was discovered in the changing room, have been brought in for questioning."
+        },
+        {
+            "key": "Case_42_suspect_1_name",
+            "value": "Jaydon Mount"
+        },
+        {
+            "key": "Case_42_suspect_1_icon",
+            "value": "JaydonMount"
+        },
+        {
+            "key": "Case_42_suspect_1_age",
+            "value": "21"
+        },
+        {
+            "key": "Case_42_suspect_1_occupation",
+            "value": "Rival golfer"
+        },
+        {
+            "key": "Case_42_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Adrian Bruce-Kerr?</b>\n<b>A:</b> I liked him. It was only my first season on the tour, so I didn't know him well. But we've gone up against each other a few times. He was a competitive guy; I like that in a person. \n\n<b>Q: Have you ever been into the club's ‘champions’ changing room?</b>\n<b>A:</b> Why? Is that where he was killed?\n\n<b>Q: It’s where his body was found. It’s also where we found your previous day's scorecard. Strange place for it to be considering you’re not a champion?</b>\n<b>A:</b> It’s only a matter of time before I am. Besides, anyone could have taken that scorecard in there; I lost it the day before. \n\n<b>Q: Cut the crap, Jaydon, this is a serious situation. You admitted on live TV only minutes before his body was found that you had snuck into the changing room that very morning. Care to explain?</b>\n<b>A:</b> Ah, you were watching my press conference? Must be fans! It's true I managed to sneak into the Champions room that morning. I only popped in for fun to see what all the hype was about. As you’ll know from the press conference, I found it underwhelming, much like all the other pointless and shallow traditions they have at that club. I mean, who the hell even wears a blazer these days?!  \n\n<b>Q: How did you get access to the room?</b>\n<b>A:</b> I borrowed a pass from an old fart who claimed to have won the tournament way back before my parents were even born. His name was Ronnie Taylor or something, a proper old guy. I’m guessing he hasn't been able to get round 18 in a very long time. He was in the club bar when he overheard me make a joke about needing to see the room to believe it existed.  To my surprise, he chirped up and said I could take his pass and go take a look. I think he was showing off to his family by being friendly with me. \n\n<b>Q: Was there anyone else in the ‘Champions’ room when you went in?</b>\n<b>A:</b> Not at first. But soon after entering, Adrian Bruce-Kerr came in. His tee time was soon, and he had his game face on. I saw an opportunity to have a little fun and wind him up, so I got my phone out and pretended to film him ‘behind the scenes’. I guess this is when my scorecard fell out. Unsurprisingly, he wasn't in the mood and threw me out; he said I was mocking years of tradition by being there…as you know, I made my feelings on the subject pretty clear at the press conference.\n\n<b>Q: If you dislike the clubs and its values so much, why play in the tournament?</b>\n<b>A:</b> It's not going to change on its own; it needs someone like me from an underprivileged background to come and shake things up. What better way to do that than to be the youngest player to ever win, and to have done it in my first season whilst showing no respect to its pompous history…It would have been a real statement!\n\n<b>Q: So despite your relaxed, mocking persona, is it fair to say you wanted to win at all costs?  </b>\n<b>A:</b> I was there to win, plain and simple…but then so was Adrian, and Cam Boucher for that matter; you only have to look at the altercation between those two at the driving range earlier that morning to know that the stakes were high!"
+        },
+        {
+            "key": "Case_42_suspect_2_name",
+            "value": "Cam Boucher"
+        },
+        {
+            "key": "Case_42_suspect_2_icon",
+            "value": "CamBoucher"
+        },
+        {
+            "key": "Case_42_suspect_2_age",
+            "value": "41"
+        },
+        {
+            "key": "Case_42_suspect_2_occupation",
+            "value": "Rival golfer"
+        },
+        {
+            "key": "Case_42_suspect_2_statement_page_1",
+            "value": "<b>Q: We understand that you and Adrian Bruce-Kerr have a history?</b>\n<b>A:</b> You could call it that. We’ve been competing against each other for the last twenty years. We’ve both had successful periods, but sadly the stats will show that overall he came out on top. Although it hurts to admit that, it’s not something I’d kill him over!\n\n<b>Q: When did you last see Adrian on Sunday?</b>\n<b>A:</b> I saw him in the champions room not more than 10 minutes before our tee time; we were going head to head that day. He was sitting in silence, clearly going through some visualization; I just popped in to grab my cap, and we didn't speak. I went straight from there out to the tee.\n\n<b>Q: That makes you the last person who admits to seeing him alive.</b>\n<b>A:</b> If I were in fact the last person, then I am either too honest for my own good, or very stupid…Listen, I got to the tee with my caddy at least 5 minutes before our due start time; that leaves plenty of time for someone else to have got to him. You can’t genuinely believe that I was involved?\n\n<b>Q: The facts make you hard to overlook, especially considering your altercation with the victim earlier that morning. Can you explain what happened?</b>\n<b>A:</b> I assume you are referring to our face-off at the driving range? That was just the result of the pressure we were both under bubbling to the surface. We were warming up in the same area, and I made some comments to try and get into his head; he responded with some remarks about my personal life which I took exception to…I raised my club at him just to point in his face. I wouldn't have actually touched him; I know where the limits are.\n\n<b>Q: What were the remarks you took exception to?</b>\n<b>A:</b> I’m sure you know all about my personal life from the media already. I'm going through a messy divorce at the moment; there have even been allegations of stalking - none of it's true, but that doesn't stop people talking like it is. I was angry at the time, but realised afterwards that it was exactly the sort of heated moment I needed to get me fired up for the day's play. \n\n<b>Q: It would have been the second time you’d won the tournament in your career. Is that correct?</b>\n<b>A:</b> Yes. Although winning this time would have meant so much more, I’ve been having a poor season due to the things going on at home, and the prize money would have been a huge relief. At this stage in my career, I don't know if I'll make a comeback, so I need to make hay while the sun shines. The only thing standing in my way was Adrian, and possibly Jaydon Mount, but I didn't see him as much of a threat.\n\n<b>Q: Why do you think someone would have wanted to harm Adrian?</b>\n<b>A:</b> Plenty of people out there were jealous of him - he was an icon of the game, and he knew it! At the pre-tournament champions dinner, he gave a speech in which he announced how he fully intended to win the tournament again this year, bold statements considering it had never been done before! This arrogance rubbed some people up the wrong way. I remember hearing one of the past winners, Ronnie Taylor, saying, ‘someone needs to kill this man’. Thinking back now, that’s pretty sinister. "
+        },
+        {
+            "key": "Case_42_suspect_3_name",
+            "value": "Ronnie Taylor"
+        },
+        {
+            "key": "Case_42_suspect_3_icon",
+            "value": "RonnieTaylor"
+        },
+        {
+            "key": "Case_42_suspect_3_age",
+            "value": "73"
+        },
+        {
+            "key": "Case_42_suspect_3_occupation",
+            "value": "Retired golfer"
+        },
+        {
+            "key": "Case_42_suspect_3_statement_page_1",
+            "value": "<b>Q: What were you doing at the club on Sunday?</b>\n<b>A:</b> I was there to spectate and enjoy the unique atmosphere that only the Virtuosos can deliver. I retired from playing 15 years ago, but having been fortunate enough to win the tournament several decades ago, I still have all the winners' perks. I am literally one of the ‘pointless old traditions’ Jaydon Mount referred to in his press conference! A weaker personality would have been offended; thankfully I saw the funny side to it. Sunday was a special occasion as I had my grandchildren with me who were experiencing it for the first time.\n\n<b>Q: What were you doing between 10:30 a.m. and 11 a.m. specifically?</b>\n<b>A:</b> I was mingling in the club bar from when I arrived around 9 a.m.; I then went to watch the 11 a.m. tee time. I wanted to see Adrian and Cam start their round; they were the main event as far as I was concerned. But as you know, Adrian never showed, and the tournament was subsequently cancelled.\n\n<b>Q: We understand that at some point that morning you gave Jaydon Mount your club pass, which allows access to the Champions dressing room. Why?</b>\n<b>A:</b> His tee time wasn't until later, and he was in the bar talking to people. I could see my grandkids light up when he entered the room; it was the first time they had shown any real interest all morning. I overheard him saying something about wanting to see what the winners' perks were all about, so I thought it would be fun to offer him my pass for a minute to go check out the changing room. I haven't been there since my playing days, but I’d heard that other than a bit of redecoration it hadn't changed much.\n\n<b>Q:  Did you see Jaydon again after that?</b>\n<b>A:</b> Only when he returned my pass; the next thing I know he’s doing a live press conference in which he rips into the club and its traditions. I regretted helping him when he made those comments. Why are you asking about Jaydon? Is he involved in what happened to Adrian? If he is, I'll never forgive myself. You have to believe me: had I known something untoward was going to happen in those changing rooms, I would have never given Jaydon access. \n\n<b>Q: Jaydon is a suspect, yes. But at this point so are you. We have a witness who overheard you say “someone needs to kill this man” during the victim's speech at the pre-tournament champions dinner. Is this true?</b>\n<b>A:</b> Surely you can't be serious?! That is taken completely out of context. I was referring to Adrian's golf, suggesting that someone needed to kill his career! Many of us had already seen the guy take our records, many of which had stood for decades, and now here he was announcing in no uncertain terms that he was going to be the first person in history to win the tournament back. My comment was intended as a joke, a lighthearted way of saying someone had to stop him. If you suspect me because of that, then I assume you must also be looking at Cam Boucher? I saw the video clip of the altercation between him and Adrian at the driving range that morning; there was real animosity in that incident. Which isn't a surprise; rumours around the club are that Cam has been bankrupted by his divorce and is desperate."
+        },
+        {
+            "key": "Case_42_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_42_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The death occurred no more than 30 minutes before the body was found at 11:04 a.m. Considering Cam Boucher admits to seeing the victim alive in the changing room 10 minutes before their planned tee time of 11 a.m., we can reduce the time frame to between 10:50 a.m. and 11:04 a.m. In doing so, we can remove Jaydon from our list of suspects, as he was in a live TV press conference from 10:45 a.m. until the announcement came that the tournament was being cancelled due to the discovery.</indent>\n\n- <indent=8%>We learn that Cam got to the first tee location with his caddy 5 minutes before 11 a.m., which was their designated tee time. The victim's phone found at the scene logged an unanswered call to the club's security at 10:55 a.m., which means either the victim was still alive at this time or someone else used his phone. Whichever it may be, neither Jaydon nor Cam could have been there.</indent>\n\n- <indent=8%>Ronnie is the only suspect who doesn't have a clear-cut alibi for this time period; all we are told is that he was ‘mingling in the bar’. In his testimony, he refers to the death as ‘something untoward happening in the champions changing room’; this shows knowledge of the crime, specifically where it took place, information he would not know unless he had been to the crime scene. He goes further to incriminate himself when he states that he hasn't been into the changing rooms since his playing days, which we learn ended 15 years ago when he retired. Considering the police report confirms that his DNA was one of the matches for the samples taken from the crime scene, we know he is lying.</indent>"
+        },
+        {
+            "key": "Case_42_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI reached the end of my tether that morning, and unfortunately Adrian took the brunt of how I was feeling. \n\nI’ve always loved the Virtuosos Tournament. I go every few years as a way to see people and stay connected with the game that has given me so much. But things had changed, and age had caught up with me. I no longer knew many people, and people certainly didn't recognise me anymore. I’d never felt so irrelevant, and the feeling was exaggerated by having my teenage grandkids with me who didn't understand or seem to care that I used to be one of the pros. The only time they showed interest in being there was when the current stars walked by. That's why I lent Jaydon Mount my access pass, as a way of proving to them that I am also a part of this world. I was embarrassed when later in his press conference he referred to ‘old farts’ like me who were holding on to ancient traditions as if it gave them a personality…my grandkids found his comments hilarious, and frankly the truth hurt. \n\nIt’s silly now I look back, but the reason I went to the Champions changing room was to get a picture with Adrian. My grandkids, like the rest of the world, were big fans of his, and they didn't believe me when I told them that I knew him. I thought a photo of the two of us together in an exclusive winners-only room would prove that I was still relevant. \n\nAs soon as I got in there, it was clear I had disturbed his pre-game rituals, and he wasn't happy. Before I could apologize, he said, ‘what is it with you idiots? This is an access-only room,’ he then used explicit language telling me to leave…I apologized for disrupting him but followed it by saying that as a past winner I actually was allowed in that room, and have been since before he was born! He just stared at me for a moment before saying that I ‘must have dementia’ and that he was calling security. It was clear he had no idea who I was despite us having sat together at the Champions Dinner only the night before! The feelings I had been having all morning had been verified there and then by the game's greatest player. \n\nHe turned to his locker, grabbed his phone and started to call security. Things escalated in an instant; before I knew it, I had grabbed a golf club from his bag and struck him hard to the head…I regretted my actions at once, but it was too late. I wiped the club down and went straight to the tee time he was due at, and waited for him to not arrive.\n\nThe sport has given me a good life - but seeing everything you've achieved be overtaken and forgotten left me feeling useless and empty. When Adrian, an icon of the game, treated me like that, I became numb to my actions. "
+        }
+    ]
+}

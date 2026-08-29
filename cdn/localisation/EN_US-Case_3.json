@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_3_case_title",
+            "value": "DEAD TIRED"
+        },
+        {
+            "key": "Case_3_case_subtitle",
+            "value": "A fire station is thrown into turmoil when a long-serving hero dies in their sleep."
+        },
+        {
+            "key": "Case_3_case_cover_bg",
+            "value": "DEAD_TIRED"
+        },
+        {
+            "key": "Case_3_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_3_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_3_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_3_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_3_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_3_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_3_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_3_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_3_daily_news_headline",
+            "value": "FIREFIGHTER FRED'S<br>MYSTERIOUS DEATH"
+        },
+        {
+            "key": "Case_3_daily_news_headline_image",
+            "value": "DEAD_TIRED"
+        },
+        {
+            "key": "Case_3_daily_news_page_1",
+            "value": "In the early hours of Monday morning, Firefighter Fred Hayter was found dead in his bed at the Charlestown Fire Station. It's understood that Fred was on duty at the station when he went to sleep in his dorm and never woke up. He was only discovered by crewmates when he failed to respond to an emergency call later that night.\n\nDescribed by colleagues as a \"big person,\" referring to both his outgoing personality and large stature, Fred was known for being a fitness enthusiast and an all-around joker.\n\nOver the years, Fred had been involved in some high-profile rescues and had recently been promoted to Captain. His death came as a shock to his colleagues, who at this point believe he died peacefully in his sleep. Investigations are underway to establish exactly what happened. Surely an action man like Fred Hayter, who was arguably a hero to many and destined to go down in a blaze of glory, didn't simply pass away in his sleep? We'll see what the truth brings.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_3_victim_name",
+            "value": "Fred Hayter"
+        },
+        {
+            "key": "Case_3_victim_icon",
+            "value": "FredHayter"
+        },
+        {
+            "key": "Case_3_victim_age",
+            "value": "33"
+        },
+        {
+            "key": "Case_3_victim_cod",
+            "value": "Suffocation"
+        },
+        {
+            "key": "Case_3_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim went to bed at 9:30 p.m., a routine time for him. No further contact was made with the victim that night. Although the crime scene initially showed no signs of foul play, the postmortem confirmed the cause of death as suffocation.\n\n<b>Discovery:</b>\n\nThe victim's body was discovered at 1:00 a.m. the following morning.\n\n<b>Time of Death:</b>\n\nThe time of death has been established between 10:30 p.m. and 11:30 p.m. that evening.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Postmortem evidence indicating suffocation with a pillow.</indent>\n- <indent=8%>Subtle signs of a struggle observed on the victim's body.</indent>\n\n<b>Further Details:</b>\n\nThree suspects who were at the station that night are currently being interviewed."
+        },
+        {
+            "key": "Case_3_suspect_1_name",
+            "value": "Mike Willis"
+        },
+        {
+            "key": "Case_3_suspect_1_icon",
+            "value": "MikeWillis"
+        },
+        {
+            "key": "Case_3_suspect_1_age",
+            "value": "51"
+        },
+        {
+            "key": "Case_3_suspect_1_occupation",
+            "value": "Victim's boss"
+        },
+        {
+            "key": "Case_3_suspect_1_statement_page_1",
+            "value": "<b>Q: Where were you the evening of Fred's death?</b>\n<b>A:</b> I wasn't on duty, so I didn't need to be at the station, but I decided to go in that evening to work through a load of admin before I went on vacation. I was in my office most of the time, but I stayed and had a chat with some of the guys before I left at 10:30 p.m. Fred had already gone to bed by then.\n\n<b>Q: What was your relationship like with Fred?</b>\n<b>A:</b> Fred was a great firefighter, an asset to the team when we were called into action. But he was also a complex character. He wasn't particularly well-liked around here and rubbed most people the wrong way, including me. He especially enjoyed pulling pranks on the rookies. There was a particularly nasty one he pulled on Matt recently while he was asleep. Being killed in a similar way is karma, I suppose.\n\n<b>Q: Knowing his personality and reputation, why was he promoted recently?</b>\n<b>A:</b> Good question. That decision was out of my hands, unfortunately. He did have an exceptional record of service, but he wasn't my first choice. I had actually been exploring options to get rid of him."
+        },
+        {
+            "key": "Case_3_suspect_2_name",
+            "value": "Kate Johnston"
+        },
+        {
+            "key": "Case_3_suspect_2_icon",
+            "value": "KateJohnston"
+        },
+        {
+            "key": "Case_3_suspect_2_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_3_suspect_2_occupation",
+            "value": "Victim's crewmate"
+        },
+        {
+            "key": "Case_3_suspect_2_statement_page_1",
+            "value": "<b>Q: Where were you the evening of Fred's death?</b>\n<b>A:</b> I was off duty that day, so I wasn't at the station. However, I did drop in to get my wallet, which I'd left in my locker. That was around 9:45 p.m. I was in and out in 2 minutes max. The station's external video cameras should have picked me up. I didn't see anyone; I was trying to avoid being there any longer than I had to on my day off.\n\n<b>Q: What was your relationship like with Fred?</b>\n<b>A:</b> I struggled with him. He was unprofessional and rude, and he also bullied the younger, less confident guys. Poor Matt had been taking the brunt of it recently. I think Fred thought he was being funny, but it just pissed people off. I hate to speak ill of the dead, but dying peacefully in his sleep was the only thoughtful thing he did for the rest of us.\n\n<b>Q: You also applied for the promotion that Fred recently got. How did that make you feel?</b>\n<b>A:</b> I was surprised. I thought the promotion was mine; the Chief specifically asked me to put my name forward. I knew Fred must have done something underhanded, as it made no sense for him to get it. After some digging around, I discovered that he was blackmailing the Chief. I don't know how, but it must have been important, because the Chief's a big, tough guy; he doesn't usually suffer fools."
+        },
+        {
+            "key": "Case_3_suspect_3_name",
+            "value": "Matt Alexson"
+        },
+        {
+            "key": "Case_3_suspect_3_icon",
+            "value": "MattAlexson"
+        },
+        {
+            "key": "Case_3_suspect_3_age",
+            "value": "21"
+        },
+        {
+            "key": "Case_3_suspect_3_occupation",
+            "value": "Victim's crewmate"
+        },
+        {
+            "key": "Case_3_suspect_3_statement_page_1",
+            "value": "<b>Q: Where were you the evening of Fred's death?</b>\n<b>A:</b> I was in the station all night; it was a quiet one for us. The first call out was at 1:00 a.m., and that was when we realized he was dead. We thought he was sleeping until then. It's weird to think someone that fit could die in their sleep.\n\n<b>Q: What was your relationship like with Fred?</b>\n<b>A:</b> He wasn't my favorite person at the station. He always played stupid pranks on me. One time, when I was sleeping, he snuck into my room and covered my face with a pillow. I tried to get him off, but he's a big man, and I wasn't able to. He thought it was hilarious, but I couldn't breathe for a good 30 seconds while he held it there. Kate told me he had taken it too far and that I should report him to the Chief, which I did, but nothing happened.\n\n<b>Q: What did you make of Fred being promoted ahead of Kate?</b>\n<b>A:</b> Disappointed. Kate having seniority over him would've improved things. She was the only person who ever called him out on stuff. When Fred got the promotion instead, he was really nasty to her. I was surprised the Chief made that decision, to be honest."
+        },
+        {
+            "key": "Case_3_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_3_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The time of death was estimated to be between 10:30 p.m. and 11:30 p.m. Kate Johnston tells us she entered the station at 9:45 p.m. and would have been seen on the station's camera as only being there for 2 minutes. She was in and out of the station before the murder took place.</indent>\n\n- <indent=8%>Nobody except the police, with their post-mortem evidence, knows how Fred died. Without any obvious evidence of foul play, his colleagues believed he died in his sleep. Despite this, the Chief, when referring to the victim's pillow prank on a rookie, uses the phrase \"being killed in a similar manner is karma\".</indent>\n\n- <indent=8%>The victim's size is referenced multiple times. Realistically, the only suspect strong enough to have suffocated him would be the Chief, who is described as a 'big, strong guy' by Kate. Matt the 'Rookie' tells us he was unable to overpower Fred when Fred played a prank on him.</indent>\n\n- <indent=8%>The Chief admits to disliking what Fred was doing to the team and states he had been 'exploring options to get rid of him'. We know from Kate that Fred was blackmailing the Chief, meaning his 'options' to do this were limited.</indent>"
+        },
+        {
+            "key": "Case_3_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nHe was making everyone's life a misery, and it was happening under my watch. I couldn't get rid of him in the usual way because he was blackmailing me. He had sensitive information that would destroy both my career and my family. So, I allowed him to get away with it for a while, but then his behavior worsened. Eventually, I had to promote him against my better judgment.\n\nI knew my reputation was going down the drain, and quite frankly, I was fed up. When I heard about him smothering a rookie with a pillow, I decided enough was enough and chose to solve everyone's problems all at once by getting rid of him completely. His stupid pillow prank turned out to be quite the inspiration."
+        }
+    ]
+}

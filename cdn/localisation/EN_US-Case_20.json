@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_20_case_title",
+            "value": "TRAGIC CRESCENDO"
+        },
+        {
+            "key": "Case_20_case_subtitle",
+            "value": "A tortured artist, a resentful band, and music to die for."
+        },
+        {
+            "key": "Case_20_case_cover_bg",
+            "value": "TRAGIC_CRESCENDO"
+        },
+        {
+            "key": "Case_20_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_20_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_20_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_20_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_20_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_20_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_20_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_20_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_20_daily_news_headline",
+            "value": "ROCK STAR<br>DIES AT FESTIVAL"
+        },
+        {
+            "key": "Case_20_daily_news_headline_image",
+            "value": "TRAGIC_CRESCENDO"
+        },
+        {
+            "key": "Case_20_daily_news_page_1",
+            "value": "Jimmy Hovis (aged 25), the Drummer and co-songwriter for up-and-coming band ‘Three Wheel Drive ’, died of an overdose on Friday night. He and his band were in attendance at the World Music Festival and were booked to play the iconic centre stage on Saturday afternoon. A gig that would have been the pinnacle of this relatively unknown band's career to date. Despite Jimmy’s sudden death, the band continued with their set on centre stage using a stand-in drummer at the last minute, an act which has been both criticised by some for its lack of empathy to the victim and his family, but also praised by others as the ultimate display of respect to honour their friend's life.\n\nAlthough Jimmy’s untimely death came as a shock, it has been suggested amongst his peers that it wasn't a surprise. He was known for regularly using drugs to excess, and in the days previous to his death had already been involved in several drug-induced incidents at the festival. \n\nThree Wheel Drive had just returned from touring Alaska, where they had built an unlikely fan base for their genre of music. They arrived at the festival with expectations of realising their dreams and becoming famous rock stars; unfortunately for Jimmy, his addiction meant he only got as far as partying like a rock star.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_20_victim_name",
+            "value": "Jimmy Hovis"
+        },
+        {
+            "key": "Case_20_victim_icon",
+            "value": "JimmyHovis"
+        },
+        {
+            "key": "Case_20_victim_age",
+            "value": "25"
+        },
+        {
+            "key": "Case_20_victim_cod",
+            "value": "Mixed drug toxicity"
+        },
+        {
+            "key": "Case_20_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was partying with a group of friends in one of the festival's dance music tents when he suffered a seizure and collapsed. Festival paramedics were called to the scene and tended to the victim for several minutes before he passed away from what appeared to be a severe reaction to some drugs he had ingested.\n\nApproximately 10 minutes prior to the seizure, several witnesses claim to have seen the victim consume a drug named Dixie, which was illegally on sale at the festival and is known to have been supplied to the victim. \n\nThe autopsy results show the amount of Dixie found in the victim's system was not enough to have caused such a severe reaction. However, a second unidentified drug was also found in the victim's system, which, when combined with the Dixie, is believed could have created a lethal cocktail. A toxicology report is to follow with more information. \n\nAccidental overdose is being considered, but suspicious behaviour and motive have led to three people being investigated for having a possible involvement.\n\n<b>Discovery:</b>\n\nSeen by several friends to collapse in the music tent. He was treated by paramedics until he passed away.\n\n<b>Time of Death:</b>\n\nParamedics report the time of death as Friday at 10:37 p.m. \n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The victim was known to have been supplied with Dixie, and was seen taking some approximately 10 minutes before his death.</indent>\n- <indent=8%>Autopsy confirms the presence of a second drug in the victim’s system which, combined with Dixie, created a lethal reaction.</indent>\n\n<b>Further Details:</b>\n\nThree suspects are being investigated, including the drug dealer who admits to supplying the victim, and his agent and bandmate who are believed to have been secretly making plans to replace the victim prior to his death."
+        },
+        {
+            "key": "Case_20_suspect_1_name",
+            "value": "Bill Robbins"
+        },
+        {
+            "key": "Case_20_suspect_1_icon",
+            "value": "BillRobbins"
+        },
+        {
+            "key": "Case_20_suspect_1_age",
+            "value": "50"
+        },
+        {
+            "key": "Case_20_suspect_1_occupation",
+            "value": "Victim's agent"
+        },
+        {
+            "key": "Case_20_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Jimmy?</b>\n<b>A:</b> I'm his and the band's agent. I found them a couple of years ago playing small-time venues and was really impressed, so I took them under my wing. We’ve just done our first tour, which was a success, but this festival was where all my hard work was about to pay off. \n\n<b>Q: Were you aware Jimmy was an addict?</b>\n<b>A:</b> Of course, he’s the cliched tortured artist, always going on drug-fuelled benders and causing me no end of problems. On tour, he was sourcing this local stuff everywhere we went; he became such a liability that the band and I held an intervention and Ashley, the lead singer, was forced to confiscate it all. \n\n<b>Q: We understand that you had been looking to replace Jimmy in the band before he died?</b>\n<b>A:</b> Yes, I didn't want to, but his recent behaviour had gone too far, and Ashley and I agreed that we should start exploring options for a new drummer to potentially replace him at short notice for Saturday. Getting through the set on centre stage without any issues was crucial to the band's success, and we really started to believe Jimmy’s addiction could jeopardise it. \n\n<b>Q: Was he aware of what you were doing?</b>\n<b>A:</b> Yes, I saw him that Friday morning and we spoke about it. I was hoping that telling him what we were doing might give him the kick up the backside he needed to sort himself out. But in reality, he didn't seem that bothered. He claimed that I was exaggerating things and that he had no intention of not playing. In fact, he said that the only way he would be replaced is if he died, and that he had no intention of dying soon, as he was about to become an extremely wealthy rock star.\n\n<b>Q: What happened after that?</b>\n<b>A:</b> I told Ashley how the conversation went and told her I would continue to look for a replacement drummer. I didn't see Jimmy again that day, but I had a feeling that, despite his brash attitude, he wouldn't be playing on the Saturday."
+        },
+        {
+            "key": "Case_20_suspect_2_name",
+            "value": "Donna Pill"
+        },
+        {
+            "key": "Case_20_suspect_2_icon",
+            "value": "DonnaPill"
+        },
+        {
+            "key": "Case_20_suspect_2_age",
+            "value": "30"
+        },
+        {
+            "key": "Case_20_suspect_2_occupation",
+            "value": "Victim's dealer"
+        },
+        {
+            "key": "Case_20_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Jimmy Hovis?</b>\n<b>A:</b> I’d only known him a few days, but it was strictly professional. I deal exclusively in high-quality Dixie, for medicinal purposes only, of course! Jimmy approached me and said he hadn't had anything in weeks and wanted in. I have a good reputation, and usually only supply the rich and famous. But I made an exception for Jimmy as I heard his band were going places, and it couldn't hurt to get in there early.\n\n<b>Q: Witnesses claim to have seen you arguing with Jimmy on the afternoon before his death; what was it about?</b>\n<b>A:</b> I was warning him. As soon as I had supplied him a couple of days earlier, he became uncontrollable and was causing chaos everywhere he went at the festival. Word spread, which was an issue. As you can imagine, my business relies on subtlety, and he was attracting too much unwanted attention to my other customers and me. \n\n<b>Q: What did you supply Jimmy with on the Friday of his death?</b>\n<b>A:</b> Nothing, all we did was speak that afternoon.  I’d already supplied him a couple of days before, and he had proven to me that he couldn't be trusted to keep a low profile.  Besides, he had offended me by saying my Dixie wasn't as good as some other stuff he had on tour in Alaska recently. I’ve never been there, so I can't compare, but his comment pissed me off. \n\n<b>Q: Did you supply any other members of Jimmy’s band during the festival?</b>\n<b>A:</b> No, they were far too focused on the music to acknowledge me. I got the impression this festival was serious business for them, and they wanted to be taken seriously. Even their agent cornered me one day; he was upset that I had dealt to Jimmy and wanted to know exactly what and how much I’d given him. Apparently, because of me, Jimmy was now going to ruin everything.\n\n<b>Q: Did you see anything strange the night of Jimmy's death?</b>\n<b>A:</b> The only strange thing was Jimmy dying. I can assure you my Dixie is a good, clean product, and he didn't have anywhere near enough to overdose!"
+        },
+        {
+            "key": "Case_20_suspect_3_name",
+            "value": "Ashley King"
+        },
+        {
+            "key": "Case_20_suspect_3_icon",
+            "value": "AshleyKing"
+        },
+        {
+            "key": "Case_20_suspect_3_age",
+            "value": "25"
+        },
+        {
+            "key": "Case_20_suspect_3_occupation",
+            "value": "Victim's bandmate "
+        },
+        {
+            "key": "Case_20_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Jimmy?</b>\n<b>A:</b> We were friends; we studied the same subject at university, and we’ve been writing and playing music with each other forever. The band was our vision a long time ago, and something we have dedicated our lives to. Things had just finally started to fall into place, and being invited to play center stage at the festival meant everything to us. \n\n<b>Q: How long had Jimmy had issues with drug use?</b>\n<b>A:</b> It had been going on for a while now, but it was only when we were on tour recently that we noticed the seriousness of the problem. What was strange was that his degree in chemistry meant he knew the detrimental effects of the substances he was using, yet he continued to abuse them anyway! I persuaded the band to arrange an intervention recently, which worked well for a little bit, but when we got to the festival the temptations were too strong with all the Dixie around, and he went straight back to his old ways. \n\n<b>Q: You were seen talking with Jimmy the afternoon of his death, what did you discuss?</b>\n<b>A:</b> The way Jimmy had been acting, he was in real danger of ruining our upcoming set on centre stage, which could make or break our careers. I knew our agent was looking into options to replace him, and although I wasn't against this, I considered it the last resort, and wanted to give Jimmy a final warning, friend to friend. I took him to the food tent where we had dinner and drank together around 7 p.m., and I gave him an ultimatum. Either he stops the drugs, or he’s out of the band, simple as that. I really thought, considering all we’d been through, he would listen to me, but sadly he chose another direction."
+        },
+        {
+            "key": "Case_20_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_20_case_newevidence",
+            "value": "Boss,\n\nThe Toxicology Report has come through. Here are the highlights:\n\nIt confirms what the autopsy suspected: that the victim had two types of drugs in his system. The first was Dixie, which the victim had been seen taking shortly before his death. The second is a rare drug called Muzikzamol (aka Muzy), which the victim had ingested approximately 3 hours before he died. \n\nOn their own, and in the quantity they had been taken, Dixie and Muzy are highly unlikely to result in a death. However, with specialist knowledge, someone would know that when mixed they create a lethal cocktail that takes effect within minutes. The report confirms this was the cause of death in this case.\n\nMuzy is a new drug only produced in Alaska, and to date there have been no reported incidents of it being exported on any scale. Meaning if anyone had any at the festival, they would likely have had to smuggle it from Alaska themselves.  \n\nDetective Mills"
+        },
+        {
+            "key": "Case_20_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The police report confirms that the victim had Muzy in his system for approximately three hours before he was seen taking Dixie and dying at 10:27 p.m. We learn that the victim had a chemistry degree and would know the consequences of mixing the drugs; when combined with his comments to Bill on the day of his death that he had no intentions of dying before becoming a wealthy rockstar, we can establish that he was unknowingly fed the Muzy by another person.</indent>\n\n- <indent=8%>Bill tells us the band had just toured Alaska, and informs us that the victim had been sourcing Muzy as they travelled. Bill also tells us that whilst on tour, they held an intervention where Ashley had confiscated all of the victim's drugs. Considering Ashley studied chemistry with Jimmy at university, she would also have known the effect of combining the Muzy she had confiscated from him with the Dixie she knew he had been taking at the festival.</indent>\n\n- <indent=8%>Armed with the possession of Muzy and the specialist knowledge of its effects, all Ashley needed was the opportunity to feed it to the victim, knowing he was regularly taking the Dixie part of the lethal mix himself. She created such an opportunity when she had dinner with him in the food tent, which was notably at 7 p.m., approximately three hours before the time of death, and the length of time we are told the Muzy had been in the victim's system.</indent>\n\n- <indent=8%>The victim’s agent, Bill, had been on the tour to Alaska, so could have been in possession of Muzy. However, the only time he saw and interacted with the victim that day was in the morning, so he did not have the opportunity to feed the victim Muzy three hours before their death.</indent>\n\n- <indent=8%>Donna tells us she deals exclusively in Dixie and has never been to Alaska, where we know Muzy is produced and not exported. She did not have the means to feed the victim the fatal drug.</indent>"
+        },
+        {
+            "key": "Case_20_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nMy whole family is depending on the success of this band. With or without Jimmy, I wasn't going to let them down.  Although we co-wrote the band's music together, Jimmy was ultimately a drummer and could be replaced if necessary.\n\nHis recent behaviour was concerning me big time. I couldn't trust Jimmy to stay clean, and I wasn't willing to let him ruin my life, so I took action. I  had some of the Muzy I confiscated from him on tour, and knew that if one of them was mixed with Donna’s Dixie pills it could be fatal. I fed one to Jimmy in his drink at the food tent that evening without him knowing. That was when I gave him an ultimatum - give up drugs or give up the band. It didn't matter what empty words came out of his mouth; it was his actions that mattered. I knew that if he now went and took more of Donna’s pills, he would have made his choice, which he wasn't aware would result in death. If he had chosen the band and left the pills alone, there wouldn't have been a lethal mix, and he would still be with us today. \n\nTo be honest, the way he was going, he would have killed himself eventually. I just sped up the process and saved a lot of people a lot of stress and disappointment."
+        }
+    ]
+}

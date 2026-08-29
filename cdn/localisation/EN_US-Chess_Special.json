@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Chess_Special_case_title",
+            "value": "CHECKMATE"
+        },
+        {
+            "key": "Chess_Special_case_subtitle",
+            "value": "A chess Grandmaster is murdered during a party at his home. Allegations of cheating fuel the controversy."
+        },
+        {
+            "key": "Chess_Special_case_cover_bg",
+            "value": "CHESS_SPECIAL"
+        },
+        {
+            "key": "Chess_Special_investigate_cost",
+            "value": "100"
+        },
+        {
+            "key": "Chess_Special_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Chess_Special_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Chess_Special_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Chess_Special_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Chess_Special_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Chess_Special_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Chess_Special_xp_award_gold",
+            "value": "140"
+        },
+        {
+            "key": "Chess_Special_daily_news_headline",
+            "value": "POLICE INVESTIGATE THE SO CALLED ‘CHECKMATE MURDERER’"
+        },
+        {
+            "key": "Chess_Special_daily_news_headline_image",
+            "value": "CHESS_SPECIAL"
+        },
+        {
+            "key": "Chess_Special_daily_news_page_1",
+            "value": "The game is over for chess grandmaster Collin Castle (aged 38), who, it has been confirmed, was brutally murdered at home during his birthday celebrations two days ago.\n\nMr Castle had recently been participating in his home city’s annual high-stakes chess tournament, which attracts the best players from around the world. Continuing his run of good form, the reigning champion breezed to victory in his semi-final on Thursday afternoon and was on track to defend his title the next day had it not been for his untimely death.   \n\nKnown for his arrogant playing style and obnoxious celebrations, Mr Castle had been a controversial character in the world of chess for several years. Recent performances saw him unexpectedly embarrass several of the world's top players and led to allegations of cheating among his peers. Whether this is related to his death is for the detectives to decide, but the nickname ‘checkmate murderer’, which is rumoured to be used by the authorities, certainly seems to suggest a chess connection. \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Chess_Special_victim_name",
+            "value": "Collin Castle"
+        },
+        {
+            "key": "Chess_Special_victim_icon",
+            "value": "CollinCastle"
+        },
+        {
+            "key": "Chess_Special_victim_age",
+            "value": "38"
+        },
+        {
+            "key": "Chess_Special_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Chess_Special_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nOn Thursday afternoon, the victim hosted a mid-tournament birthday party at his house in the city. About 50 people were in attendance, including a number of the chess tournament's competitors and their families.\n\nAt 5:34 p.m., the victim was discovered dead in their first-floor office with severe head injuries, which an autopsy has established as the cause of death. A giant-sized (12-inch) chess piece carved from stone was found placed in the victim's desk drawer.  Despite obvious attempts at wiping the object clean, there was enough forensic evidence to confirm it was the murder weapon. The chess piece was found missing from the corresponding oversized chess board located in the property's garden, used as an interactive, decorative ornament. \n\nThe victim's office computer was found switched off. The tech team have established that its last activity was at 5:18 p.m. and it was the victim's online chess account, followed by hundreds of thousands of players, being deleted.\n\n<b>Discovery:</b>\n\nThe victim was found slumped in the desk chair of his first-floor office by his partner Penelope Pawn, who screamed for help, alerting the party guests who immediately logged a 911 call at 5:34 p.m.\n  \n<b>Time of Death:</b>\n\nThe pathologist's report states the victim had been dead for between 30 and 60 minutes prior to being discovered. \n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The murder weapon was last seen by several witnesses being removed from the garden chess board by Knoah Knight, one of the party's guests.</indent>\n- <indent=8%>The word ‘cheater!’ was scribbled onto a piece of paper using the victim's blood and concealed in the victim's pocket. Initial investigations reveal that the victim had recently come under serious scrutiny from the professional chess authorities as they investigated allegations of cheating; however, no determination has yet been made. </indent>\n\n<b>Further Details:</b>\n\nAfter taking statements from all of the party guests, we have narrowed down three suspects for questioning."
+        },
+        {
+            "key": "Chess_Special_suspect_1_name",
+            "value": "Billy Bishop"
+        },
+        {
+            "key": "Chess_Special_suspect_1_icon",
+            "value": "BillyBishop"
+        },
+        {
+            "key": "Chess_Special_suspect_1_age",
+            "value": "21"
+        },
+        {
+            "key": "Chess_Special_suspect_1_occupation",
+            "value": "Tournament finalist"
+        },
+        {
+            "key": "Chess_Special_suspect_1_statement_page_1",
+            "value": "<b>Q: How well did you know Collin Castle?</b>\n<b>A:</b> Personally, I didn't know him at all; this was my first pro tournament. But I was fully aware of who he was and the reputation that preceded him. The mocking celebration of Kayleigh Knight after their semi-final victory is all you need to see to understand his character.\n\n<b>Q: If you didn't know him, why were you at his birthday party?</b>\n<b>A:</b> He put out a general invite to all the players at the tournament that day. I guess he was feeling generous. I had also won my semi that day and was due to face him in the final, which was nerve-racking. I decided the party would be a good way to distract my mind for the afternoon. Better than sitting in my hotel room worrying!\n\n<b>Q: Why were you worried? Hadn't you done well to reach the final?</b>\n<b>A:</b> Considering it’s a winner-takes-all tournament, that’s not how I saw it. All my hard work to qualify, and then make it to the final, would have been for nothing if I didn't win. And the form Collin was in meant it would have taken something remarkable to beat him. He had already dismantled some of the world's greatest players in this tournament.\n\n<b>Q: What happens now that he is dead? Do you win by default?</b>\n<b>A:</b> That’s in the hands of the tournament organisers and is yet to be decided. Unsurprisingly, nothing like this has ever happened before.\n\n<b>Q: We have witnesses from the party who overheard you saying that you would ‘do anything to get a bye for the final’. What did you mean by ‘anything’?</b>\n<b>A:</b> I never expected to go this deep into the tournament, but now I was so close to winning, the money became very real. You gotta understand the winner's purse is a life-changing amount. So yeah, the idea of magically getting a bye filled me with relief. Just wishful thinking, though.   \n\n<b>Q: Can you tell us about the party and what you did there?</b>\n<b>A:</b> People were mostly out in the garden, where they had laid out food for everyone. I spent a lot of the time playing on the giant chess set with some of the others. That came to an end when we were called in for the cake reveal, and that's when people realised Collin wasn't there, which subsequently led to his partner Penelope Pawn finding his body.\n\n<b>Q: When did you last see Collin?</b>\n<b>A:</b> I don't remember seeing much of him at all. To be honest, he kept appearing and then disappearing again. Which I think was annoying Penelope. At one point, I saw the two of them having a heated conversation; she was clearly unhappy with him. This was early on, though, before I started playing the garden chess game.\n\n<b>Q: Did you notice anything else out of the ordinary?</b>\n<b>A:</b> The only other thing was when Kayleigh Knight came over and took one of the King pieces from the board during our garden game. It was strange; she just grabbed it and left without saying anything. We assumed it had something to do with Collin embarrassing her in their match earlier that day. After defeating her quickly, he grabbed his king piece and held it to her face and said ‘next time, think about this guy before you move!’...The comment has been all over social media since. When she left, we carried on our game using a garden gnome wearing a thong as a replacement. It was actually pretty funny, so one of the guys started to live stream our match after that on his social media. "
+        },
+        {
+            "key": "Chess_Special_suspect_2_name",
+            "value": "Penelope Pawn"
+        },
+        {
+            "key": "Chess_Special_suspect_2_icon",
+            "value": "PenelopePawn"
+        },
+        {
+            "key": "Chess_Special_suspect_2_age",
+            "value": "35"
+        },
+        {
+            "key": "Chess_Special_suspect_2_occupation",
+            "value": "Victim's partner"
+        },
+        {
+            "key": "Chess_Special_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship to Collin Castle?</b>\n<b>A:</b> We were partners. We met playing chess professionally and had been living together for almost 5 years.\n\n<b>Q: We understand you faced each other earlier in the tournament. It must have been difficult competing against Collin?</b>\n<b>A:</b> Not really, I always compartmentalise my matches anyway. What’s happening on the board is totally separate from who the opponent is. Yes, Collin knocked me out in an earlier round, but it could have been anyone on the day. Besides, it wasn't an unexpected result; he had been on an incredible winning streak recently.\n\n<b>Q: Were you aware of the cheating allegations surrounding Collin?</b>\n<b>A:</b> Of course, you can’t avoid such rumours. But rumours are all they were. Collin was finally seeing some success for all his hard work, and people were just being cynical, and cynicism, in my experience, is usually founded on jealousy.\n\n<b>Q: We understand there are official investigations looking into the allegations. Would you agree that there isn't smoke without fire?</b>\n<b>A:</b> Clearly, whoever killed him felt that way! But the investigations will reveal what they will. If I’m wrong, then it will be a hard pill to swallow, as it means he was doing it right under my nose. But as I say, I haven't seen anything to suggest that.\n\n<b>Q: Can you talk us through what happened at the party leading up to and including Collin’s body being discovered?</b>\n<b>A:</b> It was a relaxed event. We put food out for everyone in the garden and just let them mingle. A few of the guests got into a pretty serious-looking chess match using the garden board. They weren't happy, particularly Billy, when I interrupted them to gather people for the cake cutting at 5:30 p.m. In the end, he was right to be. After I lit the candles, someone pointed out that Collin wasn't even there. When I went to find him, I found him in his office. Dead.\n\n<b>Q: What made you look in his office?</b>\n<b>A:</b> It was an educated guess, based on the fact that he’d been up and down from there all afternoon playing chess online, and that's exactly how I found him, slumped in front of his computer playing online chess! It was nothing new, as a high-profile player, he had a big online following and always had several matches going on at any one time. Usually, it didn't bother me as it's a large part of being a grandmaster. But I must admit I got short with him earlier that afternoon when he kept leaving his own birthday party to play. People were noticing his absence.\n\n<b>Q: Can you think of anyone who would have wanted to harm Collin?</b>\n<b>A:</b> The only person who comes to mind is Kayleigh Knight. She and Collin have been long-time rivals ever since she claims he made a comment about her being a wheelchair user after she beat him in a game a couple of years ago. To be clear, that comment was never proven and is widely assumed to be a false accusation. I know Collin could be controversial with his celebrations, but he wasn't nasty. Anyway, he had beaten her convincingly that morning in the semis, and then, to everyone's surprise, she showed up at the party. Not sure why, she just mooched around sulking before leaving early."
+        },
+        {
+            "key": "Chess_Special_suspect_3_name",
+            "value": "Kayleigh Knight"
+        },
+        {
+            "key": "Chess_Special_suspect_3_icon",
+            "value": "KayleighKnight"
+        },
+        {
+            "key": "Chess_Special_suspect_3_age",
+            "value": "36"
+        },
+        {
+            "key": "Chess_Special_suspect_3_occupation",
+            "value": "Victim's rival"
+        },
+        {
+            "key": "Chess_Special_suspect_3_statement_page_1",
+            "value": "<b>Q: How was your relationship with Collin Castle?</b>\n<b>A:</b> There was no relationship. We just happened to be professionals in the same game. I’ve never liked his style of play or his obnoxious personality, but I was willing to put up with him on the basis that there was mutual respect between professionals. But when he started cheating, that all went out the window. It's outrageous that he was allowed to enter this tournament, considering the allegations.\n\n<b>Q: Do you think he cheated in your semi-final match?</b>\n<b>A:</b> Of course, he was cheating. I’m currently the fourth-ranked chess player in the world! There’s no way he or even a good player could beat me as easily as he did. Just rewatch the match and analyse his body language, it's obvious! If that's not enough, look at why he deleted his online chess profile after the match - he had hundreds of thousands of followers! There’s no logical reason a professional would do that. Unless they had something to hide!\n\n<b>Q: How do you know his online account has been deleted?</b>\n<b>A:</b> I saw it online; all grand masters have accounts that are open to the public. Not exactly detective work! My guess is the governing bodies had listened to my requests to investigate him and were trying to access his game data history. The hundreds of matches he played every year would provide enough information to confirm what we all knew to be true.\n\n<b>Q: Sounds like you were dead set on bringing Collin down?</b>\n<b>A:</b> I just don't like injustice, and he oozed it! For me, chess is the ultimate test of mind and intellect. Being a disabled person, I truly level the playing field for competing at the highest levels. But when cheating comes into the equation, it makes my blood boil.  I wasn't the only one who felt like that. Even the new kid, Billy Bishop, came up to me at the party asking how he should approach his final against Collin the next day. I was honest and said if he genuinely wanted a fair shot at winning, his best chance would be to prove to the world that Collin was a cheater.\n\n<b>Q: If you disliked Collin so much, why did you attend his party?</b>\n<b>A:</b> I had time to kill. I knew there was a good chance I’d make the final, so pre-tournament I had booked my return flight for the day after. I regretted going to the party as soon as I arrived. All people wanted to talk about was my embarrassing defeat that day! So I avoided talking to people and found myself observing some of the other guests playing on the ridiculously fancy garden ornament chess set. Billy was playing on one of the teams, and I was interested to watch him. Rumours were that he was talented, but I couldn't see it myself. He just seemed extremely nervous to me. \n\n<b>Q: You removed one of the King pieces from that set during the game. Why?</b>\n<b>A:</b> After watching them play for over an hour, I was bored and wanted to leave the party. Having overheard that the chessboard was extremely rare and that Collin had gone to great efforts to ship it halfway across the world, I decided to get some payback for his humiliation of me. I took a king piece as I left, knowing it would annoy Collin and force him to re-order it. To my surprise, no one tried to stop me. Before you get carried away with accusations, my conscience kicked in just as I was leaving his house and wouldn't allow me to steal it. So I put it down on a table in their hallway.\n\n<b>Q: What time was this? And can anyone verify it?</b>\n<b>A:</b> At 4:30 p.m., I arranged a taxi to collect me. No one saw me leaving it there, though; everyone was in the garden. I’m guessing from your interest in the King piece that it has something to do with Collin’s murder? If so, Karma has a wicked sense of humour."
+        },
+        {
+            "key": "Chess_Special_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Chess_Special_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The Police report confirms the death occurred between 10 and 30 minutes prior to the victim's body being found at 5:34 p.m. Using this, we create a time of death window of between 5:04 p.m. and 5:24 p.m.</indent>\n\n- <indent=8%><b>Kayleigh<b> left the party at 5 p.m., which is prior to the time of death window. This is verifiable with the taxi she took. We also learn that she is a wheelchair user. Considering the murder took place on the first floor, it seems unlikely, even if she were in the house, that she was the killer.</indent>\n\n- <indent=8%><b>Billy<b> spent most of his time at the party playing chess in the garden with several other guests. This is acknowledged by Kayleigh, who was watching them play before she left at 5 p.m., and Penelope, who says Billy wasn't happy when it was cut short by her calling them in for the cake cutting at 5:30 p.m. The fact that the last half an hour of the game was being filmed live by one of the competitors for social media means Billy has an alibi during the time of death window.</indent> \n\n- <indent=8%><b>Penelope<b> is the only suspect without an alibi for the time of death window. She throws suspicion on herself when she suggests the killer's motive must have been regarding the allegations of cheating - this implies that she knows about the ‘cheater!’ note found on the victim's person. She incriminates herself when she refers to finding the victim's body ‘slumped in front of his computer playing online chess!’. We know from the police report that the victim's computer was found off, and that his online chess account had been deleted 14 minutes earlier, at 5:18 p.m. Penelope is lying about what she found when she discovered his body. A logical explanation for this is that she slipped up and is actually referring to what she saw when she had previously gone up to his office and subsequently killed him - only a confession will confirm this and provide a true motive.</indent>"
+        },
+        {
+            "key": "Chess_Special_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nAt around 5:15 p.m., I noticed Collin’s absence from the party again. I had planned to do the cake cutting at 5:30 p.m. and needed to make sure he was around for that, so I went up to his office to tell him to come down. On the way, I found one of the garden chess pieces on a table in the hallway. It was confusing to see it there, so I took it with me to ask Collin if he knew why.\n\nAs I got close to his office, I overheard him talking with a woman online; the conversation sounded flirtatious, and there was a lot of giggling. It was clear they were well acquainted and into each other. I listened for a minute until they started talking about when they were next going to meet up. I’d heard enough and went in to confront him. As I entered, I noticed the woman he had been talking to was his online chess ‘opponent’. Within a second, he had closed the video and looked at me with a sheepish grin. I was furious and demanded an explanation. Before he could answer, a message popped up on the screen in their chess game chat saying, ‘Was that your girlfriend?! You can do so much better; pull the cord!!!’. When Collin saw the message, I saw a smile flicker in his eyes - he was enjoying the situation! I knew in that second that he had no respect for me or our relationship, and all I wanted to do was to wipe the grin off his face, so I did. I hit him with the chess piece in my hand several times.\n\nThe note I stuffed into his pocket was done in the heat of the moment; for some reason, I wanted people to know why. When you guys misinterpreted it as accusations of him cheating at chess, I was actually relieved for the distraction, but the truth is, it was about him being unfaithful to me!\n\nKnowing I had to get back to the party quickly before my absence would be noticed, I acted fast. The woman's message was still up on his screen, and I knew it would draw attention to me, so I deleted it and his whole account before turning the computer off. In hindsight, his girlfriend could have worked it all out from her end when she found out about his death, but I could only deal with what was in front of me!"
+        }
+    ]
+}

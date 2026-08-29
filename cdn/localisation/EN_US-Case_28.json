@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_28_case_title",
+            "value": "REAL ESTATE RETRIBUTION"
+        },
+        {
+            "key": "Case_28_case_subtitle",
+            "value": "A shady realtor gets his comeuppance during an open house."
+        },
+        {
+            "key": "Case_28_case_cover_bg",
+            "value": "REAL_ESTATE_RETRIBUTION"
+        },
+        {
+            "key": "Case_28_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_28_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_28_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_28_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_28_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_28_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_28_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_28_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_28_daily_news_headline",
+            "value": "HOME SWEET<br>HOME"
+        },
+        {
+            "key": "Case_28_daily_news_headline_image",
+            "value": "REAL_ESTATE_RETRIBUTION"
+        },
+        {
+            "key": "Case_28_daily_news_page_1",
+            "value": "Real Estate Agent Lance Green (37), founder of 'Green Estates,' was found dead on Saturday afternoon. He had been hosting an open house in the highly sought-after neighborhood of Buckwell when his body was discovered on the property's front lawn, with a Green Estates'  Sold' sign protruding from his chest.\n\nKnown for his reputation as a ruthless negotiator, Lance entered the competitive world of real estate over 10 years ago when he started Green Estates, which has since become one of the county's more established real estate companies. Although he was highly regarded by his peers, an incredibly high turnover of staff and many dissatisfied customers suggest that life at Green Estates wasn't all sunshine and rainbows.\n\nTypically, when a realtor sticks up a \"Sold\" sign, it's not just to inform people of the sale but also to make a statement of dominance to other realtors in the area. However, in this case, the statement of dominance was aimed directly at Lance and seems to have been rather pointed.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_28_victim_name",
+            "value": "Lance Green"
+        },
+        {
+            "key": "Case_28_victim_icon",
+            "value": "LanceGreen"
+        },
+        {
+            "key": "Case_28_victim_age",
+            "value": "37"
+        },
+        {
+            "key": "Case_28_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_28_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was running an open house event along with his summer intern, Brendan Clark. The open house was scheduled to last all day. At 1:15 p.m., the owner of the property called the police after discovering the victim's body on the front lawn. The cause of death was a fatal blow to the side of the head with a hammer, which was then used to drive a wooden \"sold\" sign into the victim's chest.\n\n<b>Discovery:</b>\n\nThe victim's body was discovered at 1:15 p.m. by the owner of the property, who immediately contacted the police.\n\n<b>Time of Death:</b>\n\nEstimated between 12:30 p.m. and 12:45 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The hammer used as the murder weapon, found in the victim's car, and wiped clean.</indent>\n- <indent=8%>A wooden \"sold\" sign was driven into the victim's chest.</indent>\n- <indent=8%>Altercations between the victim and three suspects, identified through witness statements and prior conflicts.</indent>\n\n<b>Further Details:</b>\n\nThe investigation has been narrowed down to three suspects, all of whom had recent altercations with the victim."
+        },
+        {
+            "key": "Case_28_suspect_1_name",
+            "value": "Lauren Stokes"
+        },
+        {
+            "key": "Case_28_suspect_1_icon",
+            "value": "LaurenStokes"
+        },
+        {
+            "key": "Case_28_suspect_1_age",
+            "value": "43"
+        },
+        {
+            "key": "Case_28_suspect_1_occupation",
+            "value": "Victim's client"
+        },
+        {
+            "key": "Case_28_suspect_1_statement_page_1",
+            "value": "<b>Q: How well did you know Lance Green?</b>\n<b>A:</b> I've had to deal with him a few times recently. I'm keen to move my family to this neighborhood, and he's one of the leading realtors in the area. I wasn't a fan; I found him arrogant and untrustworthy. He was only interested in making commissions and building a network of lucrative clients. When I saw he was the agent selling the house, it made my heart sink.\n\n<b>Q: What interactions did you have with him that day?</b>\n<b>A:</b> We spoke briefly as I arrived at the open house, but I wasn't happy to see him, and he knew it. I missed out on buying my family's dream home because of him, and I'm still angry about it, so I avoided him where possible after that. He had a trainee named Brendan working with him, so I approached Brendan with any questions I had about the property.\n\n<b>Q: Witnesses say you had a very public outburst at Lance?</b>\n<b>A:</b> Yes, while talking with Brendan, he mentioned how dishonest Lance was. I dug deeper, and Brendan told me that to enhance his network of valuable friends, Lance would lie to his sellers to ensure his 'useful' contacts got the houses they wanted. Brendan confirmed that is what happened when we missed out on our dream home recently. I'm not sure why Brendan shared this with me, but it was refreshing to hear a realtor speak their mind for once. I went straight to Lance and told him what I thought of him. He was talking to other prospective buyers at the time and was mortified.\n\n<b>Q: When did you leave the open house?</b>\n<b>A:</b> I left straight after confronting Lance. I liked the house, but wasn't interested in dealing with him. I got in my car and started driving home; it's at least an hour drive normally. On the way, I called the owner of the property directly. I explained that I loved her house, but I wasn't interested in making an offer if Lance was involved in the negotiations. She sounded angry with Lance and told me she would deal with him. I got back home at 1:30 p.m. in time for lunch with my family."
+        },
+        {
+            "key": "Case_28_suspect_2_name",
+            "value": "Brendan Clark"
+        },
+        {
+            "key": "Case_28_suspect_2_icon",
+            "value": "BrendanClark"
+        },
+        {
+            "key": "Case_28_suspect_2_age",
+            "value": "18"
+        },
+        {
+            "key": "Case_28_suspect_2_occupation",
+            "value": "Victim's employee"
+        },
+        {
+            "key": "Case_28_suspect_2_statement_page_1",
+            "value": "<b>Q: How well did you know Lance Green?</b>\n<b>A:</b> Better than I would have liked. My dad had been making me work for him all summer, and I hated it after five weeks. It was a mutual feeling; he didn't want me there either. He was only doing it as a favor because my dad has a large portfolio of expensive property and regularly sends work his way.\n\n<b>Q: Witnesses say on the day itself, you were openly telling people how dishonest Lance was?</b>\n<b>A:</b> I didn't go around shouting about it, but yes, if people asked, I wouldn't lie, and if I thought he was being unfair to people, I would let them know the truth. He was always mistreating me, and I wasn't getting paid any commission, so why did I care if he sold the house or not?\n\n<b>Q: How did he mistreat you?</b>\n<b>A:</b> He would constantly belittle me in front of people and tell them how useless or dumb I was. But that didn't bother me too much; it was the fact that he would make me cycle everywhere, even though he could easily drive me in his car. He reasoned that he needed space for more valuable things, like his Green Estates signs, things he said 'actually made him money'... I'd like to have whacked him in the head with a hammer myself; I'm jealous of the person who got there first.\n\n<b>Q: Where were you between 12:00 p.m. and 1:15 p.m. that afternoon?</b>\n<b>A:</b> Lance was getting hungry, but the open house was still busy, so he asked me to go into town and pick him up a sandwich from his favorite place. When I said no because it would mean a 10-mile round trip on my bike, he said that I could drive his car. I couldn't believe it at first. He never let anyone near his car, but knowing how much he would have hated seeing me drive it, I agreed. I also decided to play a prank on him and got his food order wrong on purpose, to piss him off. By the time I got back to the open house, it was quiet, and he was taking a break. He flipped when he saw the food I had brought him and fired me on the spot. That was around 12:30 p.m., so I gladly jumped straight on my bike and left."
+        },
+        {
+            "key": "Case_28_suspect_3_name",
+            "value": "Amanda Denton"
+        },
+        {
+            "key": "Case_28_suspect_3_icon",
+            "value": "AmandaDenton"
+        },
+        {
+            "key": "Case_28_suspect_3_age",
+            "value": "55"
+        },
+        {
+            "key": "Case_28_suspect_3_occupation",
+            "value": "Victim's Client"
+        },
+        {
+            "key": "Case_28_suspect_3_statement_page_1",
+            "value": "<b>Q: How well did you know Lance Green?</b>\n<b>A:</b> Not well, the first time we met was when he came over to value my house. He was a very pushy man, which I didn't like. But I'm going through a messy divorce and needed the house to sell quickly, and like it or not, he had a good track record in the area. When he told me he could fetch well over the market rate, I was interested and said I would consider using him. Within seconds, he had grabbed a 'for sale' sign and hammer from his car and started banging it into my front lawn. He left me no choice but to use him! If my partner were still around, they would have been much firmer with him than I was.\n\n<b>Q: Where were you during the open house?</b>\n<b>A:</b> I went to a diner down the road and waited nervously. Given how my divorce is going, I need the house to sell quickly, which Lance knew. I wanted to know exactly what was going on, so I arranged for a friend to attend the open house and pretend to be a potential buyer. Sadly, I wish I had just remained blissfully ignorant.\n\n<b>Q: What did your friend discover?</b>\n<b>A:</b> My friend met me at the diner at 12:45 p.m. and told me that they had overheard Lance talking secretly to a buyer about some of the reasonable offers he had already received that morning, but how most of the interested parties were not valuable to him personally, so he wouldn't be putting their offers forward unless he had to. He then told the person that I was desperate, and he was confident he could persuade me to sell for less than the market value. He said that if they wanted the house, he could secure it for them if they were willing to pay him a not-so-small arrangement fee under the table. He'd had one or two other conversations like it with people he knew that morning.\n\n<b>Q: When did you return to the house and discover his body?</b>\n<b>A:</b> What my friend told me made me anxious, but I then received a call from an interested buyer who said, in no uncertain terms, they would pay over the asking price for my house, but only if I dropped Lance as my agent because they didn't trust him. I liked this person; they were a good judge of character. I knew immediately that I needed to fire Lance. I tried calling, but got no answer. I left the diner immediately and walked back to tell him in person. It took me half an hour, and when I got there at 1:15 p.m., his body was laid out on the front lawn. I called the police immediately."
+        },
+        {
+            "key": "Case_28_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_28_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Lance kept the Green Estate signs and a hammer (murder weapon) in his car. We discover that Lance was very protective of his car, so getting access to the murder weapon would have been difficult. However, on the day itself, Lance allowed Brendan to use the car, meaning Brendan was one suspect who did have access.</indent>\n\n- <indent=8%>Brendan refers to the victim being hit in the head with the hammer. Such information can only be found in the confidential Police Report; therefore, he knows more about the murder than he has disclosed.</indent>\n\n- <indent=8%> Lauren's journey home took at least an hour, and she arrived for lunch with her family at 1:30 p.m., meaning she couldn't have committed the murder.</indent>\n\n- <indent=8%> Amanda's walk from the diner to her house took 30 minutes. The police logged a call from her at 1:30 p.m., reporting the discovery of the victim's body, indicating she left the diner after the murder had already occurred.</indent>"
+        },
+        {
+            "key": "Case_28_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nAfter my food prank, Lance got angry. It was only meant to be a bit of fun, but he started saying some nasty and personal things that pissed me off. He said that my father could 'go f*** himself,' and that having me around wasn't worth the hassle of impressing my dumbass father, so he fired me. I didn't mind being fired, but when he talked about my dad like that, someone who's provided him with a lot of business over the years, I got mad. I still had his precious car key, so I waved it in his face and taunted him. I ran outside to the car to wind him up, and he chased me. I had no intention of actually getting into the car, but when I got there, I noticed the hammer in the back. The rest is all a blur; he tried to tackle me to the ground, but before I knew it, he was lying on the floor, and I had the hammer in my hand. Sticking the \"sold\" sign through his chest was an afterthought. Being a self-proclaimed 'property selling machine,' I thought he would've appreciated it."
+        }
+    ]
+}

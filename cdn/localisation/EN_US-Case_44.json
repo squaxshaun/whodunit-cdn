@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_44_case_title",
+            "value": "A BOLT FROM THE BLUE"
+        },
+        {
+            "key": "Case_44_case_subtitle",
+            "value": "AN UNASSUMING BOAT PASSENGER IS FATALLY STRUCK BY A FLYING OBECT FROM ABOVE. WHERE DID IT COME FROM?"
+        },
+        {
+            "key": "Case_44_case_cover_bg",
+            "value": "A_BOLT_FROM_THE_BLUE"
+        },
+        {
+            "key": "Case_44_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_44_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_44_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_44_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_44_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_44_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_44_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_44_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_44_daily_news_headline",
+            "value": "TRAGEDY STRIKES AT THE<br>OLD BLUEKIRK BRIDGE"
+        },
+        {
+            "key": "Case_44_daily_news_headline_image",
+            "value": "A_BOLT_FROM_THE_BLUE"
+        },
+        {
+            "key": "Case_44_daily_news_page_1",
+            "value": "On Friday afternoon, George Ford (aged 57) was killed in a tragic boating incident on the Belstone River. Mr Ford, who lived only a mile further upriver, was in a small fishing boat with his adult daughter passing under the abandoned Bluekirk Railway bridge when he was struck by a falling object from above.\n\nDue to the glorious weather that afternoon, a number of people are reported to have been enjoying the well-known stretch of river when the unexpected incident occurred, leaving several witnesses in shock. Although the emergency services were called to the site, it is believed the victim had died from his injuries prior to their arrival. \n\nAs if the sudden shock of Mr Ford’s traumatic death wasn't enough for his family, the police have now rocked the boat further by stating that the lethal object did not fall by accident. As I write this article, several suspects are being investigated in connection with the death.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_44_victim_name",
+            "value": "George Ford"
+        },
+        {
+            "key": "Case_44_victim_icon",
+            "value": "GeorgeFord"
+        },
+        {
+            "key": "Case_44_victim_age",
+            "value": "57"
+        },
+        {
+            "key": "Case_44_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_44_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe Victim was travelling downriver with his daughter on a small fishing boat. As they passed under the abandoned Bluekirk Railway bridge, which stands 60ft above the water, he was struck on the head by an unknown flying object, killing him instantly. \n\nThe daughter describes the incident as totally unexpected. It happened so fast, she couldn't see what the object was, but she knew it came from above. On seeing the incident occur only feet away, her immediate reaction was to let out a piercing shriek before exiting the boat and swimming ashore. Other witnesses further along the river reacted to her scream and came to her aid when they realised what had happened. \n\nThe pathologist's report confirms the victim was hit on the head with force by a small, heavy object, and that he would have died instantly from the impact. Some traces of hydrated iron oxide (rust) were found in the wound.  \n\n<b>Discovery:</b>\nThe daughter was in the boat when the incident occurred, and her reactions drew other people's attention to the victim and the scene.\n\n<b>Time of Death:</b>\n\nWithin seconds of hearing the daughter's scream and seeing the victim, witnesses from further up the river called the emergency services. The call was officially logged at 3:47 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>That area of the river was swept by divers, and a large rusty iron bolt was discovered to be the object that delivered the fatal blow. The bolt matches those used on the old railway line that crosses over the river by bridge. The solid nature of the stone bridge makes it extremely unlikely that the bolt fell on its own.</indent>\n- <indent=8%>Two local hikers in the Belstone area that afternoon have come forward with information. The ‘trail tracker’ app they use confirms they crossed the bridge at exactly 3:39 p.m. that afternoon, only 8 minutes before the fatal incident. They claim to have seen three local teenagers known to them messing around and throwing things over the edge. Although they warned the kids that what they were doing was dangerous, they were ignored. On seeing the news later that day, the hikers contacted the police and provided the teenagers’ details.</indent>\n- <indent=8%>The children were identified as local siblings Jackie, Lola and Dillon Hardy. They live near the scene of the crime, close to the victim's own property, and are known to the local law enforcement as troublemakers. It has been confirmed that the victim had crossed paths with the Hardy kids before, having reported his neighbors to the authorities several times in the past for trespassing, destruction of private property, and theft.</indent>\n\n<b>Further Details:</b>\n\nThe Hardy kids have been brought in and separated for questioning."
+        },
+        {
+            "key": "Case_44_suspect_1_name",
+            "value": "Dillon Hardy"
+        },
+        {
+            "key": "Case_44_suspect_1_icon",
+            "value": "DillonHardy"
+        },
+        {
+            "key": "Case_44_suspect_1_age",
+            "value": "14"
+        },
+        {
+            "key": "Case_44_suspect_1_occupation",
+            "value": "Unknown"
+        },
+        {
+            "key": "Case_44_suspect_1_statement_page_1",
+            "value": "<b>Q: What were you doing on Friday afternoon?</b>\n<b>A:</b> Went into the forest with my sisters. We followed the old railway line that runs past our house. \n\n<b>Q: Where did you go?</b>\n<b>A:</b> As far as the Belstone River; the plan was to go swimming, but we never did.\n\n<b>Q: Why not?</b>\n<b>A:</b> I don’t really know. Jackie said we had to go home.\n\n<b>Q: We have witnesses who say you and your sisters were on the old bridge that afternoon throwing things down into the river; is that correct?</b>\n<b>A:</b> I guess so. My sisters told me not to say anything to you. Are we in trouble?\n\n<b>Q: That depends on what happened and whether you tell us the truth. Do you have anything to tell us?</b>\n<b>A:</b> We were just messing…my sisters were taking it in turns dropping stuff off the bridge down into the water. We were never trying to hit anyone. \n\n<b>Q: Except someone did get hit, didn't they?</b>\n<b>A:</b> Mr Ford in his fishing boat. We were just messing with him. \n\n<b>Q: Can you talk us through what happened?</b>\n<b>A:</b> He got hit square on the head with a metal rod. I don’t know how exactly. I remember looking for stuff to give my sisters to throw when Lola noticed Mr Ford was on the river and about to pass under the bridge. Next thing I know, my sisters are fighting over whose turn it was to throw something - they both wanted to be the one who went next. Before I knew it, he got hit, and the person in the boat with him screamed like a crazy person and jumped into the water. It was quite funny to see, actually! Next thing I know, Jackie is telling us to run, so we did.  \n\n<b>Q: You mention your sisters throwing, but not yourself, why?</b>\n<b>A:</b> They wouldn't let me have a go; they said I was too young. "
+        },
+        {
+            "key": "Case_44_suspect_2_name",
+            "value": "Lola Hardy"
+        },
+        {
+            "key": "Case_44_suspect_2_icon",
+            "value": "LolaHardy"
+        },
+        {
+            "key": "Case_44_suspect_2_age",
+            "value": "17"
+        },
+        {
+            "key": "Case_44_suspect_2_occupation",
+            "value": "Unknown"
+        },
+        {
+            "key": "Case_44_suspect_2_statement_page_1",
+            "value": "<b>Q: What were you doing at the old Bluekirk bridge on Friday afternoon?</b>\n<b>A:</b> What makes you think I was there?\n\n<b>Q: Two witnesses put you and your siblings on the bridge at 3:39 p.m.</b>\n<b>A:</b> Must be true then!\n\n<b>Q: Your brother Dillon has been interviewed and also confirmed it. You might as well start talking to us.</b>\n<b>A:</b> Fine. We were there, just having some fun. In the middle of the bridge, there is a step up on one side which is big enough for someone to lean over and see the river below. Jackie and I were taking it in turns to drop rocks down into the water.\n\n<b>Q: What were you aiming to hit?</b>\n<b>A:</b> Nothing specific.  We were just seeing who could make the biggest splash. Why?\n\n<b>Q: Dillon tells us that you saw Mr Ford coming past and decided to give him a scare; is that true?</b>\n<b>A:</b> I guess so. We hate that guy! We thought it would be fun to take him by surprise. But we never actually threw anything at him in the end. \n\n<b>Q: Seems hard to believe considering Mr Ford was killed as he passed underneath you.</b>\n<b>A:</b> Him being dead is news to me! I knew something had happened on the river as I heard the screaming, but I didn't know what…\n\n<b>Q: So you are sticking to the story of not knowing what happened?</b>\n<b>A:</b> It’s the truth. \n\n<b>Q: So you are telling us it must have been Jackie or Dillon?</b>\n<b>A:</b> Couldn't have been Dillon, as we didn't let him have a go, and I’m pretty sure it wasn't Jackie either.\n\n<b>Q: We understand you and Jackie had a fight on the bridge; what caused that?</b>\n<b>A:</b> That’s nothing new; we fight all the time. It was my turn to have a go at dropping a rock, but Jackie was hogging the step and kept blocking me. So I pulled her to the floor, and we fought for a few seconds before she got me into a headlock. That’s when the terrifying scream stopped us in our tracks! After Jackie peered over the edge, she told us to run!"
+        },
+        {
+            "key": "Case_44_suspect_3_name",
+            "value": "Jackie Hardy"
+        },
+        {
+            "key": "Case_44_suspect_3_icon",
+            "value": "JackieHardy"
+        },
+        {
+            "key": "Case_44_suspect_3_age",
+            "value": "18"
+        },
+        {
+            "key": "Case_44_suspect_3_occupation",
+            "value": "Unknown"
+        },
+        {
+            "key": "Case_44_suspect_3_statement_page_1",
+            "value": "<b>Q: We understand you and your siblings were throwing things over the side of the old Bluekirk railway bridge on Friday afternoon. Is that correct?</b>\n<b>A:</b> We dropped a few rocks, so what? It’s not like we killed anyone!\n\n<b>Q: That’s exactly what happened.</b>\n<b>A:</b> What do you mean?…he died?\n\n<b>Q: Yes, Mr Ford died. The man you and your siblings have a history of confrontations with. Can you talk me through what happened on that bridge?</b>\n<b>A:</b> I don't have anything to tell you; the first I knew of something happening on the river was when we all heard the awful scream. But that had nothing to do with us!\n\n<b>Q: If the incident had nothing to do with you, why did you instruct Dillon and Lola to run away when it occurred?</b>\n<b>A:</b> When I heard the scream, I took a look down at the river and could see something bad was happening; there was loads of commotion, and people were pointing up at the bridge. Whatever happened, it wasn't worth waiting around to be accused, so I told them to run.\n\n<b>Q: What caused you and Lola to fight that afternoon while on the bridge? </b>\n<b>A:</b> She was being stupid as always, and tried to claim it was her turn to drop a rock even though she had just had a go. She started it by knocking me down and pulling my hair, so I retaliated. \n\n<b>Q: Did this occur before or after Mr Ford was killed?</b>\n<b>A:</b> I’ve no idea! But it ended with the scream from below. Why are you trying so hard to pin this on us? \n\n<b>Q: You and your siblings were the only people on the bridge at the time Mr Ford died, and you’ve admitted that you wanted to ‘give him a scare’. Does that explain why you are the focus of our investigation?</b>\n<b>A:</b> Whatever. The guy was a jackass! I’m not saying anything more to you. "
+        },
+        {
+            "key": "Case_44_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_44_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>We learn from the police report that the victim's daughter immediately let out a piercing shriek when she saw the bolt hit her father.</indent>\n\n- <indent=8%>All three suspect testimonies align on the fact that this loud scream is what interrupted Lola and Jackie, who were fighting and caused them to stop. If they were in the midst of fighting, which involved being on the floor and having each other in headlocks, neither of them could have been the person who stood on the single step and dropped the fatal bolt over the edge.</indent>\n\n- <indent=8%>The only other person on the bridge able to have dropped the bolt was Dillon. His sisters were fighting each other at the time and were distracted, so they may not have noticed what he was doing, or might not have been able to stop him.</indent>\n\n- <indent=8%>Dillon being the one to drop the bolt is supported by the fact that he is the only suspect to admit seeing the incident happen. He clearly refers to the victim being in a fishing boat and getting hit on the head. He also describes the person with the victim screaming and jumping out of the boat into the water. Such observations would only have been possible if he were standing on the step looking down at the time they occurred. Dillon is also the only suspect to refer to the object thrown as being a metal bolt; the others only ever talk about dropping rocks into the river, which aligns with them not knowing what happened.</indent>"
+        },
+        {
+            "key": "Case_44_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nMy sisters weren't letting me have a go, and it wasn't fair! When they realized Mr Ford was coming past, they got into a fight over who would be the one to drop something on him. While they were distracted, I decided it was my turn. I had just found an old metal bolt and dropped it as his boat came underneath - It was a bullseye! Couldn't have been a more perfect shot! I knew my sisters would get angry if they saw so I quickly stepped away and pretended to be busy.\n\nA split second later, all the commotion started, and we ran home. My sisters didn't know what had happened, but I could tell from their reactions that the situation was serious and that we could get into trouble, so I didn't tell them what I did.\n\nI was aiming to hit Mr Ford, but I didn't think a small bolt like that would kill him…"
+        }
+    ]
+}

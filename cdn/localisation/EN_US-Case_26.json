@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_26_case_title",
+            "value": "DIRTY LAUNDRY"
+        },
+        {
+            "key": "Case_26_case_subtitle",
+            "value": "After dying in suspicious circumstances, a staff member at the prestigious Bremington Grand Hotel is dumped down the laundry chute."
+        },
+        {
+            "key": "Case_26_case_cover_bg",
+            "value": "DIRTY_LAUNDRY"
+        },
+        {
+            "key": "Case_26_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_26_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_26_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_26_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_26_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_26_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_26_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_26_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_26_daily_news_headline",
+            "value": "DEATH BY LAUNDRY<br>AT THE BREMINGTON<br>GRAND"
+        },
+        {
+            "key": "Case_26_daily_news_headline_image",
+            "value": "DIRTY_LAUNDRY"
+        },
+        {
+            "key": "Case_26_daily_news_page_1",
+            "value": "On Saturday evening, the laundry staff at the prestigious Bremington Grand Hotel were left stunned when the body of their coworker, Peter Maynard (26), crashed out of the hotel's remarkably long laundry chute among piles of guests' dirty laundry. The suspicious circumstances of the death are being investigated by the police, who have yet to make any statement on the matter.\n\nPeter had worked at the premium 5-star hotel for three years and had recently been promoted to customer liaison manager for the 87th floor. Known for its luxury penthouse suites, the 87th floor is at the top of the hotel and exclusively hosts ultra-wealthy clientele. \n\nWhy the victim ended up in the laundry chute is a mystery. Whether it was a game gone wrong or the intentional act of a psychopath, one thing is for sure: justice will see the culprit hung out to dry.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_26_victim_name",
+            "value": "Peter Maynard"
+        },
+        {
+            "key": "Case_26_victim_icon",
+            "value": "PeterMaynard"
+        },
+        {
+            "key": "Case_26_victim_age",
+            "value": "26"
+        },
+        {
+            "key": "Case_26_victim_cod",
+            "value": "Heart failure"
+        },
+        {
+            "key": "Case_26_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe injuries sustained are consistent with a fall from a great height. Still, the postmortem confirmed the victim was already deceased before the fall. This suggests that the laundry chute was used to dispose of the body after death.\n\n<b>Discovery:</b>\n\nThe victim's body was discovered by members of the hotel cleaning staff when it dropped into the laundry room at 5.15 p.m.\n\n<b>Time of Death:</b>\n\nEstimated between 4:25 p.m. and 5:15 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Card scanner records showing the victim accessed the 87th floor at 4:25 p.m.</indent>\n- <indent=8%>Postmortem report confirming death by heart failure, with no clear cause.</indent>\n- <indent=8%>A small red lump on the victim's hand.</indent> \n\n<b>Further Details:</b>\n\nThe three guests occupying the penthouse suites on the 87th floor at the time of the victim's death are being treated as suspects."
+        },
+        {
+            "key": "Case_26_suspect_1_name",
+            "value": "Anita Joseph"
+        },
+        {
+            "key": "Case_26_suspect_1_icon",
+            "value": "AnitaJoseph"
+        },
+        {
+            "key": "Case_26_suspect_1_age",
+            "value": "46"
+        },
+        {
+            "key": "Case_26_suspect_1_occupation",
+            "value": "Hotel guest"
+        },
+        {
+            "key": "Case_26_suspect_1_statement_page_1",
+            "value": "<b>Q: How well did you know the victim?</b>\n<b>A:</b> Fairly well. His job was to look after the penthouse guests, and I regularly book them to conduct business while I'm in town. I liked Peter; he was professional and kind. It's disappointing what happened to him; he was only doing his job. Horrendous thing to say, but at least he was dead before the laundry chute;  it's horrible to imagine going down that alive.\n\n<b>Q: What business do you run from the penthouse?</b>\n<b>A:</b> Not sure what that has to do with your investigation. But if you must know, I trade rare and exotic animals. I meet with clients and business partners while I'm in town. My line of work is not well regarded by some, and the reason I book the penthouse suite is for anonymity.\n\n<b>Q: Can you talk me through what you were doing on Saturday afternoon?</b>\n<b>A:</b> I left my suite in the morning, had meetings out all day, and didn't return until 4:45 p.m., where I then stayed for the rest of the evening. When I got back to my suite, I noticed Peter had been in my room and left a gift basket with a note apologizing for the noise coming from the suite opposite; it sounded like they'd been having an all-day rave in there.\n\n<b>Q: How well do you know the occupants of the other two suites?</b>\n<b>A:</b> I never met the people having the party opposite me. The other occupant, Mr. Perrioni, has been resident in his suite for five months, but we've never spoken. All I know about him is that he orders room service three times a day and rarely leaves his penthouse. Peter mentioned to me once that he is a paranoid man who's convinced people are out to kill him."
+        },
+        {
+            "key": "Case_26_suspect_2_name",
+            "value": "Donny Perrioni"
+        },
+        {
+            "key": "Case_26_suspect_2_icon",
+            "value": "DonnyPerrioni"
+        },
+        {
+            "key": "Case_26_suspect_2_age",
+            "value": "71"
+        },
+        {
+            "key": "Case_26_suspect_2_occupation",
+            "value": "Hotel guest"
+        },
+        {
+            "key": "Case_26_suspect_2_statement_page_1",
+            "value": "<b>Q: How well did you know the victim?</b>\n<b>A:</b> Extremely well. He was my sole contact at the hotel, assisting with all my needs during my extended stay here. I'm currently testifying in a high-profile court case, and for safety reasons, I'm staying here until it's all over. Thankfully, I can afford to hide in comfort.\n\n<b>Q: Was the victim aware of your situation?</b>\n<b>A:</b> Yes. There are a lot of people who would benefit from my being dead, so I am very strict with whom I communicate. I explained my position to the hotel, and we made an arrangement that Peter would be my only point of contact. I hope that he wasn't mixed up in an attempt on my life. My enemies are desperate to stop me from testifying.\n\n<b>Q: Can you talk me through what you were doing on Saturday afternoon?</b>\n<b>A:</b> I was working from my suite all day. Unfortunately, a loud stag party was staying in the suite opposite, which I had to complain to Peter about. But it was pointless; when he confronted them, they just messed around with him for fun. I even overheard some of them trying to drunkenly convince Peter to jump down the laundry chute. I last saw Peter around 4:30 p.m. when he came to my suite and delivered a gift basket to apologize for the inconvenience of the party. Unfortunately, I got quite angry with him at this point. I had an important conference call with the police attorneys between 5:00 and 6:00 p.m., and his silly gifts were not an adequate response to the issue.\n\n<b>Q: How well do you know the occupant of the other suite, Anita Joseph?</b>\n<b>A:</b> We’ve never spoken. I know from conversations with Peter that she was a regular guest, but that he found her to be quite a strange person. She prefers animals to humans and even keeps poisonous spiders in her room. I can't complain about her; she is quiet and keeps to herself."
+        },
+        {
+            "key": "Case_26_suspect_3_name",
+            "value": "Craig Francis"
+        },
+        {
+            "key": "Case_26_suspect_3_icon",
+            "value": "CraigFrancis"
+        },
+        {
+            "key": "Case_26_suspect_3_age",
+            "value": "27"
+        },
+        {
+            "key": "Case_26_suspect_3_occupation",
+            "value": "Hotel guest"
+        },
+        {
+            "key": "Case_26_suspect_3_statement_page_1",
+            "value": "<b>Q: How well did you know the victim?</b>\n<b>A:</b> Barely at all. My parents made all the arrangements for me to use the penthouse that weekend for my bachelor party. The only times I spoke with Peter were when he came up to complain about the noise we were making. I made it clear to him that my parents are major shareholders in the Bremington Grand, and that they wouldn't be happy to hear that he ruined our fun.\n\n<b>Q: Can you talk me through what you were doing on Saturday afternoon?</b>\n<b>A:</b> Not specifically, between all the drugs and booze and whatever else my friends were supplying me with, I was pretty out of it. I passed out at some point and got put to bed. I came around when the police came knocking on our door, talking about a murder, which meant the party was over.\n\n<b>Q: Witnesses report members of your party mistreating the victim?</b>\n<b>A:</b> We had some fun with him. But it was all harmless, mostly just prank calls and making him bring up weird room service requests. I do remember at one point my friends trying to persuade Peter to jump down the laundry chute, but sadly, he was far too sensible.\n\n<b>Q: What can you tell me about the other people staying on the 87th floor?</b>\n<b>A:</b> Not much, the only one I saw was the grumpy old man opposite us. I saw him having a right go at Peter in the corridor before slamming his door in his face. That was shortly before I passed out. I didn't see him again after that. My parents had heard about that grumpy guest; he was living in his suite. Rumor has it he's the leader of some major crime ring who got into trouble and is now helping the police. Sounds like the plot of a movie! All I can say is that he looked like he had a temper."
+        },
+        {
+            "key": "Case_26_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_26_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Donny Perrioni was on an important conference call with police attorneys from 5:00 p.m. to 6:00 p.m. so that he couldn't have disposed of the victim's body in the laundry chute at 5:15 p.m.</indent>\n\n- <indent=8%>Craig Francis passed out shortly after seeing Donny lose his temper with the victim at 4:30 p.m. Craig did not regain consciousness until the police arrived after the body was discovered, meaning he couldn't have been involved in the victim's death.</indent>\n\n- <indent=8%>This leaves Anita as the prime suspect. Anita mentioned that Peter was dead before going into the laundry chute. Still, the press only reported that the body had fallen down the chute. This means Anita had information that could only be found in the confidential police report.</indent>\n\n- <indent=8%>The victim last went up to the 87th floor at 4:25 p.m., 50 minutes before their body was dumped down the laundry chute. During this time, they spoke with Donny at 4:30 p.m., witnessed by Craig. The only known activity after this was entering Anita's suite to deliver a gift basket.</indent>\n\n- <indent=8%>Anita runs an exotic animals business from her penthouse, and Donny mentioned she keeps poisonous spiders in her room. This could explain the unexplained red lump on the victim's hand mentioned in the police report.</indent>"
+        },
+        {
+            "key": "Case_26_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI came back to my suite at 4:45 p.m. to find Peter dead on the floor. I was keeping some rare spiders in my suite that were waiting to be collected by customers. One of them had gotten out and bitten Peter on the hand as he delivered a gift basket to my room. Unfortunately for Peter, it was a poisonous one with venom that is deadly if not treated immediately. When I realised what had happened, I knew it would be difficult to trace back to me since the effects of this particular venom are almost untraceable. I waited for a quiet moment and ditched poor Peter's body in the laundry chute. I thought that way, no one would be able to place him on the 87th floor. \n\nI hadn't thought about his card scanner revealing his location."
+        }
+    ]
+}

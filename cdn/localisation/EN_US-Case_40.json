@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_40_case_title",
+            "value": "LOVE IS IN THE AIR"
+        },
+        {
+            "key": "Case_40_case_subtitle",
+            "value": "Minutes after a public proposal, the newly engaged man falls 52 floors to his death."
+        },
+        {
+            "key": "Case_40_case_cover_bg",
+            "value": "LOVE_IS_IN_THE_AIR"
+        },
+        {
+            "key": "Case_40_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_40_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_40_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_40_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_40_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_40_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_40_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_40_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_40_daily_news_headline",
+            "value": "CUPID'S DEADLY ARROW"
+        },
+        {
+            "key": "Case_40_daily_news_headline_image",
+            "value": "LOVE_IS_IN_THE_AIR"
+        },
+        {
+            "key": "Case_40_daily_news_page_1",
+            "value": "Usually, when someone falls head over heels in love, they don't expect to keep falling, let alone another 52 floors! On Friday night, while Valentine's evening was in full swing, there was more than romance in the air as Francis Cupid (34) fell from the top of the city's famous Wonko Tower and plunged to his death.\n\nInvestigators have made an official statement confirming that the victim and his partner were dining at the highly sought-after restaurant Foydar, located on the 52nd floor of the tower, when the incident occurred. They also revealed that there is evidence suggesting murder.\n\nKnown for its sophisticated dining and panoramic cityscape views, it's easy to see why Foydar is a popular destination for city-dwelling couples seeking a special and romantic evening. A post on the victim's social media that evening features a photo of him and his partner on the restaurant's terrace posing with a ring, accompanied by a comment publicly announcing their engagement.\n\nHow the celebration of this newly engaged couple's love escalated into a murder is a mystery for investigators to solve. But my instincts tell me that perhaps not everyone was thrilled about the couple's announcement!\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_40_victim_name",
+            "value": "Francis Cupid"
+        },
+        {
+            "key": "Case_40_victim_icon",
+            "value": "FrancisCupid"
+        },
+        {
+            "key": "Case_40_victim_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_40_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_40_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nFrancis Cupid and his partner, Jade, were dining at the upscale restaurant Foydar on Friday night. Jade's brother, Rossi, was managing the restaurant that evening and had arranged the couple's reservation for 7:00 p.m. At 8:00 p.m., Francis publicly proposed to Jade in front of the entire restaurant, which she accepted. To celebrate their engagement, Rossi arranged for the couple to use the restaurant's private terrace for a champagne toast. He escorted them to the terrace, a restricted area accessible only with a card key that Rossi possessed.\n\nAt 8:44 p.m., a photo was posted to social media showing the couple posing on the terrace, with Jade displaying her engagement ring. Francis was last seen alive by Jade, who left him alone on the terrace when she went to use the terrace restroom. Upon her return, she discovered he was missing.\n\nThe police arrived shortly after, having received a call from two eyewitnesses in the tower opposite who reported seeing someone being pushed from the restaurant's terrace. The autopsy confirmed that the victim's death was caused by severe trauma from a fall from a great height.\n\n<b>Discovery:</b>\n\nThe victim's body was found on the street beneath the private terrace on the 52nd floor at 8:49 p.m. An engagement ring belonging to the victim's grandmother was discovered in his jacket pocket. Ruby red lipstick marks were also found on his neck.\n\n<b>Time of Death:</b>\n\nThe eyewitnesses called the police immediately after witnessing the incident. The call was logged at 8:47 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Two witnesses in the opposite tower claimed to have seen the victim being pushed over the edge of the terrace. However, the darkness obscured their view, so they could not identify the perpetrator.</indent>\n- <indent=8%>The victim's grandmother's ring was found in his pocket.</indent>\n- <indent=8%>Ruby red lipstick marks were present on the victim's neck.</indent>\n- <indent=8%>The private terrace could only be accessed using a card key, which was held exclusively by Rossi, the restaurant manager.</indent>\n\n<b>Further Details:</b>\n\nThree suspects, all of whom were present at the restaurant that evening and had a close connection to the victim, have been brought in for questioning."
+        },
+        {
+            "key": "Case_40_suspect_1_name",
+            "value": "Jade Valentino"
+        },
+        {
+            "key": "Case_40_suspect_1_icon",
+            "value": "JadeValentino"
+        },
+        {
+            "key": "Case_40_suspect_1_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_40_suspect_1_occupation",
+            "value": "Victim's fiance"
+        },
+        {
+            "key": "Case_40_suspect_1_statement_page_1",
+            "value": "<b>Q: How long had you and Francis been in a relationship?</b>\n<b>A:</b> About 10 months. We met on a dating app last year and hit it off. Although I must admit, his proposal came as a real surprise, we hadn't even lived together yet.\n\n<b>Q: Was it a pleasant surprise?</b>\n<b>A:</b> Of course! I loved Francis. Although I was secretly mortified that he proposed so public. I hated the pressure of having everyone in the restaurant watching; it ruined the moment for me. Francis was more outgoing than I was and loved the attention, but I wish he had considered my feelings a bit more before doing it like that.\n\n<b>Q: Talk us through what happened after the proposal?</b>\n<b>A:</b> Well, my brother Rossi was the restaurant manager that night, and when he saw the engagement, he arranged for us to go out onto the restaurant's private roof terrace to celebrate the news. I was relieved he did because I needed some space to process what had just happened. Francis was excited and wanted to start talking about our wedding. After a few minutes, I went to use the terrace's private restroom. When I got back, Francis was gone.\n\n<b>Q: Where did you think he was?</b>\n<b>A:</b> I just assumed he had gone back inside the restaurant, which is why I went in to find him. Falling to his death hadn't even crossed my mind. It wasn't until a few minutes later, when my brother Rossi received a call from the police saying they had found Francis's body on the street below, that we knew. It was surreal. Even now, I can't believe it.\n\n<b>Q: Did you notice anything strange about Francis's behavior that evening?</b>\n<b>A:</b> No, he was in a really good mood, especially after I said yes! Even bumping into his weird ex-girlfriend outside the restroom didn't affect it. Coincidentally, she was dining at the restaurant that evening, too. She came across as a bit desperate when they spoke, even trying to convince Francis to take her back. Francis rejected her. I assume she left after that embarrassment, but I can't confirm if she did or not."
+        },
+        {
+            "key": "Case_40_suspect_2_name",
+            "value": "Bella Eros"
+        },
+        {
+            "key": "Case_40_suspect_2_icon",
+            "value": "BellaEros"
+        },
+        {
+            "key": "Case_40_suspect_2_age",
+            "value": "31"
+        },
+        {
+            "key": "Case_40_suspect_2_occupation",
+            "value": "Victim's ex-partner"
+        },
+        {
+            "key": "Case_40_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Francis?</b>\n<b>A:</b> We were together for a long time until last year when he ended it suddenly. He moved on pretty quickly, but I knew deep down that he still loved me. Our connection was so deep that I always felt we would end up together in the end. It will take time to process that he's gone.\n\n<b>Q: When did you realize that Francis was dining at the same restaurant as you?</b>\n<b>A:</b> I'll be honest, me being there wasn't a coincidence. Valentine's Day was approaching, and I felt alone, so I just wanted the comfort of seeing Francis again. I saw on his social media that he had a reservation at this fancy, exclusive restaurant. Luckily, one of my friends is a food critic, and I managed to persuade them to get us a table there on the same night.\n\n<b>Q: What were you hoping to achieve?</b>\n<b>A:</b> I hoped that if Francis saw me there looking my best, it would remind him of his feelings for me. I even wore the lipstick I knew he liked. But on the night itself, we were sitting at opposite ends of the restaurant, and he didn't notice me. I followed him to the restroom in hopes of speaking with him. We spoke briefly, but I felt a lot of sexual tension between us, so much so that I lost control of my urges and threw myself at him, thinking he wanted it. In reality, it was a desperate act, and he rejected me.\n\n<b>Q: What did you do after that interaction?</b>\n<b>A:</b> I wanted to go home and cry. But my friend had pulled a lot of strings to get us a table that night, so I stayed to have dinner with them. I wish I hadn't. Later on, Francis got up and made a very public proposal to the person he was with. It was heartbreaking to see her put on his grandmother's ring. Francis and I used to talk about getting married all the time. It was meant to be me wearing it!\n\n<b>Q: Did you see Francis again that evening?</b>\n<b>A:</b> Not face to face. I noticed he and his fiancée were taken out to the private roof terrace by the restaurant manager. I didn't see him again after that. It wasn't until his fiancée came back in later that I realized something had happened. The poor woman looked in total shock. If I didn't hate her for stealing Francis from me, I'd almost have felt sorry for her. The police arrived shortly after that and shut the restaurant down.\n\n<b>Q: Do you have any idea what happened to Francis?</b>\n<b>A:</b> All I know is that you guys are investigating a murder. I'd be speaking with the restaurant manager. I noticed they looked seriously pissed off during Francis' proposal. They were trying hard not to intervene."
+        },
+        {
+            "key": "Case_40_suspect_3_name",
+            "value": "Rossi Valentino"
+        },
+        {
+            "key": "Case_40_suspect_3_icon",
+            "value": "RossiValentino"
+        },
+        {
+            "key": "Case_40_suspect_3_age",
+            "value": "30"
+        },
+        {
+            "key": "Case_40_suspect_3_occupation",
+            "value": "Fiance's brother"
+        },
+        {
+            "key": "Case_40_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship to Francis?</b>\n<b>A:</b> He was dating my sister Jade. I didn't know him well, but we'd met a few times. He recently asked for my help in arranging a special evening for him and Jade for Valentine's Day. The restaurant is usually booked up nine months in advance. Still, I wanted to be supportive of my little sister and her relationship, so I made space for them. I wouldn't have done it if I had known he was going to propose.\n\n<b>Q: Did you not support your sister's engagement?</b>\n<b>A:</b> Not for one second! I could have overlooked the tacky proposal, which made my sister very uncomfortable. But just minutes before the proposal, I witnessed Francis being intimate with another woman outside the restrooms! She was all over him, practically eating his neck. I only saw it for a couple of seconds before I got distracted, but it was enough to know he wasn't good for my sister. I planned to tell her, but I was waiting until after they left the restaurant so as not to cause a scene. If I'd known he was about to propose, I would have said something sooner.\n\n<b>Q: Did you say anything after the proposal?</b>\n<b>A:</b> No. I was furious that this guy could betray my sister one moment and then propose to her the next. Still, I decided to stay professional and planned to let my sister down gently the next day in a more appropriate setting. I continued as though all was well and let her enjoy the moment. It's our custom to invite customers celebrating special occasions to enjoy our private roof terrace, which boasts the best view in the city. I took them up at 8:35 p.m. and served them champagne. I didn't stay long, as I had to deal with an overly drunk couple at the cocktail bar. It took me 15 minutes to calm them down. \n\n<b>Q: When did you first become aware that something had happened to Francis?</b>\n<b>A:</b> It all happened at once. The first thing I noticed was Jade coming back into the restaurant looking for Francis. I thought it was strange, as I hadn't seen anyone come in from the terrace since I left them. Jade looked surprised and confused. She had been to the restroom up there, and when she returned, Francis was missing. Seconds later, the police called the restaurant to say his body had been found on the street below. Jade completely broke down at the news. It was a shock for all of us to hear."
+        },
+        {
+            "key": "Case_40_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_40_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>According to the police report, Rossi is the only person with the key to access the private roof terrace. While he facilitated Jade and Francis's access to celebrate their engagement, neither Bella nor anyone else could have entered the terrace during the time of the murder. This eliminates Bella as a potential suspect.</indent>\n\n- <indent=8%>Rossi escorted Jade and Francis to the roof terrace at 8:35 p.m. and then spent 15 minutes dealing with two intoxicated customers. With the time of death established as 8:45 p.m., Rossi could not have been on the terrace at the critical moment, excluding him from suspicion.</indent>\n\n- <indent=8%>Jade claims she was using the terrace's private restroom at the time of the murder, leaving Francis alone. However, there is no independent verification of this claim. When Jade returned to the terrace and discovered Francis missing, her first assumption was that he had returned to the restaurant.</indent> \n\n- <indent=8%>Statements from both Rossi and Bella indicate that when Jade entered the restaurant, she appeared \"surprised\" and in \"total shock,\" emotions inconsistent with merely searching for a partner. This suggests that Jade may have witnessed or been directly involved in something traumatic, such as Francis's fall.</indent>\n\n- <indent=8%>Earlier in the evening, Francis used his grandmother's ring to propose to Jade, who accepted and wore the ring. A photo on social media at 8:44 p.m. shows Jade still wearing the ring on the terrace, only one minute before Francis's death. The police report confirms that the same ring was later found in Francis's pocket. The ring must have been returned to Francis moments before his death, contradicting Jade's claim of being in the restroom at the time.</indent>  "
+        },
+        {
+            "key": "Case_40_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nFrancis' proposal took me completely off guard. I loved him, but I wasn't ready. The fact that he did it so publicly made it ten times worse; it put me under so much pressure. I ended up just saying yes to get people to stop looking at me.\n\nWhen Rossi took us out onto the terrace, I felt relieved for the privacy and fresh air. All I needed was a moment to gather my thoughts and process what had just happened. But Francis was excited and immediately started talking about the kind of wedding we should have and our future together. It was intense! I knew deep down that I had made a mistake and that I didn't want to marry him, but I couldn't find the courage to tell him.\n\nWhen he got us to pose for a selfie and posted the engagement online, I started to see messages coming in from friends and family. That's when reality hit me. Things were escalating fast, and I felt trapped. I panicked, pulled the ring off my finger, and shoved it into Francis's pocket. He looked confused for a second before saying, \"I couldn't change my mind now,\" and then tried to hug me. I was still panicking and acting impulsively. I pushed him away to get some space. In an instant, he was gone, over the terrace railings!"
+        }
+    ]
+}

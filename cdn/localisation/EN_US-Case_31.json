@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_31_case_title",
+            "value": "COLD BLOODED KILLER"
+        },
+        {
+            "key": "Case_31_case_subtitle",
+            "value": "A celebrity head chef has been found frozen to death in the freezer of their Michelin-starred restaurant."
+        },
+        {
+            "key": "Case_31_case_cover_bg",
+            "value": "COLD_BLOODED_KILLER"
+        },
+        {
+            "key": "Case_31_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_31_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_31_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_31_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_31_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_31_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_31_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_31_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_31_daily_news_headline",
+            "value": "CHEF MEETS<br>FROSTY END"
+        },
+        {
+            "key": "Case_31_daily_news_headline_image",
+            "value": "COLD_BLOODED_KILLER"
+        },
+        {
+            "key": "Case_31_daily_news_page_1",
+            "value": "On Tuesday morning, head chef Mashad Ali (44) was found frozen to death at the Michelin-starred restaurant Unshackled. Initial reports suggest his body was discovered in the walk-in freezer, where it appears he had become trapped the evening before.\n\nMashad was known for his controversial and somewhat quirky cooking style and had an increasingly popular social media presence focused on people's reactions to his outrageous food-related stunts.\n\nThe self-proclaimed \"once-in-a-generation talent\" claimed to be starting a revolution in the fine dining industry. While it's debatable whether he achieved that, he certainly split opinion among his peers, with purists believing his cooking styles were an embarrassing gimmick. But not everyone felt this way. Mashad's rising popularity is rumored to have recently led to a lucrative cookbook deal with the highly sought-after culinary publishing company Salt & Pepper.  \n\nThe Police are investigating the circumstances of how Mashad became trapped in the freezer that night. Considering his reputation for having a hot head around demanding customers and inadequate colleagues, I'm sure there will be plenty of people out there who feel a cooling off was exactly what he needed.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_31_victim_name",
+            "value": "Mashad Ali"
+        },
+        {
+            "key": "Case_31_victim_icon",
+            "value": "MashadAli"
+        },
+        {
+            "key": "Case_31_victim_age",
+            "value": "36"
+        },
+        {
+            "key": "Case_31_victim_cod",
+            "value": "Hypothermia"
+        },
+        {
+            "key": "Case_31_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was found deceased in a walk-in freezer that had been locked from the outside, with the external temperature gauge set to -30 degrees Fahrenheit. The victim had been exposed to these extreme conditions for a significant length of time, leading to death.\n\n<b>Discovery:</b>\n\nThe victim was discovered at 8:00 a.m. by their sous chef, who had arrived to start prepping for service later that day.\n\n<b>Time of Death:</b>\n\nThe postmortem suggests that the victim's body had been in the freezer for approximately 8 hours before discovery.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Multiple fingerprints were collected from the freezer control settings, including those of the three suspects being interviewed.</indent>\n- <indent=8%>Witnesses confirm that the three suspects had separate confrontations with the victim the evening before.</indent>\n\n<b>Further Details:</b>\n\nThe three suspects, who were involved in a confrontation with the victim the previous evening, are currently being investigated."
+        },
+        {
+            "key": "Case_31_suspect_1_name",
+            "value": "Holly Bush"
+        },
+        {
+            "key": "Case_31_suspect_1_icon",
+            "value": "HollyBush"
+        },
+        {
+            "key": "Case_31_suspect_1_age",
+            "value": "29"
+        },
+        {
+            "key": "Case_31_suspect_1_occupation",
+            "value": "Victim's publicist"
+        },
+        {
+            "key": "Case_31_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Mashad?</b>\n<b>A:</b> I was his publicist. I managed all his social media profiles and handled anything related to public relations. Mashad wanted to be a star, and I was well on my way to making him one. I still can't believe he's gone.\n\n<b>Q: What were you doing at the restaurant that night?</b>\n<b>A:</b> I'd heard that his arch-nemesis and rival head chef, Jonti Moore, was dining at the restaurant, so I went in to be there in case it all blew up, which it did. Jonti made a big scene of sending back some food, which Mashad didn't take well. He stormed out of the kitchen and started exchanging insults with him. It ended with Mashad pouring a cup of hot gravy over Jonti's head. It was amazing content for his followers.\n\n<b>Q: You were seen having a disagreement with Mashad in the kitchen later that night after service?</b>\n<b>A:</b> I didn't realize anyone else was still there to see that! But yes, he was annoyed that I had posted the video of him pouring the gravy over Jonti, thought it was unprofessional. But I was having none of it; he couldn't argue with gaining 50,000 new followers in a matter of hours. We talked it out and made up in the end, even shared a glass of champagne to celebrate his cookbook deal. It was going to be the first of many.\n\n<b>Q: When did you leave the restaurant?</b>\n<b>A:</b> I left around 11:50 p.m. Mashad stayed to sort a few things before he locked up. As I left, I noticed Jonti Moore's car outside on the street. It stood out to me because I had filmed him speeding away in it only a few hours earlier after the gravy incident."
+        },
+        {
+            "key": "Case_31_suspect_2_name",
+            "value": "Sue Cook"
+        },
+        {
+            "key": "Case_31_suspect_2_icon",
+            "value": "SueCook"
+        },
+        {
+            "key": "Case_31_suspect_2_age",
+            "value": "25"
+        },
+        {
+            "key": "Case_31_suspect_2_occupation",
+            "value": "Victim's employee"
+        },
+        {
+            "key": "Case_31_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Mashad?</b>\n<b>A:</b> I've been Mashad's sous chef for 12 months, and honestly, I hate it. His cooking style is bizarre, and his expectations of a sous chef are unrealistic. Not to mention his egotistical personality, he spent a lot of time messing around in the kitchen with his publicist, making 'content' for social media. It's a weird coincidence that he died the way he did because one of Holly's great suggestions was for Mashad to lock himself in the kitchen freezer as some form of endurance-based publicity stunt. She had even started testing it out for him by coming in and freezing herself sometimes. Mad as a box of frogs, those two!\n\n<b>Q: Talk me through what occurred between you and Mashad that evening?</b>\n<b>A:</b> Just another mad evening in the kitchen of Unshackled. Mashad didn't like the way I was mashing the potatoes, so he went crazy and fired me. I didn't mind; it gave me the rest of the evening off to continue looking for new jobs. I went home to my parents' house, where I still live with them, and they helped me with the job search. I suppose one benefit of him being gone is that I don't have to ask him for a reference anymore.\n\n<b>Q: If you had been fired, why did you return to the restaurant the next morning?</b>\n<b>A:</b> It wasn't the first time he'd fired me. Normally, once he cooled off, he would call me to apologize. And that's what happened, I got a call from Mashad just before midnight. He told me that he regretted his actions and wanted me back. He then started saying that Holly had just left and that she had a plan for using me in one of their next content videos. They seemed to think it would be good for my career. I guess that was his way of apologizing."
+        },
+        {
+            "key": "Case_31_suspect_3_name",
+            "value": "Jonti Moore"
+        },
+        {
+            "key": "Case_31_suspect_3_icon",
+            "value": "JontiMoore"
+        },
+        {
+            "key": "Case_31_suspect_3_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_31_suspect_3_occupation",
+            "value": "Victim's rival"
+        },
+        {
+            "key": "Case_31_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Mashad?</b>\n<b>A:</b> We were once friends. At the start of our careers, we were apprentices to the same head chef, but then Mashad betrayed me to advance his career. We've both gone on to be successful, but we've been enemies ever since.\n\n<b>Q: Talk me through the incident where Mashad poured gravy on you?</b>\n<b>A:</b> You might have heard that Mashad had signed a cookbook deal with Salt & Pepper. What you didn't know was that I had all but signed that contract, only for Mashad to sneak in and steal it from underneath me. He bad-mouthed me to all the directors of the publishing company. I dined at his restaurant that night intending to confront him about it. The only way to get his attention was to send back my food, so I did, and I made a big fuss in front of all his customers to ensure he would come out. Unfortunately, I did not foresee Mashad coming out and throwing hot gravy at me; it was humiliating.\n\n<b>Q: How did you respond?</b>\n<b>A:</b> I left immediately and went home. But I was fuming and wanted some justice. I'm not proud of it, but I decided to go back that night and attack his restaurant's hygiene rating by releasing a rat into the kitchen. I drove back later, thinking the restaurant would be empty, around 11:30 p.m. But sadly, I never made it into the kitchen; I only got as far as the reception before I saw Mashad and his publicist having a heated exchange. I decided it wasn't worth the risk and drove home. My revenge could wait for another day."
+        },
+        {
+            "key": "Case_31_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_31_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The police report informs us that the victim's body was found at 8 a.m. and had been exposed to freezing conditions for 8 hours. This means the victim was locked in the freezer around midnight.</indent>\n\n- <indent=8%>Sue Cook was fired by the victim and left the restaurant early that evening to go home and job hunt with her parents. Considering she didn't return to the restaurant until early the next morning, she could not have been the killer.</indent>\n\n- <indent=8%>Holly tells us she left the restaurant around 11:50 p.m., and this was verified by Sue Cook, who received a call from the victim shortly before midnight. In the call, the victim tells Sue that he had been with Holly and that she had just left. Since the victim spoke to Sue at this time and seemed fine, being locked in the freezer must have occurred after the call, which was after Holly had left.</indent>\n\n- <indent=8%>Jonti admits to returning to the restaurant at 11:30 p.m. when he thought it would be empty. He then claims to have left again when he saw Holly and the victim still there. However, when Holly leaves at 11:50 p.m., Holly says that his car is parked outside the restaurant. This suggests Jonti did not leave when he said he did and was likely still at the restaurant at the time of the crime.</indent>\n\n- <indent=8%>The police report states that all three suspects' fingerprints were found on the kitchen freezer controls. Sue's prints are easily explained, given that she is a chef. Holly's prints, though less likely, are explained by her use of the freezer to test freezing herself for social media content. Jonti Moore's prints, however, are unexplained; he did not work at the restaurant and had no logical reason to be in the kitchen. In his account of that evening, he specifically says he did not go into the kitchen, despite intending to. His fingerprints indicate he lied about being at the scene of the crime.</indent>"
+        },
+        {
+            "key": "Case_31_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI went into the restaurant with the intention of releasing a rat in the kitchen and then leaving. That was it. But when I arrived, Mashad and Holly were there. I heard them arguing at first, then they seemed to make up and started talking more generally. That's when the topic of his new cookbook came up, and all my fears were confirmed. My mind told me to leave immediately, but my instincts forced me to stay and listen. Holly revealed that she had followed his instructions and launched a social media campaign attacking my character, targeting all the directors of Salt & Pepper. They were laughing at my downfall and even opened a bottle of bubbly to toast his success. I couldn't believe it, Mashad had successfully betrayed me for a second time. He had to pay.\n\nWhen Holly eventually left, I saw Mashad enter the freezer, and I took my opportunity. I closed him in, locked it from the outside, and then turned the temperature down as low as possible. I only intended to leave him there for a couple of hours to teach him a lesson, but then I started to enjoy the thought of him being alone in there, not knowing who had done it. So I left and went home. What goes around comes around."
+        }
+    ]
+}

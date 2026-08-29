@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_14_case_title",
+            "value": "HIDDEN GEMS"
+        },
+        {
+            "key": "Case_14_case_subtitle",
+            "value": "A nature blogger is found murdered at the summit of Cold Stone Peak. With only three other people on the mountain that day, the suspect pool is limited."
+        },
+        {
+            "key": "Case_14_case_cover_bg",
+            "value": "HIDDEN_GEMS"
+        },
+        {
+            "key": "Case_14_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_14_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_14_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_14_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_14_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_14_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_14_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_14_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_14_daily_news_headline",
+            "value": "A VIEW<br>TO DIE FOR"
+        },
+        {
+            "key": "Case_14_daily_news_headline_image",
+            "value": "HIDDEN_GEMS"
+        },
+        {
+            "key": "Case_14_daily_news_page_1",
+            "value": "On Friday morning, a group of hikers had their views ruined when they stumbled upon the body of nature blogger Frank Edwards (20) at the top of Cold Stone Peak in Big Rock National Park. A local to the area, Frank had gone out for a hike on Wednesday but never returned home. His family reported him missing the next day.\n\nCold Stone Peak is known by locals for its panoramic views of the park's sweeping landscapes, glittering lakes, green forests, and imposing mountains. The peak, being difficult to access and a challenging hike, means its trails remain relatively untouched by tourists, making it one of the park's hidden gems.\n\nThe police have yet to give a complete statement on the death, but were quick to stamp out rumors of a bear attack by confirming that they are investigating a murder.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_14_victim_name",
+            "value": "Frank Edwards"
+        },
+        {
+            "key": "Case_14_victim_icon",
+            "value": "FrankEdwards"
+        },
+        {
+            "key": "Case_14_victim_age",
+            "value": "20"
+        },
+        {
+            "key": "Case_14_victim_cod",
+            "value": "Sharp force trauma"
+        },
+        {
+            "key": "Case_14_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was found at the very top of Cold Stone Peak, carrying a rucksack packed for a day's hike and two hiking poles. One of the hiking poles was covered in the victim's blood, and the postmortem confirmed that the victim had been beaten and then stabbed to death with it.\n\n<b>Discovery:</b>\n\nFellow hikers discovered the victim.\n\n<b>Time of Death:</b>\n\nWednesday afternoon, estimated between 1:00 and 2:00 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Blood-stained hiking pole used as the murder weapon.</indent>\n- <indent=8%>The victim's clothing was covered in a light dusting of ash.</indent>\n- <indent=8%>The absence of the victim's video camera, which the family confirmed he always carried with him.</indent>\n\n<b>Further Details:</b>\n\nThe victim's family confirmed that he was inseparable from his video camera, but no camera was found with the body. Three suspects have been identified for questioning, all of whom were also on the mountain trails on the day of the murder."
+        },
+        {
+            "key": "Case_14_suspect_1_name",
+            "value": "Melissa Grady"
+        },
+        {
+            "key": "Case_14_suspect_1_icon",
+            "value": "MelissaGrady"
+        },
+        {
+            "key": "Case_14_suspect_1_age",
+            "value": "67"
+        },
+        {
+            "key": "Case_14_suspect_1_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_14_suspect_1_statement_page_1",
+            "value": "<b>Q: What were you doing on the mountain that day?</b>\n<b>A:</b> I hiked the North Trail to the peak and back, as I have done once a week for the last 30 years. It's kind of a ritual.\n\n<b>Q: Did you come across Frank Edwards while on the trail?</b>\n<b>A:</b> Yes, a couple of times. I first saw him when he passed me on the way up. Sadly, age has caught up with me, and I need regular breaks these days. I then saw him again when I reached the peak at around 12:30. We had a pleasant chat, and I ended up sharing my sandwiches with him. Believe it or not, he had come out for the day without any proper food! Exactly the same sort of carefree attitude my son would have.\n\n<b>Q: What did you and Frank talk about?</b>\n<b>A:</b> He was telling me about how he was a nature podcaster and vlogger. I had no idea what that meant, so he was explaining it. Apparently, he was doing a new series about \"nature's hidden gems,\" where he explores beautiful but relatively unknown natural sites and unveils them to his followers. He was doing something on Cold Stone Peak that day and was picking my brain on the area. I didn't mind helping personally, but when he started filming me, I got a little uncomfortable. I wasn't thrilled about him spreading the word about the peak either. It would only lead to crowds of tourists turning up. I know it's silly, but after 30 years of hiking here, it feels like it's my private getaway.\n\n<b>Q: Did you see anyone else on the trails?</b>\n<b>A:</b> Frank was the only person I spoke to that day. I saw a man I recognized passing by on his mountain bike, but since he was in the distance, we just waved at each other. After I left Frank at the top doing his filming, it felt like I had the mountain to myself again, how I like it!"
+        },
+        {
+            "key": "Case_14_suspect_2_name",
+            "value": "James Miller"
+        },
+        {
+            "key": "Case_14_suspect_2_icon",
+            "value": "JamesMiller"
+        },
+        {
+            "key": "Case_14_suspect_2_age",
+            "value": "48"
+        },
+        {
+            "key": "Case_14_suspect_2_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_14_suspect_2_statement_page_1",
+            "value": "<b>Q: What were you doing on the mountain that day?</b>\n<b>A:</b> My partner passed away recently, and I was having some quiet time to allow myself to grieve. My partner and I hiked the South Trail to Cold Stone Peak together several times during our marriage, so I brought her ashes and made the trip again in memory of her.\n\n<b>Q: Did you come across Frank Edwards while on the trails?</b>\n<b>A:</b> Yes. We were on different trails but happened to reach the top at the same time. He had a camera on the end of his hiking pole, filming himself and his surroundings. I had hoped to have the peak to myself, so my heart sank when I saw him. To make things worse, he approached me asking if I was willing to go on camera and answer some questions for a project he was working on. I wasn't in the mood and got a little short with him; thankfully, he took the hint.\n\n<b>Q: What happened then?</b>\n<b>A:</b> I didn't stay on the peak for long, only a minute or two. With him there, it wasn't the peaceful environment I was hoping for. I went back down the way I came, feeling disappointed.\n\n<b>Q: Did you see anyone else on the trails?</b>\n<b>A:</b> I got a bit upset on my way down and wasn't paying attention to my surroundings. I think a mountain biker crossed my path on the way down, but I can't be sure of that."
+        },
+        {
+            "key": "Case_14_suspect_3_name",
+            "value": "Brad Wilson"
+        },
+        {
+            "key": "Case_14_suspect_3_icon",
+            "value": "BradWilson"
+        },
+        {
+            "key": "Case_14_suspect_3_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_14_suspect_3_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_14_suspect_3_statement_page_1",
+            "value": "<b>Q: What were you doing on the mountain that day?</b>\n<b>A:</b> I had the day off work, which doesn't happen often, so I took my mountain bike up there to ride some of my favorite trails.\n\n<b>Q: Did you come across Frank Edwards while on the trails?</b>\n<b>A:</b> Yes, around midday. I didn't know who he was at the time, but I remember him because the idiot nearly killed me! As I crossed the North Trail, I saw him messing around, filming himself with a stupid camera on the end of his hiking pole. He walked right into my path and forced me off the trail at speed. Thankfully, I was fine, but it badly damaged my bike. I was furious; I had to go back down the mountain to my truck to do repairs, which took a couple of precious riding hours out of my day.\n\n<b>Q: How did Frank react to the incident?</b>\n<b>A:</b> Believe it or not, he had the nerve to get cross with me! He was angry that I ruined some video he was taking and stormed off. I've since seen in the news that he made home videos about nature and put them online. He was exactly the kind of person I hated seeing out in the park. This sort claim to love nature but are more interested in their social media presence.\n\n<b>Q: Did you see anyone else on the trails?</b>\n<b>A:</b> Yes, after fixing my bike, I got back on the trails in the afternoon. I saw two people, both coming down the North Trail separately from the peak. One was an old lady I've met up with on the mountain before. We acknowledged each other, but I didn't stop; she was clearly in a rush to get down. Then, shortly after, I saw a man I didn't recognize. I said hello as I passed him, but he was so engrossed in his thoughts that he didn't notice me."
+        },
+        {
+            "key": "Case_14_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_14_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Brad's bike was damaged as a result of the accident involving the victim, which occurred around midday. He then went down the mountain for a couple of hours to fix his bike. Therefore, he could not have been at the peak at the time of death.</indent>\n\n- <indent=8%>Brad witnessed both Melissa and James coming down separately from the peak on the North trail. These sightings were confirmed by both of them. Melissa was seen first, followed by James. This is suspicious because James claims to have reached the peak at the same time as the victim (before Melissa) and then left very quickly; therefore, he should have been seen coming down first. More importantly, James tells us that he went back down the South Trail; however, he was seen coming down the North Trail - James lied about when he left the peak and where he went.</indent>\n\n- <indent=8%>We are told on the police report that the victim's clothing had a light dusting of ash. We know that James was carrying his partner's ashes with him on the hike.</indent>\n\n- <indent=8%>We know that James was emotionally fragile and unhappy about the victims' presence at the top of the mountain.</indent>"
+        },
+        {
+            "key": "Case_14_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI hiked Cold Stone Peak that day to scatter my partner's ashes; it was meant to be a peaceful and private moment. When I got to the top and saw Frank, I was disheartened and quickly went back down the trail I'd come up. I found a quiet place to sit a little way down and decided to wait until he had gone for a better moment. I was waiting for a while because Frank ended up being joined by a woman, and they had food and talked for ages. Eventually, it seemed all clear up on the peak, so I went back up to scatter the ashes in peace.\n\nUnfortunately, it didn't go quite as planned. As I threw the ashes from the urn, there was a strong gust of wind that blew them back into my face. It took me by surprise, and I stumbled back, falling over. That's when I heard him laughing. I looked up and noticed that Frank was still on the peak and had been standing behind me. What's worse, he was filming me. I was embarrassed and angry. I told him to delete the video, but he refused, saying it would get loads of hits on social media. The thought of that provoked me. I grabbed the camera off him, which was attached to his hiking pole, and started hitting him with it until he stopped moving.\n\nI took his camera and left immediately. In the panic of it all, I ended up walking down the North Trail instead of the South Trail, which I had come up. I was in such a trance at what had just happened that I didn't notice until I got to the bottom."
+        }
+    ]
+}

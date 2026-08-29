@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_12_case_title",
+            "value": "THE ELUSIVE PURPLE WARBLER"
+        },
+        {
+            "key": "Case_12_case_subtitle",
+            "value": "A pair of binoculars is used for more than observation when a birdwatcher is brutally murdered at the Wetland Nature Reserve."
+        },
+        {
+            "key": "Case_12_case_cover_bg",
+            "value": "THE_ELUSIVE_PURPLE_WARBLER"
+        },
+        {
+            "key": "Case_12_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_12_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_12_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_12_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_12_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_12_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_12_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_12_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_12_daily_news_headline",
+            "value": "BIRDWATCHER BASHED<br>WITH BINOCULARS"
+        },
+        {
+            "key": "Case_12_daily_news_headline_image",
+            "value": "THE_ELUSIVE_PURPLE_WARBLER"
+        },
+        {
+            "key": "Case_12_daily_news_page_1",
+            "value": "Lifelong bird-watcher Mavis Sparrow (71) was murdered in the Wetland Nature Reserve on Tuesday. She and her husband, Jay Sparrow, a retired couple from the region, had booked one of the reserve's popular lookout points for the day in the hopes of seeing some of the rare and unique birds on display at this time of year. However, their hopes of a peaceful, nature-filled day turned into a horrific nightmare when Jay discovered his wife brutally murdered, with what is rumoured to be a set of heavy binoculars.\n\nRecent sightings of a unique bird known as the Purple Warbler have attracted large numbers of avid birders to the nature reserve over the last few days. Sadly, the police have been forced to close the reserve. At the same time, their investigation continues, upsetting many of these people who have travelled from far and wide to glimpse the rare bird.\n\nLocal reports suggest the police are investigating the victim's husband and two other bird-watchers who were located in close vicinity to the crime scene that day. With no arrests having yet been made and the killer still at large, it appears the rarely spotted Purple Warbler wasn't the only thing that proved to be elusive that day.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_12_victim_name",
+            "value": "Mavis Sparrow"
+        },
+        {
+            "key": "Case_12_victim_icon",
+            "value": "MavisSparrow"
+        },
+        {
+            "key": "Case_12_victim_age",
+            "value": "71"
+        },
+        {
+            "key": "Case_12_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_12_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was killed by severe trauma and internal bleeding to the head, inflicted with a heavy set of metal binoculars. The binoculars, which the victim's partner owns, were found at the scene. The victim's partner called the police shortly after 2 p.m., claiming to have returned from a 30-minute walk to the car and discovered her body.\n\n<b>Discovery:</b>\n\nThe victim's body was discovered by her partner.\n\n<b>Time of Death:</b>\n\nEstimated between 1:30 p.m. and 2:00 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The murder weapon, a set of heavy metal binoculars, with fingerprints from all three suspects.</indent>\n- <indent=8%>A smashed radio found at the crime scene.</indent>\n\n<b>Further Details:</b>\n\nInvestigators are analysing the timeline and the evidence, focusing on the involvement of the suspects whose fingerprints were found on the binoculars."
+        },
+        {
+            "key": "Case_12_suspect_1_name",
+            "value": "Jay Sparrow"
+        },
+        {
+            "key": "Case_12_suspect_1_icon",
+            "value": "JaySparrow"
+        },
+        {
+            "key": "Case_12_suspect_1_age",
+            "value": "70"
+        },
+        {
+            "key": "Case_12_suspect_1_occupation",
+            "value": "Victim's husband"
+        },
+        {
+            "key": "Case_12_suspect_1_statement_page_1",
+            "value": "<b>Q: Why were you at the nature reserve that day?</b>\n<b>A:</b> It was my birthday, and my partner Mavis had booked us one of the nature reserve's private lookouts for the day. We're both avid bird-watchers, so it was great to go and spend the day there. At our age, we don't get out as much as we used to.\n\n<b>Q: Talk us through what happened when you got there.</b>\n<b>A:</b> We arrived early, the weather was beautiful, and the location was peaceful. At lunchtime, Mavis surprised me with a picnic she had brought, including some wine, which was a real treat! The wine must have gone to our heads because we were enjoying ourselves, telling stories and laughing a lot, so much so that a lady came from a nearby lookout and complained about the noise. She was from a bird-watching society and was concerned we were scaring away the wildlife. A little while later, I made a trip back to the car, which was a 35-minute round trip. It could have been a little quicker, but I ended up seeing some people I knew in the car park. When I returned, I found Mavis lying there. I'm heartbroken.\n\n<b>Q: Why did you go back to your vehicle?</b>\n<b>A:</b> Mavis had brought her portable radio and wanted to listen to her show, which she never missed. Considering Mavis was hard of hearing and we had already been told off for making too much noise, I decided to go back to the car to get her headphones. That way, she wouldn't distract nature by having it too loud.\n\n<b>Q: It was your binoculars that were used to kill her. Can you explain this?</b>\n<b>A:</b> That’s a horrible thought. All I can explain is that I left them for Mavis to use while I went back to the car. My binoculars were better than hers, and there was no point in carrying them back to the car with me."
+        },
+        {
+            "key": "Case_12_suspect_2_name",
+            "value": "Gavin Finch"
+        },
+        {
+            "key": "Case_12_suspect_2_icon",
+            "value": "GavinFinch"
+        },
+        {
+            "key": "Case_12_suspect_2_age",
+            "value": "63"
+        },
+        {
+            "key": "Case_12_suspect_2_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_12_suspect_2_statement_page_1",
+            "value": "<b>Q: Why were you at the nature reserve that day?</b>\n<b>A:</b> I am a regular visitor there. The bird-watching is nice, but I go for peace and solitude. I'm a retired paramedic and have seen a lot of unfortunate things in my life, so I find that I need to be outdoors in nature to help keep me calm and level-headed.\n\n<b>Q: Talk me through what you did at the reserve that day?</b>\n<b>A:</b> It was a relatively short visit. Not long after I arrived, I heard people in a lookout nearby making a lot of noise. I could hear them bickering and laughing with each other. It angered me because it completely ruined the peaceful environment. I wandered around the reserve for a bit to see if there were any other lookout points available further away, but sadly, they were all taken. I went back to my spot and tried to ignore the noise, which I was able to do for a while, but when I heard the radio, I'd had enough. I packed up my things and left.\n\n<b>Q: Did you confront the noisemakers?</b>\n<b>A:</b> I had considered it, but decided against the idea. Besides, when I went out looking for another lookout, I saw an angry-looking woman walking in the direction of the noise, so I assumed she was on her way to deal with it.\n\n<b>Q: Did you see anything suspicious at the nature reserve that day?</b>\n<b>A:</b> No. I go to these sorts of places to avoid people and confrontations, not to stick my nose into other people's business."
+        },
+        {
+            "key": "Case_12_suspect_3_name",
+            "value": "Robyn Swift"
+        },
+        {
+            "key": "Case_12_suspect_3_icon",
+            "value": "RobynSwift"
+        },
+        {
+            "key": "Case_12_suspect_3_age",
+            "value": "47"
+        },
+        {
+            "key": "Case_12_suspect_3_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_12_suspect_3_statement_page_1",
+            "value": "<b>Q: Why were you at the nature reserve that day?</b>\n<b>A:</b> I was there specifically to see the Purple Warbler. It's an unusual bird and extremely rare to see in this part of the world. Still, changes in the climate and migratory patterns appear to have supposedly attracted them here this year. When I heard that one had been spotted at this reserve, I changed all my plans and made the three-day drive to get here. It's a popular reserve, and the lookouts get booked up months in advance, but thankfully, I knew some people who were able to sort me out at short notice.\n\n<b>Q: Talk me through what you did at the reserve that day?</b>\n<b>A:</b> I got there early to maximise my chances of seeing the Purple Warbler. The conditions were excellent, and all the signs in the first few hours were promising. But then, around midday, some ignorant people in a nearby lookout started making noise. They were talking and laughing as if they were on a restaurant terrace. It was infuriating to see them scaring away the wildlife. So I went over and told them to be quiet and show some respect, and that was the last I saw of them.\n\n<b>Q: What happened when you confronted them?</b>\n<b>A:</b> I found them eating cheese and drinking wine, I'd never seen such behaviour at a reserve! I explained the importance of my visit and made it clear that they needed to be quiet, or I would have to report them to the bird-watching society. Such a substantial threat usually gets results, and unsurprisingly, they were apologetic. They seemed like friendly people and were very kind in allowing me to use their binoculars to see a Mongolian Horn Lid as it passed their lookout. However, I did warn them again as I left not to cause any more disruptions.\n\n<b>Q: Did you hear from them again?</b>\n<b>A:</b> Yes. At 1:45 p.m., I heard them put the radio on loudly. I couldn't believe it. This was a once-in-a-lifetime opportunity to see a Purple Warbler, and they were ruining it. I backed up my words and called the bird-watching society immediately, and was about to head over to them again when the radio stopped. That was the last thing I heard. Less than an hour later, the day was officially written off as a disaster when the police arrived, scaring off what little wildlife remained."
+        },
+        {
+            "key": "Case_12_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_12_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Jay walked to the car and back to collect some headphones. The fact that he bumped into people he knew in the car park for a chat can corroborate this. The police report confirms the walk is a 30-minute round trip without a stop; therefore, considering Jay returned to the crime scene shortly after 14.00 and immediately called the police, we know he was not with the victim during the time of death window.</indent>\n\n- <indent=8%>The Police report tells us all the suspect's fingerprints were found on the binoculars that were used to kill the victim. Robyn tells us that she had entered the victims' lookout earlier that day and refers to using their binoculars to look at a passing bird, which would explain her fingerprints. Gavin, however, makes it clear that he never went to the victims' lookout. If this were true, then why are his fingerprints on the murder weapon? Gavin has lied.</indent>\n\n- <indent=8%>Gavin explains that, having seen unfortunate things in life as a paramedic, he seeks nature for peace and solitude. He goes further to say that he needs it to stay calm, level-headed, and to avoid confrontation. This is the talk of someone who has issues controlling themselves, possibly even their anger. Taking this into consideration, the fact that Gavin admits to being angry about having his peace disrupted supports the theory that Gavin lost his composure and confronted the victim in their lookout. His lies about having been there, despite evidence suggesting otherwise, provide further support.</indent>"
+        },
+        {
+            "key": "Case_12_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI was a military paramedic for many years and was forced to retire when I was diagnosed with PTSD. My symptoms include anger issues and violent mood swings, which is why I spent most of my time out in nature, ironically, to keep out of harm's way.\n\nDespite being immensely frustrated with the distracting noise, I was able to control myself relatively well that morning. But when I heard the radio, a sudden and profound surge of anger came over me. I'd convinced myself the culprits were doing it on purpose to annoy me, and I wasn't going to let them get away with it. I went to confront them, and when I got there, I found an elderly lady sitting in a chair grinning at me. She was drinking wine and had a radio booming out next to her.\n\nI told her in no uncertain terms that I wasn't happy, and I instructed her to turn the radio off immediately. But she didn't seem to listen; all she did was sit there and look smugly back at me. She even had the audacity to put her hands to her ears and tell me to speak up! In the heat of the moment, I thought she was mocking me, and I lost control. I know now, looking back with a clear mind, that she was just an innocent lady with poor hearing. There was no malice or intent in any of her actions, and I am deeply ashamed of what I did."
+        }
+    ]
+}

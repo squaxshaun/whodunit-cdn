@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_15_case_title",
+            "value": "THE SCENT OF DEATH"
+        },
+        {
+            "key": "Case_15_case_subtitle",
+            "value": "A prominent yoga teacher mysteriously dies during self-meditation."
+        },
+        {
+            "key": "Case_15_case_cover_bg",
+            "value": "THE_SCENT_OF_DEATH"
+        },
+        {
+            "key": "Case_15_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_15_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_15_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_15_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_15_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_15_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_15_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_15_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_15_daily_news_headline",
+            "value": "MURDER BY<br>MEDITATION?!"
+        },
+        {
+            "key": "Case_15_daily_news_headline_image",
+            "value": "THE_SCENT_OF_DEATH"
+        },
+        {
+            "key": "Case_15_daily_news_page_1",
+            "value": "Prominent and respected yoga teacher Maddy Pope, 47, has been discovered dead on her yoga mat. Maddy was a well-known Ashtanga practitioner who had taught this specific branch of yoga for over two decades and had written several books on the subject. She recently moved across the country to team up with fellow yoga teacher Amelia Lovell, to open a new commercial studio, The Shala, which has proven to be a great success.\n\nHowever, on Friday afternoon, after entering a small private studio for her daily session of private meditation, Maddy never came out. Her colleague, who found her body, describes the scene she walked into as having a \"peaceful and surreal atmosphere,\" with Maddy lying at rest on her mat amid the calming scent of lavender incense. How she died remains a mystery,all we know is that she entered the shala alone in a fit and healthy state and wasn't interrupted until her body was later discovered lying at rest on her yoga mat. The investigating police are yet to make a statement on the suspicious death. \n\nFor the sake of the victims family and friends, I'd love to be able to report that the victim, after having dedicated much of her life to practising yoga and meditation, had achieved the ultimate goal of reaching enlightenment. But sadly the facts of this case smell of something far more sinister.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_15_victim_name",
+            "value": "Maddy Pope"
+        },
+        {
+            "key": "Case_15_victim_icon",
+            "value": "MaddyPope"
+        },
+        {
+            "key": "Case_15_victim_age",
+            "value": "47"
+        },
+        {
+            "key": "Case_15_victim_cod",
+            "value": "Acute cyanide toxicity"
+        },
+        {
+            "key": "Case_15_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nA post-mortem revealed that the victim had inhaled a lethal dose of hydrogen cyanide. Experts believe the poison was released into the room through a diffuser the victim was using to spread lavender incense. The studio where the incident occurred is a private room accessible only to employees of The Shala.\n\n<b>Discovery:</b>\n\nThe victim was discovered 90 minutes after entering the room by Judith Parson, who was working at the studio's front desk.\n\n<b>Time of Death:</b>\n\nSometime between 12:00 p.m. and 1:30 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The diffuser found in the room, suspected to have been used to release the hydrogen cyanide.</indent>\n- <indent=8%>Built-in ventilation system, likely cleared the air of the poison within 90 minutes.</indent>\n- <indent=8%>Statements from Judith Parson confirming that nobody else entered the room after the victim.</indent>\n\n<b>Further Details:</b>\n\nIt is understood that no one else was affected by the hydrogen cyanide due to the room's ventilation system, which cleared the air before anyone else entered. Three suspects are currently being interviewed."
+        },
+        {
+            "key": "Case_15_suspect_1_name",
+            "value": "Amelia Lovell"
+        },
+        {
+            "key": "Case_15_suspect_1_icon",
+            "value": "AmeliaLovell"
+        },
+        {
+            "key": "Case_15_suspect_1_age",
+            "value": "50"
+        },
+        {
+            "key": "Case_15_suspect_1_occupation",
+            "value": "Victim's business partner"
+        },
+        {
+            "key": "Case_15_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Maddy?</b>\n<b>A:</b> We've known each other for many years; we first met in India when we both lived and practiced with the same guru. Since then, we followed our own paths as yoga teachers until recently, when our paths crossed again.\n\n<b>Q: How did your paths cross?</b>\n<b>A:</b> Last year, I approached Maddy about setting up a studio together, where we could combine our resources and offer our differing styles of yoga to a wider community of students. She said she was looking for a change, and I was able to convince her to move across the country to join me. The Shala opened a few months ago, and it's really taken off. But sadly, last week, Maddy caught me by surprise when she told me she was quitting. This isn't public knowledge, but she said she wanted to give up the business and yoga teaching to travel the world again.\n\n<b>Q: How did her wanting to quit make you feel?</b>\n<b>A:</b> Obviously, it's a massive decision that has consequences, especially considering the success of our new business relies heavily on both of us being present. I felt disappointed but did not hold it against her. I did, however, insist that she keep it secret for now, as I couldn't afford for our students to find out without us first having a plan in place.\n\n<b>Q: What were you doing on the day of her death?</b>\n<b>A:</b> I was super busy at the studio. I had a full schedule of lessons, and in between them, I was making plans to replace Maddy when she leaves. I didn't realize that Maddy had incorporated a slot into her daily schedule for her private meditation. I would've joined her if I'd known! I've recently been prioritizing the business's success and making money so much that I've lost touch with myself and why I fell in love with yoga."
+        },
+        {
+            "key": "Case_15_suspect_2_name",
+            "value": "Judith Parson"
+        },
+        {
+            "key": "Case_15_suspect_2_icon",
+            "value": "JudithParson"
+        },
+        {
+            "key": "Case_15_suspect_2_age",
+            "value": "42"
+        },
+        {
+            "key": "Case_15_suspect_2_occupation",
+            "value": "Victim's student"
+        },
+        {
+            "key": "Case_15_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Maddy?</b>\n<b>A:</b> I have been a student of hers for over a decade, and I'm devastated that she's gone. Her guidance has had a profound influence on my life. So much so that when she decided to move across the country to start a new studio with Amelia, I quit my well-paid job as a toxicologist and followed her. Thankfully, she made it easier by giving me a job at the new studio. I run the front desk while she trains me to be a teacher myself.\n\n<b>Q: Can you walk us through when you found Maddy's body?</b>\n<b>A:</b> Yes, I noticed that she didn't come out of her daily meditation after an hour like usual, so I gave it another 30 minutes before I decided to go in and check on her. I found her lying on her mat; the diffuser, which she always uses, had entirely run out, so she must have been lying there for a while. It looked like a peaceful way to go.\n\n<b>Q: What were you doing on the day of Maddy's death?</b>\n<b>A:</b> I ran the front desk as usual, but was also asked to help show Adrienne around the Shala, which was strange because Adrienne runs a rival studio. I wasn't given an explanation as to why, but I secretly knew. I overheard Amelia and Maddy arguing last week about Maddy quitting. Amelia, quite rightly, wasn't happy, and it was clear to me that her panicked reaction was to replace Maddy with Adrienne, which is a ridiculous suggestion. No disrespect to Adrienne, but her yoga studio was one big gimmick; she has no idea what yoga is really about. Nor does she have the persona, understanding, or credentials Maddy did.\n\n<b>Q: How did it make you feel knowing Maddy was planning to leave?</b>\n<b>A:</b> I felt betrayed. I've dedicated so much of my life to following her. I asked her privately one day if I could go with her, but she said she needed to go alone, which I understood. Instead, I focused on trying to persuade her to stay by showering her with love and showing her why it's so wonderful here."
+        },
+        {
+            "key": "Case_15_suspect_3_name",
+            "value": "Adrienne Francis"
+        },
+        {
+            "key": "Case_15_suspect_3_icon",
+            "value": "AdrienneFrancis"
+        },
+        {
+            "key": "Case_15_suspect_3_age",
+            "value": "35"
+        },
+        {
+            "key": "Case_15_suspect_3_occupation",
+            "value": "Victim's rival teacher"
+        },
+        {
+            "key": "Case_15_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Maddy?</b>\n<b>A:</b> I barely knew her. All I know is that she and her friend Amelia moved into my area and set up a rival yoga studio called 'The Shala.' As soon as it opened, they started attacking me and my business.\n\n<b>Q: How had they attacked you?</b>\n<b>A:</b> My studio specializes in hot yoga and sports yoga, both of which are increasingly popular fitness activities. When they arrived in town, they began poaching my clients by claiming that the yoga I practiced was merely a fad and a gimmick. They claimed that to learn pure yoga, as it has been practiced for generations in India, they should join them. If you ask me, they were just cheap and unimaginative.\n\n<b>Q: Why were you in their yoga studio on the day of Maddy's death?</b>\n<b>A:</b> It turns out they had a conscience. After stealing my clients and nearly driving me out of business, they suddenly changed their approach and made me a peace offering. They invited me to spend the day at their studio, saying that if I liked what I saw, I could practice with them to become one of their teachers in the future. Can you understand how insulting that was?! I was furious, but I decided to accept their offer; it couldn't hurt to go and see firsthand what I was up against. Keep your enemies close.\n\n<b>Q: What did you do when you were in their studio?</b>\n<b>A:</b> I was given a tour, allowed to participate in a class, and told I could stay around to get a feel for the place. I stayed for a little while and got talking with Judith at the front desk, who let slip that Maddy was going to quit teaching soon. She seemed bitter about it, but it was music to my ears! I could already see how it would sound to the public: 'The Shala, a so-called 'pure yoga' studio, creates such a toxic environment that its teachers are quitting.'"
+        },
+        {
+            "key": "Case_15_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_15_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Judith worked at the front desk and knew the victim's daily routine in detail, including the length of her meditation, the room she used, and her habit of using an incense diffuser. When we combine her knowledge with her background as a successful toxicologist, Judith could carry out the murder.</indent>\n\n- <indent=8%>Judith tells us she felt 'betrayed' by the victim's plans to quit and leave suddenly. These strong emotions are echoed by Adrienne, who says that Judith seemed 'bitter' about it. Judith had dedicated many years of her life to following the victim, and she had become so reliant on their presence in her life that she gave up her career and moved across the country to be near them. Considering this, and that she subsequently asked the victim if she could go with her and got rejected, we can understand why Judith would have been more than upset with the victim and would have had a motive to hurt her.  .</indent>\n\n- <indent=8%>Amelia admits she didn't know about the victim's daily private meditation. Without this knowledge, she couldn't have planned to swap the incense in advance. Amelia's motive is also weak, as her recent priority was the success of the business, and the death of a teacher wouldn't benefit her.</indent>\n\n- <indent=8%>Adrienne knew very little about the victim, and her visit to the Shala that day was the first time she had been in. She could not have known to swap the incense in advance of the victims' private meditation. How Adrienne referred to using the information she had gathered about the victim quitting suggests she had no idea of her impending death.</indent>"
+        },
+        {
+            "key": "Case_15_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI'm nice on the outside, but I'm not someone to be messed with. Maddy ruined my life. I gave her over a decade of dedicated support, and then she dropped me just like that. Her selfish decision means that I no longer have a career, and the promise of a new life as a yoga teacher under her guidance is now in shambles. She clearly couldn't see or care how much I had sacrificed for her. Her betrayal needed to be punished, and if I couldn't have her, then no one else could.\n\nI knew she used an incense diffuser every day when she meditated, and I used my knowledge as a toxicologist to lace her incense with enough poison. I knew the effects of the poison would last for 75 minutes at most before the ventilation system made the air safe again. To avoid mistakes, I left Maddy in the room undisturbed for 90 minutes before we entered. At best, I hoped this method of killing her would be untraceable, and at worst, I thought it would create enough confusion for it not to come back to me. My plan failed."
+        }
+    ]
+}

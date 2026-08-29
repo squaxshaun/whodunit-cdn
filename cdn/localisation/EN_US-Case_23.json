@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_23_case_title",
+            "value": "PASTA SAUCE WARS"
+        },
+        {
+            "key": "Case_23_case_subtitle",
+            "value": "Family rivalries intensify when the figurehead of a world-famous pasta sauce brand is found murdered in a bathtub filled with their own secret recipe sauce."
+        },
+        {
+            "key": "Case_23_case_cover_bg",
+            "value": "PASTA_SAUCE_WARS"
+        },
+        {
+            "key": "Case_23_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_23_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_23_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_23_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_23_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_23_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_23_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_23_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_23_daily_news_headline",
+            "value": "PASTA SAUCE<br>WARS"
+        },
+        {
+            "key": "Case_23_daily_news_headline_image",
+            "value": "PASTA_SAUCE_WARS"
+        },
+        {
+            "key": "Case_23_daily_news_page_1",
+            "value": "Gianna Ziti (93), great-grandmother and mastermind of worldwide food brand Mama Ziti's Pasta Sauce, has been murdered. The police confirmed that she was discovered in her apartment on Wednesday evening, having drowned in a bath of her pasta sauce.\n\nGianna (aka the Godmother) was a senior figure in the Ziti family, which is known for having strong connections with organized crime. The family's rise to power was led by Gianna over 50 years ago when she went into business selling her now world-famous pasta sauce, the recipe for which remains a family secret.\n\nGianna's death is not a surprise considering her advanced age (93 is good by anyone's standards); however, the shocking manner in which it occurred has left people unsettled and is reported to have reopened tensions between the Zitis and other rival families, such as the Moldio family, who are direct competitors in the so-called' pasta sauce wars.'\n\nIt is impossible to overlook the symbolic significance of Gianna drowning in her sauce. Was it a sinister suggestion that the Mama Ziti brand was out of its depth?\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_23_victim_name",
+            "value": "Gianna Ziti"
+        },
+        {
+            "key": "Case_23_victim_icon",
+            "value": "GiannaZiti"
+        },
+        {
+            "key": "Case_23_victim_age",
+            "value": "93"
+        },
+        {
+            "key": "Case_23_victim_cod",
+            "value": "Drowning"
+        },
+        {
+            "key": "Case_23_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was found drowned in a bathtub full of her pasta sauce. Multiple, empty industrial-sized cans of sauce (10kg each) were discovered at the scene, which had been taken from a large stock in the apartment's basement and used to fill the bath.\n\n<b>Discovery:</b>\n\nThe victim was discovered by her housekeeper.\n\n<b>Time of Death:</b>\n\nEstimated between 2:00 p.m. and 3:00 p.m. on Wednesday.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Multiple empty 10kg cans of pasta sauce used to fill the bathtub.</indent>\n- <indent=8%>Footprints in the sauce, indicating the suspect was wearing sports shoes.</indent>\n- <indent=8%>The word \"THIEF\" written in pasta sauce on the bathroom wall.</indent>\n\n<b>Further Details:</b>\n\nThree suspects, who were all present at the victim's apartment on the day of the murder, have been brought in for questioning."
+        },
+        {
+            "key": "Case_23_suspect_1_name",
+            "value": "Flavio Moldio"
+        },
+        {
+            "key": "Case_23_suspect_1_icon",
+            "value": "FlavioMoldio"
+        },
+        {
+            "key": "Case_23_suspect_1_age",
+            "value": "82"
+        },
+        {
+            "key": "Case_23_suspect_1_occupation",
+            "value": "Victim's business rival"
+        },
+        {
+            "key": "Case_23_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gianna?</b>\n<b>A:</b> I have known her for many years, and our relationship has always been strictly professional. Mama Ziti's Sauce is a direct competitor to our own Moldio Family Sauce. I have always advocated for our businesses to merge. We are a bigger corporation with deeper pockets, but she had her highly sought-after secret recipes. Together, we would have been unstoppable. But she was a stubborn old woman.\n\n<b>Q: What were you doing on Wednesday afternoon?</b>\n<b>A:</b> I was on my way to the hospital that afternoon to have my ankle scanned. I fell two weeks ago and broke it. They say age comes with wisdom, but it sadly also comes with frailty. On the way, I stopped by Gianna's apartment around 1:30 p.m. I made a habit of going over to see her every six months or so to make a fresh bid to buy her business. Considering her age, I thought I would eventually wear her down with increasingly generous offers. However, in true Gianna fashion, she became increasingly determined to say no, which was a shame. Who knows, maybe whoever inherits the secret recipe will be more open to my persuasion.\n\n<b>Q: The day after the murder, you launched an insensitive advertising campaign against Mama Ziti's. How were you able to react so quickly to the news?</b>\n<b>A:</b> My family has fingers in many pies, including the police. They informed us as soon as they knew. We jumped at the opportunity and used the tragedy to launch a new advertising campaign;  it's just good business. I was sad to hear about her death. Still, I was pleased about the negative impact it will almost certainly have on Mama Ziti's reputation. Everyone will now have an image in their head of an old woman floating in a bath of their sauce! Priceless."
+        },
+        {
+            "key": "Case_23_suspect_2_name",
+            "value": "Luigi Ziti"
+        },
+        {
+            "key": "Case_23_suspect_2_icon",
+            "value": "LuigiZiti"
+        },
+        {
+            "key": "Case_23_suspect_2_age",
+            "value": "31"
+        },
+        {
+            "key": "Case_23_suspect_2_occupation",
+            "value": "Victim's grandson"
+        },
+        {
+            "key": "Case_23_suspect_2_statement_page_1",
+            "value": "<b>Q: How close were you with Gianna?</b>\n<b>A:</b> As close as anyone is with their grandmother. However, between work and looking after a baby at home, I've been swamped recently and haven't seen her much. Usually, it's only for something urgent regarding the family businesses.\n\n<b>Q: When did you last see her?</b>\n<b>A:</b> On Wednesday, around midday, I went over to discuss her will with her. I heard rumors from my siblings that she hadn't yet decided whom she would be leaving the 'Mama Ziti's’ business to. As the eldest grandchild, tradition dictates that I should be the one. So you can understand that I was pretty upset when she said that, at the age of 93, she still hadn't made up her mind. We still haven't seen her will, but I sincerely hope she made the right decision,I have a young family to provide for.\n\n<b>Q: What else did you talk to your grandmother about that day?</b>\n<b>A:</b> Not much, I was on my way to my best friend's wedding so that I couldn't stay long. I do remember her saying something about how she didn't trust me and my siblings to keep her secret recipes safe. Which is a ridiculous suggestion; we had nothing but respect for her original recipes and what she did to build the Mama Ziti empire. My siblings and I have all made sacrifices for this family, and we will carry that loyalty with us to our graves.\n\n<b>Q: Are you aware of anyone who would have wanted to harm her?</b>\n<b>A:</b> Yes. The whole Moldio family. They are Mama Ziti's biggest rivals in the pasta sauce wars. I went to school with the owner Flavio's children. Flavio is a bitter and dangerous man who will stop at nothing to destroy the Mama Ziti empire. He's been known to make statement killings like this before, just never so publicly."
+        },
+        {
+            "key": "Case_23_suspect_3_name",
+            "value": "Maria Rotelle"
+        },
+        {
+            "key": "Case_23_suspect_3_icon",
+            "value": "MariaRotelle"
+        },
+        {
+            "key": "Case_23_suspect_3_age",
+            "value": "59"
+        },
+        {
+            "key": "Case_23_suspect_3_occupation",
+            "value": "Victim's family friend"
+        },
+        {
+            "key": "Case_23_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gianna?</b>\n<b>A:</b> We were close; I've known her my whole life. She and my mother were best friends, virtually inseparable. It's because of their relationship that our families have always had such a strong connection. Sadly, my mother passed away at a young age, even before Gianna went on to create the Mama Ziti's brand. Which was funny, because my mom was the one always trying to make money out of her love for cooking. Gianna stole the inspiration from her, I suppose.\n\n<b>Q: What were you doing on Wednesday?</b>\n<b>A:</b> I went to Gianna’s for lunch. I went every Wednesday, and we had a routine where I would pop in to see her on my way back from the gym. It was perfect, she would always make us cannelloni the way my mom used to make it. She was good to me like that, I think, because I reminded her of my mom. Plus, I was probably a breath of fresh air compared to her spoiled children and grandchildren. Money does strange things to people.\n\n<b>Q: What do you mean by that?</b>\n<b>A:</b> Her grandchildren are entitled brats. They never cared for Gianna; they only saw her successful business and her money. She only ever heard from them if they needed something or thought they would get something out of the interaction. I bet now that she's dead, they will swoop in like vultures looking for an inheritance.\n\n<b>Q: Did you notice anything suspicious about your visit to Gianna's that day?</b>\n<b>A:</b> Flavio Moldio came in for a few minutes. He made a huge offer to buy Mama Ziti's from her, which she flat-out rejected without any thought. He left almost immediately with a big smile on his face, as if he were playing a fun game. I was shocked at how much he had offered for her 'secret' recipe. Surely he could use the money to figure it out for himself?"
+        },
+        {
+            "key": "Case_23_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_23_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The Police report reveals that the bath was filled using heavy, industrial-sized cans of sauce taken from the apartment's basement. Such actions would have required an element of fitness and strength. Flavio is an 82-year-old man with a broken ankle. We can assume he would not have been physically capable of carrying out the murder.</indent>\n\n- <indent=8%>Luigi saw his grandmother at midday, which is before the other two suspects saw her alive. He then had an alibi that afternoon, as he was attending his best friend's wedding.</indent>\n\n- <indent=8%>The Police report refers to footprints at the crime scene, suggesting the murderer was wearing sports shoes. Maria confirms that she went to the victim's apartment on her way back from the gym.</indent>\n\n- <indent=8%>Maria was having lunch with the victim when Flavio arrived at her apartment at 01.30 p.m. he then left again minutes later to go to the hospital. Considering the time of death was between 2 and 3 p.m., Maria was in the right place at the right time to have committed the murder.</indent>\n\n- <indent=8%>The word \"Thief\" was written on the wall at the crime scene. While discussing the Mama Ziti brand, Maria mentioned that Gianna had stolen inspiration from her mother, making her the only person to refer to the victim as a \"thief.\" </indent>"
+        },
+        {
+            "key": "Case_23_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nAs Gianna prepared our lunch that day, I helped her clear out and tidy her basement. While I was down there sorting through boxes, I discovered a load of old paperwork and recognized some of my mom's old recipes. I then realized they were attached to a detailed set of business plans that my mother had created and had been working on shortly before she died. It was for a pasta sauce brand called 'Mama Rotelle'... I couldn't believe my eyes. Everything Gianna had done when she created Mama Ziti's all those years ago was laid out in this paperwork. She had stolen the whole concept and the business development plan.\n\nI felt betrayed on behalf of my mother and our family. It was her hard work that masterminded the massive success, which Gianna and her family have reaped the rewards of for decades. But I didn't realize just how much of a success it had been for Gianna until Flavio interrupted our lunch that day and made an unbelievably huge offer to buy her 'precious' secret recipe. I couldn't process how Gianna could be wealthy enough to turn down so much money. It made me mad that she would turn her nose up at such an offer when she knew how poor my family was and had been for years. It made me realize that, deep down, she was a bad person who didn't care for me or my mother. I remembered seeing the large tins of sauce in her basement and decided my vengeance was best served cold."
+        }
+    ]
+}

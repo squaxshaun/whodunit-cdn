@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_2_case_title",
+            "value": "THE VIRAL ARCHAEOLOGIST"
+        },
+        {
+            "key": "Case_2_case_subtitle",
+            "value": "An archaeologist who struck gold with a metal detector is found half-buried in the forest."
+        },
+        {
+            "key": "Case_2_case_cover_bg",
+            "value": "THE_VIRAL_ARCHAEOLOGIST"
+        },
+        {
+            "key": "Case_2_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_2_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_2_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_2_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_2_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_2_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_2_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_2_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_2_daily_news_headline",
+            "value": "MURDER AT<br>BELLEVER FOREST"
+        },
+        {
+            "key": "Case_2_daily_news_headline_image",
+            "value": "THE_VIRAL_ARCHAEOLOGIST"
+        },
+        {
+            "key": "Case_2_daily_news_page_1",
+            "value": "On Friday morning, the body of celebrity archaeologist Gemma Trench (45) was discovered half-buried in the woods of Bellever Forest. She was last seen on Tuesday when she went metal detecting in the forest with a friend.\n\nGemma shot into the public eye six months ago when she unearthed the largest-ever gold hoard found on US soil, coincidentally also in Bellever Forest. The story of her making the discovery with a broken metal detector is infamous, and her self-filmed, joyfully quirky reaction to the find went viral on social media. She subsequently appeared on several TV talk shows. She capitalized on her new public profile by signing a book deal and agreeing to co-present a new archaeology documentary with an online streaming giant.\n\nThe police investigation is ongoing. Information regarding the circumstances of the death is due to be released soon. However, as an experienced crime reporter, I can say this death is showing all the signs of being dirtier than an archaeologist's fingernails!\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_2_victim_name",
+            "value": "Gemma Trench"
+        },
+        {
+            "key": "Case_2_victim_icon",
+            "value": "GemmaTrench"
+        },
+        {
+            "key": "Case_2_victim_age",
+            "value": "45"
+        },
+        {
+            "key": "Case_2_victim_cod",
+            "value": "Penetrating trauma"
+        },
+        {
+            "key": "Case_2_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was found deep in the forest, half-buried in the dirt, with multiple stab wounds to the back. The weapon used was a trowel, a small metal tool commonly used by archaeologists.\n\n<b>Discovery:</b>\n\nThe body was discovered three days after the estimated time of death.\n\n<b>Time of Death:</b>\n\nThe time of death is estimated to be on Tuesday between 11:00 a.m. and 1:00 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Worn trowel with the victim's initials engraved.</indent>\n- <indent=8%>Ground markings indicating the presence of another individual, but no additional forensic evidence was obtained.</indent>\n\n<b>Further Details:</b>\n\nThree suspects, who had recent conflicts with the victim, are under investigation."
+        },
+        {
+            "key": "Case_2_suspect_1_name",
+            "value": "Joel Robinson"
+        },
+        {
+            "key": "Case_2_suspect_1_icon",
+            "value": "JoelRobinson"
+        },
+        {
+            "key": "Case_2_suspect_1_age",
+            "value": "54"
+        },
+        {
+            "key": "Case_2_suspect_1_occupation",
+            "value": "Victim's friend"
+        },
+        {
+            "key": "Case_2_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gemma Trench?</b>\n<b>A:</b> We were metal detecting buddies. That is, before she betrayed me and found the gold hoard alone. I was the one who did all the research and realized that Bellever Forest was worth us looking at, even without the landowner's permission. We hadn't spoken in months, until last week when she contacted me out of the blue and asked me to go out detecting again.\n\n<b>Q: Can you talk me through what happened on Tuesday?</b>\n<b>A:</b> We met in the forest at 10:00 a.m. and started detecting. Gemma had a load of fancy new equipment she was showing off; when she split up with her boyfriend, he refused to return any of her stuff. I tried chatting just like we used to, but it's like she was a different person. Wealth and fame had made her obnoxious and rude. I had thought she had invited me there that day to apologize and make amends. Still, in reality, she just wanted to show off and gather more historical information from me on the best places to search. I put up with her nonsense for a little while before I eventually told her to piss off. I walked back to my car and drove to the local bar. I arrived around 11:45 a.m. and spent the rest of the day there. Loads of people there can verify it.\n\n<b>Q: Can you think of anyone who would have wanted to harm Gemma?</b>\n<b>A:</b> Sofia Greenhall was fuming with Gemma when she found the gold hoard. She owns that part of Bellever Forest and specifically had not permitted us to search there. Turns out she had plans to develop that land before it was designated an area of historical significance. Apparently, she lost a lot of money as a result."
+        },
+        {
+            "key": "Case_2_suspect_2_name",
+            "value": "Kieran Dodd"
+        },
+        {
+            "key": "Case_2_suspect_2_icon",
+            "value": "KieranDodd"
+        },
+        {
+            "key": "Case_2_suspect_2_age",
+            "value": "45"
+        },
+        {
+            "key": "Case_2_suspect_2_occupation",
+            "value": "Victim's ex-boyfriend"
+        },
+        {
+            "key": "Case_2_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gemma Trench?</b>\n<b>A:</b> Until a month ago, I was her boyfriend. We'd been together for 12 years before that, then she stabbed me in the back and left one night! Haven't seen her since, not even to collect all her precious metal detecting things. We were planning to get married one day, but when she found the gold hoard, everything changed; the overnight fame went to her head. She can do a lot better than I now, apparently.\n\n<b>Q: Where were you on Tuesday?</b>\n<b>A:</b> I was at home alone. I had worked the weekend before, so I had been given the day off. Gemma used to make me do all sorts of things on my days off; since she left, I get to play video games all day.\n\n<b>Q: Were you aware of Gemma's whereabouts that day?</b>\n<b>A:</b> Yes, I knew she was going metal detecting with our friend Joel Robinson. He had told me when I bumped into him downtown the weekend before. I found it strange that they had fallen out and hadn't seen each other in months. But I didn't think too much about it; I'm trying to move on with my life.\n\n<b>Q: Can you think of anyone who would have wanted to harm Gemma?</b>\n<b>A:</b> Hate to say it, but Joel was the first person I thought of when I heard the news. He had been really angry with her when they fell out, and he's got a history of violence; he went to prison for 3 years in his early 20s. Apparently, it's how he got into metal detecting in the first place; it was meant to be therapeutic for him."
+        },
+        {
+            "key": "Case_2_suspect_3_name",
+            "value": "Sofia Greenhall"
+        },
+        {
+            "key": "Case_2_suspect_3_icon",
+            "value": "SofiaGreenhall"
+        },
+        {
+            "key": "Case_2_suspect_3_age",
+            "value": "54"
+        },
+        {
+            "key": "Case_2_suspect_3_occupation",
+            "value": "Landowner"
+        },
+        {
+            "key": "Case_2_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gemma Trench?</b>\n<b>A:</b> She was the criminal, and I was the victim, yet there was no justice. She approached me for permission to metal detect on my land, and I point-blank refused as I was in the early stages of developing it. Complete waste of my breath; she ignored me and was illegally trespassing the day she found her precious treasure. I can promise you she would have stolen it too, had the discovery not been so substantial. All these metal detectorists are the same.\n\n<b>Q: Where were you on Tuesday?</b>\n<b>A:</b> I was at home all morning with my family. Around noon, I was advised by one of the groundskeepers that they had just spotted Gemma near my land at Bellever Forest with a metal detector again. I grabbed my gun and went out with the groundskeeper to find and remove her myself. I would have taken pleasure in it too, but when we found her car, we realized she wasn't actually in my part of the forest, so there was nothing I could do.\n\n<b>Q: Can you think of anyone who would have wanted to harm Gemma?</b>\n<b>A:</b> I heard she let her newfound fame go to her head. People like that make a lot of enemies. I personally didn't like her, and I certainly didn't want her on my land again; that's why I took my shotgun to intimidate her, but I wouldn't have risked everything I have for someone like that. "
+        },
+        {
+            "key": "Case_2_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_2_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Joel arrived at the pub at 11:30 a.m. and has an alibi from that time. Since Sofia received a call from her grounds staff around noon stating that Gemma had been spotted metal detecting in the forest, Joel cannot be the killer.</indent>\n\n- <indent=8%>Sofia, the landowner, was with family all morning and, when searching for Gemma, was accompanied by her groundsman. At no point was she alone. Given that the police report mentions only one other person at the crime scene, it seems unlikely Sofia was involved, especially since she intended to use a shotgun to intimidate the victim, not a trowel.</indent>\n\n- <indent=8%>The police report states the murder weapon was the victim's own personalized and well-worn trowel. We also know from Joel that the victim was using new, high-end equipment that day because Kieran had refused to return her old gear when she left him. Kieran was the only person with access to the murder weapon and was alone all day while being aware of the victim's movements.</indent>"
+        },
+        {
+            "key": "Case_2_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nIt took me a while to get over the shock of Gemma leaving me after 12 years. Still, when I eventually did, those emotions were replaced with anger. I hated knowing she was out there living her dream without me. Seeing her on TV and being mentioned in articles all the time made it worse. It had to stop.\n\nWhen I found out she was going to be metal detecting in the forest nearby, I made a plan to do something about it. I still had all her stuff in the house, and I thought it would be poetic to use her beloved trowel, which had brought her so much success, to get revenge. I knew where Joel lived, so I secretly followed him that morning when he went to meet Gemma. I then followed them both into the forest without them knowing. Pretty soon after arriving, Joel gave up and stormed off back to the pub, leaving Gemma on her own. I weirdly enjoyed watching her move around the forest without knowing I was there.\n\nEventually, the perfect opportunity arose for me to strike. Gemma thought she had found something with her detector and excitedly got down onto her hands and knees to dig. That's when I came up behind her and got my revenge. Afterward, I started to bury her in the hole she was digging, but quickly gave up. I knew it would take days for someone to find her out there."
+        }
+    ]
+}

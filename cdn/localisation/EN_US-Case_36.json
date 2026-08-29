@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_36_case_title",
+            "value": "A RUFF DAY"
+        },
+        {
+            "key": "Case_36_case_subtitle",
+            "value": "A professional dog walker is found in the community park, hanged by a leash."
+        },
+        {
+            "key": "Case_36_case_cover_bg",
+            "value": "A_RUFF_DAY"
+        },
+        {
+            "key": "Case_36_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_36_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_36_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_36_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_36_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_36_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_36_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_36_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_36_daily_news_headline",
+            "value": "HORROR AT<br>PINEWOOD PARK"
+        },
+        {
+            "key": "Case_36_daily_news_headline_image",
+            "value": "A_RUFF_DAY"
+        },
+        {
+            "key": "Case_36_daily_news_page_1",
+            "value": "On Saturday morning, Pinewood Park was the scene of a dark and terrifying statement killing. Professional dog walker Buddy Rover (28) was discovered hanging by his neck high up in one of the park's iconic pine trees, and it's been confirmed that a dog leash was used as the hanging rope. The victim was last seen alive walking six dogs that morning, all of which were reported missing after the discovery. However, three are believed to have since been found roaming the park on their own.\n\nKnown locally as \"the forest,\" Pinewood is a large area of forested parkland located on the edge of the city. It's known for being well-manicured by a team of dedicated rangers who ensure its accessibility to local city dwellers in need of a nature hit. Over the last 12 months, however, the park has been the topic of some controversy as many of its users have become fed up with an invasion of professional dog walkers.\n\nWith a growing reputation for dominating the forest trails with huge packs of dogs, the complaints against the dog walkers include their lax attitude toward cleaning up their four-legged friends' bowel movements and their inability to control their occasionally aggressive canine clients in what is designated as a peaceful, family-friendly environment. Others, however, believe the dog walkers provide a vital service to those with pets living and working in the city. However you feel about the divisive profession, it's hard to overlook the symbolic and somewhat pointed nature of this crime.\n\nFurther facts of the case have yet to be released by the police. But with Pinewood Park closed while the investigation is underway, locals will be hoping the detectives act quickly and don't go barking up the wrong tree.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_36_victim_name",
+            "value": "Buddy Rover"
+        },
+        {
+            "key": "Case_36_victim_icon",
+            "value": "BuddyRover"
+        },
+        {
+            "key": "Case_36_victim_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_36_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_36_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was last seen alive at 9:00 a.m., walking the park's trails with a pack of dogs. They were later found hanging by the neck from a tree. A dog leash was used as the rope; however, asphyxiation was not the cause of death. The autopsy confirmed that severe trauma to the back of the head was the cause of death, and a blood-stained stone found on the forest floor nearby was identified as the weapon. Since the victim was dead before they were hanged, the hanging ritual was for display.\n\n<b>Discovery:</b>\n\nA young family on a morning walk found the victim at 10:10 a.m., having come from the forest's centrally located Coffee Hut, a 15-minute walk away on the same trail. The police were informed immediately and arrived on the scene shortly afterward.\n\n<b>Time of Death:</b>\n\nDue to the condition of the body when discovered, investigators were able to accurately establish the time of death as 10:00 a.m., meaning the young family who found the body only missed witnessing the crime by minutes.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>An unused dog poop bag had been forced into the victim's mouth. Unusually for a professional dog walker, the victim had no other poop bags on their person.</indent>\n- <indent=8%>No footprints were found between the trail and the base of the tree, despite the wet leaves and mud beneath it.</indent>\n\n<b>Further Details:</b>\n\nThree suspects have been brought in for questioning, all of whom were involved in a recent altercation with the victim and were within the boundaries of the park at the time of death."
+        },
+        {
+            "key": "Case_36_suspect_1_name",
+            "value": "Jackie Russell"
+        },
+        {
+            "key": "Case_36_suspect_1_icon",
+            "value": "JackieRussell"
+        },
+        {
+            "key": "Case_36_suspect_1_age",
+            "value": "27"
+        },
+        {
+            "key": "Case_36_suspect_1_occupation",
+            "value": "Rival dog walker"
+        },
+        {
+            "key": "Case_36_suspect_1_statement_page_1",
+            "value": "<b>Q: How well did you know Buddy Rover?</b>\n<b>A:</b> Quite well. We both use the park to run our businesses, so we crossed paths regularly. I always found him a bit strange. He never seemed to have control of his dogs and was always running around after them, shouting. I also noticed that he never carried poop bags for the dogs, which was frustrating. He was a walking example of why we have a bad reputation in the area.\n\n<b>Q: Our police records show a recent altercation between you and the victim?</b>\n<b>A:</b> I'm not sure it needed reporting to the police, but yes, a few days ago, as I passed Buddy in the park, one of his more aggressive dogs managed to get loose and attacked one of mine. It was quite bad, the injury was severe enough to need multiple stitches. It was the dog's owner who reported it. She was devastated and furious. I found it infuriating because I wasn't to blame, yet word of the incident has spread, which has been awful for my business. I'll never forgive him for that.\n\n<b>Q: What were you doing in the park that morning?</b>\n<b>A:</b> I was working. I had nine dogs that day, so I had my hands full. It took so long to pick them all up from their homes that I didn't arrive in the forest until after 9:00 a.m. I usually like to start earlier than that. Can't complain though, more dogs equals more money.\n\n<b>Q: Did you see anyone else in the park that morning?</b>\n<b>A:</b> Not many. Oh, I did pop into the park's Coffee Hut at 9:55 a.m., where I coincidentally had a quick chat with the poor family that went on to find the body. They were leaving just as I arrived. Must have been awful for them!\n\n<b>Q: Do you know anyone who would have wanted to harm the victim?</b>\n<b>A:</b> You should speak to Collie Border. She's the owner I mentioned of the dog that got attacked. She was quite rightly raging about the incident and told me she was going to find the culprit and \"give them hell.\" Those were her words."
+        },
+        {
+            "key": "Case_36_suspect_2_name",
+            "value": "Collie Border"
+        },
+        {
+            "key": "Case_36_suspect_2_icon",
+            "value": "CollieBorder"
+        },
+        {
+            "key": "Case_36_suspect_2_age",
+            "value": "63"
+        },
+        {
+            "key": "Case_36_suspect_2_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_36_suspect_2_statement_page_1",
+            "value": "<b>Q: How well did you know Buddy Rover?</b>\n<b>A:</b> I didn't know them at all. I've never even met them. All I knew about the person was that they couldn't control their dogs and were the reason my poor pup Dolly had to have 12 stitches in her leg. I should never have entrusted her to a silly dog walker; no wonder people around here hate them!\n\n<b>Q: Can you explain what happened?</b>\n<b>A:</b> I usually exercise and train my dogs. Still, I had hip surgery recently, which has temporarily disabled me. I'm currently having to use a mobility scooter to get around. Despite this, Dolly still needs a lot of exercise; she is a pedigree show dog, you see, and has a big competition coming up. So, I signed her up with a walker called Jackie Russell for exercise in the forest. But poor Dolly didn't even last one walk before I was called to say she was at the vet's having multiple stitches. Turns out Buddy Rover was the cause. He couldn't control his dogs, and one of them attacked my dear Dolly. I dread to think how the trauma will affect her competition training.\n\n<b>Q: How did you react to the news?</b>\n<b>A:</b> I was outraged! I'm angry with both Buddy for allowing such a dangerous animal loose and Jackie for putting Dolly in that situation. I have since reported the incident to the police and left bad reviews for both of them.\n\n<b>Q: What were you doing in the park that morning?</b>\n<b>A:</b> Bad reviews weren't enough for me. Dolly's competition training had taken a serious blow, and I wanted to confront Buddy in person about the incident. Injured hip or not, I wasn't going to let him get away with it, so I found out when and where he walked and went searching for him in the forest that morning. I planned to give him a piece of my mind and question how he intended to compensate Dolly. I was there for several hours, but didn't see him. When the police started blocking off access to the forest trails, I gave up.\n\n<b>Q: Do you know anyone who would have wanted to harm the victim?</b>\n<b>A:</b> Not personally, but I read the news and talk to people. Those so-called \"professional\" dog walkers are not well-liked in these parts."
+        },
+        {
+            "key": "Case_36_suspect_3_name",
+            "value": "Charles King"
+        },
+        {
+            "key": "Case_36_suspect_3_icon",
+            "value": "CharlesKing"
+        },
+        {
+            "key": "Case_36_suspect_3_age",
+            "value": "52"
+        },
+        {
+            "key": "Case_36_suspect_3_occupation",
+            "value": "Park Ranger"
+        },
+        {
+            "key": "Case_36_suspect_3_statement_page_1",
+            "value": "<b>Q: How well did you know Buddy Rover?</b>\n<b>A:</b> I've regularly seen him in the forest walking lots of unruly dogs. I remember him because he never seemed to have control over the nasty creatures. But the only time I interacted with him was a few days ago when I happened to see one of his dogs viciously attacking another. He wasn't doing anything to stop it, so I took control and broke it all up. The injury to the other dog was quite bad. I had a go at him afterward, pointing out that if that were a person, or worse, a child, he would be looking at a prison sentence!\n\n<b>Q: How did the victim react to your intervention?</b>\n<b>A:</b> Not well, which isn't a surprise. A lot of the dog walkers around here don't like me. I'm always getting on their backs about treating the forest with more respect. I get so fed up with them not cleaning up after themselves. Some of them refuse even to use poop bags! I put a lot of time and effort into keeping the forest well-maintained for hikers, but it's not in my job description to clean up after all the dog walkers.\n\n<b>Q: What were you doing in the park that morning?</b>\n<b>A:</b> I was working. A storm the night before had weakened some of the larger trees, and a few branches had become dangerous. I arrived at the park early with the truck and cherry picker to cut them down before the visitors began to arrive.\n\n<b>Q: Where in the park were you working?</b>\n<b>A:</b> On the North side. If you are suggesting I had anything to do with the murder, then you are wrong. I was working at least an hour's walk away from that part of the park when that happened.\n\n<b>Q: Are you able to prove this?</b>\n<b>A:</b> I was in the cargo bay with everyone else that evening, helping pack for disembarking the next day. Thankfully, Dr. Fisher didn't join us, which meant the atmosphere was more relaxed and fun. Carol even went to get some whiskey from her room, which we all drank to celebrate the end of our voyage."
+        },
+        {
+            "key": "Case_36_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_36_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Collie Border admits to being alone in the park at the time of death and was actively looking for the victim to confront them. However, after a recent hip surgery, she is temporarily disabled and uses a mobility scooter. Therefore, she would have struggled to kill the victim, let alone hang their body high up in a tree.</indent>\n\n- <indent=8%>Jackie Russell arrived at the park's Coffee Hut at 9:55 a.m., which is verified as she had a brief conversation with the family that subsequently discovered the body at 10:10 a.m. Considering the police report states that the Coffee Hut is a 15-minute walk along the trail from the crime scene and the time of death was at 10:00 a.m., Jackie could not have been the killer.</indent>\n\n- <indent=8%>Charles King admits to being in the park that morning. However, he says he couldn't have been involved as he was working at a location an hour's walk away from the crime scene when the murder took place. The fact that he knows the time and place of the crime is immediately suspicious.</indent> \n\n- <indent=8%>The evidence Charles provides to prove his whereabouts is photos on his phone showing his location an hour's walk away, taken at 9:30 a.m. This is not the alibi he thinks, as we know he was with his work truck, giving him plenty of time to cover the distance before 10:00 a.m.</indent>\n\n- <indent=8%>Charles also refers to using his truck and cherry picker to remove dangerous branches from trees that morning. This means he had the necessary machinery to get the victim's body high into the tree to hang them without leaving footprints in the surrounding mud.</indent>"
+        },
+        {
+            "key": "Case_36_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nIt wasn't planned. After finishing work on the trees on the north side of the park, I drove across to some more that needed looking at on the west side. I came across Buddy on one of the trails and recognized him immediately from our recent altercation. He had a pack of dogs with him as usual and was blocking the trail. Even after he noticed me, he refused to move off the trail and let me pass. I beeped at him a few times, which made him stop altogether and block my way. He was still annoyed at me. That's when I saw that a couple of the dogs were doing their business right there in the middle of the trail. I shouted at him to clear it up or else I'd have him banned from the park. He responded by picking it up and throwing it at my van. The disrespect was unbelievable, and I'd had enough of it. I lost control.\n\nI got out of the van and hit him in the head with a rock from the ground. Then, in the heat of the moment, I shoved a poop bag in his mouth to make a point. That's when I realized that I had killed him. I quickly came up with the idea of hanging him high up in the tree in an attempt to send a message and deter other dog walkers from coming to my park. All Buddy's dogs ran away after I attacked him, but he had a spare leash on his person, so I used that for the rope."
+        }
+    ]
+}

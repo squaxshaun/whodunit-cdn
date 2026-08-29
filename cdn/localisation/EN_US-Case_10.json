@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_10_case_title",
+            "value": "KING RICHARD DIES AGAIN"
+        },
+        {
+            "key": "Case_10_case_subtitle",
+            "value": "King Richard is killed for real during the reenactment of a medieval battle. A clever cover story, or did a fellow enthusiast get carried away in the heat of combat?"
+        },
+        {
+            "key": "Case_10_case_cover_bg",
+            "value": "KING_RICHARD_DIES_AGAIN"
+        },
+        {
+            "key": "Case_10_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_10_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_10_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_10_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_10_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_10_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_10_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_10_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_10_daily_news_headline",
+            "value": "KING RICHARD<br>DIES AGAIN?!"
+        },
+        {
+            "key": "Case_10_daily_news_headline_image",
+            "value": "KING_RICHARD_DIES_AGAIN"
+        },
+        {
+            "key": "Case_10_daily_news_page_1",
+            "value": "Last Saturday, Nigel Thompson (50), a local councilor and avid historical reenactment enthusiast, participated in the annual reenactment of the Battle of Bickmouth, one of Britain's most well-known medieval battles, famous for King Richard's dramatic final charge into the fray, where he is ultimately defeated and killed.\n\nNigel Thompson had the honor of portraying King Richard in the battle, which took place in front of thousands of spectators. However, he got more than he bargained for when, after his fateful last charge and the conclusion of the battle, the battlefield was cleared, revealing that King Richard had been killed for real!\n\nIncredibly, despite the presence of hundreds of participants, somehow, amidst the chaos, no one witnessed the moment it happened! The Police have reportedly conducted hours of interviews with many of the battle's participants in the search for clues. Details of the death are yet to be released, but if the battle was authentic and the history books are to be believed, we know that our victim met a dramatic and gory end.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_10_victim_name",
+            "value": "Nigel Thompson"
+        },
+        {
+            "key": "Case_10_victim_icon",
+            "value": "NigelThompson"
+        },
+        {
+            "key": "Case_10_victim_age",
+            "value": "50"
+        },
+        {
+            "key": "Case_10_victim_cod",
+            "value": "Penetrating trauma"
+        },
+        {
+            "key": "Case_10_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim sustained several deep wounds to his torso and limbs, which were collectively fatal. The weapon used was a sharpened longsword found beside the victim's body.\n\n<b>Discovery:</b>\n\nThe victim's body was discovered shortly after the battle reenactment ended at 4:30 p.m. by a fellow reenactor. \n\n<b>Time of Death:</b>\n\nEstimated between 4:00 p.m. and 4:30 p.m. on Saturday.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Sharpened longsword found alongside the victim's body, identified as the murder weapon.</indent>\n- <indent=8%>Multiple reports indicating the victim engaged in one-on-one combat with numerous individuals during the reenactment.</indent>\n- <indent=8%>No direct witness accounts of the actual murder.</indent>\n\n<b>Further Details:</b>\n\nThe battle reenactment took place between 1:00 p.m. and 4:30 p.m., during which dozens of people engaged in one-on-one combat with the victim. Three suspects known to the victim are currently being interviewed concerning this case."
+        },
+        {
+            "key": "Case_10_suspect_1_name",
+            "value": "Amy Gerrard"
+        },
+        {
+            "key": "Case_10_suspect_1_icon",
+            "value": "AmyGerrard"
+        },
+        {
+            "key": "Case_10_suspect_1_age",
+            "value": "16"
+        },
+        {
+            "key": "Case_10_suspect_1_occupation",
+            "value": "Victim's stepdaughter"
+        },
+        {
+            "key": "Case_10_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Nigel Thompson?</b>\n<b>A:</b> He was my stepfather. He ruined my life seven years ago when he met my mom. My parents separated shortly after, and I've never forgiven him for that.\n\n<b>Q: Did you come across your stepfather during the battle?</b>\n<b>A:</b> Yes, the only perk of coming to these stupid \"pretend\" events is getting a few free hits at the old fart. I usually get to see Beatrice take him on as well; she hates him almost as much as I do and is usually first in line, but strangely, she kept her distance in this battle. I can only assume it's because they fell out beforehand.\n\n<b>Q: Can you think of anyone who would have wanted to harm your stepfather?</b>\n<b>A:</b> He was obnoxious and was known for abusing his position as a local councilor, so yes, he had plenty of enemies. I saw him and his friend Collin getting heated with each other at the beginning of the battle. It's embarrassing how competitive they get, prancing around in their armor."
+        },
+        {
+            "key": "Case_10_suspect_2_name",
+            "value": "Beatrice Bond"
+        },
+        {
+            "key": "Case_10_suspect_2_icon",
+            "value": "BeatriceBond"
+        },
+        {
+            "key": "Case_10_suspect_2_age",
+            "value": "53"
+        },
+        {
+            "key": "Case_10_suspect_2_occupation",
+            "value": "Fellow reenactor"
+        },
+        {
+            "key": "Case_10_suspect_2_statement_page_1",
+            "value": "<b>Q: How did you know Nigel Thompson?</b>\n<b>A:</b> We were members of the same reenactment group. It's fair to say that we disliked each other. He was a petty man who took reenactments far too seriously. I even tried to have him banned for ignoring regulations and using sharpened swords. As far as he was concerned, using blunt weapons undermined the battle's authenticity.\n\n<b>Q: We have witnesses who say you threatened Nigel before the battle?</b>\n<b>A:</b> Yes, I was furious with him. I was supposed to play King Richard that day - I was promised the role last year and had spent ages preparing for it. But apparently, Nigel didn't think it would be historically accurate for King Richard to be played by a woman, and specifically by me. So, at the last minute, he leveraged his connections with the right people and ensured he got the role.\n\n<b>Q: Did you come across Nigel during the battle itself?</b>\n<b>A:</b> Not directly. I tried my best to avoid him where possible; I was too angry to deal with him. However, I did enjoy seeing him during the last charge in one-on-one combat with his 16-year-old stepdaughter, Amy. She had him disarmed on the floor, which was hilarious considering he didn't think a woman was fit to portray the king."
+        },
+        {
+            "key": "Case_10_suspect_3_name",
+            "value": "Collin Hill"
+        },
+        {
+            "key": "Case_10_suspect_3_icon",
+            "value": "CollinHill"
+        },
+        {
+            "key": "Case_10_suspect_3_age",
+            "value": "47"
+        },
+        {
+            "key": "Case_10_suspect_3_occupation",
+            "value": "Victim's colleague"
+        },
+        {
+            "key": "Case_10_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Nigel Thompson?</b>\n<b>A:</b> We got along well. When I left the police force, I struggled to find work due to issues with PTSD. But thankfully, Mr. Thompson was willing to give me an opportunity to work for the council. I'm sure he only hired me because I'm a reenactment fanatic, but I didn't care.\n\n<b>Q: You were seen having a heated exchange with Nigel during the battle. Why was this?</b>\n<b>A:</b> Yes, we fought quite aggressively for a while at the start, but it's not unusual for us to get carried away in combat. I love it when my adrenaline is up and my axe is swinging in the chaos of it all.\n\n<b>Q: Can you think of why anyone would have wanted to harm Nigel?</b>\n<b>A:</b> I don't know about harm, but he constantly argued with Beatrice. Most recently, she accused him of abusing his power as a councilor and rejecting her planning permission out of spite. She laid into him before the battle in front of everyone, calling him a chauvinistic prick and saying that he should \"watch his back in battle.\""
+        },
+        {
+            "key": "Case_10_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_10_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Beatrice has a clear motive, but she tells us she did not fight the victim directly during the battle, a statement verified by Amy, who was surprised by the lack of confrontation between the two.</indent>\n\n- <indent=8%>Collin admits to suffering from PTSD and getting carried away during combat with the victim. However, he refers to using an axe (not a longsword), and both he and Amy confirm that his exchange with the victim took place at the beginning of the battle. The police report estimates the time of death as 4:30 p.m., at the end of the battle.</indent>\n\n- <indent=8%>Amy admits to, and is seen by Beatrice, fighting aggressively with the victim at the end of the battle. She is specifically referred to as having disarmed the victim. Considering the police report states the murder weapon was a sharpened longsword, one that the victim was known to use himself despite regulations, Amy had access to the murder weapon and the opportunity to kill her stepfather during the estimated time of death.</indent>\n\n- <indent=8%>Amy makes it clear she has never forgiven her stepfather for breaking up her family and looks forward to the chance to be violent toward him during the reenactments.</indent>"
+        },
+        {
+            "key": "Case_10_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nThese reenactments are the only opportunity I have to vent my anger toward him. It was unbearable watching him be the king that day, strolling around with an air of arrogance, acting as if he were the real thing. I could tell he was loving it, which made me hate it even more. I managed to restrain myself all day, up until the end when it was the king's \"heroic\" last charge. The adrenaline somehow inflated his ego even more, so much so that in the heat of battle, he turned to me and said, \"Your mom saw the light when she chose me; not everyone gets to marry with such power.\" I lost control and went on a rampage against him. Before I knew it, he was on the floor, and I was attacking him with his sword, serves the idiot right for not following the regulations and using a blunt sword!\n\nThinking about it now, my killing the king for real is quite poetic."
+        }
+    ]
+}

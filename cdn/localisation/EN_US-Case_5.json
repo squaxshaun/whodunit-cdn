@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_5_case_title",
+            "value": "LOST AND FOUND"
+        },
+        {
+            "key": "Case_5_case_subtitle",
+            "value": "A five-year-old missing person investigation is finally solved when the victim’s body is discovered hidden within the walls of their home."
+        },
+        {
+            "key": "Case_5_case_cover_bg",
+            "value": "LOST_AND_FOUND"
+        },
+        {
+            "key": "Case_5_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_5_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_5_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_5_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_5_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_5_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_5_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_5_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_5_daily_news_headline",
+            "value": "A NEW HOME<br>WITH AN OLD SECRET"
+        },
+        {
+            "key": "Case_5_daily_news_headline_image",
+            "value": "LOST_AND_FOUND"
+        },
+        {
+            "key": "Case_5_daily_news_page_1",
+            "value": "On Monday morning, proud first-time homeowners Sam and Rich Cox saw their dream of homeownership turn into a nightmare when, while renovating the upstairs of their house, they discovered a dead body hidden within a wall of their new home.\n\nPolice investigators have released a statement confirming the victim is Sarah Crawford, 38, who was reported missing five years ago. While her discovery solves a five-year-old missing persons case, it opens up a whole new mystery: Whodunit?\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_5_victim_name",
+            "value": "Sarah Crawford"
+        },
+        {
+            "key": "Case_5_victim_icon",
+            "value": "SarahCrawford"
+        },
+        {
+            "key": "Case_5_victim_age",
+            "value": "38"
+        },
+        {
+            "key": "Case_5_victim_cod",
+            "value": "Suspected asphyxia"
+        },
+        {
+            "key": "Case_5_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim's body was discovered in a small cavity built into an unusually thick internal wall dividing two bedrooms. The wall's excessive thickness had prompted the new owners to remove it, leading to the discovery. The cavity appears to have been intentionally constructed to hide the victim. The body was found tied up and wrapped in waterproof ground sheets, similar to those used for camping. The advanced decomposition suggests the victim has been deceased for around 5 years.\n\n<b>Discovery:</b>\n\nThe body was discovered by the new homeowners during renovations.\n\n<b>Time of Death:</b>\n\nEstimated to be approximately 5 years ago, aligning with the time when the victim was reported missing by their partner.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The body was tied up and wrapped in waterproof ground sheets commonly used with tents.</indent>\n- <indent=8%>The wall cavity appears intentionally constructed for concealment.</indent>\n- <indent=8%>Strong indications of strangulation as the cause of death.</indent>\n\n<b>Further Details:</b> \n\nThe investigation is ongoing, focusing on identifying the circumstances surrounding the victim's death and how they were concealed in the wall."
+        },
+        {
+            "key": "Case_5_suspect_1_name",
+            "value": "Duncan Burke"
+        },
+        {
+            "key": "Case_5_suspect_1_icon",
+            "value": "DuncanBurke"
+        },
+        {
+            "key": "Case_5_suspect_1_age",
+            "value": "36"
+        },
+        {
+            "key": "Case_5_suspect_1_occupation",
+            "value": "Victim's brother"
+        },
+        {
+            "key": "Case_5_suspect_1_statement_page_1",
+            "value": "<b>Q: How was your relationship with your sister?</b>\n<b>A:</b> We didn't get along, to be honest. We constantly fought, ever since we were little. I only agreed to help her out with the house because I liked her partner, Hadley, and I owed him a favor. But what happened to her is unbelievable; I wouldn't wish that on anyone.\n\n<b>Q: What building work were you doing to Sarah's house when she went missing?</b>\n<b>A:</b> I did a kitchen extension into the garden and installed underfloor heating and new flooring throughout the entire ground floor. It was quite a lot of work overall and took several months.\n\n<b>Q: Did you benefit from Sarah going missing?</b>\n<b>A:</b> Not having her on my back all the time was refreshing for a while, but then I did start to miss her. Last year, when our mom died, she left me everything. We hadn't heard from Sarah in years by then, so my mom had given up hope.\n\n<b>Q: How well did you know your sister's partner, Hadley?</b>\n<b>A:</b> Quite well. When I set up my building business, Hadley helped me out by recommending a lot of good customers at the start. I've never struggled for work since. I thanked him by taking him out for drinks occasionally, but that was mostly so we could bond over what a nightmare my sister could be to live with. After Sarah went missing, he met a new partner pretty quickly, so we stopped seeing each other, but I didn't blame him for that. Life moves on."
+        },
+        {
+            "key": "Case_5_suspect_2_name",
+            "value": "Hadley Crawford"
+        },
+        {
+            "key": "Case_5_suspect_2_icon",
+            "value": "HadleyCrawford"
+        },
+        {
+            "key": "Case_5_suspect_2_age",
+            "value": "38"
+        },
+        {
+            "key": "Case_5_suspect_2_occupation",
+            "value": "Victim's ex-partner"
+        },
+        {
+            "key": "Case_5_suspect_2_statement_page_1",
+            "value": "<b>Q: When did you last see the victim?</b>\n<b>A:</b> 5 years ago, right before she went missing. I remember it well because we were having work done on our house at the time, which put a lot of stress on our relationship. But when she left, it was such a shock. I never understood why until now. It's horrifying to think I was living in that house all this time!\n\n<b>Q: Where did you think she had gone?</b>\n<b>A:</b> I had no idea. People assumed she had left me, but I wasn't sure, which is why I reported her missing. The possibility that she was dead had crossed my mind, but we had nothing to go on.\n\n<b>Q: Did you benefit from her disappearance?</b>\n<b>A:</b> No, it was actually a real pain. Since there was no evidence of where she had gone, or whether she was even alive or dead, I couldn't deal with any of her assets.\n\n<b>Q: Who do you think could have done this to her?</b>\n<b>A:</b> The only person I can think of is her brother Duncan. He was doing the construction work on our house at the time, and if she was found built into the walls, he must have been involved. I should have known it at the time; he and his sister never liked each other."
+        },
+        {
+            "key": "Case_5_suspect_3_name",
+            "value": "Gabriel Allen"
+        },
+        {
+            "key": "Case_5_suspect_3_icon",
+            "value": "GabrielAllen"
+        },
+        {
+            "key": "Case_5_suspect_3_age",
+            "value": "32"
+        },
+        {
+            "key": "Case_5_suspect_3_occupation",
+            "value": "Ex-boyfriend's new partner"
+        },
+        {
+            "key": "Case_5_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Sarah Crawford?</b>\n<b>A:</b> I never met her. She was living with Hadley when we first started dating. A month in, he admitted to having a long-term partner. I told him that I couldn't take our relationship any further until he had ended it with her. He was reluctant at first. I think at that time he was still struggling to admit to himself that he was gay, but after a couple of weeks, he plucked up the courage to tell her.\n\n<b>Q: How and when did you meet Hadley?</b>\n<b>A:</b> We first met on a work hiking trip and bonded over our love of camping and the outdoors. I remember it well because I broke my hand on that hike. It took an operation and many months of rehab for it to recover.\n\n<b>Q: We understand you moved in with Hadley shortly after Sarah was reported as a missing person?</b>\n<b>A:</b> Sounds bad when you put it like that. But yes, I was struggling to cover rent on my place, and it made financial sense for us to move in together. We were pretty certain at the time that Sarah had left Hadley after he admitted to being in a relationship with me, so there was no concern that she would return.\n\n<b>Q: Do you know the victim's brother, Duncan?</b>\n<b>A:</b> Not personally. All I know is that Hadley likes him and used him to do some work on the house before I moved in, which is strange because Hadley loves DIY and does most of the construction work around the house himself."
+        },
+        {
+            "key": "Case_5_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_5_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Duncan is suspicious since he was doing construction work at the house when the victim went missing. However, his work was limited to a kitchen extension and underfloor heating on the ground floor, unrelated to constructing a new bedroom wall upstairs where the victim was found.</indent>\n\n- <indent=8%>The police report mentions the body was wrapped in waterproof ground sheets used for camping, pointing to Hadley or Gabriel as possible suspects since both are avid campers. However, Gabriel can be ruled out due to a badly broken hand at the time, making it impossible for him to strangle the victim or build a wall to hide the body.</indent>\n\n- <indent=8%>Hadley admitted his relationship with the victim was strained. Additionally, he moved his new partner, Gabriel, into the house shortly after the victim was reported missing, suggesting a motive for the crime.</indent>\n\n- <indent=8%>Hadley is known to love DIY and does most of the construction work around the house, so building a new wall to hide the victim is within his capabilities.</indent>"
+        },
+        {
+            "key": "Case_5_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nMy relationship with Sarah was strained, and she was becoming hard to live with. As a result, I ended up seeing Gabriel from work. Our relationship was so different; it was easy and relaxed, and I didn't want it to end. When Gabriel gave me an ultimatum, I was forced to break up with Sarah. \n\nThe night I told her, she flipped and got really nasty; she attacked me with a knife. I fought back in self-defense at first, but then I got carried away and ended up strangling her. After killing her, I wrapped her in the ground sheet from my tent and put the body in the attic, intending to hide her later. Seeing the work Duncan was doing on the house gave me the idea of hiding her between the walls; no one would ever find her there, or so I thought."
+        }
+    ]
+}

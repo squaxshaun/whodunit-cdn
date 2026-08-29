@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_33_case_title",
+            "value": "UNDER PRESSURE"
+        },
+        {
+            "key": "Case_33_case_subtitle",
+            "value": "A car mechanic crushed by a vehicle they were servicing is discovered to have been under a lot of pressure, in more ways than one!"
+        },
+        {
+            "key": "Case_33_case_cover_bg",
+            "value": "UNDER_PRESSURE"
+        },
+        {
+            "key": "Case_33_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_33_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_33_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_33_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_33_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_33_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_33_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_33_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_33_daily_news_headline",
+            "value": "MECHANIC'S WORLD<br>COMES CRASHING<br>DOWN"
+        },
+        {
+            "key": "Case_33_daily_news_headline_image",
+            "value": "UNDER_PRESSURE"
+        },
+        {
+            "key": "Case_33_daily_news_page_1",
+            "value": "Mick Matthews (38), head mechanic at Cath's Car Clinic, was found dead on Monday morning after being crushed by a vehicle he was servicing. He was discovered by his business partner, Cath Colston, who says she was shocked by the unforgettable scene she walked into when she arrived at work.  \n\nDespite the incident appearing to have been accidental, the Police have released a short statement in which they confirm the death is being investigated as a murder. The death comes at a sensitive time for the business, which is reported to be struggling financially. It has recently become subject to a substantial legal case against it.  \n\nUnfortunately for the victim, their business appears to have come crashing down on them in more ways than one. \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_33_victim_name",
+            "value": "Mick Matthews"
+        },
+        {
+            "key": "Case_33_victim_icon",
+            "value": "MickMatthews"
+        },
+        {
+            "key": "Case_33_victim_age",
+            "value": "38"
+        },
+        {
+            "key": "Case_33_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_33_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was killed when the car he was working on dropped from a car lift above. The car lift had been raised to allow the victim easier access, and it is equipped with numerous safety features designed to prevent such incidents when operated by a single person. Investigators have determined that the lift functioned correctly, indicating that a second person must have been present with the victim to control the machine.\n\n<b>Discovery:</b>\n\nThe body was discovered by the victim's business partner.\n\n<b>Time of Death:</b>\n\nEstimated between 8:15 a.m. and 9:00 a.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Fingerprints from the machine's controls, including those of Mick Matthews himself, Cath Colston, and Alan Travis.</indent>\n- <indent=8%>Analysis of the car lift showing no mechanical malfunction and proper functioning of safety features.</indent>\n\n<b>Further Details:</b>\n\nThree suspects have been brought in for questioning. "
+        },
+        {
+            "key": "Case_33_suspect_1_name",
+            "value": "Craig Collins"
+        },
+        {
+            "key": "Case_33_suspect_1_icon",
+            "value": "CraigCollins"
+        },
+        {
+            "key": "Case_33_suspect_1_age",
+            "value": "56"
+        },
+        {
+            "key": "Case_33_suspect_1_occupation",
+            "value": "Victim's customer"
+        },
+        {
+            "key": "Case_33_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Mick Matthews?</b>\n<b>A:</b> I used to use his and Cath's garage for my vehicle repairs. I have a rare classic car that's my pride and joy. It's worth a small fortune, but to me, it's priceless since my father left it to me when he died. Although I love driving the car, I know next to nothing about car mechanics or maintenance. So, over the years, I've put a lot of business Mick's way and been quite loyal to him. That's why I was so upset when he let me down.\n\n<b>Q: How did he let you down?</b>\n<b>A:</b> I took it in for some maintenance a few weeks back, but afterward, when I took it home, it had no end of serious problems that didn't exist before I took it in. I returned it straight away, but to my surprise, Mick took one look and said it was unfixable. I couldn't believe it! The worst part was that he refused to take the blame, saying I must have done something to it on my drive home.\n\n<b>Q: What did you do?</b>\n<b>A:</b> I had someone else take a look at the car, and they confirmed that the car had been badly damaged from reckless driving, almost as if it had been raced off-road. They informed me that certain irreplaceable parts had been damaged, and the best course of action would be to disassemble and sell the parts to collectors. I was outraged; the car was priceless when I took it into Mick, but worthless to me when I picked it up.\n\n<b>Q: When did you last see Mick?</b>\n<b>A:</b> On Tuesday morning around 8:15 a.m. I went to the garage to inform him in person that I had hired a lawyer and was suing him for the damage he caused to my car. I wanted to see the shock on his face. He didn't take the news well. Gave me some sob story about the business being in financial trouble and how he promised he hadn't done anything to my car. But after what had happened, I didn't believe a word he was saying. I left shortly after that; my colleagues were waiting for me in a taxi, and we were due at the golf course by 8:45 a.m."
+        },
+        {
+            "key": "Case_33_suspect_2_name",
+            "value": "Cath Colston"
+        },
+        {
+            "key": "Case_33_suspect_2_icon",
+            "value": "CathColston"
+        },
+        {
+            "key": "Case_33_suspect_2_age",
+            "value": "40"
+        },
+        {
+            "key": "Case_33_suspect_2_occupation",
+            "value": "Victim's business partner"
+        },
+        {
+            "key": "Case_33_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Mick?</b>\n<b>A:</b> We've run the garage together for the last 15 years. We were friends, but we also argued, just like anyone who's in business together does. More recently, we've been dealing with our money problems and apprentice issues. The pressure was mounting.\n\n<b>Q: What apprentice issues are you referring to?</b>\n<b>A:</b> His name’s Alan. He came to us a couple of months back looking for a job. He'd already been thrown out of three schools and was having a tough time, so we thought we'd give him a chance; neither of us liked school either. But once he started, we realized it was a mistake. He was a troubled kid who wasn't interested in learning and behaved strangely in front of customers. Then one day, when we weren't looking, he stole one of the cars we had in for work. Before we could find him, he had taken it up to the local quarry for a joyride.\n\n<b>Q: What happened to Alan?</b>\n<b>A:</b> We obviously fired him, and then Mick decided to get the police involved, which Alan resented him for. The worst part of it all was that the car was a priceless classic, and he had damaged irreplaceable parts. It was a real issue for us, as we were not insured for that sort of thing and couldn't afford to compensate the owner.\n\n<b>Q: How did you resolve the issue?</b>\n<b>A:</b> We didn't resolve it. I'm ashamed to say that we pretended the damage wasn't our fault and claimed ignorance.\n\n<b>Q: Talk me through the morning you found Mick's body?</b>\n<b>A:</b> Mick and I got in early as usual. At around 8:10 a.m., I left to pick up a customer whose car was ready to collect; she lived about 25 minutes away. I got back with them around 9:00 a.m. That's when we found Mick under one of the cars. It was a shock, but in a dark way also a relief, as deep down I knew I had a good insurance policy to fall back on. I've always made sure we've been insured where possible. I see it as a good opportunity to make money, especially since I own a garage with lots of tools. We'd leave the old, knackered tools out to be stolen and then claim back the full cost of a new one. But with Mick's death, the insurance was a silver lining to a dark situation."
+        },
+        {
+            "key": "Case_33_suspect_3_name",
+            "value": "Alan Travis"
+        },
+        {
+            "key": "Case_33_suspect_3_icon",
+            "value": "AlanTravis"
+        },
+        {
+            "key": "Case_33_suspect_3_age",
+            "value": "18"
+        },
+        {
+            "key": "Case_33_suspect_3_occupation",
+            "value": "Victim's former apprentice"
+        },
+        {
+            "key": "Case_33_suspect_3_statement_page_1",
+            "value": "<b>Q: How did you know Mick Matthews?</b>\n<b>A:</b> I worked as his apprentice for a few months. It wasn't for me, though. All he ever did was shout at me and make me clean. I never got to touch any of the cool machinery. I ended up leaving and getting a job at the warehouse down the road. They're way less strict down there. I can come and go as I please as long as the job gets done. Plus, I get to drive a forklift!\n\n<b>Q: Have you seen Mick since leaving?</b>\n<b>A:</b> A few times. I'd often stick my head in to annoy Mick if he was in. I saw him in the garage that morning at around 8:45 a.m. I work nearby and often walk past the garage. Technically, I'm not allowed on their premises after the idiot called the police on me. If I ever did, Cath would go mental.\n\n<b>Q: What happened when you saw him?</b>\n<b>A:</b> Not much. He was busy and looked pretty mad. I was tempted to go in and annoy him even more, but I didn't want to have another confrontation with Cath, so I didn't bother. My shift finished at lunch, and that's when I noticed all the police cars over by Cath Car Clinic.\n\n<b>Q: Do you know of anyone who would want to harm Mick?</b>\n<b>A:</b> No. But I'm sure his business partner, Cath, will be laughing. She always joked when I was there that if I killed myself working for them, I'd be doing them a favor because they had a good insurance policy."
+        },
+        {
+            "key": "Case_33_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_33_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Craig was at Cath's garage with the victim at 8:15 a.m., which falls within the time of death window. However, the victim was seen alive at 8.45 a.m., by which time Craig had left in a taxi with colleagues to play golf. Craig also admits to using Mick's services because he knows nothing about car maintenance and mechanics. Given this, it makes sense that he wouldn't know how to operate the car lift, which explains why his fingerprints were not found on the murder weapon.</indent>\n\n- <indent=8%>Cath left Mick alone at the garage around 8:10 a.m. that morning. She returned at 9:00 a.m. with a customer whose car was ready for collection, which is when they discovered Mick's body. As Cath was with a customer when the body was found, she couldn't have committed the crime on her return. We also know the customer lived a 25-minute drive away, and since Mick was seen alive at 8:45 a.m., Cath couldn't have been the killer.</indent>\n\n- <indent=8%>Alan was the last person to see the victim alive at 8:45 a.m., just 15 minutes before the body was discovered. Alan claims not to have gone into the garage that morning because he was afraid of Cath. Still, we know Cath wasn't there, and he admits to regularly entering the garage to annoy Mick despite knowing he wasn't allowed.</indent>\n\n- <indent=8%>The Police report reveals that Alan's fingerprints were found on the car lift controls. Considering he tells us that whilst working there he was made to clean and was never allowed to touch any of the machinery, there is no explanation for his fingerprints being on the murder weapon - unless he has lied. </indent>"
+        },
+        {
+            "key": "Case_33_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nOn my way to work, I noticed Mick was in the garage. I could hear from his cursing that he was in a bad mood, so I decided to pop in and make his day worse. I saw he was busy under one of the cars, so I snuck in and thought it would be funny to give him a scare. He never let me touch the car lift when I worked there. Still, I had seen him do it plenty of times, so I went to lower the car a bit with him underneath it, but I must have done something wrong because the car dropped fast, and before I knew it, Mick was dead.\n\nI got out of there as quickly as I could, which was lucky because I saw Cath come back a few minutes later with someone. I'm sorry that Mick died. I shouldn't go to prison because it was just an accident."
+        }
+    ]
+}

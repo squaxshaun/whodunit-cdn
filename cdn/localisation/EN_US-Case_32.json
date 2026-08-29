@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_32_case_title",
+            "value": "TONGUE TIED"
+        },
+        {
+            "key": "Case_32_case_subtitle",
+            "value": "The best man at a wedding is found dead minutes before he is due to deliver his eagerly awaited speech."
+        },
+        {
+            "key": "Case_32_case_cover_bg",
+            "value": "TONGUE_TIED"
+        },
+        {
+            "key": "Case_32_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_32_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_32_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_32_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_32_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_32_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_32_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_32_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_32_daily_news_headline",
+            "value": "BEST MAN CHOKES<br>BEFORE HIS BIG<br>SPEECH"
+        },
+        {
+            "key": "Case_32_daily_news_headline_image",
+            "value": "TONGUE_TIED"
+        },
+        {
+            "key": "Case_32_daily_news_page_1",
+            "value": "Greg Dunn (29), serving as the best man at his friend's wedding on Saturday afternoon, was found dead after choking on some wedding cake just minutes before he was due to deliver his eagerly anticipated speech. Initially, those who discovered the body thought Greg's demise to be an unfortunate freak accident. However, the police have since released a statement confirming they are treating the death as suspicious, and it is believed they are investigating a number of suspects. \n\nIt's clear that Greg's wedding cake-related death is layered, no pun intended, with mystery and unanswered questions, not least of which is why the best man helped himself to the cake before it had been officially cut.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_32_victim_name",
+            "value": "Greg Dunn"
+        },
+        {
+            "key": "Case_32_victim_icon",
+            "value": "GregDunn"
+        },
+        {
+            "key": "Case_32_victim_age",
+            "value": "29"
+        },
+        {
+            "key": "Case_32_victim_cod",
+            "value": "Asphyxiation"
+        },
+        {
+            "key": "Case_32_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was found lying on the floor next to a multi-tiered, decoratively iced, fruit and nut wedding cake. A handful of cake had been carelessly ripped from the bottom tier and was found in the victim's mouth, some of which had become lodged in their throat. The postmortem confirmed that the cake had been aggressively forced into the victim's mouth.\n\n<b>Discovery:</b>\n\nThe groom's father discovered the victim.\n\n<b>Time of Death:</b>\n\nApproximately 6:00 p.m., shortly before the victim was scheduled to deliver his best man speech at 6:05 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Autopsy findings indicating asphyxiation caused by the forcibly inserted cake.</indent>\n- <indent=8%>Clean hands on the victim, suggesting the cake was inserted by another individual.</indent>\n\n<b>Further Details:</b>\n\nThe investigation is ongoing, focusing on the events leading up to the victim's death and identifying who may have forcibly fed the victim the cake. Interviews with potential witnesses and suspects at the wedding are being conducted."
+        },
+        {
+            "key": "Case_32_suspect_1_name",
+            "value": "Jordan Hughes"
+        },
+        {
+            "key": "Case_32_suspect_1_icon",
+            "value": "JordanHughes"
+        },
+        {
+            "key": "Case_32_suspect_1_age",
+            "value": "62"
+        },
+        {
+            "key": "Case_32_suspect_1_occupation",
+            "value": "Groom's father"
+        },
+        {
+            "key": "Case_32_suspect_1_statement_page_1",
+            "value": "<b>Q: How well did you know the victim?</b>\n<b>A:</b> Fortunately, not very well. We had a public falling out at my son's bachelor party last week. He had a crude sense of humor and spent the whole time being disrespectful to everyone, as if he had to prove he was the alpha male. But what frustrated me the most was his constant \"jokes\" about the bride not being faithful to my son, especially when they involved my future grandchildren.\n\n<b>Q: Talk me through what happened when you discovered his body?</b>\n<b>A:</b> The maid of honor was giving a fantastic speech. Still, I knew Greg was up next as best man, and I wasn't interested in listening to his offensive, unfunny humor. So I went to the bar for a drink instead. After a while, my son came in looking flustered. It was time for Greg's speech, and he wasn't at his table. We started looking and quickly found his body lying by the wedding cake in a side room.\n\n<b>Q: How did you know the victim was dead?</b>\n<b>A:</b> I'm a doctor and have seen plenty of dead bodies before. I couldn't get too close because I'm highly allergic to the nuts that were in the fruit cake, but I could see immediately that he had choked to death. He was always going to ruin the wedding in some way.\n\n<b>Q: Can you think of anyone who would want to harm Greg?</b>\n<b>A:</b> Amy, the maid of honor, hated him. It's one of the reasons I like her! Greg used to date the bride before she met my son, and apparently, Amy never approved of that relationship. When she found out my son had made Greg his best man, she approached me and asked if I would try to persuade my son to change his mind. She wouldn't say why, but it was clear she didn't want him at the wedding."
+        },
+        {
+            "key": "Case_32_suspect_2_name",
+            "value": "Georgia Nichols"
+        },
+        {
+            "key": "Case_32_suspect_2_icon",
+            "value": "GeorgiaNichols"
+        },
+        {
+            "key": "Case_32_suspect_2_age",
+            "value": "27"
+        },
+        {
+            "key": "Case_32_suspect_2_occupation",
+            "value": "Bride / victim's ex-girlfriend"
+        },
+        {
+            "key": "Case_32_suspect_2_statement_page_1",
+            "value": "<b>Q: How was your relationship with Greg?</b>\n<b>A:</b> I'd known him for a long time; he had a weird personality, but we generally got on well. I found him irritating at times, and we often argued, but he always had a way of making me laugh.\n\n<b>Q: Witnesses saw you having a heated conversation with Greg on the morning of the wedding?</b>\n<b>A:</b> Yes, I found his best man speech notes and wasn't happy with some of the things he was going to say. I took him aside and asked him to change them, otherwise he would offend people. He said yes, but I couldn't tell if he was being serious or not. It made me nervous.\n\n<b>Q: You were seen leaving your seat during the speeches, why?</b>\n<b>A:</b> It’s awkward that people noticed that. Only a couple of people know this, but I'm 8 weeks pregnant and was feeling nauseous, so I went to the restroom. While I was there, I had some dress issues that took a while to sort out.\n\n<b>Q: Why was Greg not in his seat listening to the other speeches?</b>\n<b>A:</b> He went to wait in a side room until it was time for his speech. He said he was getting nervous and wanted to run through it one last time. I knew that was rubbish; he was so confident, you could call him arrogant. Knowing him, he was probably planning some grand entrance."
+        },
+        {
+            "key": "Case_32_suspect_3_name",
+            "value": "Amy Jones"
+        },
+        {
+            "key": "Case_32_suspect_3_icon",
+            "value": "AmyJones"
+        },
+        {
+            "key": "Case_32_suspect_3_age",
+            "value": "28"
+        },
+        {
+            "key": "Case_32_suspect_3_occupation",
+            "value": "Bride's maid of honor"
+        },
+        {
+            "key": "Case_32_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Greg?</b>\n<b>A:</b> You could call me the overprotective friend, but I've never liked him. He and Georgia used to be in a relationship, but I never understood what she saw in him. It was a relief when she broke up with him and started seeing Chris, who's a much nicer person. Unfortunately, the catch was that Chris was a good friend of Greg.\n\n<b>Q: Was there any animosity between Georgia and Greg after they split up?</b>\n<b>A:</b> No, surprisingly they remained good friends. Which I said at the time was a bad idea, and I turned out to be right. No one else knows this, but they slept together recently after a drunken night out. After that incident, I told her she had to cut ties with him. I even tried to persuade her not to invite him to the wedding, but when Chris made Greg the best man, it was hard to argue.\n\n<b>Q: Did you notice any strange behaviour at the wedding?</b>\n<b>A:</b> Georgia missing my speech was unexpected, but being 8 weeks pregnant, she had a good reason to go to the restroom. To be fair, it's lucky she did, she told me that she found icing on her wedding dress, which would have been a nightmare to remove.\n\n<b>Q: Do you know of anyone who would have wanted to harm Greg?</b>\n<b>A:</b> It's no secret that Chris's father, Jordan, wasn't a fan. They were supposed to be sitting at the same table, but when Jordan realised, he made a point of swapping with someone on the opposite side of the room. He didn't want to ruin his son's wedding day, so he thought it best to avoid sitting near Greg, fearing he might say something he'd regret."
+        },
+        {
+            "key": "Case_32_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_32_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The Maid of Honor had motive, as she knew the victim's upcoming speech was making the Bride nervous and described herself as overprotective. However, her speech was just before the Best Man's, and the murder occurred around 6:00 p.m., giving her an alibi.</indent>\n\n- <indent=8%>The Groom's father, Jordan, had motive and opportunity, as he left the event alone around the time of the murder and disliked the victim. However, he is highly allergic to the wedding cake, making it unlikely he could have committed the murder without suffering a severe reaction.</indent>\n\n- <indent=8%>The Bride, Georgia, was seen leaving her table to visit the restroom during the Maid of Honor speech, around the time of the murder, giving her an opportunity. She was anxious about the victim's speech and had confronted him earlier that day.</indent>\n\n- <indent=8%>The Maid of Honor revealed that the Bride took time in the restroom to remove icing from her dress, which is suspicious since the wedding cake had not yet been cut or served.</indent>"
+        },
+        {
+            "key": "Case_32_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nTwo months ago, I made a huge mistake and slept with my ex, Greg, after a night out. We regretted it and agreed never to let my husband, Chris, find out. This became especially important when I later discovered I was pregnant and the dates aligned with that night. Chris believes it's his, and I wanted it to stay that way.\n\nI thought the incident was behind us until the morning of the wedding, when I accidentally saw Greg's best man speech and realized he was going to announce what happened to everyone. I was horrified! I pulled Greg aside that morning and confronted him. He calmed me down, saying it was just a joke and he wasn't going to say anything. I believed him at first because he does have a dark sense of humor like that, but as his speech approached, I got anxious again.\n\nI knew Greg was in one of the side rooms rehearsing, so I went to ensure he wasn't going to do anything stupid. But this time, instead of reassuring me, he became nasty and said he was going to get back at me for breaking up with him and marrying his best friend. I had no idea he felt that way. I pleaded with him and even told him I was pregnant and that he was going to ruin our lives. But that news only encouraged him; he immediately figured out that he could be the father and laughed in my face.\n\nI didn't know what to do. I panicked and impulsively grabbed some cake and shoved it in his face to cover his smug expression. He choked and seconds later died. I couldn't help but feel relieved. I ran to the restroom, cleaned up, and then returned to my table."
+        }
+    ]
+}

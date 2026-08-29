@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "key": "Case_45_case_title",
+            "value": "ONE HIT WONDER"
+        },
+        {
+            "key": "Case_45_case_subtitle",
+            "value": "A STREET PERFORMER IS KILLED AFTER AN UNSAVOURY INTERACTION"
+        },
+        {
+            "key": "Case_45_case_cover_bg",
+            "value": "ONE_HIT_WONDER"
+        },
+        {
+            "key": "Case_45_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_45_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_45_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_45_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_45_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_45_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_45_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_45_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_45_daily_news_headline",
+            "value": "BUSKER MURDERED ON<br>MARMONT STREET"
+        },
+        {
+            "key": "Case_45_daily_news_headline_image",
+            "value": "ONE_HIT_WONDER"
+        },
+        {
+            "key": "Case_45_daily_news_page_1",
+            "value": "Local musician Bill Jacks (aged 34) was performing on the sidewalk of Marmont Street last night when he was violently attacked and left for dead. After a concerned passer-by came across his unconscious body, Mr Jacks was rushed to hospital, but died of his wounds later that night.\n\nDespite having no witnesses to the attack itself, the police are believed to have gathered enough evidence to narrow down the search for Mr Jacks attacker to two suspects - music to the lead investigators' ears no doubt.  However, the rumours are that the suspects versions of events don't align, and neither is owning up to what they did… A bit more detective work is going to be required in this case if the killer is going to face the music for their deadly actions. \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_45_victim_name",
+            "value": "Bill Jacks"
+        },
+        {
+            "key": "Case_45_victim_icon",
+            "value": "BillJacks"
+        },
+        {
+            "key": "Case_45_victim_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_45_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_45_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim, an unlicensed street performer, was busking on the sidewalk of Marmont Street from 6 p.m. on Thursday until he was discovered injured and unconscious by a local bouncer shortly after 10 p.m. The bouncer, who works for an exclusive club further down the street, recalls noticing the busker's music had stopped, which is what led to her looking over and seeing the victim lying on the street with two figures standing over them. When the two people walked away and the victim remained on the floor, she walked over to check on them. After calling 911, she waited with the unconscious victim until an ambulance took them away.  \n\nThe pathologist’s report reveals only one injury to the victim - blunt force trauma to their left temple. The impact would have rendered the victim instantly unconscious, and caused a minor wound to the exterior of the head and major internal bleeding in the brain, which is what ultimately led to the victim's death several hours later.\n\nCCTV footage from all commercial premises along Marmont Street has been analysed. Although it does not cover the location of the crime, it is possible to determine that, other than the victim, only two people were on that section of the sidewalk at the relevant time. Two men who are clearly seen leaving a wine bar at 10:01 p.m. and heading in the direction of the crime scene approximately 20 meters away. \n\n<b>Discovery:</b>\nThe bouncer witnesses, from a distance, two people walking away from the victim, who is on the floor, before going to check on them. Their 911 call was logged at 10:06 p.m.\n\n<b>Time of Death:</b>\n\nDied in the hospital at 1:27 a.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The victim had multiple musical instruments and other equipment set out on the sidewalk where he was attacked.</indent>\n- <indent=8%>Crime scene forensics have linked the two people seen leaving the wine bar at 10:01 p.m. directly to the scene.</indent>\n- <indent=8%>The guitar was noted to have been recently damaged and revealed the fingerprints of one suspect.</indent>\n- <indent=8%>The victim's hat, which had been placed on the sidewalk to collect money, contained hair strands of the other suspect.</indent>\n\n<b>Further Details:</b>\n\nThe two suspects have been identified as Cameron Digby and Rory Redpath, colleagues at a high-net-worth stockbroker's firm. They were brought in for questioning the next morning."
+        },
+        {
+            "key": "Case_45_suspect_1_name",
+            "value": "Rory Redpath"
+        },
+        {
+            "key": "Case_45_suspect_1_icon",
+            "value": "RoryRedpath"
+        },
+        {
+            "key": "Case_45_suspect_1_age",
+            "value": "33"
+        },
+        {
+            "key": "Case_45_suspect_1_occupation",
+            "value": "Unknown"
+        },
+        {
+            "key": "Case_45_suspect_1_statement_page_1",
+            "value": "<b>Q: What were you doing on Marmont Street last night?</b>\n<b>A:</b> I was having dinner and a few bottles of wine with a friend. I’d like to tell you it was a hot date, but sadly it was my colleague Cameron. \n\n<b>Q: Can you talk to us through your evening?</b>\n<b>A:</b> Sure. Cameron and I had been working like dogs all week to reach our yearly targets; we literally hadn't slept or even left the office in three days! In the end we smashed them, which obviously meant we earned ourselves some rather healthy-looking bonuses. So we went out to splash some cash. One of Cameron's clients owns a fancy bar so that's where we went. Got there at seven, and several bottles of very expensive red wine later, we left around ten. A fairly tame evening overall, as Cameron was meant to be playing golf this morning.\n\n<b>Q: Do you recall seeing a busker playing music on the sidewalk near the wine bar?</b>\n<b>A:</b> Not specifically, no.\n\n<b>Q: That is interesting, as we have evidence that both you and Cameron had touched their things. Why would that be?</b>\n<b>A:</b> Oh yes! It’s coming back to me now. Yes, after we left the wine bar we walked past a guy playing music. He looked a bit lonely and dejected, playing to himself, so we stopped to cheer him up. Cameron grabbed one of his guitars and started playing awfully while I put on the guy's hat and did a little dance; it was hilarious.\n\n<b>Q: How did the musician react to your mocking?</b>\n<b>A:</b> Not well; he didn't like us touching his things. He was a bit pathetic about it; actually, we were only having a bit of fun. Why are you asking all this?  \n\n<b>Q: That musician's name was Bill Jacks, and he was violently attacked last night. How did your interaction with him end?</b>\n<b>A:</b> When he got all angsty, we gave him his stuff back and left him alone. Surely you can't be trying to pin his attack on us? Whatever he is saying isn't true; you have no proof that we touched him.  \n\n<b>Q: Bill Jacks died last night. We have sufficient evidence to show that you and Cameron were the only people who could carry out the attack.</b>\n<b>A:</b> He died? Well, that’s unexpected…but it wasn't me.   \n\n<b>Q: According to Cameron, you hit Mr Jacks after he spat at you. He believes your boxing training explains why he went down so easily.</b>\n<b>A:</b> To be fair, I do have a mean left hook, but what Cameron is saying is nonsense; he’s the one who hit him.\n\n<b>Q: What made you decide it was a good idea to leave Mr Jacks there and walk away?</b>\n<b>A:</b> Well, we didn't realise how badly he was hurt; I mean, if everyone died from one punch, boxing wouldn't exist as a sport. All we knew for sure was that when he came to he would probably be calling the police, and I suppose technically we were in the wrong, although we’d argue self-defence. Either way, what's the point in making big bonuses if you’re in prison?"
+        },
+        {
+            "key": "Case_45_suspect_2_name",
+            "value": "Cameron Digby"
+        },
+        {
+            "key": "Case_45_suspect_2_icon",
+            "value": "CameronDigby"
+        },
+        {
+            "key": "Case_45_suspect_2_age",
+            "value": "32"
+        },
+        {
+            "key": "Case_45_suspect_2_occupation",
+            "value": "Unknown"
+        },
+        {
+            "key": "Case_45_suspect_2_statement_page_1",
+            "value": "<b>Q: What were you doing on Marmont Street last night?</b>\n<b>A:</b> Celebrating with my colleague Rory. We’d just received significant bonuses for the year and went out to a great wine bar I know. Look how long this is going to take? I’m meant to be playing golf today. \n\n<b>Q: You should cancel those arrangements. Last night there was an incident involving a busker on Marmont Street. Do you have any knowledge of that?</b>\n<b>A:</b> Oh, the busker, yes, I remember him. He was playing some out-of-tune garbage and being ignored by anyone walking past. Embarrassing really, complete waste of his time if you ask me.\n\n<b>Q: I’m not asking you. That man's name is Bill Jacks, and he was violently attacked last night. We have evidence tying you and your friend to the incident.</b>\n<b>A:</b> What does violent attack mean?! The only interaction we had with the guy was harmless fun.\n\n<b>Q: Do you consider ‘harmless fun’ to involve the use of excessive force against someone?</b>\n<b>A:</b> Oh come off it, the guy got a bit sensitive and got put back in his box; it was hardly excessive force. Look, if he is pressing charges, just speak to my lawyer; they will sort this out. I assume he’s wanting some money? That’s usually what it comes down to; probably noticed our expensive suits and saw an opportunity.\n\n<b>Q: Bill Jacks died on Marmont Street last night.</b>\n<b>A:</b> He’s dead?!! What are you talking about? You’re not pinning that on me. \n\n<b>Q: Are those wounds on your right hand from when you ‘barely touched him?’</b>\n<b>A:</b> No, this is from playing squash the day before. The idiot I was playing with caught me right on the knuckles. \n\n<b>Q: I need you to talk me through exactly what happened during your interaction with Mr Jacks last night?</b>\n<b>A:</b> We first saw him on our way to the wine bar. His music was awful, so you couldn't miss him. A few hours later we left the bar, and amazingly he was still there making a god-awful racket. So we decided to help the poor guy out. I grabbed one of his guitars and started playing along with him; obviously I didn't have a clue how to play, which was hilarious, and Rory grabbed his hat used to collect money, put it on his head, and danced along. It’s fair to say the guy was not happy; he came at me to grab the guitar back. The strap was over my neck, so it became a little scrap while he fought me for it. I was trying to give it back, but he wasn't giving me a chance, so I ended up pushing him away just so I had space to take it off. That was all I did.   \n\n<b>Q: What happened then?</b>\n<b>A:</b> The guy then turned on Rory to get his hat back and spat in his face. Rory quite rightly retaliated with a right-left combo. The guy went down and didn't get up again, which isn’t a surprise considering Rory's boxing background; he’s an accomplished southpaw.\n\n<b>Q: At what point did you decide to leave Bill lying on the street to die?</b>\n<b>A:</b> It wasn't like that; stop trying to paint me as this horrible person. As a matter of fact, I did try to give him a hand up, but he pushed it away. Then Rory said that we should move on quickly in case the police are called. So that's what we did. Honestly, we thought nothing of it at the time, just assumed the guy would be helped up and given a bag of ice for his head."
+        },
+        {
+            "key": "Case_45_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_45_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>We know for a fact that the victim had only one injury, and that was inflicted to their left temple. We also know the blow would have knocked them unconscious immediately and subsequently caused their death.</indent>\n\n- <indent=8%>Cameron says that it was Rory who hit the victim to the floor with a left-right boxing combo; if this were true, the victim would have more than just one injury to their person. Cameron also tells us that he attempted to help the victim get up afterwards, but the victim pushed his hand away. Considering the victim was rendered unconscious from the blow, this could not have happened. Both these discrepancies in Cameron's testimony prove he is lying. In contrast, Rory's version of events aligns nicely with the evidence and the facts of what we know happened. Including the victim's guitar being dropped (explaining its damage) and the victim being instantly knocked out by one punch.</indent>\n\n- <indent=8%>A further discrepancy in Cameron's testimony are the fresh wounds to his right hand, which are observed in his interview.  He explains them as a squash accident from the day before; however, we learn from Rory that they had been working so hard that week that neither of them had left the office in three days.  Not only has Cameron lied again, but the specific wound supports him being the attacker - it being fresh and to his right hand matches up with someone being face to face with the victim that night and hitting them in the left temple.</indent>"
+        },
+        {
+            "key": "Case_45_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nYes, I hit him, but he nearly pulled my head off with the guitar strap as he took it back. I just wanted him to get his dirty hands off me!\n\nObviously I didn't mean to kill him, but I knew he was out cold as soon as I hit him. We decided nothing good would come from sticking around to help him. You must have heard the expression Where there's blame, there's a claim? When the guy woke up, he was definitely going to call the police, and that would have ended in either a substantial payout or a prison sentence, neither of which would have been fair on me considering the circumstances."
+        }
+    ]
+}

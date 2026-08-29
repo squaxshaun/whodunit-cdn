@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_29_case_title",
+            "value": "A HIGH SCHOOL MYSTERY"
+        },
+        {
+            "key": "Case_29_case_subtitle",
+            "value": "A newly appointed high school principal who divided opinion is discovered dead in their office."
+        },
+        {
+            "key": "Case_29_case_cover_bg",
+            "value": "A_HIGH_SCHOOL_MYSTERY"
+        },
+        {
+            "key": "Case_29_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_29_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_29_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_29_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_29_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_29_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_29_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_29_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_29_daily_news_headline",
+            "value": "NEW PRINCIPAL<br>STRIKES OUT"
+        },
+        {
+            "key": "Case_29_daily_news_headline_image",
+            "value": "A_HIGH_SCHOOL_MYSTERY"
+        },
+        {
+            "key": "Case_29_daily_news_page_1",
+            "value": "Helen Taylor (42), the new principal at Cortum High School, was found dead in her office on Wednesday morning. The police have issued a statement confirming that it was murder, and the victim had been beaten to death with a baseball bat. The school has been closed while the investigation is underway.\n\nPrincipal Taylor, a former professional baseball player turned high school principal, was brought into the underachieving school with clear instructions from the governors to turn things around quickly. Having only taken up the new role five weeks ago, she is said to have divided opinion among students, parents, and staff alike with her strong stance on controversial topics, such as staff cuts and the reallocation of department funding. There are rumors that Principal Taylor still had strong connections with baseball and that her plans to improve the school were focused on upgrading the sports programs.\n\nThe school's governors have condemned the principal's unforgivable and brutal death, which they say came as a significant blow.\n\nForgive the baseball analogy, but as far as I can tell, Principal Taylor's appointment at Cortum High School was seen as a bit of a curveball, one that someone didn't like and decided to knock out of the park. The identity of the batter in this case is what the police are investigating at this very moment.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_29_victim_name",
+            "value": "Helen Taylor"
+        },
+        {
+            "key": "Case_29_victim_icon",
+            "value": "HelenTaylor"
+        },
+        {
+            "key": "Case_29_victim_age",
+            "value": "42"
+        },
+        {
+            "key": "Case_29_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_29_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was last seen alive by her secretary, who left the office at 5:00 p.m. on Tuesday after saying goodbye. When the secretary returned the following morning, the victim's body was discovered on the office floor. The cause of death was determined to be internal bleeding caused by blunt force trauma to the head. The murder weapon, a signed baseball bat, had been on display in the victim's office before being used to deliver the fatal blow. The injuries indicate that the bat was wielded by someone with significant strength, capable of generating severe force.\n\n<b>Discovery:</b>\n\nThe victim's body was discovered by her secretary upon arriving at the office the following morning.\n\n<b>Time of Death:</b>\n\nEstimated between 5:00 p.m. and 6:00 p.m. on Tuesday.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The baseball bat used as the murder weapon, with traces of fresh paint flakes on the handle.</indent>\n\n<b>Further Details:</b>\n\nThe investigation has been narrowed down to three suspects, all of whom had recent altercations with the victim."
+        },
+        {
+            "key": "Case_29_suspect_1_name",
+            "value": "Lisa Montague"
+        },
+        {
+            "key": "Case_29_suspect_1_icon",
+            "value": "LisaMontague"
+        },
+        {
+            "key": "Case_29_suspect_1_age",
+            "value": "37"
+        },
+        {
+            "key": "Case_29_suspect_1_occupation",
+            "value": "Victim's student's parent"
+        },
+        {
+            "key": "Case_29_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship like with Principal Taylor?</b>\n<b>A:</b> She was new this year, so we'd only spoken a few times. I was a talented baseball player myself, so as you can imagine, I was pretty pleased when I found out she was taking over the school. The baseball program here is already pretty strong, pretty much the only thing that is, but with her in charge and making the right team selections, it could have become state champions.\n\n<b>Q: The school secretary reported that you lost your temper with the Principal on Tuesday afternoon. Is that correct?</b>\n<b>A:</b> Yes, unfortunately, Principal Taylor didn't live up to my expectations. I had an appointment to see her at 4:00 p.m. to discuss my son. Sadly, our conversation lasted only 10 minutes before she upset me, and I walked out. I made sure to let her know what I thought of her before I left.\n\n<b>Q: Can you talk us through how Principal Taylor upset you?</b>\n<b>A:</b> It wasn't just her, it was the whole school. My son's a naturally talented baseball player, just like I was, but he wasn't getting enough exposure. How can he expect to get a scholarship to play for a good college if he isn't being picked for his high school team?! I explained this to Principal Taylor, thinking she, of all people, would understand. Still, she responded with, 'I trust my staff, if he isn't being picked, then he probably isn't good enough!' I was astounded by her response and wasn't prepared to let her ignorance ruin my son's future.\n\n<b>Q: What did you do?</b>\n<b>A:</b> I left immediately, picked my son up from the school theater where he was doing some painting, and drove almost an hour to the other side of the county, and met with the principal of a better school, and by 5:30 p.m. I had signed my son up! As you can tell, I am a determined person. I then had the satisfaction of calling Principal Taylor and leaving her a voice message saying that we would not be returning. That will teach her to mess around with me!"
+        },
+        {
+            "key": "Case_29_suspect_2_name",
+            "value": "Luke Ward"
+        },
+        {
+            "key": "Case_29_suspect_2_icon",
+            "value": "LukeWard"
+        },
+        {
+            "key": "Case_29_suspect_2_age",
+            "value": "57"
+        },
+        {
+            "key": "Case_29_suspect_2_occupation",
+            "value": "Victim's colleague"
+        },
+        {
+            "key": "Case_29_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship like with Principal Taylor?</b>\n<b>A:</b> Professional. Although it would be dishonest of me to say I liked working for her. I knew it was all going to end in disaster when she arrived and started throwing her weight around, making pointless changes. She was never the best applicant for that job.\n\n<b>Q: We understand that you also applied for the principal job?</b>\n<b>A:</b> That’s correct. I've been a deputy here for many years, and unlike Principal Taylor, I have a background in academia. I mean, any principal who prioritizes sports over academics at a high school is doing the children an injustice. Now that the vacancy is open again, I can only hope the governors see my application more clearly this time.\n\n<b>Q: Where were you after school between 5:00 and 6:00 p.m. on Tuesday?</b>\n<b>A:</b> Due to Principal Taylor's infinite wisdom, both the art and drama departments are now understaffed, so I had to stay late to help finish painting the final bits of stage scenery for the school production. Well, I helped as much as I could. I broke my collarbone last week, which stops me from using my stronger arm. Our work might have been in vain, as the principal had mentioned to me that day she was considering canceling the production. Still, she hadn't done it yet, so I kept my mouth shut. We finished around 5:40 p.m. I then freshened up with a shower at school before heading out for an anniversary dinner with my wife.\n\n<b>Q: Do you know who might have done this to the principal?</b>\n<b>A:</b> She wasn't afraid to upset people in the name of progress. Many parents and staff members have already been disappointed by her decisions, and sadly, there was more to come."
+        },
+        {
+            "key": "Case_29_suspect_3_name",
+            "value": "Steve Gatherer"
+        },
+        {
+            "key": "Case_29_suspect_3_icon",
+            "value": "SteveGatherer"
+        },
+        {
+            "key": "Case_29_suspect_3_age",
+            "value": "48"
+        },
+        {
+            "key": "Case_29_suspect_3_occupation",
+            "value": "Victim's colleague"
+        },
+        {
+            "key": "Case_29_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship like with Principal Taylor?</b>\n<b>A:</b> I liked her at the start, but that changed when she showed her true colors and threw my department under the bus, so to speak. She had no appreciation for the creative arts.\n\n<b>Q: What had she done to your department?</b>\n<b>A:</b> She waltzed into the theater in her second week. She cut the drama department's budget without warning, reducing it so much that I had to let a team member go. To make it worse, the news was followed by an announcement that the sports department was to get increased investment due to the success the baseball team had had in recent years. I was devastated.\n\n<b>Q: Where were you between 5:00 and 6:00 p.m. on Tuesday?</b>\n<b>A:</b> I stayed behind after classes with a few others to finally finish painting the stage scenery for a production I've written and produced. We were finished by 5:40 p.m., which is when I started preparing to leave. I tried to find the principal before I left to have a quick chat about the upcoming production, but she was nowhere to be found.\n\n<b>Q: Do you know who might have done this to the principal?</b>\n<b>A:</b> My money is on one of the parents. They go mad for their children, and the principal's methods didn't have all the children's best interests at heart."
+        },
+        {
+            "key": "Case_29_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_29_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Lisa Montague fell out with the victim at 4:00 p.m., after which she drove an hour away to sign her son up at a different school. She left a voicemail confirming this at 5:30 p.m., meaning she couldn't have been at Cortum High School between 5:00 and 6:00 p.m. to commit the crime.</indent>\n\n- <indent=8%>The police report states the murder weapon, a baseball bat, was used with severe force, and there was fresh paint on the handle. Vice Principal Ward, who had broken his collarbone and was unable to use his strong arm, wouldn't have been capable of delivering such force. He also showered and changed after working in the theater, so it's unlikely he had any paint on him.</indent>\n\n- <indent=8%>Steve, who was also painting stage scenery that afternoon, likely had paint on him when he finished at 5:40 p.m. His timing left him a 20-minute window to commit the murder, during which he tells us he went to find the victim to discuss his upcoming production. Knowing the victim was planning to cancel the school production that day, and that she had a reputation for being abrupt, if Steve had found the victim that night, he would likely have found out. Considering Steve was already devastated about his department's funding being cut, he would not have taken such news well. </indent>"
+        },
+        {
+            "key": "Case_29_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI was upset with Principal Taylor for cutting my department's budget. I became angry when I found out that the sports department was getting extra funding. To deal with this anger, I threw myself into the work that I love, which was the upcoming school production that I had excitedly written and produced myself. Naturally, when Principal Taylor took that away too, I was distraught. She was ruining the creative arts for both me and my adoring students. That's when I made the clichéd decision to get revenge. I found a reason to stay late and waited until after 5:30 p.m., when most people had left the school. Then I went to her office and did what needed to be done. I thought it would be poetic to use her precious sports memorabilia to commit the crime."
+        }
+    ]
+}

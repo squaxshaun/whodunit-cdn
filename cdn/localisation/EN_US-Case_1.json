@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_1_case_title",
+            "value": "MYSTERY AT HAWKEDON MANOR"
+        },
+        {
+            "key": "Case_1_case_subtitle",
+            "value": "Mangled human remains are discovered in the wood chipper at Hawkedon Manor. There is no doubt the victims saw it coming."
+        },
+        {
+            "key": "Case_1_case_cover_bg",
+            "value": "MYSTERY_AT_HAWKEDON_MANOR"
+        },
+        {
+            "key": "Case_1_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_1_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_1_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_1_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_1_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_1_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_1_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_1_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_1_daily_news_headline",
+            "value": "MURDER AT<br>HAWKEDON MANOR"
+        },
+        {
+            "key": "Case_1_daily_news_headline_image",
+            "value": "MYSTERY_AT_HAWKEDON_MANOR"
+        },
+        {
+            "key": "Case_1_daily_news_page_1",
+            "value": "On Thursday morning, the mangled remains of the Honorable Lord Gilbert Thorn were discovered, having been put through his estate's industrial wood chipper. Commonly used to cut trees into wood chips, the machine became a central tool used in this brutal murder. Reports from the scene suggest that the victim's remains could only be identified through their DNA and dental records. \n\nAt 62, Gilbert Thorn was the most recent Lord of Hawkedon Manor, one of the UK's largest and most valuable estates. He is survived by his wife, Lady Thorn, 60, and his son, Oscar Thorn, 34. Rumors suggest a volatile relationship between father and son. As police investigate this shocking and gruesome crime, one lucrative question looms large: who stands to gain from Lord Thorn's untimely death? Maybe I've read too many crime novels, but surely this will lead us to the perpetrator. One thing is for sure: with such a valuable estate now on the line, investigators are under immense pressure to uncover the truth.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Case_1_victim_name",
+            "value": "Lord Gilbert Thorn"
+        },
+        {
+            "key": "Case_1_victim_icon",
+            "value": "LordThorn"
+        },
+        {
+            "key": "Case_1_victim_age",
+            "value": "62"
+        },
+        {
+            "key": "Case_1_victim_cod",
+            "value": "Acute poisoning"
+        },
+        {
+            "key": "Case_1_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nDue to the state of the remains, an autopsy was challenging, and limited information could be gathered. However, the forensics team was able to determine that the victim had ingested poison orally. The poison is known for its delayed effect, and the quantity detected suggests it was sufficient to render the victim unconscious or possibly cause death.\n\nAfter the victim succumbed to the poison, the body was placed into an industrial-sized wood chipper. The control panel of the machine indicates it was used once that evening at 11:55 p.m.\n\n<b>Discovery:</b>\n\nThe victim's remains were discovered early the next morning at 6:00 a.m.\n\n<b>Time of Death:</b>\n\nThe victim was last seen alive leaving the house after dinner at 9:00 p.m. to visit one of the barns, a 10-minute walk away. The time of death is estimated between 9:00 p.m. and 11:55 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Traces of poison found in the victim's teeth.</indent>\n- <indent=8%>Fingerprints of three suspects on the wood chipper's control panel.</indent>\n- <indent=8%>The wood chipper control panel records last usage at 11:55 p.m.</indent>\n\n<b>Further Details:</b>\n\nThe three suspects whose fingerprints were found on the wood chipper's control panel have been brought in for questioning."
+        },
+        {
+            "key": "Case_1_suspect_1_name",
+            "value": "Pippa Thorn"
+        },
+        {
+            "key": "Case_1_suspect_1_icon",
+            "value": "PippaThorn"
+        },
+        {
+            "key": "Case_1_suspect_1_age",
+            "value": "30"
+        },
+        {
+            "key": "Case_1_suspect_1_occupation",
+            "value": "Victim's daughter-in-law"
+        },
+        {
+            "key": "Case_1_suspect_1_statement_page_1",
+            "value": "<b>Q: Where were you the night of the murder?</b>\n<b>A:</b> I was here at the manor with my husband Oscar and our two kids. We had dinner as a family, including Lord and Lady Thorn. The kitchen staff had the night off, so I took on the cooking duties and prepared the dinner for everyone. The kids found it quite a novelty. The evening came to an end for me after dinner when Lord Thorn got a text message asking him to go out to the barn. That's when I took the kids up to bed. I didn't see anyone again until the next morning.\n\n<b>Q: Why was Lord Thorn called to the barn?</b>\n<b>A:</b> I have no idea. You'd have to ask the gardener; the message came from his cell. I've never gone into the barns myself; it's far too dangerous down there with all the machinery, especially for the kids. My husband Oscar nearly lost his arm a few weeks ago using that lethal wood chipper.\n\n<b>Q: We understand that you fell out with Lord Thorn recently?</b>\n<b>A:</b> Yes. He found out that I had been to see the family attorney to discuss my options for getting a divorce. He accused me of embarrassing the family name, so I took pleasure in telling him what his son Oscar had been getting up to in secret.\n\n<b>Q: What had Oscar been doing?</b>\n<b>A:</b> Oscar isn't aware of this, but I found out recently that he has been cheating on me with the gardener. Lord Thorn was upset by this news, to say the least."
+        },
+        {
+            "key": "Case_1_suspect_2_name",
+            "value": "The Gardener"
+        },
+        {
+            "key": "Case_1_suspect_2_icon",
+            "value": "TheGardener"
+        },
+        {
+            "key": "Case_1_suspect_2_age",
+            "value": "38"
+        },
+        {
+            "key": "Case_1_suspect_2_occupation",
+            "value": "Victim's employee"
+        },
+        {
+            "key": "Case_1_suspect_2_statement_page_1",
+            "value": "<b>Q: Where were you the night of the murder?</b>\n<b>A:</b> The kitchen staff had the night off and all went to the local bar to socialize, so I went to join them. I stayed there playing darts with the others until past midnight before I went back to my cottage on the estate.\n\n<b>Q: What was your relationship like with Lord Thorn?</b>\n<b>A:</b> He could be difficult, but he was like that with everyone. Generally, we got along fine, but a few days ago, he came down here acting strangely. He was in a rage, accusing me of some nasty things and saying that I needed to start looking for a new job! I was surprised and quite upset because I've dedicated my life to this family. Without this job, I'd be homeless. I impulsively hit him, which I regretted immediately, as he was never going to change his mind now. Thankfully, I have a good relationship with his son Oscar, so my position should be safe when he inherits everything.\n\n<b>Q: Why did you message Lord Thorn asking him to meet you in the barn?</b>\n<b>A:</b> I don't know what you're talking about. I lost my cell several days ago. I reported it to the housekeeper at the time and asked the rest of the staff to keep an eye out for it. I've been using a friend's old phone since then. \n\n<b>Q: Do you have any idea who would have wanted to harm Lord Thorn?</b>\n<b>A:</b> Not really. I heard that he and Oscar had been falling out more and more recently, but I can't see Oscar doing anything to harm him. Poor guy's got enough on his plate; rumors are his wife isn't happy living in the manor anymore, she doesn't want her kids growing up around Lord Thorn, I heard."
+        },
+        {
+            "key": "Case_1_suspect_3_name",
+            "value": "Oscar Thorn"
+        },
+        {
+            "key": "Case_1_suspect_3_icon",
+            "value": "OscarThorn"
+        },
+        {
+            "key": "Case_1_suspect_3_age",
+            "value": "32"
+        },
+        {
+            "key": "Case_1_suspect_3_occupation",
+            "value": "Victim's son"
+        },
+        {
+            "key": "Case_1_suspect_3_statement_page_1",
+            "value": "<b>Q: Where were you the night of the murder?</b>\n<b>A:</b> In the Manor with the rest of the family. After my wife, Pippa, took the kids to bed, my mother and I stayed up and talked over a few drinks while we waited for my father to return from his walk to the barn. By midnight, we gave up and went to bed ourselves. It wasn't unusual for him to be out and about on the estate until late, so we left him to it. \n\n<b>Q: Was your wife in bed when you returned to your room?</b>\n<b>A:</b> I wouldn't know, I've been sleeping badly recently, so I've been using a spare bedroom in a different wing of the house from the children; their relentlessly early starts have become unbearable.\n\n<b>Q: It's public knowledge that you had frequent disputes with your father. What did you argue about?</b>\n<b>A:</b> Normal father-son things. He wanted me to take on more responsibilities around estate management, but didn't like my approach when I did. I have big ideas for the future of this place, but he wouldn't listen to me.\n\n<b>Q: Several people have referred to an incident where your father threatened to remove you from his will?</b>\n<b>A:</b> Yes, it's true. But no one knows the reason why. Between you and me, my father found out about a fling I've been having with one of the staff. I knew he wouldn't like it, given his traditional nature, but taking away my inheritance would have been an unusually extreme reaction. I don't think he would have actually done it, but I am nervous to see his will because if he has, I don't know what I'll do."
+        },
+        {
+            "key": "Case_1_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_1_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The Gardener had a clear motive for wanting Lord Thorn dead, as he was losing his job. However, he was in the bar playing darts with many other people until after midnight. Considering we know the victim was placed in the wood chipper at 11:55 p.m., he could not have been the killer.</indent>\n\n- <indent=8%>The victim's son, Oscar, has less of a motive as he is unsure whether he has been removed from his father's will, so killing him would have been a gamble. Oscar also has an alibi for the time of death as he was in the Manor with his family, and subsequently with his Mother until past midnight.</indent>\n\n- <indent=8%>This leaves Pippa as the remaining suspect. She tells us that she took the kids to bed after Lord Thorn left the Manor and didn't see anyone again until morning. Considering Lord Thorn left the Manor at 9:00 p.m. and wasn't put into the wood chipper until 11:55 p.m., Pippa has no alibi for the time of death. Not even her husband could verify that she was in bed when he went to sleep at midnight, as they were using separate bedrooms.</indent> \n\n- <indent=8%>The police report confirms that her fingerprints were found on the wood chipper's control panel. This is despite her claim that she has never been in the barn, considering it too dangerous. She lied about having been to the crime scene.</indent>\n\n- <indent=8%>Pippa specifically referred to the text message Lord Thorn received as coming from the Gardener's cell. This is not a fact she would know unless she was privy to the message being sent, or more likely, had sent it herself. We are told the Gardener had lost his phone several days previously.</indent>\n\n- <indent=8%>The autopsy revealed that Lord Thorn had ingested poison. Pippa had created a clear opportunity to administer it that night when she prepared the dinner for everyone.</indent> "
+        },
+        {
+            "key": "Case_1_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI was aware of my husband's affair and was making plans to divorce him. However, to divorce him and walk away from the family with enough money to set up my own life with the kids, I needed Oscar to inherit the estate first. As far as I was concerned, it was simple: Lord Thorn had to go! And considering the rumors that he might cut Oscar out of his will, it had to happen fast.\n\nI had stolen the gardener's cell a few days earlier to confirm my suspicions about his and Oscar's affair. Because the gardener ruined my life, I attempted to frame him by using his phone to lure Lord Thorn to the shed that night. Once Lord Thorn got to the barn, the poison I had put in his dinner kicked in and rendered him unable to move. After the kids were in bed, I waited for the right time to sneak out of the house to the barn. I knew Oscar wouldn't see me because he had been sleeping in a different wing of the manor recently. When I got to the barn, I used the wood chipper to kill Lord Thorn in a way that would disguise the use of poison. I never thought his teeth would give it away!"
+        }
+    ]
+}

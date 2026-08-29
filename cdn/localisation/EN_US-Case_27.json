@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_27_case_title",
+            "value": "SUPERMARKET SWEEP"
+        },
+        {
+            "key": "Case_27_case_subtitle",
+            "value": "A cleanup is required on aisle seven after a security manager dies in suspicious circumstances."
+        },
+        {
+            "key": "Case_27_case_cover_bg",
+            "value": "SUPERMARKET_SWEEP"
+        },
+        {
+            "key": "Case_27_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_27_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_27_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_27_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_27_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_27_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_27_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_27_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_27_daily_news_headline",
+            "value": "CLEAN UP ON<br>AISLE 7"
+        },
+        {
+            "key": "Case_27_daily_news_headline_image",
+            "value": "SUPERMARKET_SWEEP"
+        },
+        {
+            "key": "Case_27_daily_news_page_1",
+            "value": "Shoppers at the local supermarket on Thursday morning witnessed a tragedy unfold when an extensive display of discounted pet food collapsed onto the store's head of security, Gerald Walker (38), killing him on the spot. One witness described the scene as \"a stinking mess of canned meat and gravy.\"\n\nIt has been reported that the display tower of pet food was unnecessarily tall and unstable, and it's widely believed that the death could have been avoided had those responsible for building the tower not been negligent. The police are investigating the incident to determine whether Gerald was the victim of a freak accident, an unfortunate act of negligence, or if something more sinister was at play.\n\nGerald had worked at the store for 15 years, having worked his way up from shopping cart attendant. The supermarket chain's Head Office has described his death as a crushing blow. \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_27_victim_name",
+            "value": "Gerald Walker"
+        },
+        {
+            "key": "Case_27_victim_icon",
+            "value": "GeraldWalker"
+        },
+        {
+            "key": "Case_27_victim_age",
+            "value": "38"
+        },
+        {
+            "key": "Case_27_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_27_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim died due to severe head trauma and internal bleeding after a large display tower of canned pet food collapsed. Several people in the shop heard a loud crash and then turned to see the incident occur. A shopping cart was found on the scene, with damage to the front. The theory is that someone crashed the trolley into the display tower at speed, which caused it to collapse. Traces of fresh donut glazing have been found on the cart's handle. \n\n<b>Discovery:</b>\n\nThe victim was discovered under piles of pet food by shoppers who were closest to the scene.\n\n<b>Time of Death:</b>\n\n11:30 a.m., Thursday morning.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Damaged shopping cart found at the scene with fresh donut glazing on the handle.</indent>\n- <indent=8%>Video cameras turned off, failing to record the incident.</indent>\n\n<b>Further Details:</b>\n\nThree colleagues who were working in the store that morning have been brought in for questioning."
+        },
+        {
+            "key": "Case_27_suspect_1_name",
+            "value": "Sandra Kelly"
+        },
+        {
+            "key": "Case_27_suspect_1_icon",
+            "value": "SandraKelly"
+        },
+        {
+            "key": "Case_27_suspect_1_age",
+            "value": "31"
+        },
+        {
+            "key": "Case_27_suspect_1_occupation",
+            "value": "Victim's colleague"
+        },
+        {
+            "key": "Case_27_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gerald?</b>\n<b>A:</b> We were colleagues, but I didn't like or trust him. He was always nosing around in people's business with his cameras and causing trouble. A couple of months ago, for example, he reported me to management for stealing food from the store and eating it during my shifts. He made a big deal out of it, even showing video evidence. Anyway, it was easily explained. I'm diabetic and need to keep my blood sugar levels up. To help with that, my friend Mick, who runs the bakery counter, delivers me fresh-baked donuts in the morning to keep me going. When he found out, Gerald was embarrassed and started ignoring me, but I had a feeling he was still watching me, and I was right.\n\n<b>Q: How could you tell?</b>\n<b>A:</b> Last week, he pulled me aside again, this time to accuse me of stealing cash from the register. He said he had video evidence and was threatening to tell management. It wasn't true; I hadn't stolen the cash. I was just taking an advance on my salary for the month! But he pointed out that management would not have seen it that way, which is why he was blackmailing me.\n\n<b>Q: What did you do about the blackmail?</b>\n<b>A:</b> I told Leila about it. I didn't mind telling her the truth because I was genuinely planning to repay the money. I could tell she was mad at me, but she said that if I returned the cash, she would let me off with a warning this time.\n\n<b>Q: What were you doing the morning Gerald died?</b>\n<b>A:</b> I was on the checkout as usual most of the time, but due to loads of people calling in sick that day, I also needed to assist with the returns counter. That's where I was when the accident happened. We heard the crash of a shopping cart and then saw the tower fall in what felt like slow motion! One of the customers I was serving screamed so loudly that I think I burst one of my eardrums. Still not as bad as what Gerald must have felt."
+        },
+        {
+            "key": "Case_27_suspect_2_name",
+            "value": "Kyle Browning"
+        },
+        {
+            "key": "Case_27_suspect_2_icon",
+            "value": "KyleBrowning"
+        },
+        {
+            "key": "Case_27_suspect_2_age",
+            "value": "21"
+        },
+        {
+            "key": "Case_27_suspect_2_occupation",
+            "value": "Victim's colleague"
+        },
+        {
+            "key": "Case_27_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gerald?</b>\n<b>A:</b> We worked together, but thankfully, I didn't have to see him that much since my job requires me to be outside in the parking lot attending to the shopping carts. I couldn't even tell you where his office was, which is a good thing because I usually tried to avoid him.\n\n<b>Q: Why did you avoid him?</b>\n<b>A:</b> He often belittled my job and would constantly remind me how much better paid he was. But mostly I avoided him because he was a creep. He would watch me on his cameras and then come and tell me what I was doing wrong. I'm not sure if he was trying to show off or intimidate, but it was weird. I had the last laugh, though. I found out that he used to date Leila, the store manager, and got quite upset when she ended it. As it happens, Leila and I are now an item ourselves. Although she prefers we keep a low profile, I've been going out of my way to ensure Gerald catches us together on his security cameras. I knew he was always looking at them, and I knew it would piss him off.\n\n<b>Q: What were you doing the morning Gerald died?</b>\n<b>A:</b> I was called in on the early shift because they were short-staffed. When I arrived, Leila instructed me to use the canned pet food to build an eye-catching display tower that customers couldn't avoid. It was urgent as the stock needed to be sold before the weekend. It was hard work, but quite satisfying. I managed to get it touching the ceiling. After a couple of hours, I finished and returned to my regular job of attending to shopping carts. My shift finished at 11:00 a.m., when my brother picked me up to go to soccer practice. I heard from my friends at the store what happened. It's a disgusting way to go, I'm just glad I didn't have to clean it up.\n\n<b>Q: Were you aware that the display of pet food you built was dangerous?</b>\n<b>A:</b> I knew it was a little unstable; anything that high would be. But it still would have required a substantial knock for it to collapse. Besides, Leila signed off on it, so that was the job done as far as I was concerned."
+        },
+        {
+            "key": "Case_27_suspect_3_name",
+            "value": "Leila Jones"
+        },
+        {
+            "key": "Case_27_suspect_3_icon",
+            "value": "LeilaJones"
+        },
+        {
+            "key": "Case_27_suspect_3_age",
+            "value": "37"
+        },
+        {
+            "key": "Case_27_suspect_3_occupation",
+            "value": "Victim's boss"
+        },
+        {
+            "key": "Case_27_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Gerald?</b>\n<b>A:</b> He was working here when I joined as store manager a couple of years ago. I'd say I knew him well, as we dated for several months when I first arrived. Unfortunately, as a manager, I'm not strictly allowed to have relationships with colleagues, so I ended it. I'd appreciate it if you could keep that information to yourselves, as I'm waiting for a big promotion to be confirmed any day now. Since then, Gerald and I's relationship has been strictly professional. He oversaw the store's security department for me and was very good at it. He was very astute and never missed a thing.\n\n<b>Q: Talk me through what happened the morning he died?</b>\n<b>A:</b> It was a chaotic morning. We were several team members short that day due to illness. Everyone, including myself, was required to pick up extra responsibilities to ensure all departments were covered. I ended up restocking the fresh produce aisles and running the bakery counter, on top of my usual job, so I barely had time to think. Luckily, I'm quite versatile, and as store manager, I'm required to understand in detail how the whole store runs. As I was putting out some goods that I'd just baked, I heard a loud crash, followed by screaming. I ran straight over to find the horrific accident in aisle seven and called 911.\n\n<b>Q: Our investigators have discovered that the store's security cameras were turned off that morning. Do you have any idea why?</b>\n<b>A:</b> The company policy is that they should be on 24/7, so I'm sorry, but no, I have no explanation for that. The camera controls are in Gerald's office, and he was the only person who controlled them. Ordinarily, in such circumstances, I would have asked Gerald to look into the issue.\n\n<b>Q: Who was responsible for the pet food display tower being constructed?</b>\n<b>A:</b> Regrettably, it was me. We had a large stock of pet food nearing expiration, and I was under significant pressure from the Head Office to sell it. I instructed a staff member, Kyle, earlier that morning to build the display. He's a nice guy, but not the smartest. Unfortunately, I was so busy, caught up in the chaos of everything else, that I didn't get the chance to monitor him, and ultimately signed off on his work without properly checking it. Not paying close enough attention will be something I regret for the rest of my life."
+        },
+        {
+            "key": "Case_27_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_27_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Sandra saw the incident occur whilst she was serving customers at the returns counter, one of them screamed so loud it damaged her ear. If she were serving customers at that time, she could not have been crashing a shopping cart into the pet food display.  </indent>\n\n- <indent=8%>Although Kyle built the unstable tower, the police report confirms it required a substantial push to knock it down. Additionally, Kyle's shift ended at 11:00 a.m., and he was picked up by his brother for soccer practice, making it impossible for him to have caused the incident, which happened half an hour later.</indent>\n\n- <indent=8%>This leaves Leila as the prime suspect. She instructed someone she described as \"not the smartest\" to build the display and signed it off despite its instability. The police report also mentions a shopping cart used to knock down the display, with traces of fresh donut glaze on its handle. Leila had been working at the bakery counter that morning and was baking at the time of the incident.</indent>\n\n- <indent=8%>Kyle revealed that he and Leila were in a relationship, which he made sure Gerald knew about. Given Gerald's history of reporting or blackmailing and the workplace's ban on relationships, Leila had a motive to silence Gerald, especially with a big promotion on the horizon.</indent>"
+        },
+        {
+            "key": "Case_27_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nGerald somehow knew about my relationship with Kyle. He was still upset about how things had ended between us in the past. He called me into his office last week. He threatened to share his video evidence with the head office if I didn't fire Kyle immediately.\n\nI had no intention of doing anything he asked, but at the same time, I couldn't risk anyone finding out. So I bought some time by saying I would think about it. When I noticed Kyle's dangerous pet food display that morning, it gave me an idea. An unfortunate and accidental death caused by a careless shopping cart attendant was much easier to explain to Head Office than justifying inappropriate workplace relationships with several employees and the long-term employment of a corrupt security manager in my store.\n\nAfter coming up with the plan, I snuck into Gerald's office. I turned off the security cameras, a task I've been trained to perform as the store manager. I then waited for the right opportunity, which came while I was working the bakery counter. I saw Gerald standing beneath the new pet food display with no one else around him. I grabbed a nearby shopping cart and pushed it as hard as I could into the display. The result was far more dramatic than I intended, but the outcome was satisfying all the same. I'm glad you caught me; it saves me from having to deal with the mess in aisle seven."
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_11_case_title",
+            "value": "OUTER SPACE ESPIONAGE"
+        },
+        {
+            "key": "Case_11_case_subtitle",
+            "value": "Not all is as it seems on the International Space Station when an astronaut’s spacesuit malfunctions during a routine spacewalk."
+        },
+        {
+            "key": "Case_11_case_cover_bg",
+            "value": "OUTER_SPACE_ESPIONAGE"
+        },
+        {
+            "key": "Case_11_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_11_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_11_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_11_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_11_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_11_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_11_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_11_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_11_daily_news_headline",
+            "value": "SABOTAGE<br>IN SPACE"
+        },
+        {
+            "key": "Case_11_daily_news_headline_image",
+            "value": "OUTER_SPACE_ESPIONAGE"
+        },
+        {
+            "key": "Case_11_daily_news_page_1",
+            "value": "In the early hours of Wednesday morning, tragedy struck the International Space Station (ISS) with the untimely death of American astronaut and Expedition Commander Hank Simmons, 47. Simmons lost his life following a malfunction in his spacesuit during a routine spacewalk. The incident has shocked the international space community. \n\nThe ISS currently hosts a diverse crew of six astronauts: three Americans, two Europeans, and one Russian. As investigations proceed, the cause of the malfunction in Simmons' suit remains unclear, and foul play has not been entirely ruled out. If this incident escalates into a murder investigation, it could severely tarnish the ISS's long-standing reputation as a symbol of international cooperation and harmony in space. \n\nThe world now watches closely as the investigation unfolds, hoping for answers that may not only help prevent such a tragedy from occurring again but also potentially ease escalating tensions between nations.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_11_victim_name",
+            "value": "Hank Simmons"
+        },
+        {
+            "key": "Case_11_victim_icon",
+            "value": "HankSimmons"
+        },
+        {
+            "key": "Case_11_victim_age",
+            "value": "47"
+        },
+        {
+            "key": "Case_11_victim_cod",
+            "value": "Asphyxiation"
+        },
+        {
+            "key": "Case_11_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nDuring a spacewalk, the victim experienced an issue with his spacesuit and was unable to return to the spacecraft or be rescued before losing consciousness and ultimately dying. A team of experts inspected the suit and found multiple tiny holes, tears, and punctures in each of the protective layers. The damage to the suit compromised its functionality, leading to a slow loss of oxygen and exposure to the vacuum of space.\n\n<b>Discovery:</b>\n\nN/A\n\n<b>Time of Death:</b>\n\nApproximately 8.30 a.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Multiple tiny holes, tears, and punctures in the victim's spacesuit.</indent>\n- <indent=8%>Expert analysis indicating that the damage could not have occurred naturally.</indent>\n- <indent=8%>The victim's health was monitored daily by Mission Control, with no prior health issues reported on the day in question.</indent>\n\n<b>Further Details:</b>\n\nNone of the crew members has been informed of the findings. All crew members have been interviewed, with three providing information relevant to the investigation."
+        },
+        {
+            "key": "Case_11_suspect_1_name",
+            "value": "George Allen"
+        },
+        {
+            "key": "Case_11_suspect_1_icon",
+            "value": "GeorgeAllen"
+        },
+        {
+            "key": "Case_11_suspect_1_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_11_suspect_1_occupation",
+            "value": "Victim's crewmate"
+        },
+        {
+            "key": "Case_11_suspect_1_statement_page_1",
+            "value": "<b>Q: How was your relationship with Commander Simmons?</b>\n<b>A:</b> We got on fine. You have to when you spend 6 months with someone in such close quarters.\n\n<b>Q: What was team morale like leading up to the incident?</b>\n<b>A:</b> Mostly good. Things were starting to get back to normal after my emotional wobble. A few days before the accident, I'd had some bad news from home, which led to some unexpected panic attacks. But I followed the procedure and took a break from my duties to sort myself out. People weren't too bothered; these things happen in space, and we've been trained for such situations.\n\n<b>Q: What do you think happened to the Commander?</b>\n<b>A:</b> I'm really not sure. He'd been on one only the day before without any issues. Although I must admit, considering his intentions to extend our mission by 4 weeks, I was relieved to discover his death would mean we are going home early.\n\n<b>Q: Have you seen any suspicious behavior aboard ship recently?</b>\n<b>A:</b> The Commander always seemed to be doing a lot of work, far more than was required to complete the scientific research he was here to do. For a long time, I assumed he had extra duties as the expedition commander. Still, last week, I happened to oversee some of what he was discreetly working on, and they looked like official Chinese documents. That made me suspicious, as none of our research on the ISS involves the Chinese."
+        },
+        {
+            "key": "Case_11_suspect_2_name",
+            "value": "Boris Kozlov"
+        },
+        {
+            "key": "Case_11_suspect_2_icon",
+            "value": "BorisKozlov"
+        },
+        {
+            "key": "Case_11_suspect_2_age",
+            "value": "36"
+        },
+        {
+            "key": "Case_11_suspect_2_occupation",
+            "value": "Victim's crewmate"
+        },
+        {
+            "key": "Case_11_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Commander Simmons?</b>\n<b>A:</b> I interacted with him on a professional basis and extended to him all the courtesies required of his rank. However, I did not like the man; he was arrogant and not very intelligent.\n\n<b>Q: What do you think happened to the Commander?</b>\n<b>A:</b> The stupid man must not have followed our systems and processes correctly. Spacewalks are not dangerous as long as you keep your wits about you.\n\n<b>Q: Did you know the Commander would be conducting the spacewalk that day?</b>\n<b>A:</b> Yes, he sent a radio message through to the team shortly before he went out, confirming that he would be taking over from Carol. I did not question his reasons why.\n\n<b>Q: Had you seen any issues among the crew recently?</b>\n<b>A:</b> The only issue I had was with George. He is a weak, homesick Englishman. He should never have been allowed onto the Expedition. He received some sad news from home and had a mental breakdown. He was desperate to go home and had become a liability. We even had to restrict his access to parts of the ship for the last 7 days, fearing he might try to get hold of a spacesuit and jump ship. A good astronaut would never put his crew at risk like that!\n\n<b>Q: We understand Carol flagged to you that Hank had been hacking into your private Space Agency files?</b>\n<b>A:</b> Carol and I have never spoken about that. I assumed, being American, she was aware that her compatriot was a spy. But yes, I knew Hank had been in my confidential documents. However, anything he saw of mine was made accessible on purpose; I was benefiting from him relaying misinformation. Arrogant Americans think they are so clever, but we Russians are always one step ahead."
+        },
+        {
+            "key": "Case_11_suspect_3_name",
+            "value": "Carol Miller"
+        },
+        {
+            "key": "Case_11_suspect_3_icon",
+            "value": "CarolMiller"
+        },
+        {
+            "key": "Case_11_suspect_3_age",
+            "value": "39"
+        },
+        {
+            "key": "Case_11_suspect_3_occupation",
+            "value": "Victim's crewmate"
+        },
+        {
+            "key": "Case_11_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Commander Simmons?</b>\n<b>A:</b> He's been a good friend and colleague for several years. His death was shocking; it should've been me! I was meant to do that spacewalk, but I wasn't feeling well that day, and he was the scheduled cover, so he filled in for me at the last minute.\n\n<b>Q: What was team morale like leading up to the incident?</b>\n<b>A:</b> Good, generally. I noticed a small drop in morale when the Commander announced his plans to extend the expedition by four weeks to complete our research. One crew member, George, reacted to that news worse than others, though; he'd been getting homesick, and when he found out, he had a panic attack. He was forced to take a break from his duties for a while. Thankfully, I dealt with the crew's schedules and ensured he was covered for those days.\n\n<b>Q: What do you think happened to the Commander?</b>\n<b>A:</b> It's hard to know; many things could go wrong on a spacewalk. What I can say is that the space suits are made up of many strong protective layers, so for it to have failed in the way it did is strange.\n\n<b>Q: Have you seen any suspicious behavior aboard ship recently?</b>\n<b>A:</b> Yes. A few weeks ago, I caught Commander Hank discreetly looking through Boris Kozlov's private Russian Space Agency files. I informed Boris of what I had seen, but he wasn't surprised or bothered by the information; he just told me that he 'had it under control.' I thought it was strange at the time, but now that the Commander is dead, that interaction seems even more suspicious."
+        },
+        {
+            "key": "Case_11_guilty_suspect_id",
+            "value": "3"
+        },
+        {
+            "key": "Case_11_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The victim had used his space suit without issue the day before, so the killer needed access to the suit in the 24 hours leading up to the incident. Due to his panic attacks, George was undergoing 7 days of restricted access to parts of the ship, specifically to prevent him from accessing the suits, so he could not have been the killer.</indent>\n\n- <indent=8%>Boris knew the victim was a secret spy and was benefiting from feeding them misinformation. Given his lack of motive and the fact that he only found out about the Commander filling in for Carol's spacewalk at the last minute, his involvement in the planned sabotage is unlikely.</indent>\n\n- <indent=8%>When asked about the Commander's death, Boris and George gave answers that indicated they were unsure what had happened. However, Carol specifically referred to the Commander's space suit being sabotaged. Since the police report states the crew had not been informed of the cause of death, Carol would not know about the sabotage unless she were involved herself.</indent>\n\n- <indent=8%>Carol claims she pulled out of the spacewalk because she wasn't feeling well that day. However, the police report indicates none of the crew showed any signs of health issues.</indent>\n\n- <indent=8%>Carol also informed us that she handled the crew's schedules, meaning she would have known or chosen for Commander Hank to cover her spacewalk that day. This gave her the perfect opportunity to plan the sabotage in advance.</indent>"
+        },
+        {
+            "key": "Case_11_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI had seen Commander Hank hacking into Boris and the Russian space agency's files. However, I never told Boris because I didn't trust him either. Instead, I kept a subtle eye on the Commander myself. I was personally concerned because, during my time on the ISS, apart from my normal research, I had also been carrying out top-secret work on behalf of the US Department of Defense. After further digging, I was shocked to discover that the Commander was relaying all the information he was getting to the Chinese government. In short, he was a spy working for the Chinese!\n\nI knew the top-secret research I was conducting contained information vital to the USA's defense, and I could not risk it falling into the wrong hands. So I decided to take control and eliminate the risk in the best way I knew how.\n\nI'm not concerned that you caught me. I have contacts in the government and should get off lightly considering my motives. If anything, you should be giving me a medal!"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "key": "Case_17_case_title",
+            "value": "A TAXI TRAGEDY"
+        },
+        {
+            "key": "Case_17_case_subtitle",
+            "value": "Two teenage suspects are arrested following a failed carjacking and the tragic death of a taxi driver."
+        },
+        {
+            "key": "Case_17_case_cover_bg",
+            "value": "A_TAXI_TRAGEDY"
+        },
+        {
+            "key": "Case_17_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_17_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_17_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_17_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_17_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_17_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_17_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_17_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_17_daily_news_headline",
+            "value": "A TAXI TRAGEDY"
+        },
+        {
+            "key": "Case_17_daily_news_headline_image",
+            "value": "A_TAXI_TRAGEDY"
+        },
+        {
+            "key": "Case_17_daily_news_page_1",
+            "value": "In a tragic incident that has shocked the community, two teenage suspects were arrested on Friday night following a failed carjacking that led to the death of 63-year-old veteran taxi driver Ian Cobbs. The incident unfolded on a busy street in the city center, where Cobbs had pulled over. Eyewitnesses reported hearing a gunshot, followed by the sight of two teenagers fleeing the vehicle in different directions. The single bullet that took Cobbs' life didn't stop there; it continued into a passing car, narrowly missing an innocent passenger. This near-miss has only heightened the growing concern in the community. \n\nAs investigators delve into the details, the pressing question remains: who fired the fatal shot? This key piece of information will be crucial in bringing justice for Cobbs, a man who served his community with dedication for decades. The city now waits anxiously for answers, hoping for swift justice in the wake of this senseless act of violence. \n\nIf you have any information about this case, please contact the Police to assist them with their investigations.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_17_victim_name",
+            "value": "Ian Cobbs"
+        },
+        {
+            "key": "Case_17_victim_icon",
+            "value": "IanCobbs"
+        },
+        {
+            "key": "Case_17_victim_age",
+            "value": "63"
+        },
+        {
+            "key": "Case_17_victim_cod",
+            "value": "Ballistic trauma"
+        },
+        {
+            "key": "Case_17_victim_page_1",
+            "value": "<b>Summary of Incident:</b> \n\nThe victim was shot in the side of the head while inside a taxi and is believed to have died instantly. The only damage to the taxi was to the driver's side window. A passing vehicle that pulled level with the taxi at the time of the incident was also struck by the same bullet, though its passengers sustained no injuries. \n\n<b>Discovery:</b>\n\nMultiple members of the public witnessed the crime. \n\n<b>Time of Death:</b>\n\nApproximately 9:45 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The gun used in the shooting was not found at the scene, nor on either of the suspects' persons. It is believed that the weapon was disposed of as the suspects fled. A search for the weapon is ongoing.</indent>\n\n<b>Further Details:</b>\n\nThe suspects were located 24 hours later, hiding out with a family member at a trailer park outside of town."
+        },
+        {
+            "key": "Case_17_suspect_1_name",
+            "value": "Chantel Smith"
+        },
+        {
+            "key": "Case_17_suspect_1_icon",
+            "value": "ChantelSmith"
+        },
+        {
+            "key": "Case_17_suspect_1_age",
+            "value": "19"
+        },
+        {
+            "key": "Case_17_suspect_1_occupation",
+            "value": "Victim's passenger"
+        },
+        {
+            "key": "Case_17_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your plan?</b>\n<b>A:</b> Tyson and I needed cash, so we agreed to steal a car. The plan was to get a taxi to take us somewhere discreet, kick the driver out, and drive away. We'd then sell it to one of Tyson's cousins, who has a garage and is willing to pay cash for stolen cars if they know you.\n\n<b>Q: Can you talk me through what happened?</b>\n<b>A:</b> We waited for a taxi to pick us up. When it came, I got in the front, and Tyson jumped in the back behind the driver. We asked him to take us to Dingles Estate, out on the edge of town. I know an abandoned car park there where we were going to kick him out. The driver didn't know where it was, so I showed him on maps, and then he started driving.\n\n<b>Q: So what went wrong?</b>\n<b>A:</b> The driver caught on; he must have seen Tyson's gun through the screen divider or something. He pulled over on a busy street and refused to go any further. That's when things escalated. Tyson panicked and pointed the gun at the driver, threatening him to keep driving. The guy refused, and there was a stalemate for what felt like ages. Then the gun went off, there was blood everywhere, and I just ran!\n\n<b>Q: You said that Tyson had the gun?</b>\n<b>A:</b> Yes. I told him that we didn't need it and that he should leave it at home, but he insisted that it was only for protection, in case things went wrong.\n\n<b>Q: We have Tyson in the next room. He says that you had the gun?</b>\n<b>A:</b> Well, he’s a liar. Where would I get a gun from?! He's the one with the dangerous family."
+        },
+        {
+            "key": "Case_17_suspect_2_name",
+            "value": "Tyson Mack"
+        },
+        {
+            "key": "Case_17_suspect_2_icon",
+            "value": "TysonMack"
+        },
+        {
+            "key": "Case_17_suspect_2_age",
+            "value": "19"
+        },
+        {
+            "key": "Case_17_suspect_2_occupation",
+            "value": "Victim's passenger"
+        },
+        {
+            "key": "Case_17_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your plan?</b>\n<b>A:</b> We never meant to hurt anyone. We just wanted to steal a car and sell it. I have contacts who own a garage, and they pay good money for vehicles. It was the first time I've ever done anything like this; we just needed the money.\n\n<b>Q: Talk me through what happened?</b>\n<b>A:</b> We waited for a nice-looking taxi to pick us up. When it did, I got in the back behind the driver, and Chantel got in the front. After a while, the driver stopped for no reason and asked us to get out. Before I knew it, Chantel had pulled out a gun and was telling him to keep driving. I just froze. The driver refused to move, and for a moment, nothing happened. Then I noticed some people walking over, looking for a ride. I started to panic and looked to get out and run, but before I could, Chantel shot him. I was in shock. She then got out of the car and ran, so I did the same.\n\n<b>Q: You say that Chantel had the gun?</b>\n<b>A:</b> Yes. I had no idea she even owned a gun, let alone carried it on her!\n\n<b>Q: We have Chantel in the room next door. She says that you had the gun.</b>\n<b>A:</b> That’s stupid. I've never even held a gun before, let alone learned how to use one."
+        },
+        {
+            "key": "Case_17_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_17_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Although the suspects have different stories, they agree on key points: Chantel was in the front seat next to the driver, and Tyson was in the back behind the driver's seat.</indent>\n\n- <indent=8%>The police report states the bullet was fired into the side of the victim's head and then caused collateral damage to a passing vehicle.</indent>\n\n- <indent=8%>For the bullet to pass through the victim and hit the other vehicle, it had to be fired from a specific angle, by someone in the front seat next to the driver. A shot from the back seat would have had a different trajectory, which doesn't match the crime scene. Chantel also mentioned a screen divider in the taxi, which would have prevented the back passenger from leaning forward to take the shot.</indent>"
+        },
+        {
+            "key": "Case_17_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nTyson is telling the truth; I had the gun. But I didn't mean to shoot the guy, I was just trying to scare him. I honestly didn't think it was loaded. But then it went off in my hand. I'm sorry."
+        }
+    ]
+}

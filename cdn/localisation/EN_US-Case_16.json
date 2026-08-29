@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_16_case_title",
+            "value": "THE BLOODY BAKE OFF"
+        },
+        {
+            "key": "Case_16_case_subtitle",
+            "value": "A celebrity baker is ruthlessly murdered behind the scenes of a controversy-filled charity bake-off."
+        },
+        {
+            "key": "Case_16_case_cover_bg",
+            "value": "THE_BLOODY_BAKE_OFF"
+        },
+        {
+            "key": "Case_16_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_16_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_16_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_16_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_16_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_16_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_16_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_16_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_16_daily_news_headline",
+            "value": "IS IT CAKE?<br>OR MURDER?"
+        },
+        {
+            "key": "Case_16_daily_news_headline_image",
+            "value": "THE_BLOODY_BAKE_OFF"
+        },
+        {
+            "key": "Case_16_daily_news_page_1",
+            "value": "The disturbing murder of Florence Woods (67) has sent shock waves through the baking community. On Sunday, Florence, a celebrity baker and new resident to the local area, was invited to judge this year's edition of the town's prestigious charity bake-off. Within an hour of announcing what many regarded as a controversial winner, her body was discovered in the competition venue's kitchen. Her head had been removed and placed into a hot oven.\n\nThe annual charity bake-off is a town tradition that has been running for decades. This year's highly anticipated event saw 24 representatives of the town's community enter cakes into the competition, including four-time winner Paul Goldman and local professional Delia Berry, who has a successful chain of bakeries throughout the county.\n\nCompetitive entrants, combined with intense local rivalries, have historically provided exciting narratives. When you throw a celebrity judge into the mix, this year's event was widely anticipated and certainly lived up to the hype. Fueled with controversy, the event saw accusations of bribery and cheating being thrown around in front of a record crowd. To top it off, the announcement of an unexpected winner sparked furious debate and, in some cases, public outrage. If that wasn't contentious enough, the murder of the competition judge minutes later was the icing on the highly disputed cake.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_16_victim_name",
+            "value": "Florence Woods"
+        },
+        {
+            "key": "Case_16_victim_icon",
+            "value": "FlorenceWoods"
+        },
+        {
+            "key": "Case_16_victim_age",
+            "value": "67"
+        },
+        {
+            "key": "Case_16_victim_cod",
+            "value": "Sharp force trauma"
+        },
+        {
+            "key": "Case_16_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim's body was discovered in the kitchen of the Town Hall at 3:45 p.m., forty-five minutes after the winner of the bake-off competition was announced in front of spectators. The victim was killed with a large cake knife, which was used to stab them in the back and remove their head.\n\n<b>Discovery:</b>\n\nThe body was discovered at 3:45 p.m. by an event official.\n\n<b>Time of Death:</b>\n\nEstimated between 3:00 and 3:30 p.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The murder weapon, a large cake knife owned by the victim, was found at the scene. It had been used by the bake-off competitors earlier that day.</indent>\n- <indent=8%>The victim's head was found in a heated oven on a baking tray.</indent>\n\n<b>Further Details:</b>\n\nMultiple sets of fingerprints have been taken from the weapon, including those of all three suspects who have been brought in for questioning."
+        },
+        {
+            "key": "Case_16_suspect_1_name",
+            "value": "Joyce Chang"
+        },
+        {
+            "key": "Case_16_suspect_1_icon",
+            "value": "JoyceChang"
+        },
+        {
+            "key": "Case_16_suspect_1_age",
+            "value": "37"
+        },
+        {
+            "key": "Case_16_suspect_1_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_16_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship with Florence?</b>\n<b>A:</b> We'd never met before the bake-off, but I have been a massive fan of hers my whole life. I've watched all her TV baking shows, and I have signed copies of all her cookbooks.\n\n<b>Q: What was your motivation for entering the bake-off?</b>\n<b>A:</b> To get noticed by Florence. I was desperate to get in front of her and prove what I can do. I was hoping that by impressing her with my baking and winning the competition, I could get a place on one of her mentor schemes for aspiring professional bakers. Sadly, it turns out people are right when they say you should never meet your heroes.\n\n<b>Q: What do you mean by that?</b>\n<b>A:</b> She disqualified my entry without even looking at it. I entered it 10 minutes late, but it wasn't my fault; finding parking close to the Town Hall was impossible. I was furious. The decision was unfair, and Florence could easily have allowed my entry anyway, but chose to be difficult. Some role model she turned out to be.\n\n<b>Q: What did you do after being disqualified?</b>\n<b>A:</b> I didn't want the opportunity to be completely wasted, so I offered to take her out for dinner after the competition to chat about her mentoring me in the future, but that backfired. She accused me of trying to bribe her! I was devastated.\n\n<b>Q: Were you in the Town Hall for the announcement of the winner?</b>\n<b>A:</b> Sadly, after my interaction with Florence, I was asked by the organizers to leave the event, so I missed all of the controversy, but I have heard about it. I must admit, although I was furious with her, I think she picked the right winner in the end, and she certainly didn't deserve a knife in her back. A charity bake-off is about the community; it's not an ego boost or a publicity stunt for professionals."
+        },
+        {
+            "key": "Case_16_suspect_2_name",
+            "value": "Delia Berry"
+        },
+        {
+            "key": "Case_16_suspect_2_icon",
+            "value": "DeliaBerry"
+        },
+        {
+            "key": "Case_16_suspect_2_age",
+            "value": "55"
+        },
+        {
+            "key": "Case_16_suspect_2_occupation",
+            "value": "Victim's former mentee"
+        },
+        {
+            "key": "Case_16_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your motivation for entering the bake-off?</b>\n<b>A:</b> It was my first time entering. I live 20 minutes away and am technically not a town resident. However, I will soon be opening a new bakery in the town, which is why I was allowed to enter this year. I decided it would be a great way to introduce myself to the community, promote my chain of bakeries, and boost publicity. Winning it would've been even better. Sadly, things didn't turn out that way.\n\n<b>Q: What was your relationship with Florence?</b>\n<b>A:</b> I knew her well. She was a big inspiration to me growing up. Then I was lucky enough to have her mentor me during my training to become a professional. We see far less of each other these days, with her TV schedule and me running several bakeries, there isn't the time. I regret how I acted when she announced the winner. I had no idea it would be the last time I ever saw her.\n\n<b>Q: How did you react to the winner being announced?</b>\n<b>A:</b> I'm a competitive person and was genuinely taken by surprise. As an experienced professional, having reviewed the other entries, I assumed I would win. In hindsight, I took the charity aspect of the event too lightly; of course, the winner should be the children's entry from the local orphanage! I'm ashamed to say that in the moment, the frustration took over me, and I said some hurtful things to Florence in front of a lot of people. The image I must have put across to everyone was the complete opposite of what I had hoped to achieve that day. I'm embarrassed just thinking about it.\n\n<b>Q: Florence's phone received several missed calls from your landline, minutes before her death?</b>\n<b>A:</b> Yes, I made a quick exit from the competition after embarrassing myself, and immediately started to regret my actions. As soon as I got home, I tried to call her and apologize."
+        },
+        {
+            "key": "Case_16_suspect_3_name",
+            "value": "Paul Goldman"
+        },
+        {
+            "key": "Case_16_suspect_3_icon",
+            "value": "PaulGoldman"
+        },
+        {
+            "key": "Case_16_suspect_3_age",
+            "value": "29"
+        },
+        {
+            "key": "Case_16_suspect_3_occupation",
+            "value": "No known association"
+        },
+        {
+            "key": "Case_16_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Florence?</b>\n<b>A:</b> We'd never met; I only knew her from watching her on TV baking shows.\n\n<b>Q: What was your motivation for entering the bake-off?</b>\n<b>A:</b> To defend my title. I've won it the last four years in a row and had no intention of handing it over without a fight. I'm known in town as the \"Baker King\"; everyone knew and loved me for it! At least they used to. Now, due to a corrupt judge and a biased point system, people will call me a loser.\n\n<b>Q: What was corrupt or biased about how the bake-off was organized?</b>\n<b>A:</b> It’s clear, isn’t it? They conspired against me; the organizers decided they didn't want me winning it again. That's why my entry was overlooked. How can I go from winning top prize four years in a row to not even being in the top three this year?! If you need proof, look at the winning entry; there is no way those children could have made that cake themselves; it was far too technical. Anyone with half a brain could tell they had help from an adult, which the rules clearly don't allow.\n\n<b>Q: A video posted online of the awards ceremony shows you shouting abuse at the judge and being removed from the event. Specifically, you said, \"You haven't seen the last of me.\" What did you mean by this?</b>\n<b>A:</b> I was upset, my reputation as the \"Baker King\" had just been shattered. All I meant was that I would be back next year to prove them wrong and take back my winner's crown. Throwing me out was unnecessary. I tried to get back in to take my cake back, but the security did not allow me. It's annoying because I wasn't the only one who overreacted; Joyce was there shouting about how she was unfairly treated, which isn't true; the rules were clear on timings, and she was right to be disqualified. I also saw Delia approach Florence and say some nasty personal things. Why weren't they both removed from the event?!"
+        },
+        {
+            "key": "Case_16_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_16_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Delia lived 20 mins away from the town where the bake off took place. She was at home when she made several calls to the victim only minutes before they were killed, making it impossible for her to have carried out the murder. .</indent>\n\n- <indent=8%>Paul was removed from the Town Hall for reacting badly to the winner's announcement. Despite trying to get back into the event, he wasn't able to. As the murder took place within the Town Hall minutes later, he could not have carried out the murder.</indent>\n\n- <indent=8%>The murder weapon had multiple fingerprints, including those of all three suspects. Competitors used the same knife to present their cakes. Still, Joyce was disqualified and never presented her cake, so her fingerprints on the weapon are unexplained.</indent>\n\n- <indent=8%>The only information that had been reported about the death was the victims' decapitation and placement of their head in the oven. Despite this, Joyce refers to the victim being stabbed in the back; such information is only found in the confidential police report. Joyce knows more about the crime than should be possible.</indent>\n\n- <indent=8%>Joyce tells us the organisers asked her to leave the event after her interaction with the victim, which she implies she did. However, Paul tells us he saw her at the awards ceremony at the end. Joyce lied about when she left the event, and was there shortly before the murder took place.</indent>"
+        },
+        {
+            "key": "Case_16_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nFlorence was my idol. All I wanted was the opportunity to impress her. Instead, she nonchalantly disqualified me for a minor issue that was out of my hands. She wasn't the caring, thoughtful, motherly figure she portrays on TV. She looked almost disgusted at my suggestion of going for dinner together, which broke my heart.\n\nBut I couldn't let my opportunity end like that, so I snuck back into the Town Hall during the awards ceremony. At the same time, everyone was fixated on seeing the winner announced. Amidst all the celebrations and confusion, I heard her tell someone she was stepping away for a few minutes to get some space. I followed her to the kitchen, where we were alone, the perfect setting for me to set things straight. I apologized and pleaded with her to let me prove that I was worth her time. But she just looked at me tragically and said that I was obsessed and should get help from a specialist. She then turned her back on me as though we were done. I instinctively grabbed her knife from the table, and the rest is history. I got the last laugh, as I used her head to show her my baking skills."
+        }
+    ]
+}

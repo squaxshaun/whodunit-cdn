@@ -1,0 +1,152 @@
+{
+    "items": [
+        {
+            "key": "Case_21_case_title",
+            "value": "BIG BETTY'S REVENGE"
+        },
+        {
+            "key": "Case_21_case_subtitle",
+            "value": "Much-loved franchise mascot ‘Sam Dunk’ has been found dead. The search is on for a trigger-happy killer."
+        },
+        {
+            "key": "Case_21_case_cover_bg",
+            "value": "BIG_BETTYS_REVENGE"
+        },
+        {
+            "key": "Case_21_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_21_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_21_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_21_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_21_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_21_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_21_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_21_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_21_daily_news_headline",
+            "value": "BIG BETTY'S<br>REVENGE"
+        },
+        {
+            "key": "Case_21_daily_news_headline_image",
+            "value": "BIG_BETTYS_REVENGE"
+        },
+        {
+            "key": "Case_21_daily_news_page_1",
+            "value": "The murder of Sam Dunk (27), mascot for the Riverstone Reptiles basketball team, has exploded into national news.\n\nDespite the Reptiles having a poor season, which includes the worst run of results in the team's history, the franchise has continued to grow in popularity. This is mainly due to the recruitment of mascot sensation Sam Dunk, a 6-foot-tall cuddly reptile.\n\nSince joining the franchise this season, Sam Dunk has been a continuous hit on social media, amassing huge viewing figures with hilarious videos of him during games, mocking cheerleaders, and antagonizing players. However, it was his giant merchandise cannon, nicknamed 'Big Betty,' that spectators loved the most, cementing him as a fan favorite across the league. It has been claimed that the multi-barrelled pressure cannon could fire 100 shells into the crowd in under 60 seconds.\n\nTo everyone's shock, the franchise released a statement on Sunday confirming that Sam Dunk was found murdered at the team's playing arena that morning, just hours after he had performed in front of a packed home crowd the evening before.\n\nConsidering the profile of this case and the media frenzy that has already started building around it, the police have reportedly brought in their most experienced team of detectives. Let's hope for the Reptile's sake that they can make a quick decision on whodunit.  \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_21_victim_name",
+            "value": "Sam Dunk"
+        },
+        {
+            "key": "Case_21_victim_icon",
+            "value": "SamDunk"
+        },
+        {
+            "key": "Case_21_victim_age",
+            "value": "27"
+        },
+        {
+            "key": "Case_21_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_21_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nA home game starting at 6 p.m. took place at a packed arena on Saturday night. The victim's body was found on the court early the next morning, having suffered multiple injuries of blunt force trauma and internal bleeding, caused by a pressurized shirt cannon found on the scene.\n\n<b>Discovery:</b>\n\nThe body was discovered by cleaning staff and was dressed in the Sam Dunk reptile costume from the night before. \n\n<b>Time of Death:</b>\n\nEstimated between 10:30 p.m. and 11:00 p.m. on Saturday.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>A modified shirt cannon, \"Big Betty,\" used to shoot the victim multiple times.</indent>\n- <indent=8%>A corporate stadium pass was found near the body.</indent>\n- <indent=8%>Hundreds of tightly folded shirts scattered across the court.</indent>\n- <indent=8%>Toxicology reports showing significant levels of alcohol in the victim's system.</indent>\n\n<b>Further Details:</b>\n\nThree suspects have been brought in for questioning."
+        },
+        {
+            "key": "Case_21_suspect_1_name",
+            "value": "Haley Hoop"
+        },
+        {
+            "key": "Case_21_suspect_1_icon",
+            "value": "HaleyHoop"
+        },
+        {
+            "key": "Case_21_suspect_1_age",
+            "value": "45"
+        },
+        {
+            "key": "Case_21_suspect_1_occupation",
+            "value": "Head Coach"
+        },
+        {
+            "key": "Case_21_suspect_1_statement_page_1",
+            "value": "<b>Q: How well did you know Sam Dunk?</b>\n<b>A:</b> I met him for the first time at preseason. He was a strange guy, loved playing the fool, and had an unhealthy interest in guns and anything that goes bang. I guess being a mascot and getting to shoot Big Betty was his dream job.\n\n<b>Q: Rumors are that Sam was not well-liked within the team?</b>\n<b>A:</b> That is fair to say. When he first arrived, his whole routine was funny and good spirited. But it quickly became annoying and disrespectful. Unfortunately, we are having a poor season, and he sensed the fans were getting bored and frustrated with us. He used that to his advantage by antagonizing our players during games and mocking them to get the crowd behind him. Instead of encouraging them to cheer for the team, he persuaded them to boo us. Players were rightly getting annoyed, and after the game on Saturday, they started talking about refusing to play if he continued.\n\n<b>Q: What did you do about it?</b>\n<b>A:</b> Obviously, I wanted to speak to the team owner, Frank, and tell him that Sam Dunk was creating a divisive and toxic environment. But with the losing streak we are on, he was just as likely to fire me, especially since he and Sam got on so well. They had an unlikely relationship; for some reason, Frank found Sam hilarious. They'd often stay late after games, drinking together.\n\n<b>Q: Did you see Sam Dunk again after the game?</b>\n<b>A:</b> Yes, I wanted to try speaking with him on a personal level, so I went to the stadium bar where I knew I'd find him taking advantage of the free drinks. I explained the players' concerns and asked if he would start working with us rather than against us. But, frustratingly, he was already drunk and wasn't interested in a meaningful conversation; he just showed me Big Betty and talked nonsense about how she was the best player on the team. I wasn't in the mood to deal with that, so I left him there.\n\n<b>Q: When did you leave the stadium?</b>\n<b>A:</b> Around 10:20 p.m. As I left, I saw a taxi parked up, which saved me from having to call my own. It was arranged for the team owner, Frank, but the driver had been waiting for him for nearly 20 minutes and was annoyed, so he told me to jump in."
+        },
+        {
+            "key": "Case_21_suspect_2_name",
+            "value": "Frank Fowler"
+        },
+        {
+            "key": "Case_21_suspect_2_icon",
+            "value": "FrankFowler"
+        },
+        {
+            "key": "Case_21_suspect_2_age",
+            "value": "65"
+        },
+        {
+            "key": "Case_21_suspect_2_occupation",
+            "value": "Victim's boss"
+        },
+        {
+            "key": "Case_21_suspect_2_statement_page_1",
+            "value": "<b>Q: What was your relationship with Sam Dunk?</b>\n<b>A:</b> I hired him at the beginning of the season. I'd seen him hyping up a crowd at a college basketball tournament. I thought he was fantastic at engaging with the spectators. We bonded over a few drinks afterward, and I persuaded him to work for me.\n\n<b>Q: Were you aware of your players' displeasure toward him?</b>\n<b>A:</b> Yes, I could see morale was bad within the team. But that wasn't his fault; the players need to understand that the fans aren't happy. I brought Sam in to put a smile back on our fans' faces, and that is precisely what he was doing. Despite the longest losing streak in the team's history, tickets are selling out and viewing figures are skyrocketing.\n\n<b>Q: How do you feel about the incident on Saturday night where Sam shot one of your cheerleaders with Big Betty?</b>\n<b>A:</b> Several people confronted me about that. I admit Sam did cross a line there, and I was going to reprimand him for that. But in his defense, it was just a T-shirt; he shoots them into the crowd all the time. No one could have predicted that she would get injured like that.\n\n<b>Q: Where was Big Betty stored after games?</b>\n<b>A:</b> If he left it here at the arena, then it would be kept with the rest of the cheerleading equipment. But usually, Sam took it home with him; it was his cannon; he had made it himself.\n\n<b>Q: What were you doing after the game?</b>\n<b>A:</b> Straight after the game, I wined and dined some of our sponsors in the corporate suite. After that, I went to the stadium bar to meet Sam for a drink. On game nights, I have a taxi home booked for 10 p.m., so I still had plenty of time. Sam was in good spirits, fooling around and playing pranks as usual. He was a bad influence, especially after a few beers, but I found his company refreshing. Last month, he came to my place, and we built ourselves a cannon that fired bowling balls. We were knocking down trees with that thing; it was wild."
+        },
+        {
+            "key": "Case_21_suspect_3_name",
+            "value": "Sarah Swish"
+        },
+        {
+            "key": "Case_21_suspect_3_icon",
+            "value": "SarahSwish"
+        },
+        {
+            "key": "Case_21_suspect_3_age",
+            "value": "26"
+        },
+        {
+            "key": "Case_21_suspect_3_occupation",
+            "value": "Victim's colleague (cheerleader)"
+        },
+        {
+            "key": "Case_21_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Sam Dunk?</b>\n<b>A:</b> I couldn't stand the guy; he was just a drunken weirdo who liked to dress up and act like a clown. Wherever possible, I tried to avoid him. But that was difficult because, as a mascot, he was technically part of the cheer squad, so he shared the same facilities as us.\n\n<b>Q: You believe he had a drinking problem?</b>\n<b>A:</b> Yes, everyone knew it, but there was nothing people could do because his biggest drinking buddy was Frank, the team owner. They were always in the bar together after games.\n\n<b>Q: You sent Frank a threatening message after the game saying, 'You need to deal with Sam Dunk, or I will be forced to do it myself!' Why?</b>\n<b>A:</b> I was furious. During our halftime routine, Sam started shooting shirts at the cheerleaders with his stupid gun. The crowd thought it was hilarious, but it was so inappropriate. Eventually, a shirt hit one of our girls while she was doing a dangerous maneuver, and it caused a serious accident. She was rushed to the hospital in an ambulance, and I had to go with her. After five hours of waiting around, they confirmed that she had broken her leg in three places. His actions were unforgivable, and I wanted to let Frank know that.\n\n<b>Q: Did you return to the arena after the hospital?</b>\n<b>A:</b> No. I could easily have gone back, as I live very close to the arena. But the game had long finished by then, and it had already been a long day."
+        },
+        {
+            "key": "Case_21_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_21_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Sarah, the cheerleader, went with her friend to the hospital at halftime. She tells us she was there for five hours before the doctors gave a prognosis. Considering the game started at 6 p.m., she couldn't have returned to the arena in time to commit the crime.</indent>\n\n- <indent=8%>Frank tells us that on game nights, he usually has a taxi booked to take him home at 10 p.m.. We know that he didn't get in the taxi that night because Haley took it when she left at 10:20 p.m. This confirms Haley's alibi as she left the arena 10 minutes before the possible time of death, and suggests that Frank was still there.</indent>\n\n- <indent=8%>With Haley and Sarah both having alibis, this leaves Frank as the only suspect. The police report mentions a corporate stadium pass found at the crime scene. Frank told us he had been \"wining and dining sponsors in the corporate suite\" that evening, meaning he likely had a corporate pass on him.</indent>\n\n- <indent=8%>The Police report also tells us the victim was heavily intoxicated when they were shot at close range with 'Big Betty'. Frank tells us that he was in the stadium bar drinking with the victim that evening and that they tended to 'have a lot of fun after a few beers'. We also know that fun for the two of them included shooting homemade cannons at trees. Having had too much to drink that night, it's not unreasonable to imagine an incident occurred between the two of them involving the overpowered pressure cannon 'Big Betty'.</indent>"
+        },
+        {
+            "key": "Case_21_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI'm a wealthy businessman who owns a sports team. But more importantly, I'm just a person who likes to have fun. What is the point of life if you take it too seriously? That's why I enjoyed spending time with Sam; things always got silly.\n\nThat night, Sam and I stayed in the stadium bar drinking. We lost track of time, and before we knew it, it was 10:30 p.m., and everyone had left, including the taxi I had booked to take me home. We were already quite drunk and decided to take advantage of the empty arena. Sam had made some alterations to Big Betty, which he said substantially increased the power of the cannon. So we went out onto the court and put it to the test. After a while, we started messing around, and I decided it would be funny to shoot Sam; he had his mascot costume on, which I thought would protect him. Most of the shots missed, but a few eventually hit, and he dropped to the floor. At first, I thought he was playing around, so I went up closer and shot him a few more times to make him move. It was supposed to be harmless fun, but he stopped responding. I knew something was wrong, but I was drunk, and I panicked. I dropped Big Betty and ran. In my mind, I hoped he had just passed out or something, but when the cleaners reported finding him the next morning, I knew the worst had happened. Had I known just how powerful and dangerous the cannon was, I would never have shot him."
+        }
+    ]
+}
