@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Cat_Special_case_title",
+            "value": "THE CATS OUT THE BAG"
+        },
+        {
+            "key": "Cat_Special_case_subtitle",
+            "value": "A big cat sanctuary comes under unwanted scrutiny when human remains are spotted in the leopard enclosure."
+        },
+        {
+            "key": "Cat_Special_case_cover_bg",
+            "value": "THE_CATS_OUT_THE_BAG"
+        },
+        {
+            "key": "Cat_Special_investigate_cost",
+            "value": "100"
+        },
+        {
+            "key": "Cat_Special_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Cat_Special_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Cat_Special_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Cat_Special_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Cat_Special_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Cat_Special_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Cat_Special_xp_award_gold",
+            "value": "140"
+        },
+        {
+            "key": "Cat_Special_daily_news_headline",
+            "value": "Big cat sanctuary shut down amidst disturbing homicide investigation   "
+        },
+        {
+            "key": "Cat_Special_daily_news_headline_image",
+            "value": "THE_CATS_OUT_THE_BAG"
+        },
+        {
+            "key": "Cat_Special_daily_news_page_1",
+            "value": "The big cat sanctuary in Ludberry has been temporarily closed to visitors while the police lead an investigation into the alleged homicide of Janet Powell (aged 19), an employee of the wildlife attraction. Authorities are believed to have investigated the sanctuary after receiving a distressing report from a recent visitor that the resident leopards were being fed human flesh. No further information has been made public at this point in time. \n\nAs the detectives find themselves entering a game of cat and mouse, they will be hoping the killer won't be able to hide for long. As we all know… a leopard can’t change its spots.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent> "
+        },
+        {
+            "key": "Cat_Special_victim_name",
+            "value": "Janet Powell"
+        },
+        {
+            "key": "Cat_Special_victim_icon",
+            "value": "JanetPowell"
+        },
+        {
+            "key": "Cat_Special_victim_age",
+            "value": "19"
+        },
+        {
+            "key": "Cat_Special_victim_cod",
+            "value": "Gunshot wound"
+        },
+        {
+            "key": "Cat_Special_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nOn Friday 2nd August, an osteoarchaeologist (human bone expert) visited the Big Cat Sanctuary whilst on vacation and recognized what they believed to be human bones in the leopard enclosure. After the observation was swiftly reported to local police, some officers were sent to inspect the facility and the sanctuary was shut down for a wider investigation. \n\nThe investigation led to the discovery of three human bones within the leopard enclosure, including a section of a human skull. Forensic analysis confirmed the bones had been chewed and eaten by the leopards. They also identified a bullet wound in a large skull fragment, suggesting an execution may have taken place. \n\nThe remains have been identified as Janet Powell, a work experience student working at the sanctuary over the summer. Based on the condition of the remains, experts believe they had been in the enclosure for no more than seven days, which approximately aligns with when the victim was last seen alive on Saturday, July 27. \n\nDespite not having been seen for a week, her disappearance had not been reported, as her family was not expecting her to return until the end of the summer, and her colleagues believed she had left.\n\n<b>Discovery:</b>\n\nFound by police officers on the 2nd August after receiving a report from a concerned member of the public.\n  \n<b>Time of Death:</b>\n\nThe exact time of death is unknown. The victim was last seen by colleagues on the 27th July, which is also the last date of activity on her bank account and cell phone.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>Crime scene forensics discovered a fired cartridge case in leopard faeces within the enclosure. Ballistics confirmed that the bullet matches the one that caused the wound to the skull fragment.</indent>\n- <indent=8%>Text message to the victim from her boss, Geraldine Foster: ‘I apologize for getting cross with you. Please take care of my kitties while I’m away; I’ll know if you haven’t!’ -  sent at 8.12 a.m. July 27.</indent>\n\n<b>Further Details:</b>\n\nOther than the victim, the sanctuary has three employees, all of whom have been brought in for questioning."
+        },
+        {
+            "key": "Cat_Special_suspect_1_name",
+            "value": "Steve Foster"
+        },
+        {
+            "key": "Cat_Special_suspect_1_icon",
+            "value": "SteveFoster"
+        },
+        {
+            "key": "Cat_Special_suspect_1_age",
+            "value": "40"
+        },
+        {
+            "key": "Cat_Special_suspect_1_occupation",
+            "value": "Sanctuary Manager"
+        },
+        {
+            "key": "Cat_Special_suspect_1_statement_page_1",
+            "value": "<b>Q: You run the Big Cat Sanctuary with your sister Geraldine. Is that correct?</b>\n<b>A:</b> Yes. Although in reality I do most of the work. My sister loves the animals but is less hands-on. She just likes to dote on the cats. We also have another full-time keeper, Mark, and then there was Janet, who’d been volunteering with us. \n\n<b>Q: How long had Janet worked at the sanctuary?</b>\n<b>A:</b> About 4 weeks. We wouldn't normally allow temp workers as they don't stay long enough to create a bond with the cats, but we have been really busy recently and needed the extra hands, especially at feeding times when we can’t get enough people in through the doors. The fact that she was a zoology student meant her studies were at least relevant.\n\n<b>Q: When did you last see her?</b>\n<b>A:</b> Sometime on Saturday 27th - we were both working that day. Double-check with our other keeper, Mark. The two of them were working together that weekend. It won’t have been Sunday, as I was away all day buying supplies upstate. When I got back late that night, Mark and my sister said they hadn't seen Janet that day.\n\n<b>Q: Were you worried about her disappearance?</b>\n<b>A:</b> We didn't report it, if that's what you mean. We all thought she had walked out on us, which wouldn't have been out of character. She was typical Gen Z; whenever things got busy or hard, she’d take time off work for mental health breaks… honestly, she wouldn't know what a hard day's work felt like if it jumped up and bit her face off.\n\n<b>Q: Now she’s been found, what do you think happened?</b>\n<b>A:</b> No idea! It was a shock when you guys turned up and found bones! The leopards have been with us a long time and are well domesticated, so it’s hard to imagine them doing that to her, but I guess when laid out in front of them, humans are just meat. My sister still refuses to believe it; she has it in her head this whole thing is a set-up to get us shut down!    \n\n<b>Q: How could Janet have accessed the enclosure?</b>\n<b>A:</b> She had access during the designated feeding times, which is midday for the leopards. During these time windows, the enclosure alarms turn off to allow access to our staff members using a facial recognition scanner. Outside of these windows, no one can enter the enclosures."
+        },
+        {
+            "key": "Cat_Special_suspect_2_name",
+            "value": "Geraldine Foster"
+        },
+        {
+            "key": "Cat_Special_suspect_2_icon",
+            "value": "GeraldineFoster"
+        },
+        {
+            "key": "Cat_Special_suspect_2_age",
+            "value": "38"
+        },
+        {
+            "key": "Cat_Special_suspect_2_occupation",
+            "value": "Sanctuary Owner"
+        },
+        {
+            "key": "Cat_Special_suspect_2_statement_page_1",
+            "value": "<b>Q: How was your relationship with Janet Powell?</b>\n<b>A:</b> It was fine, I think. Sorry, that’s a difficult question to answer, as I don't tend to build relationships with people. I’m an animal person; my connections with my kitty cats are far stronger than with any humans. People say I'm crazy, but people fear what they don't understand. If you ask me, they are just jealous.\n\n<b>Q: Jealous of what?</b>\n<b>A:</b> The world I have built for myself at the sanctuary is something most can only dream of. Yes, it may have nearly bankrupted my brother and me, but my affinity with the cats is priceless; I consider them my family.\n\n<b>Q: When did you last see Janet Powell?</b>\n<b>A:</b> Early on Saturday, June 27. I remember because we had a conversation that morning before I left for the day to collect a new puma we had purchased. When I got back on Sunday afternoon, I had expected Janet to be there to help me settle in the new arrival, but she was nowhere to be seen! It made me cross because although she was only a volunteer, we had trusted her word when she said she would be around to help when required.\n\n<b>Q: Did your conversation with Janet on Saturday morning relate to the text message you sent, in which you apologize for having gotten angry?</b>\n<b>A:</b> Yes, it does. For context, I caught her walking past the leopard enclosure in the early hours of the morning, blasting music from her phone. It was thoughtless behaviour, which she knew could cause great distress to the animals. But I may have overreacted. I have a tendency to do that. I sent the message to apologize, but also to remind her of her responsibility to the cats, especially as I was going away for the day. I sent a similar message to Mark, as I’d asked the two of them to take special care of my lovely leopards Dotty and Spotty while I was away.\n\n<b>Q: Had your leopards been looked after when you returned?</b>\n<b>A:</b> Everything seemed fine with the enclosure. The only thing I was cross with was their feeding schedule, which had been messed up. They are only supposed to be fed once a day.\n\n<b>Q: Could that be related to Janet's remains being found in their enclosure?</b>\n<b>A:</b> I wish you would stop suggesting that! Dotty and Spotty are my friends, and I refuse to believe they would eat a human! The whole thing is clearly a set-up. You obviously want to shut down my sanctuary. What are you? Some kind of undercover animal welfare unit?! Yes, I bet you're the ones who organized the raid that Sunday to confiscate the sanctuary's unlicensed firearms. It can't be a coincidence.\n\n<b>Q: As you’ve already been told, we are homicide detectives investigating how your employee wound up dead in the leopard's enclosure. As the owner of the sanctuary, I assume you have control of the alarms?</b>\n<b>A:</b> Yes, both Steve and I do. But they are set up in a way that allows all our staff members access at feeding times. Supposing what you say is true, then you should look closely at Mark. It was obvious he had a crush on Janet, and I am fairly sure the feelings were unreciprocated."
+        },
+        {
+            "key": "Cat_Special_suspect_3_name",
+            "value": "Mark Aldershot"
+        },
+        {
+            "key": "Cat_Special_suspect_3_icon",
+            "value": "MarkAldershot"
+        },
+        {
+            "key": "Cat_Special_suspect_3_age",
+            "value": "25"
+        },
+        {
+            "key": "Cat_Special_suspect_3_occupation",
+            "value": "Sanctuary Employee"
+        },
+        {
+            "key": "Cat_Special_suspect_3_statement_page_1",
+            "value": "<b>Q: What was your relationship with Janet Lovell?</b>\n<b>A:</b> We worked together at the sanctuary, and I’d say we were becoming good friends before all of this mess. It was nice to have some company other than Steve and Geraldine, who could be difficult to work for.\n\n<b>Q: Geraldine seems to think that you would have liked your friendship with Janet to be something more</b>\n<b>A:</b> Geraldine says a lot of things. What you need to understand is that she is a total nutjob! She floats around the place in a dream world, thinking she has some magical rapport with the cats, but as far as I can tell, they treat her just like anyone else.\n\n<b>Q: Why did you stay working for her?</b>\n<b>A:</b> She and her brother were the only people willing to employ me without any formal qualifications. Besides, I love animals; spending time with them was definitely worth putting up with a crazy boss.\n\n<b>Q: When did you last see Janet?</b>\n<b>A:</b> Saturday 27 June. Geraldine had asked us to work together that day; I guess she didn't trust one of us alone to do a good enough job in her absence, especially with her beloved Dotty and Spotty. The first time I noticed Janet missing was the next morning. We open a little later on Sundays, and the two of us would normally have breakfast together, but she never showed up.\n\n<b>Q: Did you also believe that she had left the sanctuary without telling anyone?</b>\n<b>A:</b> It seemed hard to believe, but what other explanation was there at the time? Your mind doesn't go straight to: ‘she must have been eaten by the leopards’!\n\n<b>Q: What would cause the leopards to eat someone?</b>\n<b>A:</b> They are opportunistic carnivores. If fresh meat is laid out on a platter for them, they will eat it, human or otherwise. Alternatively, if they felt threatened, they could attack, which would most likely lead to the same result. \n\n<b>Q: You have access to the leopard enclosure, correct?</b>\n<b>A:</b> Yes, but if that's your reason for suspecting me, then it's pretty weak. Anyone who works at the sanctuary who’s had their face scanned for the recognition system can enter the enclosures during feeding times.\n\n<b>Q: We understand the sanctuary was raided for firearms recently. What were they used for?</b>\n<b>A:</b> Apparently they were for backup should an animal ever lose control. Steve gave Janet and me a lesson in how to use them a few weeks back. But in reality, I've never seen anyone actually using one at work. A small part of me thinks it might have been Geraldine who called in that raid; she always hated the idea that they might be used on her ‘kitties’, and it's too much of a coincidence that the raid happened on Sunday morning while she happened to be away from the sanctuary."
+        },
+        {
+            "key": "Cat_Special_case_newevidence",
+            "value": "Boss,\n\nI was able to track down the sanctuary’s confiscated firearms and send them to ballistics to look at. The good news is they were able to match one of the weapons to the fired cartridge case found in the leopard enclosure. The bad news is no further evidence was found to suggest who it was that fired the shot. \n\nDetective Garfield"
+        },
+        {
+            "key": "Cat_Special_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Cat_Special_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>We know from the police report that the victim had been shot in the head, and we learn from the ballistics report that the shot was fired by one of the sanctuary's firearms, which we also learn was confiscated by authorities on Sunday morning. This knowledge allows us to create a timeframe for when the victim was shot: sometime between Saturday, July 27, when she was last seen alive at work, and when the weapon was confiscated on the morning of Sunday 28.</indent>\n\n- <indent=8%>Using this, we can remove <b>Geraldine</b> as a suspect due to having the alibi of travelling away from the sanctuary to purchase a new cat. She left early that Saturday morning before both other suspects saw the victim alive at work, and, as verified in <b>Mark's</b> testimony, she did not return until Sunday afternoon, after the firearms had been confiscated.</indent>\n\n- <indent=8%>This leaves <b>Steve and Mark</b> as suspects. Both say they last saw the victim at work on Saturday, and both had access to the enclosure where the victim’s remains had been left for the leopards. However, we know from <b>Geraldine</b> that <b>Mark's</b> enclosure access was limited to feeding times only, and we learn from <b>Steve</b> that it was 12 noon, which also happens to be the busiest time of the day for the sanctuary. Considering the fact that visitors would have been watching the feed take place, the victim’s remains could not have been fed to the leopards at this time without someone noticing they were human (especially with a human skull included). This suggests that the victim's remains ended up in the leopard enclosure at a different, likely more discreet time. This theory is supported by <b>Geraldine's</b> reference to the leopard's feeding schedule being out of sync when she returned on Sunday.</indent> \n\n- <indent=8%><b>Steve</b> had overall control of the sanctuary and its security, making him the only person at the sanctuary who had access to the enclosure during the established timeframe, outside of the designated feeding time. Whether the victim was shot before or after entering the enclosure cannot be answered without a confession; however, we can conclude that <b>Steve</b> must have been the person who either allowed her access to the enclosure or decided to put her remains in there.</indent>"
+        },
+        {
+            "key": "Cat_Special_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nOn Saturday evening, after the sanctuary had closed to the public, there was still plenty of work to do, and I asked Janet to stay and help. She was put out by this, but reluctantly agreed. One of the jobs I asked her to do was feed the lions at 9 p.m., which she did, but when she came back she realized that she’d left her cell phone in the enclosure. I was annoyed because she knew not to have taken it in with her. She became all panicky and concerned, and asked me to turn the alarms off so she could go back and get it. I made it very clear what a bad idea that would be while the lions were feeding, and that she should forget about the phone until tomorrow. I thought that was the end of the matter, but obviously, being Gen Z, she couldn't handle life without her cell phone for more than 5 seconds. When I wasn't looking, she stuck her arm through the enclosure's fence with a long stick to reach it. I mean, how dumb can you be?! I’m guessing the phone rang or lit up or something, because the lions went for her. After hearing her scream, I ran over. By the time I got there, Janet’s arm was all but gone, and her neck was pretty well chewed. Her adrenaline was high, but I could see there was a lot of blood and she was struggling to breathe. There was nothing I could do but grab a rifle and put her out of her misery. Her chances of surviving were slim anyway, but I knew that if I called an ambulance, news of the incident would spread and the sanctuary would get shut down, or even worse, I could end up in prison - all because of her idiotic behaviour!\n\nI disposed of the body the best way I knew how. Our leopards weren't due a feed, but I knew how greedy they are, and I knew if I put her in their enclosure she would be mostly gone by morning and definitely unrecognisable. It worked! Nobody seemed to notice anything as the days went by. I would have gotten away with it if it weren't for the eagle-eyed visitor!\n\nThe only thing that tied me to her death was the gun, which is why the day after the incident I made an anonymous call to the authorities saying there were unlicensed and dangerous firearms at the sanctuary. Within hours, we were raided, and the weapons were confiscated. I thought this was a clever way to remove the weapon from the sanctuary without it being connected to the crime scene, or without me having to dispose of it suspiciously. Clearly I wasn't clever enough. "
+        }
+    ]
+}
