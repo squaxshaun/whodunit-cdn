@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_49_case_title",
+            "value": "RED EAGLE DOWN"
+        },
+        {
+            "key": "Case_49_case_subtitle",
+            "value": "A decorated fast jet pilot meets a suspicious end during a live air display."
+        },
+        {
+            "key": "Case_49_case_cover_bg",
+            "value": "RED_EAGLE_DOWN"
+        },
+        {
+            "key": "Case_49_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_49_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_49_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_49_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_49_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_49_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_49_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_49_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_49_daily_news_headline",
+            "value": "RED EAGLE CRASHES<br>AT THE BELSTONE AIR SHOW"
+        },
+        {
+            "key": "Case_49_daily_news_headline_image",
+            "value": "RED_EAGLE_DOWN"
+        },
+        {
+            "key": "Case_49_daily_news_page_1",
+            "value": "On Saturday afternoon, the unthinkable happened at the Belstone Airshow. One of the nation's iconic Red Eagles F-16s veered out of control and crash-landed during the team's aerobatic display. \n\n​Red Eagles pilot Jack Peters (29) failed to eject from the aircraft before the dramatic crash, leaving thousands of spectators in shock as they witnessed the prestigious unit's first-ever fatality whilst on active duty.  \n\nFor those that have been living under a rock, the Red Eagles are a fast jet aerobatic display team. Known for being some of the nation's most skillful pilots, the Red Eagles travel the world performing impressive aerobatic routines that demonstrate the ability and precision of both the aircraft and their pilots.\n\nJack Peters had only been on the Red Eagles team for a few months and is believed to have made quite an impression on his teammates in that time. His family, which notably includes his father, the highly decorated, three-star Lt. General Sam Peters, is said to be devastated by the tragedy.\n\nInternal investigations are underway to establish what exactly went wrong. Understanding whether a mechanical fault occurred, or if human error is to blame, will be top of the agenda. There is, of course, always the unlikely possibility that something more sinister was involved. Whatever the investigation reveals, the outcome remains the same - when Jack Peters and his F-16 came crashing down, so did the Red Eagles' formidable and flawless reputation.\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_49_victim_name",
+            "value": "Jack Peters"
+        },
+        {
+            "key": "Case_49_victim_icon",
+            "value": "JackPeters"
+        },
+        {
+            "key": "Case_49_victim_age",
+            "value": "29"
+        },
+        {
+            "key": "Case_49_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_49_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe Red Eagles team took flight at 2 p.m. in order for their display routine to begin 5 minutes later. During the routine, the victim's aircraft fell out of sequence with the rest, veering away from the airspace above the airshow, and crash-landing in the desert two miles south of the airfield. The victim did not eject and died on impact.\n\nWhat exactly caused the pilot to crash-land is unknown. Their last radio message to air traffic control was received seconds before they died and was recorded as ‘Mayday, mayday… struggling to breathe…throat closing’.  \n\nPostmortem of the victim's remains shows signs of them suffering from an allergic reaction at the time of the crash. The throat and eyes were swollen, severely enough to restrict their ability to breathe and cause serious discomfort, but not enough to kill them. Their medical record shows a moderate to severe allergy to flour, which has caused them similar symptoms in the past.\n\nForensic analysis of the wreckage is still underway; however, it has already been established that the ejector seat was faulty, leading to a mass military recall of all aircraft with the same seats. \n\nA Red Eagles team briefing was held on the morning of the show, when the pilots were assigned aircraft and their role for the display that day. The victim's aircraft required some last-minute maintenance and was taken to hangar B6 at 1 p.m. It remained there being worked on until the victim collected it for preflight checks at 1:35 p.m. Only people with an appropriate pass could gain access to Hangar B6, which included the engineers working on the aircraft and their pilots.   \n\n<b>Discovery:</b>\n\nThe crash site was located 2 miles south of the airfield by the fire and rescue team, who followed the smoke and debris. The victim was pronounced dead on site.\n\n<b>Time of Death:</b>\n\nAir traffic control and video footage taken by spectators confirm the aircraft hit the ground at 2:07 p.m., two minutes into the team's display routine.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The aircraft was located in hangar B6 from 1 p.m. until its flight at 2 p.m., and was accessible only to people with an appropriate pass.</indent>\n- <indent=8%>The pilot was suffering from symptoms of an allergic reaction when the plane crashed.</indent>\n- <indent=8%>The plane's ejector seat was discovered to be faulty.</indent>\n\n<b>Further Details:</b>\n\nThree suspects have been brought in for questioning, all of whom are known to have had confrontations with the victim in the days prior to his death."
+        },
+        {
+            "key": "Case_49_suspect_1_name",
+            "value": "Commander Harrison"
+        },
+        {
+            "key": "Case_49_suspect_1_icon",
+            "value": "CommanderHarrison"
+        },
+        {
+            "key": "Case_49_suspect_1_age",
+            "value": "48"
+        },
+        {
+            "key": "Case_49_suspect_1_occupation",
+            "value": "Display team leader"
+        },
+        {
+            "key": "Case_49_suspect_1_statement_page_1",
+            "value": "<b>Q: What was your relationship to Jack Peters? </b>\n<b>A:</b> I was his commanding officer.  He joined the Red Eagles a little over 3 months ago. Our relationship was professional, from my end at least. But I had very little respect for the man. He was a brilliant pilot, but my God, he knew it. His attitude was cocky and reckless, which in my mind made him a liability to both himself and, more importantly, the team. \n\n<b>Q: We understand you and Jack had a public confrontation recently?</b>\n<b>A:</b> I assume you're referring to the standoff we had in a team meeting last week. Yes, I called him out for not treating the ground crew with enough respect, and for generally not taking his job seriously enough. We are a professional display team, and we fly our aircraft to their absolute limits. As a result, I expect my pilots to understand the aircraft we fly, all the little details of how they work, and why they are designed the way they are. I ask all new team members to spend some extra time with the ground engineers to learn this. Sadly, Jack wasn't up for the extra homework and was rude to one of our engineers called Ken when they offered to talk him through some things. Not the sort of behavior I tolerate, so I called him out in front of his peers.\n\n<b>Q: How did Jack react to that?</b>\n<b>A:</b> He made some cocky remarks, which I then fined him for on the spot. He was upset by that and made a scene of refusing to pay. It ended with me saying I’d deduct the fine from his salary, to which he walked out of the meeting room, barging me with his shoulder on the way. Ordinarily, his insubordination is a court-martial offence, but I was told by superiors to drop the issue. Turns out because Jack's father is a Lt General and on track for even higher honours, his son can't be seen to get into any trouble. So effectively Jack could do whatever he wanted without consequences, a ridiculous situation.\n\n<b>Q: Can you talk us through your team's preparations for the display that day, and what went wrong?</b>\n<b>A:</b> It was all routine. We arrived early, and the first thing we did was hold a full team meeting for both the pilots and engineers where we ran through the condition of the aircraft. Only one did require a little maintenance, so it was taken to hangar B6, which had been designated for airshow repairs. Ken, our head engineer, conducted the repairs. After that meeting, I held a briefing for pilots flying that day. I assigned the aircraft and ran through the plan for the upcoming display.  After that, I let the team do whatever they needed to prepare. I expect all my pilots to be at their aircraft conducting preflight checks at least 20 minutes before we fly, which was 2 p.m. that day. The display started smoothly, but within a couple of minutes Jack fell out of formation and never came back. I can't explain what went wrong, only that he referenced a breathing issue during his last radio contact.\n\n<b>Q: Was the plane taken to hangar B6 the one Jack was flying that day?</b>\n<b>A:</b> Yes, it was. I went to the hangar myself to make sure the repairs were done. I got there just as Ken was finishing with it. It hadn't taken him long. I then decided to wait around to see that Jack actually turned up to collect the plane before the scheduled pre-flight checks at 1:40 p.m. There had been an incident in the canteen that morning; a pilot from another team had punched him, and I had a feeling he might use it as an excuse to let the team down at the last minute. Surprisingly, he showed up 5 minutes early.  \n\n<b>Q: Were you aware of Jack suffering from any allergies?</b>\n<b>A:</b> Yes. I review the service and medical records of all potential pilots before they join my team. Not many people were aware, as he liked to keep it to himself. I assume he thought it tarnished the cool ‘Top Gun: Maverick’ image he was playing up to."
+        },
+        {
+            "key": "Case_49_suspect_2_name",
+            "value": "Maddie Johnson"
+        },
+        {
+            "key": "Case_49_suspect_2_icon",
+            "value": "MaddieJohnson"
+        },
+        {
+            "key": "Case_49_suspect_2_age",
+            "value": "31"
+        },
+        {
+            "key": "Case_49_suspect_2_occupation",
+            "value": "Apache helicopter pilot"
+        },
+        {
+            "key": "Case_49_suspect_2_statement_page_1",
+            "value": "<b>Q: How did you know Jack Peters?</b>\n<b>A:</b> We were in the same intake at the academy many years ago and started our flying training at the same time. I’m embarrassed to admit that we were actually in a relationship for about 6 months. I was young and naive; it’s not something I look back on fondly.\n\n<b>Q: Why not?</b>\n<b>A:</b> Our time together didn't end on good terms. We ended up getting pregnant together, which was totally unexpected, and at that early point in my career, it could not have been worse timing. It was a really difficult period in my life, deciding what to do, a time when you would expect some support from your partner. But no, when Jack found out, he dumped me, and within weeks was seeing someone else. I couldn't believe someone could be so selfish! In the end, I decided to proceed with the pregnancy. Sadly, things didn't work out. When that happened, I reached out to Jack to let him know, but he didn't care; he never even had the decency to respond or even acknowledge what I must have been through. It was one of the hardest periods of my life, and I had to negotiate it on my own. That is why I don't think about my time with Jack fondly.  \n\n<b>Q: What were you doing at the Belstone airshow?</b>\n<b>A:</b> I’m currently on a posting with the Apache display team; we were there to do our thing and showcase the aircraft's capabilities to the public. Not as glamorous as the Red Eagles, but arguably more impressive.  \n\n<b>Q: Did you see Jack at the show?</b>\n<b>A:</b> Yes, you might have heard that I gave him a shiner that morning. I hadn't seen him since he broke up with me all those years ago. But out of the blue, there he was! We passed each other at the base canteen that morning. I didn't know how to react or what to expect from the situation, but I definitely didn't appreciate his audacity to give me a confident, cheesy grin and a wink, as if we were flirting. Considering what I had been through and how he had treated me all those years ago, some pent-up anger burst out of me, and I whacked him.\n\n<b>Q: What were the repercussions of that?</b>\n<b>A:</b> Black eye and a bruised ego for him, and sore knuckles for me. From the sounds of applause that followed, I’d say people approved of my actions. \n\n<b>Q: Talk us through what you did after that confrontation?</b>\n<b>A:</b> I went straight to our team briefing after that and then prepared for our display, which was at 12:50 p.m. I was only airborne for 10-15 minutes max. During the display, I noticed a couple of issues with the aircraft, so when we came back, I took it straight into hangar B6 and left it there for our team's engineer to come look at it when they were ready.\n\n<b>Q: Did you see Jack's F-16 in the hangar?</b>\n<b>A:</b> The Red Eagles are not my team, so I wouldn't know if it was his, but I did see Ken doing some work on an F-16 when I was there. I did an attachment with a team of fast jet engineers before I joined the academy and knew Ken quite well. Turns out word spread fast; he’d heard about my right hook to Jack’s eye that morning. Gave me a nod of appreciation and told me I was an inspiration, and that he should do more to stand up to such dumbasses.\n\n<b>Q: Do you have any idea what caused Jack's crash?</b>\n<b>A:</b> No. I heard from others who were on their radios at the time that he was panicking about something. Those F-16’s are quick; if he had an issue, then there really isn't much time for error."
+        },
+        {
+            "key": "Case_49_suspect_3_name",
+            "value": "Ken Franks"
+        },
+        {
+            "key": "Case_49_suspect_3_icon",
+            "value": "KenFranks"
+        },
+        {
+            "key": "Case_49_suspect_3_age",
+            "value": "51"
+        },
+        {
+            "key": "Case_49_suspect_3_occupation",
+            "value": "Engineer"
+        },
+        {
+            "key": "Case_49_suspect_3_statement_page_1",
+            "value": "<b>Q: How was your relationship with Jack Peters?  </b>\n<b>A:</b> Can’t say I knew him well. But that was by choice and mostly a mutual feeling. He thought he was above having to deal with the ground crew like me, and I just wasn't interested in getting to know such an obnoxious, arrogant, and frankly rude person. Other than the essential interactions we were required to have about the aircraft, I ignored him. He was never a true Red Eagle anyway. \n\n<b>Q: What do you mean by that?</b>\n<b>A:</b> It's common knowledge that he only got a place on the team because of who his father is. Yeah, he might have been a good pilot, but the Red Eagles are a prestigious unit; only the best, most respected pilots are invited to join. So when someone like Jack comes in behaving the way he did without any repercussions, you know that someone higher up had got involved. Commander Harrison clearly wasn't happy either and, to be fair, wasn't putting up with Jack’s nonsense. But rumours are that when he stood up against Jack, it was to the detriment of his own career. There was definitely a feeling that if Jack didn't go, then Commander Harrison would, whether by choice or not.\n\n<b>Q: Talk us through what you did at the airshow prior to the Red Eagles taking flight at 2 p.m?</b>\n<b>A:</b> We had a team meeting first thing in the morning, which was hilarious because Jack rocked up with a black eye; I'd never seen him so sheepish. Other than that, everything was the same routine; the planes were in good shape, only one needed looking at prior to the flight. I went straight to hangar B6 after the meeting and waited for it to be brought to me. Once it arrived, the repairs only took 20 minutes to deal with. Commander Harrison came in just as I was finishing; I gave him the green light for it to fly and left him there. \n\n<b>Q: That plane you worked on was the one Jack subsequently crashed. Did you notice anything out of the ordinary that could have caused the incident?</b>\n<b>A:</b> Like I said, it was only a little bit of maintenance; the machines are well looked after generally, so it didn't need much attention. When I left the hangar, it was good to fly, which is exactly what I confirmed to Commander Harrison. The only issue that I now know about was the ejector seat being faulty. But I’m not to blame for that; they have whole testing teams and procedures for those things.\n\n<b>Q: Did you see anyone else in the hangar while you were there? </b>\n<b>A:</b> The only other aircraft I saw there was an Apache. Maddie was the pilot who brought it in. We know each other and had a brief chat on her way through. Apart from that, I didn't see anyone else while I was there. "
+        },
+        {
+            "key": "Case_49_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_49_case_newevidence",
+            "value": "Boss,\n\nThe forensic analysis of the wreckage is now complete, and they have come up with something interesting. Traces of flour were found in the cockpit's oxygen supply. The experts' determination is that this could only have occurred if it had been intentionally compromised by someone with detailed technical knowledge of the aircraft. \n\nSpecial Agent J.Kelly "
+        },
+        {
+            "key": "Case_49_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>Based on the radio message to Air Traffic Control and the autopsy results, we know the victim was struggling to control the aircraft due to an allergic reaction. It was this, combined with the faulty ejector seat, that caused his death. The ejector seat, we know, is a wider fault issue, so it is difficult to allocate the blame; however, the forensic analysis of the wreckage confirms that the allergic reaction was caused by someone intentionally compromising the cockpit's oxygen supply. Such an act must have been premeditated. For the saboteur to have successfully carried this out, they would have required four things:</indent>\n\n- <indent=10%>Prior knowledge of the victim's allergy.</indent>\n- <indent=10%>Prior knowledge of which aircraft the victim would be flying that day, something that was only confirmed at the pilot's briefing that morning.</indent>\n- <indent=10%>Access to the aircraft after the briefing and before the display flight.</indent>\n- <indent=10%>Technical knowledge of the F-16 to compromise the oxygen supply.</indent>\n\n- <indent=8%>We learn from the interviews that all three suspects have detailed technical knowledge of the aircraft - Ken is a fast jet engineer, Maddie had done an attachment with a team of fast jet engineers, and Harrison tells us he understands all the little details of how and why the F-16 works. Knowing this means it’s the other evidence we need to consider more closely.</indent>\n\n- <indent=8%><b>Maddie Johnson<b>, had, in the past, been in an intimate relationship with the victim for 6 months, and is therefore likely to have been aware of his allergy to flour. However, Maddie is not a Red Eagles pilot and would not have been at the Red Eagles briefing that morning in which Jack was assigned his aircraft for the day.  Without knowing this, she could not have sabotaged his plane. Even if she had found out, the only time she had access to the aircraft was when she took her Apache helicopter into Hangar B6. But we know at that time Ken was in there working on the plane in question. After Ken left, Commander Harrison was with the aircraft, and then subsequently the victim themself came in to get it. Maddie did not have the opportunity.</indent>\n\n- <indent=8%><b>Ken Franks<b> had access to the aircraft from 1 p.m. for 20 minutes whilst he carried out maintenance on it in hangar B6. However, Ken is not a pilot and would not have been in attendance at the pilot's briefing to find out which aircraft had been assigned to the victim. On top of this, he admits to not knowing the victim well and only talking to him about work things when absolutely necessary; he wouldn’t know about the victim's allergy to flour.</indent>\n\n- <indent=8%><b>Commander Harrison<b> had the necessary knowledge to commit the crime. He decided which aircraft was assigned to the victim that day, and admits to having seen the victim's medical records in the past and knowing about his allergies. He also had the necessary access to carry out the sabotage, as we know he was in hangar B6 alone from when Ken left at 1:20 p.m., and the victim arrived for preflight checks at 1:35 p.m.</indent>"
+        },
+        {
+            "key": "Case_49_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nMy heart sank when I was informed that Jack Peters would be joining my team. I’d heard from friends in other units that he was talented but had a big ego that could be trouble. The order came from well above my pay grade, and I had no say in the decision. \n\nI tried my best to work with him, but his insubordination and total lack of respect for rank made it difficult. He thought he was above the law because of who his father was. Our recent standoff, where he barged through me, wasn't an isolated incident, and I was getting fed up. I went through all the proper channels and made official complaints, but instead of support from my superiors, all I got was an ultimatum - make it work, or they would replace me with someone who could. That’s when I found out that his father wanted him with the Red Eagles because it kept him out of harm's way, but also had an element of prestige about it that suited the successful family name. I decided to take action as I wasn't prepared to let the unit be degraded like this just to appease some senior officers' whims.\n\nObviously I couldn't get rid of Jack through the normal channels, so I was forced to think outside the box. I wanted to make a statement to get the point across that not just anyone can be a Red Eagles pilot. Ejecting and ditching a F-16 during a live display in front of thousands of spectators was what I landed on; you just can't ignore something like that.\n\nI remember his medical report referred to moderate-to-severe allergic symptoms to flour. That seemed like the perfect way to cause a pilot error and force an ejection at the same time. Most of my pilots use oxygen during our displays as it enhances cognitive behavior, so I was fairly confident I could get him to inhale it through the cockpit's oxygen supply. When I was in hangar B6, I hid a small quantity in the relevant location and let fate take its path. It worked exactly as I had intended; a couple of minutes into the routine, he began to struggle with his breathing, which then affected his ability to control the aircraft. The only option he had to survive was to eject and ditch the plane. The intention was to make an example of him and ideally end his Air Force career. But I had no idea about the faulty ejector seat. I was prepared for the consequences of the crashed F-16, but Jack going down with it was never part of the plan. Although I hated the kid, I regret his death."
+        }
+    ]
+}

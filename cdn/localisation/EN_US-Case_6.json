@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_6_case_title",
+            "value": "THE PARTY HAT KILLER"
+        },
+        {
+            "key": "Case_6_case_subtitle",
+            "value": "A SECLUDED HIGHWAY, MULTIPLE VICTIMS, AND A PARTY HAT KILLER"
+        },
+        {
+            "key": "Case_6_case_cover_bg",
+            "value": "MOTEL_MADNESS"
+        },
+        {
+            "key": "Case_6_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_6_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_6_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_6_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_6_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_6_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_6_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_6_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_6_daily_news_headline",
+            "value": "PARTY HAT KILLER<br>STRIKES AGAIN?"
+        },
+        {
+            "key": "Case_6_daily_news_headline_image",
+            "value": "THE PARTY HAT KILLER"
+        },
+        {
+            "key": "Case_6_daily_news_page_1",
+            "value": "On Monday afternoon, motorists stopping for a night's rest at Motel Little, located on a remote section of Highway 172, discovered the establishment's owner, Dan Little (aged 64), murdered. Reports from the ground are that the victim had been shot and was found with a party hat placed on his head. If true, then this will be of great concern to the investigating police, as it is the calling card of the so-called Party Hat Killer, who is on the loose after a triple homicide that took place at Bushmill Park, 100 miles north on the same highway, only the day before. \n\nIn which case the obvious question on the detectives' minds will be: Is it a copycat? Or do we have a serial killer on our hands?! \n\nUnsurprisingly, whilst the hunt for the Party Hat Killer remains ongoing, the police are reluctant to rush out a public statement regarding this new homicide for fear of causing widespread panic. So for now the public can only speculate as to whether the party hat killer has struck again. I'm not going to throw my hat in the ring and make any bold statements about serial killers, but if that does turn out to be the case, then at least we can hope that the most recent murder provides new evidence and fresh leads to assist law enforcement in bringing swift justice\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_6_victim_name",
+            "value": "Dan Little"
+        },
+        {
+            "key": "Case_6_victim_icon",
+            "value": "DanLittle"
+        },
+        {
+            "key": "Case_6_victim_age",
+            "value": "64"
+        },
+        {
+            "key": "Case_6_victim_cod",
+            "value": "Ballistic trauma"
+        },
+        {
+            "key": "Case_6_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nLate on Monday morning, a family of motorists pulled into Motel Little. A remote establishment surrounded by barren scrubland for miles. Upon entering the reception area, they discovered the victim's dead body with a party hat placed on its head. The family logged a 911 call at 11:35 a.m. \n\nThe autopsy established a time frame of death between 7 a.m. and 9 a.m. The cause of death was a bullet to the head at point-blank range with a silenced handgun. Forensics have confirmed it was the same weapon that was used the day before in the triple homicide at Bushmill Park, 100 miles north on Highway 172. \n\nThe motel's guest log shows there were three guests registered as staying at the time of the murder. On securing the scene, units were immediately sent out to gather the three guests for questioning. Their locations were as follows:\n\n- <indent=8%>Jason Hill - Was found in his motel room, which has been continuously booked out in his name for nearly two months.\n- <indent=8%>Haley Freeman - Was picked up at a diner 115 miles south on Highway 172.\n- <indent=8%>Colt Hayden - Was found at his family home near Bushmill Park, 100 miles north on Highway 172. \n\n<b>Discovery:</b>\n\nThe victim's body was found lying on the floor behind the motel's reception desk at approximately 11:30 a.m.\n\n<b>Time of Death:</b>\n\nAn autopsy has established a time frame for the death as between 7 a.m. and 9 a.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The weapon used was the same as that used in the triple homicide in Bushmill Park the day before.</indent>\n- <indent=8%>The victim was wearing a party hat that also matched those found on the victims in Bushmill Park.</indent>\n\n<b>Further Details:</b>\n\nThe three guests staying in the motel at the time of the murder are being treated as suspects."
+        },
+        {
+            "key": "Case_6_suspect_1_name",
+            "value": "Jason Hill"
+        },
+        {
+            "key": "Case_6_suspect_1_icon",
+            "value": "JasonHill"
+        },
+        {
+            "key": "Case_6_suspect_1_age",
+            "value": "49"
+        },
+        {
+            "key": "Case_6_suspect_1_occupation",
+            "value": "Motel guest"
+        },
+        {
+            "key": "Case_6_suspect_1_statement_page_1",
+            "value": "<b>Q: The motel's logbook shows that you've had a room at the motel for nearly two months. Why?</b>\n<b>A:</b> I use it for work. It's cheaper than hiring an office space, and I like the remote location. To work efficiently, I need to close myself off from the outside world and focus without any distractions. A room at the motel provides me with the peace and quiet I need.\n\n<b>Q: What work are you doing from your room?</b>\n<b>A:</b> I run a cybersecurity business online. I can't tell you much more than that; if I did, I'd have to kill you…just joking, it's all client confidential. I have a big project at the moment, so I had been shut away in my room for the last 3 days before you guys came and got me. It’s not been great for my health, though I've been getting takeout three times a day! \n\n<b>Q: You must have got to know Dan well over the last couple of months?</b>\n<b>A:</b> Yes, whether I liked it or not, he would always corner me for a chat. He never had many guests, so when people did come, he could be quite intense.  He loved the irony of me being his motel's biggest customer despite not having a driver's licence. He’d mention it to everyone and anyone that turned up. \n\n<b>Q: How did you get to and from the Motel?</b>\n<b>A:</b> I relied on lifts from my wife. Taxis to such a remote location are hard to come by. The food options are limited, but thankfully there were some places willing to deliver.\n\n<b>Q: What do you know about the other guests staying the night before Dan died?</b>\n<b>A:</b> I couldn't say who else was there. The sorts of people who stayed at Motel Little generally kept to themselves, which is why I liked the place. There was one person there that night who I would see fairly regularly, maybe once a week. A tough-looking guy who always arrived late and left early. That's all I knew about him, although Dan mentioned once that he would arrive with a woman and they would spend the night together. I never saw her, and personally I didn't care, but I could tell Dan wasn't comfortable with it. He said that he would confront him one day. I told him to be careful; the guy drives around in a pickup covered in pro-gun rally stickers."
+        },
+        {
+            "key": "Case_6_suspect_2_name",
+            "value": "Haley Freeman"
+        },
+        {
+            "key": "Case_6_suspect_2_icon",
+            "value": "HaleyFreeman"
+        },
+        {
+            "key": "Case_6_suspect_2_age",
+            "value": "40"
+        },
+        {
+            "key": "Case_6_suspect_2_occupation",
+            "value": "Victim's motel guest"
+        },
+        {
+            "key": "Case_6_suspect_2_statement_page_1",
+            "value": "<b>Q: What were the timings of your visit to the motel?</b>\n<b>A:</b> I arrived late on Sunday night, around 8 p.m. I was just passing through, headed North to my home upstate. I had been visiting friends for the weekend, and it had been one of their birthdays earlier that day, so I was tired and needed sleep. I left shortly before 9 a.m. the next morning and got back on the road. You guys picked me up at a diner later that morning.\n\n<b>Q: How much did you interact with Dan on your visit?</b>\n<b>A:</b> We only spoke twice, when I checked in on Sunday evening, and then out again in the morning. He was clearly bored and liked to gossip. He told me all about a guest called Jason who had been staying for a while; apparently he hadn't left his room for days. Dan seemed to think he was using his room as a discreet location to run a dodgy business on the dark web. I told him that sounded far-fetched, but then he showed me a pile of cash as if it were proof. He then alluded to the fact that he was blackmailing the guy. Looked pretty pleased with himself. \n\n<b>Q: Were you aware of another guest that arrived after you that evening, and left before you in the morning?</b>\n<b>A:</b> Yes, but only because they were in the room next to mine and I heard their room door shut and their truck's engine start in the morning. It sounded like he had someone else with him, but I can't be sure of that. "
+        },
+        {
+            "key": "Case_6_suspect_3_name",
+            "value": "Colt Hayden"
+        },
+        {
+            "key": "Case_6_suspect_3_icon",
+            "value": "ColtHayden"
+        },
+        {
+            "key": "Case_6_suspect_3_age",
+            "value": "35"
+        },
+        {
+            "key": "Case_6_suspect_3_occupation",
+            "value": "Victim's motel guest"
+        },
+        {
+            "key": "Case_6_suspect_3_statement_page_1",
+            "value": "<b>Q: When did you arrive at the Motel on Sunday, and how long did you stay?</b>\n<b>A:</b> I checked in late on Sunday evening around 10 p.m., and then left early the next morning, before 8 a.m. Just a pit stop.\n\n<b>Q: We have witnesses who say that you were with someone that night?</b>\n<b>A:</b> That would be none of your business.  But as I'm in a good mood, I’ll indulge you. Yes, I met up with my girlfriend, and we went to Motel Little to spend the night together. We do it regularly and keep it secret because I am married and have a family.   \n\n<b>Q: Was Dan aware of what you were doing?</b>\n<b>A:</b> I didn't think so. My girlfriend usually stays in the car when I check in, and then we make an early exit to avoid people seeing us. But Dan confronted me about it that morning and asked me for money in order for him to stay quiet. Obviously, I wasn't going to pay him; I just laughed and said I'd take my business elsewhere. It would have affected him more than me; looking at the state of the motel, I doubt he could afford to lose regular paying guests. \n\n<b>Q: What do you know about the other guests staying that night?</b>\n<b>A:</b> When I checked in, Dan mentioned a woman who’d arrived that night, not long before us. Apparently she was on a road trip heading North. Dan didn't believe her, though; he seemed to think she was up to something suspicious. But he said that about everyone who stayed; he loved a conspiracy theory. He also has a guest who supposedly runs an underground cyber warfare company from his room! That clown was deluded; I’m not surprised he ended up being killed with the trash he was talking about people.\n\n"
+        },
+        {
+            "key": "Case_6_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_6_case_newevidence",
+            "value": "Boss,\n\nQuick one. I followed up on Jason's claim that he hadn't left his room in three days. I can confirm the local fast food guys had delivered to Jason in his room three meals a day for the three days before the victim's death. However, that doesn't mean he didn't leave his room at all to move around the motel premises.\n\nDetective Looper"
+        },
+        {
+            "key": "Case_6_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%><b>Colt<b> tells us he left the motel around 8 a.m. that morning. This is confirmed by Haley, who was in the room next to his and heard him leave. Considering Haley spoke to the victim when she subsequently checked out after Colt had left, Colt could not have been the killer.</indent>\n\n- <indent=8%><b>Jason<b> tells us he had been in his room for the 3 days prior to the Police bringing him in for questioning. This is verified by him having fast food delivered to his room for all his meals, and is further confirmed by Haley, who says Dan mentioned this strange behavior to her when she arrived. Considering this, Jason could not have been the killer at Bushmill Park the day before, especially as the incident occurred 100 miles away and Jason did not know how to drive. This conclusion also removes the possibility of him being a copycat killer, as we know from the police report that it was the same weapon used at both crime scenes.</indent>\n\n- <indent=8%><b>Haley<b> arrived at the motel the same day as the Party Hat Killer’s triple homicide. We learn that she had been celebrating a birthday with friends that day, which might explain why the victims in the park were wearing party hats, and why she might have had party hats with her at the motel.</indent>\n\n- <indent=8%><b>Haley<b> tells us that she was staying at the motel as she travelled North to go home. However, we know from the Police Report that she was picked up for questioning from a diner 115 miles south of the Motel. She lied about the direction she was heading, which coincidentally was away from the triple homicide crime scene.</indent>\n\n- <indent=8%><b>Haley<b> tells us she left Motel Little shortly before 9 a.m. on Monday morning, and had spoken with Dan as she checked out. Considering the time frame of death is between 7 and 9 a.m., this leaves limited (or no) time for anyone else to have committed the crime, even if there were other people at the Motel.</indent>"
+        },
+        {
+            "key": "Case_6_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nI’ve not been well recently. It sounds strange, but I'm certain all my ex-partners from the last 20 years have been stalking me. It messed with my head and caused panic attacks. I even bought myself a gun for protection. On Sunday, it was my 40th birthday, and a few of my best friends arranged to meet me in the park to celebrate and take my mind off things. But instead they turned it into an intervention. They said I was struggling mentally and needed help; they planned to take me into a psychiatric hospital that day, and even tried to restrain me. Obviously, I didn't let them. They were clearly in cahoots with my exes, so I used the gun I had bought to defend myself.  The idea of me being a calculated serial killer with a calling card is crazy. The party hats just happened to be there at my birthday, and it was a good way to lighten the mood after I’d killed all my friends.  \n\nAfter escaping on the highway, I came to Motel Little, and Dan sorted me a room. Unfortunately, the next morning, as Dan was cleaning out the bins, he found the party hats I had tried to dispose of. Having seen the news that morning about the murders the day before, he must have put two and two together, because when I checked out, he was wearing one of the hats and made a comment that suggested he knew what I had done. I laughed it off at first, but then he got serious and said that I needed to pay him $20,000 or he would go to the police. He left me with no choice but to kill him too."
+        }
+    ]
+}

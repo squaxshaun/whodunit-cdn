@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_51_case_title",
+            "value": "BREAKING POINT"
+        },
+        {
+            "key": "Case_51_case_subtitle",
+            "value": "A failed bungee jump leads to a group of friends being investigated for foul play. "
+        },
+        {
+            "key": "Case_51_case_cover_bg",
+            "value": "BREAKING_POINT"
+        },
+        {
+            "key": "Case_51_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_51_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_51_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_51_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_51_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_51_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_51_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_51_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_51_daily_news_headline",
+            "value": "FATAL TRAGEDY AT<br> HOLLOW POINT"
+        },
+        {
+            "key": "Case_51_daily_news_headline_image",
+            "value": "BREAKING_POINT"
+        },
+        {
+            "key": "Case_51_daily_news_page_1",
+            "value": "The county police office has made a statement confirming a fatal incident occurred in the early hours of Thursday morning at Hollow Point. The victim has been named as Doug Verzon (aged 20). A famous spot located at the deepest section of the County Canyon - Hollow Point is renowned for its scenic views of the surrounding mountains above and a dramatic 1500ft drop into the dark, rocky abyss below.   \n\nThe police kept their statement brief in a clear attempt not to disrupt the region's peak tourist season. What exactly happened is unknown at this time; however, rumours are that the incident involved a group of friends and a failed bungee jump. Considering Hollow Point, also known locally as ‘the drop zone ’, has a designated platform from which commercial bungee jumping takes place during tourist season, this intel rings true.\n\nLet's hope the Investigators have more facts than they are letting on; otherwise, a leap of faith may have to be taken in establishing exactly what went down on Thursday morning - other than the victim!\n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_51_victim_name",
+            "value": "Doug Verzon"
+        },
+        {
+            "key": "Case_51_victim_icon",
+            "value": "DougVerzon"
+        },
+        {
+            "key": "Case_51_victim_age",
+            "value": "20"
+        },
+        {
+            "key": "Case_51_victim_cod",
+            "value": "Blunt force trauma"
+        },
+        {
+            "key": "Case_51_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nEarly Thursday morning, a group of four young adults, all seasonal residents of the local adventure resort, gathered at Hollow Point to do an unregistered, out-of-hours bungee jump at dawn from the designated platform. The victim was the first of the group to attempt a jump. After going over the edge, with unwanted assistance from his peers, his safety equipment failed, and he fell to his death.\n\nInitial autopsy suggests the cause of death was the injuries sustained in falling from a great height. A full pathologist and crime scene forensic report is to follow. Negligence, or possibly even manslaughter, is likely to be found relevant in this death; however, the possibility of murder is also being investigated. \n\n<b>Discovery:</b>\n\nThe body was discovered at the bottom of the canyon directly below the jumping platform 1500 ft above. \r\n\n<b>Time of Death:</b>\n\nThe incident was witnessed by the victim's three friends, one of whom was filming it on their cell phone. The timestamp shows the victim fell to their death at 5:49 a.m.\n\n<b>Evidence Collected:</b>\n\n- <indent=8%>The 46-second-long cell phone video of the incident was taken by Jonny Blackshaw. It starts on the jumping platform. The four friends are gathered, and the victim is wearing a safety harness and is attached to the bungee. The three friends encourage the victim as he hesitantly looks over the edge. After a period of deliberating, the victim changes their mind and says they aren't going to do it. Some light-hearted taunting from the others before one of them, Ricky Merchant, steps towards the victim and pushes them over the edge. The words ‘leave him alone, you dumbass’ are heard from one of the other non-jumpers as this happens, right before the video ends.</indent>\n\n<b>Further Details:</b>\n\nThe three friends who were with the victim on the jumping platform that morning have been brought in for questioning. "
+        },
+        {
+            "key": "Case_51_suspect_1_name",
+            "value": "Johnny Blackshaw"
+        },
+        {
+            "key": "Case_51_suspect_1_icon",
+            "value": "JohnnyBlackshaw"
+        },
+        {
+            "key": "Case_51_suspect_1_age",
+            "value": "20"
+        },
+        {
+            "key": "Case_51_suspect_1_occupation",
+            "value": "Victim's friend"
+        },
+        {
+            "key": "Case_51_suspect_1_statement_page_1",
+            "value": "<b>Q: What were you doing at Hollow Point on Thursday morning?</b>\n<b>A:</b> I took a few of my housemates up to do a bungee jump. We arrived at dawn; it’s a spectacular time to be up there. It also happens to be a quiet time of day, which was necessary as we weren't strictly allowed to be there. Although I work there as a bungee jump instructor, we were doing it off the books. \n\n<b>Q: Why didn't you want people to know?</b>\n<b>A:</b> To avoid paying! The cost of a jump is extortionate, especially for seasonal workers like us who aren't being paid much. So after being pestered for several weeks by the others, I finally agreed to take them up out of hours. It sounds reckless, but I had done it hundreds of times before with customers, and my attitude was always safety first. But that didn't mean we couldn't have fun.\n\n<b>Q: Can you talk us through what happened in your own words?</b>\n<b>A:</b> I had agreed to meet Doug and my little brother Cody up at Hollow Point just before dawn. I stayed at my girlfriend's place outside of the resort the night before and went up alone to get the platform and bungee ready before they arrived.  The plan was to move quickly and get them jumping as soon as it was light enough. They arrived in good time, but to my surprise had brought our other housemate Ricky with them. I wasn't overly happy about this; he could be a bit immature, and he didn't have the climbing experience the others did, but he was super keen to be there, so I went along with it. It was agreed that Doug should go first, so I got him ready and explained how it all worked before leaving him to take the leap of faith. I filmed the moment he went over on my cell phone, thinking it would be a fun memory for him to have.\n\n<b>Q: What exactly went wrong?</b>\n<b>A:</b> I honestly don’t know. I did everything required to ensure Doug was safe and secure. I double-checked the bungee myself before they arrived, and even had them bring my climbing harness from the apartment, which I knew was in good shape as they'd used it for abseiling only the evening before. We were in shock when we saw him continue falling. As soon as it happened, I called the emergency services.\n\n<b>Q: What was your relationship to Doug?</b>\n<b>A:</b> He was my friend and housemate for the summer. We met last season and did a lot of climbing together. He was sensible and would always err on the side of caution, which is what I like in a climbing partner. We agreed to come back again this year, and I brought my younger brother with me this time, who is also mad keen on climbing. The three of us got an apartment together. In the midst of everything, Ricky started living with us too; I’m not sure how, as he doesn't have any real interest in outdoor pursuits. But Doug seemed to enjoy his company, or at least the free drinks he could get us at the bar he worked at.\n\n<b>Q: Who is to blame for Doug's death?</b>\n<b>A:</b> I don't think anyone is to blame; freak accidents happen, especially when you take the risks we do. But ultimately I was the qualified instructor, and he was my responsibility. I must say, though, I was mortified when Ricky pushed him over the edge. He thought he was being funny, but it was reckless and way out of line! In fact, the more I think about it, the stranger his actions were."
+        },
+        {
+            "key": "Case_51_suspect_2_name",
+            "value": "Ricky Merchant"
+        },
+        {
+            "key": "Case_51_suspect_2_icon",
+            "value": "RickyMerchant"
+        },
+        {
+            "key": "Case_51_suspect_2_age",
+            "value": "19"
+        },
+        {
+            "key": "Case_51_suspect_2_occupation",
+            "value": "Victim's friend"
+        },
+        {
+            "key": "Case_51_suspect_2_statement_page_1",
+            "value": "<b>Q: Describe what happened at Hollow Point this morning?</b>\n<b>A:</b> Four of us met there to do a bungee jump. Jonny was an instructor and was letting us do it for free. We didn't have long, so Doug was quick to get strapped up and ready to go, but something went wrong, and he went straight to the bottom of the canyon.\n\n<b>Q: We’ve seen a video of the incident. Doug didn't jump off of his own volition, did he?</b>\n<b>A:</b> …you know I pushed him then? We were just having fun!  \n\n<b>Q: Doug didn't appear to be having fun when he went over the edge.</b>\n<b>A:</b> Listen, you gotta believe me - I didn't know that he was going to die! Jonny had prepped everything and said he was safe to go!  \n\n<b>Q: We understand that you weren't meant to be there this morning?</b>\n<b>A:</b> It’s a free country! Besides, Doug said I could join them. I’d been working the late shift at the bar last night and got back to the apartment just as Doug and Cody were getting ready to leave for Hollow Point. I didn't realize they had it planned, but Doug invited me to go along. I’m not a climber and don't normally get invited to join them on their adventures...but a bungee jump was the perfect thing we could all do together, no expertise required! Just strap up and throw yourself off the edge; even an idiot like me could do that!\n\n<b>Q: How was the dynamic between the group that morning?</b>\n<b>A:</b> It was good. We hadn't seen Jonny for a couple of days as he’d been busy with work and his girlfriend, but him and Cody being brothers meant they were in sync as always, and then Doug seemed in good spirits. Everyone was up for it, and I was excited to be involved!  \n\n<b>Q: Had there been any issues amongst the group recently?</b>\n<b>A:</b> No. The occasional disagreement, but nothing that didn't get straightened out. For example, Cody and Doug had a little falling out a couple of days ago, but they appeared to have gotten over it pretty quickly as they went climbing together the next day and seemed fine. Aside from that, it was chill when we all hung out together. Jonny had a girlfriend who lived locally, so she’d be over a lot, but they spent most nights at hers. That left me, Doug, and Cody to party. It was fun!"
+        },
+        {
+            "key": "Case_51_suspect_3_name",
+            "value": "Cody Blackshaw"
+        },
+        {
+            "key": "Case_51_suspect_3_icon",
+            "value": "CodyBlackshaw"
+        },
+        {
+            "key": "Case_51_suspect_3_age",
+            "value": "19"
+        },
+        {
+            "key": "Case_51_suspect_3_occupation",
+            "value": "Victim's friend"
+        },
+        {
+            "key": "Case_51_suspect_3_statement_page_1",
+            "value": "<b>Q: What happened at Hollow Point this morning?</b>\n<b>A:</b> You must have seen my brother Jonny’s video by now. Ricky shoved Doug off the edge of the platform, and despite being attached to a bungee, he didn't bounce back.  \n\n<b>Q: As far as you're aware, was Doug safe and secure to attempt a jump at the time he was pushed?</b>\n<b>A:</b> Yes, Jonny had arranged it all; he is meticulous when it comes to those sorts of things. I know what you're thinking, but it's not fair to pin the blame on him; he did his due diligence and made sure the harness was properly secure. If we are going to play the blame game, we have to point the finger at Ricky for being such a dumbass! Bungee or not, who the hell pushes someone against their will off of a 1500ft high platform?! It was totally out of order! \n\n<b>Q: Talk us through what you did up to the point Doug was pushed?</b>\n<b>A:</b> Doug, Ricky and I were up early and drove to Hollow Point together. Jonny was already there when we arrived and had prepped everything for the jump; all he needed was his harness, which we brought with us from the apartment. Ricky was a last-minute addition; he conveniently bumped into us as we left and was dead keen to come along. Doug gave in to his pestering and let him join us. I was too tired to make a fuss at that time in the morning. On getting there, we decided Doug would go first; he was an experienced climber, so it should have been relatively quick, but once on the edge he surprisingly got cold feet. I guess jumping off a clean edge into thin air is a totally different thing to climbing where there is an element of stability and control. \n\n<b>Q: How was your relationship with Doug?</b>\n<b>A:</b> I enjoyed climbing with him, but I wouldn't say I liked him outside of that. Jonny knew him from last season, and they got on well; on that basis, I was happy to live with him.\n\n<b>Q: What was your disagreement with Doug about a few days ago?</b>\n<b>A:</b> Not sure how you heard about that, but as you have, I’ll explain. He brought back a load of people from the bar one night to our apartment to continue the party. It was really late, and he knew I wouldn't be up for it yet he did it anyway, so I got pissed at him. Not that it made any difference. He became a bit of a sleaze bag after a few drinks, and it was clear he was trying to impress some girls. Not sure what that has to do with his death, though. \n\n<b>Q: It doesn't necessarily. We are simply building a picture of the surrounding circumstances.</b>\n<b>A:</b> If you’re trying to create a picture of animosity between Doug and me, then you're wasting your time; we were over that disagreement. The two of us went abseiling together the night before, which requires trust. I wouldn't have done that if we weren't cool. You should take a closer look at whoever planted that seed in your heads; it sounds like someone is deflecting attention from themselves."
+        },
+        {
+            "key": "Case_51_guilty_suspect_id",
+            "value": "2"
+        },
+        {
+            "key": "Case_51_case_newevidence",
+            "value": "Boss,\n\nWe now have the full pathologist report; it confirms the initial thoughts on the cause of death and also specifies that the victim was otherwise fit and healthy before the incident. \n\nCrime scene forensics have come through with analysis of the safety equipment. They verify there was no issue with the bungee and that it had been securely attached to the victim. However, they have confirmed it was the victims harness that failed when under strain at the bottom of the jump. An expert's opinion states the failure of the harness was not the result of usual wear and tear, and that it had been subtly weakened at a specific point to ensure it broke at the crucial recoil moment of the jump. They state that only someone with a good knowledge of how such safety equipment works could have tampered with it in such a manner.\n\nDetective Cord"
+        },
+        {
+            "key": "Case_51_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The Additional evidence proves the death was a result of foul play. The killer in this case required good knowledge of the harness in order to tamper with it, and access to it prior to the event. Jonny and Cody both reference the harness being used the evening before for abseiling, meaning the sabotage must have occurred that night between the abseil and the early morning bungee jump.</indent>\n\n- <indent=8%>Knowing this, we can remove <b>Jonny<b> as a suspect, as he wasn't part of that abseil and didn't stay at the apartment that night, having spent it at his girlfriend's place instead. He only saw the harness for the first time that morning at Hollow Point. To avoid being seen, the group acted fast upon arriving at Hollow Point and proceeded with Doug's jump straight away, leaving Jonny no time to tamper with it.</indent>\n\n- <indent=8%><b>Ricky<b> can be removed as a suspect for the same reason; he was working that night and only returned to the apartment where the harness was as the others were leaving for Hollow Point. His alibi is further supported by the fact that he is not a climber and is therefore unlikely to have had the expertise required to tamper with the harness.</indent>\n\n- <indent=8%><b>Cody<b> is the only suspect who meets both requirements to be the killer. As an experienced climber, he would have the necessary knowledge, and having been at the apartment that night, he had the opportunity to do so. The fact that he refers to the harness being ‘properly secured’ during his interview, in an attempt to protect his brother, is highly suspicious, as it implies he knows it was the issue, something that isn't known until the crime scene analysis comes through afterwards. </indent>"
+        },
+        {
+            "key": "Case_51_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nHe picked the wrong brothers to mess with! For several weeks, I had seen Doug continually hitting on Jonny’s girlfriend. At first it was just annoying, and she wasn't into it. But he only ever did it when Jonny wasn't around, and he persisted in doing it more and more. I noticed it happening again recently, and after supplying her with a few drinks, she seemed to come round to his advances. I don't know for sure if he’d put anything in her drinks, but I blocked anything from happening that night and decided enough was enough! He knew Jonny was in love with this girl and knew of his intentions to ask her to marry him. So what was he playing at? \n\nI asked him as much, the night before we were due to do the bungee jump. We’d just been abseiling together and had gone for a drink afterwards. To my surprise, he just shrugged me off. Apparently, he was just having fun and that she was ‘fair game ’. He then went on to suggest that it was none of my business who he pursued. I disagree; we Blackshaws look out for each other, and he was disrespecting us! So I made a plan to remove him from the equation before my brother noticed anything for himself. \n\nI knew we had the jump in the morning, and Jonny had asked me to bring his climbing harness we’d used that evening with us. I spent that night weakening it in a way that wasn't immediately noticeable, but meant it would give way ‘naturally’ when put under pressure. The plan was to make his death look like a freak accident.\n\nObviously, it was crucial that Doug jumped first that morning, so I had to subtly convince everyone that he should, based on the fact that he was experienced and we needed to be fast. Everything was going to plan until Doug got cold feet. I have never been more relieved to see someone do something so stupid as Ricky when he pushed Doug over the edge. If he hadn't done that, there was no telling who was going to use the harness next. Ultimately, my plan worked, but clearly it wasn't as clever as I thought it was. "
+        }
+    ]
+}

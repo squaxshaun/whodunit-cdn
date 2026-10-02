@@ -1,0 +1,156 @@
+{
+    "items": [
+        {
+            "key": "Case_50_case_title",
+            "value": "SCARED TO DEATH"
+        },
+        {
+            "key": "Case_50_case_subtitle",
+            "value": "A tourist dies in suspicious circumstances whilst riding the world's scariest rollercoaster. "
+        },
+        {
+            "key": "Case_50_case_cover_bg",
+            "value": "SCARED_TO_DEATH"
+        },
+        {
+            "key": "Case_50_investigate_cost",
+            "value": "40"
+        },
+        {
+            "key": "Case_50_solved_xp",
+            "value": "100"
+        },
+        {
+            "key": "Case_50_unsolved_xp",
+            "value": "10"
+        },
+        {
+            "key": "Case_50_xp_silver_time",
+            "value": "600"
+        },
+        {
+            "key": "Case_50_xp_gold_time",
+            "value": "300"
+        },
+        {
+            "key": "Case_50_xp_award_bronze",
+            "value": "10"
+        },
+        {
+            "key": "Case_50_xp_award_silver",
+            "value": "20"
+        },
+        {
+            "key": "Case_50_xp_award_gold",
+            "value": "60"
+        },
+        {
+            "key": "Case_50_daily_news_headline",
+            "value": "PASSENGER DIES ON<br>WORLDS HIGHEST<br>ROLLERCOASTER"
+        },
+        {
+            "key": "Case_50_daily_news_headline_image",
+            "value": "SCARED_TO_DEATH"
+        },
+        {
+            "key": "Case_50_daily_news_page_1",
+            "value": "Fear Rider - the main attraction at the Wildlands Themepark - is under investigation after a customer, Nathan Northmore (age 32), died whilst on the ride. Widely considered one of the world's scariest rollercoasters, the ride, also nicknamed the ‘heart stopper ’, is feared by the victim's family to have actually caused him to suffer a fatal heart attack, bringing to life the phrase - scared to death! However, a public statement made by the authorities today suggests that the possibility of foul play has not yet been ruled out.   \n\nMr Northmore’s story is proof that the journey of life truly is a roller coaster. Having spoken with his family, it is understood he had recently recovered from a nearly fatal climbing accident which left him in a coma for several months. Having only recently learnt to walk again, they informed me that he had a new lease on life and wanted to experience more of the world, starting with the Yukon where his sister now lives. Irony’s cruel twist is that his newfound pursuit to live life to its fullest only led to his tragic end. \n\n<indent=8%><i>Sandra Feldman, Crime Reporter & Co-host of the Murderous Mysteries podcast.</i></indent>"
+        },
+        {
+            "key": "Case_50_victim_name",
+            "value": "Nathan Northmore"
+        },
+        {
+            "key": "Case_50_victim_icon",
+            "value": "NathanNorthmore"
+        },
+        {
+            "key": "Case_50_victim_age",
+            "value": "32"
+        },
+        {
+            "key": "Case_50_victim_cod",
+            "value": "Cardiac arrest"
+        },
+        {
+            "key": "Case_50_victim_page_1",
+            "value": "<b>Summary of Incident:</b>\n\nThe victim was travelling in Canada with his partner Alanna and friend Ross. The group had specifically gone to that area of the Yukon to visit the victim's sister, who lived locally. On Monday, August 12, the four of them went to the Wildlands Themepark, and at approximately 11:15 a.m. they rode the Fear Rider rollercoaster. The ride lasted approximately 120 seconds, and at the end the victim was found to be unconscious. Theme park medical responders were at the scene within minutes and declared the victim dead on site. \n\nThe pathologist's report confirms the victim's death was caused by cardiac arrest. Traces of illicit stimulants (cocaine) were found in the victim's system. Analysis shows the victim ingested a large quantity, and the side effects would have played a major part in causing his heart to fail. This discovery is considered suspicious, as the victim's family say it was not in his character to use drugs and that he was on a newfound health drive, having only recently recovered from a life-threatening accident.    \n\n<b>Discovery:</b>\n\nUpon the ride ending, the victim's entourage realized that he was not conscious and immediately called for help. \n\n<b>Time of Death:</b>\n\nThe victim was alive when he climbed onto the ride at 11:15 a.m. Approximately two minutes later, when the ride ended, he was dead.\n\n<b>Further Details:</b>\n\nThe three people the victim had entered the theme park and sat on the ride with have been brought in for questioning. "
+        },
+        {
+            "key": "Case_50_suspect_1_name",
+            "value": "Sally Northmore"
+        },
+        {
+            "key": "Case_50_suspect_1_icon",
+            "value": "SallyNorthmore"
+        },
+        {
+            "key": "Case_50_suspect_1_age",
+            "value": "34"
+        },
+        {
+            "key": "Case_50_suspect_1_occupation",
+            "value": "Victim's partner"
+        },
+        {
+            "key": "Case_50_suspect_1_statement_page_1",
+            "value": "<b>Q: How long have you been in a relationship with Nathan?</b>\n<b>A:</b> Twelve years. We celebrated our anniversary the week before his accident earlier this year. \n\n<b>Q: Did the accident affect your relationship?</b>\n<b>A:</b> Of course! No relationship can go through something so traumatic and intense without feeling the strain. The recovery process was long, but I was there every step of the way, and we pulled through and were stronger for it! That's why we decided to go travelling. Between the accident and his heart diagnosis, I decided we should embrace a fresh start and begin living our lives again.\n\n<b>Q: What made you choose Canada?</b>\n<b>A:</b> It was meant to be just the first stop of a two-month trip. Nathan’s estranged younger sister lived there, and I suggested that it would be a nice idea for him to try to make contact with her again, perhaps to build a relationship. Nathan agreed, knowing now how fragile life is. \n\n<b>Q: Why hadn't Nathan spoken to his sister for so long?</b>\n<b>A:</b> She was a troubled child and ran away from home when she was 16. After several years of no contact, the family found out that she was living in the Yukon and was mixed up in drugs! It had been nine years since she had responded to any of our attempts to contact her. To our surprise, when we reached out this time, she actually responded, inviting us to stay, almost as though she knew about what he had been through. It was nice of her to have us, but it was a little uncomfortable as she is clearly still using drugs. When we arrived at her house, we saw them lying around in random places, tragic, really.\n\n<b>Q: Ross is the third person you were travelling with, correct?</b>\n<b>A:</b> Yes, he decided to join us on the Canada part of the trip. Which was nice, if not a little surprising. He already spent a huge amount of time with us during Nathan's recovery, for which I will be forever grateful. To then tag along to our trip, I thought, was quite intense. Surely he needed a break from us!\n\n<b>Q: Whose idea was it to go to the Wildlands Themepark?</b>\n<b>A:</b> A combination of Nathan, Chloe and me. The guidebooks all mentioned it, and it was one of the few things his sister Chloe was keen to do with us. It’s meant to be one of the world's best roller coasters, so for me it seemed like the perfect way to start our journey of feeling alive again. How wrong I was.\n\n<b>Q: Can you talk us through the morning you were at the theme park?</b>\n<b>A:</b> Nathan and I arrived with Chloe when it opened at 10 a.m. Ross was staying at a hotel and arranged to meet us there but was running late. Within five minutes, Chloe had already stormed off! She’d offered us something that looked like homemade cake, which we politely turned down. Not because Nathan was being more health-conscious, but because we were about to go on a load of theme park rides and solid food seemed like a bad idea. But Chloe got offended by our rejection and stormed off in a dramatic fashion. Her reaction was irrational, and I remember thinking that maybe she was on a comedown or something.\n\n<b>Q: What happened after Chloe stormed off?</b>\n<b>A:</b> Nathan and I decided to crack on alone and go on some of the smaller rides while we waited for Ross. Eventually Chloe came back to find us; she was in a much better mood. She’d heard that the line for the roller coaster could get insanely long, and was keen for us to go join it, which made sense. We joined the line straight away; this was at 10:55 a.m., I remember, as I wanted to know exactly how long the line took. Ross arrived 5 minutes later with coffees for us all. We got onto the ride at 11:15 a.m. I sat next to Nathan, who suddenly became unusually anxious but also excited right before we set off. He held my hand the whole way around. I had no idea what had happened to him until we stopped. But I knew immediately then that he was gone."
+        },
+        {
+            "key": "Case_50_suspect_2_name",
+            "value": "Ross Everard"
+        },
+        {
+            "key": "Case_50_suspect_2_icon",
+            "value": "RossEverard"
+        },
+        {
+            "key": "Case_50_suspect_2_age",
+            "value": "31"
+        },
+        {
+            "key": "Case_50_suspect_2_occupation",
+            "value": "Victim's friend"
+        },
+        {
+            "key": "Case_50_suspect_2_statement_page_1",
+            "value": "<b>Q: How did you know Nathan?</b>\n<b>A:</b> We’ve been friends since college; I was the best man at his and Sally’s wedding. We were all very close.\n\n<b>Q: We understand you played a big part in Nathan’s recovery?</b>\n<b>A:</b> Being a physiotherapist, I understood what his injuries meant and how his rehabilitation process worked. So I helped however I could; that’s what friends are for, right? \n\n<b>Q: Why did you decide to join Nathan and Sally on their trip to Canada?</b>\n<b>A:</b> Well, it’s somewhere I’ve always wanted to go, for starters. But mostly, as Nathan was finally back to himself, I wanted to spend some quality time with him that wasn't in the hospital or helping him with rehab. We used to have so much fun together.\n\n<b>Q: How did Sally feel about you tagging along?</b>\n<b>A:</b> She seemed happy about it. At least that's the impression she gave me. We had grown close since Nathan's accident, especially when he was in the coma. She got really low at one point when it didn't look like he was going to make it. I was even considering asking her to move in with me just so she wasn't alone! I hate to think about how she is dealing with his death.\n\n<b>Q: We understand that you weren't staying with the others?</b>\n<b>A:</b> No, I stayed in a hotel in the nearest town. It felt intrusive to stay with his sister, considering their strained relationship. It turned out to be a good idea. When I joined them for dinner there the night before, I could see pouches of what looked like cocaine, and all sorts of other drugs lying around her house. She was clearly an active user with an addiction.\n\n<b>Q: Can you talk us through what happened the morning you were at the theme park?</b>\n<b>A:</b> I enjoyed a rare lie-in, which I didn't regret, but it did mean that I arrived nearly an hour later than we agreed. When I eventually joined them, they were five minutes into the line for Fear Rider. I brought coffee for everyone to distract from my tardiness, which went down well, especially with Nathan, who seemed to perk right up. He was shaking with excitement when we got onto the ride, and that’s despite the coffee being decaf - don't ask; Sally had said he was on a health drive. I don’t know what else to tell you. When the ride came to an end, I could sense something was wrong; Nathan and Sally weren't getting out of their seats. In fact, when I looked over, Nathan wasn't moving at all. Sally was holding his hand, white with shock and sobbing. An image I shall never forget. \n\n<b>Q: What about Chloe, how did she react to her brother's state?</b>\n<b>A:</b> She was high on adrenaline, and god knows what else!  She didn't seem to notice or even care what was going on until the paramedics arrived a minute or so later. Even when they were dealing with him, she didn't seem to comprehend the seriousness of the situation. I recall her saying that a bit of coke would sort him out.\n\n<b>Q: Have you any theories on what happened to Nathan?</b>\n<b>A:</b> People have been suggesting heart failure, which I must admit I find surprising as he was only 32. I appreciate his body has been through a lot recently, but a heart attack still seems unlikely."
+        },
+        {
+            "key": "Case_50_suspect_3_name",
+            "value": "Chloe Northmore"
+        },
+        {
+            "key": "Case_50_suspect_3_icon",
+            "value": "ChloeNorthmore"
+        },
+        {
+            "key": "Case_50_suspect_3_age",
+            "value": "25"
+        },
+        {
+            "key": "Case_50_suspect_3_occupation",
+            "value": "Victim's sister"
+        },
+        {
+            "key": "Case_50_suspect_3_statement_page_1",
+            "value": "<b>Q: How would you describe your relationship with your brother?</b>\n<b>A:</b> Fine. Didn't see much of him, to be honest. \n\n<b>Q: We understand you were seeing each other for the first time in years. Why so long?</b>\n<b>A:</b> I left home at 16 and never got round to going back. Typical that he goes and dies on me when I do finally see him!\n\n<b>Q: You don't sound too concerned about his death?</b>\n<b>A:</b> Would you rather I sat here blubbing away like he was important to me?! The truth is he wasn't! He pretended to be the concerned older brother, but if he genuinely cared about me, he wouldn't have let me leave home when I was 16. It was obvious I was struggling. \n\n<b>Q: If that's how you felt, why did you invite them to stay with you?</b>\n<b>A:</b> It had been so long I thought I'd make a little effort; besides, Sally was keen to go to Wildland’s while they were here, which I’d always wanted to go to. I regretted letting them stay, though; all they banged on about was how he’d had an accident and how hard their lives had been recently. How about my shitty life, which he could have prevented?! No, it was clear what they thought of me; they had even told their friend Ross to book a hotel for the night, apparently my house wasn't good enough for him! \n\n<b>Q: We understand he came for dinner at yours the evening before?</b>\n<b>A:</b> Yes. Which was weird in itself. He was travelling with them like an awkward third wheel. It was crazy obvious he fancied Sally. But I think the other two were oblivious to it.\n\n<b>Q: Talk us through what happened at Wildlands the day of your brother's death?</b>\n<b>A:</b> What do you want me to say? We went on the Fear Rider rollercoaster, and he couldn't deal with it. Pathetic really.  \n\n<b>Q: What happened before the rollercoaster?</b>\n<b>A:</b> Me, Nathan, and Sally got there at 10 a.m. when it opened, as agreed. We waited together for five minutes before splitting up to check the place out. Ross eventually joined us in the line for the rollercoaster and had brought coffee, which I was pretty happy about. By the time we got onto the Fear Rider, expectations were high; Nathan in particular was pumped up. He was hyperventilating like an overexcited child going on a ride for the first time. I remember thinking he needed to chill.\n\n<b>Q: We understand you offered some food to Nathan and Sally that morning?</b>\n<b>A:</b> That’s right, theme parks are usually a rip-off for food, so I brought some cake for people, and offered it around when we first arrived and were waiting for Ross. I thought they'd be pleased, as they'd not had any breakfast at my house and hadn't brought any of their own food with them. But instead they just turned their noses up, as if I’d laced it with something! It was clear how little they thought of me, and I was pissed off, so I left them to it for a while to calm down, which I did. I went and found them again at 10:50 a.m., having realized that we needed to get a move on for the rollercoaster before the lines got too long! Why are you bothering me about all this anyway?! \n\n<b>Q: We are trying to establish what exactly happened to your brother. What do you think?</b>\n<b>A:</b> No idea. But if you're looking for someone to blame for Nathan's death, then you should look at Sally; it was her idea that we were even there that day!"
+        },
+        {
+            "key": "Case_50_guilty_suspect_id",
+            "value": "1"
+        },
+        {
+            "key": "Case_50_case_newevidence",
+            "value": "Boss, \n\nThe Pathologist has concluded that the cocaine in the victim's system had been swallowed, meaning there would have been a delayed reaction of between 30-60 minutes before the victim would have felt its effects. \n\nWe looked into the victim's medical history and found out that during their recovery period from the climbing accident, they were diagnosed with an underlying heart condition, Tachycardia - aka fast heart rate. The doctor had sent the test results to the victim, confirming they should avoid stress-inducing situations. Knowing this, it’s no surprise that the rollercoaster combined with cocaine caused his heart to fail!\n\nDetective Rush"
+        },
+        {
+            "key": "Case_50_guilty_evidence_page_1",
+            "value": "<size=200%><b>Key Evidence</b></size><br>\n- <indent=8%>The manner in which the victim ingested the drugs meant a delayed reaction time of 30-60 minutes before any side effects were felt. All three testimonies refer to the victims' behavior changing as they got onto the rollercoaster at 11:15 p.m. (Sally - ‘anxious’ / Ross - ‘visibly shaking’, Chloe - ‘hyperventilating’). Knowing the drug's side effects started then allows us to establish a time frame in which the victim swallowed the fatal dose - between 10:15 a.m. and 10:45 a.m.</indent>\n\n- <indent=8%>We are told it would have been out of character for the victim to consume illicit drugs, and that he was being actively health-conscious, so we can be confident he didn't knowingly take them himself and was fed them without his knowledge. Knowing from Chloe that the victim and Sally arrived at the park without any of their own food or drink, we can rule out premeditated sabotage of anything consumable before the theme park.</indent>\n\n- <indent=8%>With the established time frame in mind, we can remove <b>Ross<b> as a suspect, as he had not seen the victim that day before arriving at the theme park and meeting the others at 11 a.m., five minutes after they joined the rollercoaster line.</indent>\n\n- <indent=8%><b>Chloe<b> tells us that she separated from the victim and Sally within five minutes of arriving at the theme park at 10 a.m., and then didn't see them again until 10:50 a.m. when she wanted them to join the rollercoaster line. These timings, which are supported by Sally’s version of events, mean Chloe was not with the victim during the established time frame. She can be removed as a suspect.</indent>\n\n- <indent=8%><b>Sally<b> is incriminated as she is the only suspect who was with the victim for any of the established time frame in which the fatal drugs were consumed. Why the victim himself was willing to go on the rollercoaster, considering his recent heart diagnosis, is questionable. Either he was open to taking the risk (unlikely), or he was not aware of the underlying condition. The fact that Sally refers to his ‘heart condition’ confirms that she is aware of the diagnosis and the need for him to avoid stressful situations, making her eagerness to go on the rollercoaster with him highly suspicious.</indent>"
+        },
+        {
+            "key": "Case_50_guilty_confession_page_1",
+            "value": "<size=200%><b>Confession</b></size><br>\nWhen Nathan was in his coma and things didn't look good, I had to seriously consider life without him. I was forced to live on my own for nearly two months, and to my surprise I found myself accepting the reality quite easily. In fact, I was getting excited by it - the money, the freedom! You must understand, I would never have asked for Nathan to be taken away from me, but if forced, I was able to see the positive in the situation. A new life for myself, and a genuine fresh start that wasn't limited to him or his career. I got so swept away by the idea that when Nathan did eventually wake from his coma, I found myself disappointed. The realization that our current life would become even more restricted than before due to his injuries was demoralizing. It felt like the new life I had accepted and all its promises were taken away before it had begun. \n\nWhen he came home, his struggle with trauma and the rehab put a huge strain on our relationship. I became claustrophobic in the situation and started having these dark thoughts, which provided morbid relief and pushed me towards the new life I had imagined for myself. But it wasn't until the doctor sent us a diagnosis of Nathan's heart condition that I saw a way out! I read the letter first and kept the news of the condition to myself, knowing I could use it to my advantage. \n\nI read about the world's scariest rollercoaster in Canada, not far from where we knew his estranged sister was living. I knew that if I could get Nathan there, it would be the perfect stress-fuelled situation to encourage his heart to give up naturally. So I came up with the plan to go visit her, and Nathan was easily persuaded by the idea.\n\nOn the day itself, I got really nervous. I was desperate for the plan to work. Having seen little bags of cocaine lying around Chloe's house, I decided it wouldn't hurt to encourage things along by slipping Nathan some before the rollercoaster. So after we got to the theme park and Chloe stormed off, leaving me and Nathan alone, I bought him a drink and mixed the powder into it. He had consumed it long before Chloe returned. In hindsight, it was a desperate move that was always going to come back to haunt me. Somehow I had persuaded myself that if the drugs were noticed, they would be traced back to his sister, not me. "
+        }
+    ]
+}
